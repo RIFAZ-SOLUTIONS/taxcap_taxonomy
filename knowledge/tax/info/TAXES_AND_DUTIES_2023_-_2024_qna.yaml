@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 18,000/= each building. iii) For each storey in a storey building Tshs. 90,000/= | 1. Property Rate - This will be administered by Local Government Authorities with effect from 01/01/2024. Property rate collection coverage area: Cities, Municipal and Town Council Property Rate is charged as follows: - (a) In City Councils, Municipal Councils and Town Councils i) Ordinary building which is in actual occupation: Rate is Tshs 18,000/= ii) Ordinary building which is in actual occupation in a plot with more than one: Rate is Tshs. 18,000/= each building. iii) For each storey in 2ps. a storey building Tshs. 90,000/= | 1. Property Rate - This will be administered by Local Government Authorities with effect from 01/01/2024. Property rate collection coverage area: Cities, Municipal and Town Council Property Rate is charged as follows: - (a) In City Councils, Municipal Councils and Town Councils i) Ordinary building which is in actual occupation: Rate is Tshs 18,000/= ii) Ordinary building which is in actual occupation in a plot with more than one: Rate is Tshs. 18,000/= each building. 2ps. 1ps. 90,000/= | 1. Property Rate - This will be administered by Local Government Authorities with effect from 01/01/2024. Property rate collection coverage area: Cities, Municipal and Town Council Property Rate is charged as follows: - (a) In City Councils, Municipal Councils and Town Councils i) Ordinary building which is in actual occupation: Rate is Tshs 18,000/= ii) Ordinary building which is in actual occupation in a plot with more than one: Rate is Tshs. 18,000/= each building. iii) For each storey in a storey building Tshs. 90,000/= | | 29. | A: Gaming Tax 2ps. 3ps. 4ps. 5ps. 6ps. 7ps. | A: Gaming Tax 8ps. 9ps. 10ps. 11ps. 12ps. | A: Gaming Tax 13ps. 14ps. 15ps. 16ps. 17ps.
+    questions_and_answers:
+      - question: |
+          What entity will administer the Property Rate?
+        answer: |
+          The Property Rate will be administered by Local Government Authorities.
+      - question: |
+          When will the Property Rate come into effect?
+        answer: |
+          The Property Rate will come into effect on 01/01/2024.
+      - question: |
+          What is the Property Rate for an ordinary building in actual occupation?
+        answer: |
+          The rate for an ordinary building in actual occupation is Tshs 18,000.
+      - question: |
+          How is the Property Rate calculated for multiple buildings on the same plot?
+        answer: |
+          For multiple buildings on the same plot, the rate is Tshs 18,000 per building.
+      - question: |
+          What is the Property Rate for each storey in a storey building?
+        answer: |
+          The rate for each storey in a storey building is Tshs 90,000.
+  - context: |
+      1ps. 1ps. The total income of non-resident individual is chargeable at the rate of 30% An employee with secondary employment is chargeable at the rate of 30%. - 4 Submission of return and Payment of amount withheld from employment should be within 7 days after the month of deduction. | 6.0 | The rates of income tax for a resident individual engaged in transportation of passengers or goods | The rates of income tax for a resident individual engaged in transportation of passengers or goods | |-------|------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------| | | Class 2ps. A : Passenger Service Vehicles | Class A : Passenger Service Vehicles 3ps. | | | Number of Passengers 4ps. | Tax Payables 5ps. | | | Up to 15 6ps. | 250,000 7ps. | | | 16 to 25 8ps. | 550,000 9ps. | | | 26 to 45 10ps. | 1,100,000 11ps. | | | 46 to 65 12ps. | 1,600,000 13ps. | | | Above 65 14ps. | 2,200,000 15ps. | | | Class B: Tour Service Vehicles | Class B: Tour Service Vehicles 16ps. | | | Number of Tourist 17ps. | Tax Payable 18ps. | | | Up to 15 19ps. | 650,000 20ps. | | | 16 to 25 21ps. | 900,000 22ps. | | | 26 to 45 23ps. 24ps. 25ps. | 1,300,000 26ps. 27ps. 28ps. | |-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | | 46 to 65 29ps. 30ps. 31ps. | 1,800,000 32ps. 33ps. 34ps. | | | Above 65 35ps. 36ps. 37ps. | 2,400,000 38ps. 39ps. 40ps. | | 41ps. | Class C: Goods Carrying Vehicles 42ps. 43ps. | Class C: Goods Carrying Vehicles 44ps. 45ps. 46ps. | | | Capacity (Tonnes) 47ps. 48ps. 49ps. | Tax Payable 50ps. 51ps. 52ps. | | | Less than 1 53ps. 54ps. 55ps. | 250,000 56ps. 57ps. 58ps.
+    questions_and_answers:
+      - question: |
+          What is the income tax rate for a non-resident individual?
+        answer: |
+          The total income of a non-resident individual is chargeable at the rate of 30%.
+      - question: |
+          By when must an employer submit returns and pay the withheld employment amount?
+        answer: |
+          Submission of the return and payment of the amount withheld from employment should be made within 7 days after the month of deduction.
+      - question: |
+          What is the income tax payable for a resident individual operating a passenger service vehicle with 16 to 25 passengers?
+        answer: |
+          The tax payable for a passenger service vehicle with 16 to 25 passengers is 550,000.
+      - question: |
+          What is the tax payable for a tour service vehicle carrying 46 to 65 tourists?
+        answer: |
+          For a tour service vehicle carrying 46 to 65 tourists, the tax payable is 1,800,000.
+      - question: |
+          How much tax is charged for goods carrying vehicles with less than 1 tonne of capacity?
+        answer: |
+          Goods carrying vehicles with less than 1 tonne of capacity are charged 250,000 in tax.
+  - context: |
+      1ps. 1ps. as per Finance Act 2020, 2021, 2022, 2023 | (c) VAT Deferment To defer payment of value added tax on imported or locally manufactured capital goods, provided that, deferment on the imported capital goods shall cease to apply on 30th day of June, 2026. Note that, Other exemptions are provided for under the Value Added Tax Act, 2014 read together with its subsequent amendments. as per Finance Act 2020, 2021, 2022, 2023 | | 2ps. 3ps. 4ps. 5ps. | VAT registration threshold Zanzibar □ Taxable turnover exceeding Tshs 50 million per annum. 6ps. 7ps. 8ps. | 9ps. 10ps. 11ps. 12ps. | | 13ps. 14ps. 15ps. 16ps. | VAT Rates in Zanzibar 17ps. 18ps. 19ps. | VAT Rates in Zanzibar 20ps. 21ps. 22ps. 23ps. | 24ps. 25ps. 26ps. 27ps. | | 28ps. 29ps. 30ps. | Supply of taxable goods and services in Zanzibar 31ps. 32ps. 33ps. 34ps. | Supply of taxable goods and services in Zanzibar 35ps. 36ps. 37ps. | 15% 38ps. 39ps. 40ps. 41ps. | | 42ps. 43ps. 44ps. 45ps. | Importation of taxable goods and services into Zanzibar 46ps. 47ps. 48ps. | Importation of taxable goods and services into Zanzibar 49ps. 50ps. 51ps. | 15% 52ps. 53ps. 54ps. 55ps. | | 56ps. 57ps. 58ps. 59ps. | Export of goods and certain services from Zanzibar 60ps. 61ps. 62ps. | Export of goods and certain services from Zanzibar 63ps. 64ps. 65ps. | 0% 66ps. 67ps. 68ps. 69ps. | | 70ps. 71ps. 72ps. 73ps. | VAT Returns and Payments: 74ps. 75ps. 76ps. 77ps. | VAT Returns and Payments: 78ps. 79ps. 80ps. | VAT Returns and Payments: 81ps. 82ps. 83ps. 84ps. | | 85ps. 86ps. 87ps. | VAT on Local Supplies: Due 88ps.
+    questions_and_answers:
+      - question: |
+          What is the VAT deferment provision for imported or locally manufactured capital goods under the Finance Acts 2020-2023?
+        answer: |
+          The VAT payment on imported or locally manufactured capital goods can be deferred, but deferment on imported capital goods will cease to apply after June 30, 2026.
+      - question: |
+          What is the VAT registration threshold for taxable turnover in Zanzibar?
+        answer: |
+          In Zanzibar, the VAT registration threshold is a taxable turnover exceeding Tshs 50 million per annum.
+      - question: |
+          What are the VAT rates for the supply of taxable goods and services in Zanzibar?
+        answer: |
+          The VAT rate for the supply of taxable goods and services in Zanzibar is 15%.
+      - question: |
+          What is the VAT rate for the export of goods and certain services from Zanzibar?
+        answer: |
+          The VAT rate for the export of goods and certain services from Zanzibar is 0%.
+      - question: |
+          When is VAT on local supplies in Zanzibar due?
+        answer: |
+          VAT on local supplies in Zanzibar is due according to the provisions outlined under VAT Returns and Payments regulations.
+  - context: |
+      1ps. 1ps. <!-- image --> TANZANIA REVENUE AUTHORITY TAXES AND DUTIES AT A GLANCE 2023/2024 <!-- image --> <!-- image --> ## Vision 'A Trusted Revenue Administration for SocioEconomic Development' ## Mission 'We Make It Easy to Pay Tax and Enhance Compliance for Sustainable Development' ## Themes *Operational Excellence * * Taxpayers' Engagement * * Automation * * Innovation* ## Core Values PROFFESSIONALISM, INTERGRITY, TRUSTWORTHY AND ACCOUNTABILITY <!-- image --> ## TAXES AND DUTIES AT A GLANCE YEAR 2023/2024 July, 2023 | | A. 2ps. 1ps. <!-- image --> TANZANIA REVENUE AUTHORITY TAXES AND DUTIES AT A GLANCE 2023/2024 <!-- image --> <!-- image --> ## Vision 'A Trusted Revenue Administration for SocioEconomic Development' ## Mission 'We Make It Easy to Pay Tax and Enhance Compliance for Sustainable Development' ## Themes *Operational Excellence * * Taxpayers' Engagement * * Automation * * Innovation* ## Core Values PROFFESSIONALISM, INTERGRITY, TRUSTWORTHY AND ACCOUNTABILITY <!-- image --> ## TAXES AND DUTIES AT A GLANCE YEAR 2023/2024 July, 2023 | | A. DIRECT TAXES 2ps. 3ps. 4ps. | RATES | RATES | |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------------| | No. | TAX SOURCE 5ps. 6ps. 7ps. | RESIDENT | NON RESIDENT | | 1.0 | Corporation Tax: 8ps. 9ps. 10ps. | Corporation Tax: | Corporation Tax: | | (a) | Tax rate on total income of a corporation 11ps. 12ps. | 30% | 30% 13ps. | | (b) | Corporations with perpetual unrelieved losses for 3 consecutive years excluding corporation conducting agricultural business, provision of health and education services 14ps. | 0.5% of annual turnover | N/A | | (c) | Newly listed corporation in the Dar es Salaam Stock Exchange (DSE), with at least 30% of its equity ownership issued to the public for three consecutive years from the date of listing 15ps. | 25% | 25% 16ps.
+    questions_and_answers:
+      - question: |
+          What is the vision of the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The vision of the Tanzania Revenue Authority is 'A Trusted Revenue Administration for SocioEconomic Development.'
+      - question: |
+          What are the core values of the Tanzania Revenue Authority?
+        answer: |
+          The core values of the Tanzania Revenue Authority are Professionalism, Integrity, Trustworthiness, and Accountability.
+      - question: |
+          What tax rate applies to the total income of a corporation in Tanzania for both residents and non-residents?
+        answer: |
+          The tax rate applicable to the total income of a corporation for both residents and non-residents is 30%.
+      - question: |
+          What special tax rate applies to newly listed corporations on the Dar es Salaam Stock Exchange with at least 30% public equity ownership?
+        answer: |
+          Newly listed corporations on the Dar es Salaam Stock Exchange with at least 30% public equity ownership are taxed at a rate of 25% for three consecutive years from the date of listing.
+      - question: |
+          What is the tax rate for corporations with perpetual unrelieved losses for three consecutive years, excluding those in agriculture, health, or education services?
+        answer: |
+          Corporations with perpetual unrelieved losses for three consecutive years (excluding those in agriculture, health, or education services) are taxed at 0.5% of their annual turnover.
+  - context: |
+      1ps. 1ps. | 10% 2ps. | 20% 3ps. 4ps. | | | ii) Land or Buildings for a person who has no records of cost of asset. It is charged on agreed price or approved value of asset whichever is greater. 15 million or less b) Agricultural land used for at least 2 of the 3 years prior to realisation - Market value of less than Tshs 10 million c) Shares - DSE shares held by a person with shareholding less than 25% d) Amounts derived from gain on realisation or transfer of mineral rights and mineral 5ps. information to a partnership entity formed between the Government and an investor, or transfer of free carried interest shares, or transfer of shares to the Government through the | a) Private residence that has been owned and lived in for three or more - Gains of Tshs. 2ps. 1ps. It is charged on agreed price or approved value of asset whichever is greater. 15 million or less b) Agricultural land used for at least 2 of the 3 years prior to realisation - Market value of less than Tshs 10 million c) Shares - DSE shares held by a person with shareholding less than 25% d) Amounts derived from gain on realisation or transfer of mineral rights and mineral information to a partnership entity formed between the Government and an investor, or transfer of free carried interest shares, or transfer of shares to the Government through the 2ps. | a) Private residence that has been owned and lived in for three or more - Gains of Tshs. 3ps. 1ps. | 3% 2ps. | N/A 3ps. | | b) | Petroleum or mineral rights 4ps. 5ps. 6ps. 7ps. 8ps. 9ps. | 30% 10ps. 11ps. 12ps. 13ps. 14ps. | 30% 15ps. 16ps. 17ps. 18ps.
+    questions_and_answers:
+      - question: |
+          What is the valuation method used for land or buildings when the owner has no records of the asset's cost?
+        answer: |
+          The asset is valued based on the agreed price or the approved value of the asset, whichever is greater.
+      - question: |
+          What qualifies agricultural land for a specific exemption in the context described?
+        answer: |
+          The agricultural land must have been used for at least 2 of the 3 years prior to realisation and must have a market value of less than Tshs 10 million.
+      - question: |
+          What is the exemption criterion for shares listed on the Dar es Salaam Stock Exchange (DSE)?
+        answer: |
+          DSE shares are exempt if they are held by a person with a shareholding of less than 25%.
+      - question: |
+          What types of transactions are associated with gains from mineral rights or mineral information transfers?
+        answer: |
+          These include transfers to a partnership entity formed between the Government and an investor, transfers of free carried interest shares, or transfers of shares to the Government.
+      - question: |
+          What conditions apply to a private residence for specific gain exemptions?
+        answer: |
+          The private residence must have been owned and lived in by the person for three or more years.
+document_outline: |
+  **Document Outline:**  
+  This document provides an overview of the Tanzania Revenue Authority's tax regulations for 2023/2024, featuring its vision, mission, core themes, and values, along with detailed descriptions and rates of various taxes and duties applicable to both residents and non-residents, including corporation tax and specific incentives for certain industries.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - TAXES_AND_DUTIES_2023_-_2024.md

@@ -1,0 +1,105 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Value Added Tax (Registration Of Non-Resident Electronic Service Suppliers) GN NO 478Q (Contd) ## THE UNITED REPUBLIC OF TANZANIA ## Supplement No. 25 1 st July, 2022 ## SPECIAL SUPPLEMENT to the Special Gazette of the United Republic of Tanzania No.25. Vol.103 dated 1 st July, 2022 Printed by the Government Printer, Dodoma by Order of Government THE GOVERNMENT NOTICE NO. 478Q published on 01/07/2022 ## THE VALUE ADDED TAX ACT, (CAP. 148) \_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_ (Made under sections 64(5) and 94) THE VALUE ADDED TAX (REGISTRATION OF NON-RESIDENT ELECTRONIC SERVICE SUPPLIERS) REGULATIONS, 2022 ## ARRANGEMENT OF REGULATIONS ## Regulation Title - 1. Citation and commencement. - 2. Interpretation. - 3. Scope 2ps. of electronic services. - 4. Applications for tax registration. - 5. Place of supply. - 6. Manner of submitting returns and remittance of taxes. - 7. Correction of error. - 8. Claim of input tax. - 9. Mode of payment and currency. - 10. Exemption from using electronic fiscal devise. - 11. Penalties. - 12. Interests. - 13. Offences. 2ps. 1ps. - 11. Penalties. - 12. Interests. - 13. Offences. \_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_\_ ## GN NO 478Q (Contd) THE GOVERNMENT NOTICE NO. 478Q published on 01/07/2022 ## THE VALUE ADDED TAX ACT, (CAP. 148) \_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_ (Made under sections 64(5) and 94) ## THE VALUE ADDED TAX (REGISTRATION OF NON-RESIDENT ELECTRONIC SERVICE SUPPLIERS) REGULATIONS, 2022 Citation and commencement 1. These Regulations may be cited as the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 and shall come into operation on 1 st July, 2022. Interpretation 2. In these Regulations, unless the context otherwise 2ps. requires- Cap.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022?
+        answer: |
+          The regulations govern the registration, tax remittance, and compliance requirements for non-resident suppliers of electronic services under the Value Added Tax Act in Tanzania.
+      - question: |
+          When did the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 come into effect?
+        answer: |
+          The regulations came into effect on July 1, 2022.
+      - question: |
+          Under what legal provisions were the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 made?
+        answer: |
+          The regulations were made under sections 64(5) and 94 of the Value Added Tax Act, Cap. 148.
+      - question: |
+          What are some of the key areas addressed by the regulations?
+        answer: |
+          Key areas include tax registration applications, the scope of electronic services, place of supply, submission of returns, remittance of taxes, correction of errors, claim of input tax, payment methods, penalties, interest, and offences.
+      - question: |
+          Where was the government notice for these regulations published?
+        answer: |
+          The government notice for these regulations was published in the Special Gazette of the United Republic of Tanzania No. 25, Vol. 103, dated July 1, 2022.
+  - context: |
+      1ps. 1ps. - 8. A person registered under these Regulations shall not claim input tax. Place of supply Manner of submitting returns and remittance of taxes Correction of error Claim of input tax ## GN NO 478Q (Contd) | Mode of payment and currency | 9. A person registered under these Regulations shall pay tax to a bank account designated by the Commissioner General in Tanzanian shilling or its equivalent convertible currency at the Bank of Tanzania's prevailing exchange rate on the date of payment. 2ps. 3ps. | | Penalty for false or misleading statements | 11. Any person who makes a false or misleading statement or omits to include material facts in a statement made to a tax officer shall be liable to a penalty prescribed 4ps. | | Cap. 438 | under section 79 of the Tax Administration Act. 5ps. 6ps. 7ps. | | Interests | 12. Any person registered under these Regulations who fails to pay tax on the due date shall be liable to pay interest at the statutory rate compounded monthly to the Commissioner General. 2ps. 1ps. 2ps. | | Penalty for false or misleading statements | 11. Any person who makes a false or misleading statement or omits to include material facts in a statement made to a tax officer shall be liable to a penalty prescribed 3ps. | | Cap. 438 | under section 79 of the Tax Administration Act. 4ps. 5ps. 6ps. | | Interests | 12. Any person registered under these Regulations who fails to pay tax on the due date shall be liable to pay interest at the statutory rate compounded monthly to the Commissioner General. 7ps. | | Offences | 13. A person who fails to comply with these 8ps. 9ps. 10ps. | | Cap.
+    questions_and_answers:
+      - question: |
+          What restriction is placed on a person registered under these Regulations regarding input tax?
+        answer: |
+          A person registered under these Regulations is prohibited from claiming input tax.
+      - question: |
+          In which currency must tax payments be made under these Regulations?
+        answer: |
+          Tax payments must be made in Tanzanian shilling or its equivalent in a convertible currency at the Bank of Tanzania's prevailing exchange rate on the date of payment.
+      - question: |
+          What penalty applies to a person who submits a false or misleading statement to a tax officer?
+        answer: |
+          A person who submits a false or misleading statement or omits material facts in a statement to a tax officer is liable to a penalty prescribed under section 79 of the Tax Administration Act.
+      - question: |
+          What happens if a registered person does not pay tax by the due date?
+        answer: |
+          The person is required to pay interest at a statutory rate compounded monthly to the Commissioner General.
+      - question: |
+          Under which section of the Tax Administration Act are penalties for false or misleading statements prescribed?
+        answer: |
+          These penalties are prescribed under section 79 of the Tax Administration Act.
+  - context: |
+      1ps. 1ps. Application for tax registration - 4. -(1) Subject to section 64(5) of the Act, a nonresident person who supplies electronic services to an unregistered person in Mainland Tanzania who does not appoint tax representative, regardless of registration threshold, shall be required to apply for registration as a taxable person to the Commissioner General. - (2) The application for registration under subregulation (1) shall be made online in a form prescribed in the Schedule to these Regulations. 2ps. - (4) The Commissioner General shall, upon being ## GN NO 478Q (Contd) satisfied with the information provided in the application, register and issue the applicant with Value Added Tax Registration Number for the purpose of filing returns and payment of tax. - (5) A person registered under this regulation as a taxable person shall, where ceases permanently to be eligible to supply electronic services, inform the Commissioner 3ps. General in a form set out in the Schedule to these Regulations. - (6) The Commissioner General shall deregister a person who ceases to supply electronic services or whenever he deems fit. 2ps. 1ps. - (4) The Commissioner General shall, upon being ## GN NO 478Q (Contd) satisfied with the information provided in the application, register and issue the applicant with Value Added Tax Registration Number for the purpose of filing returns and payment of tax. - (5) A person registered under this regulation as a taxable person shall, where ceases permanently to be eligible to supply electronic services, inform the Commissioner 2ps. General in a form set out in the Schedule to these Regulations.
+    questions_and_answers:
+      - question: |
+          Who is required to apply for tax registration under the described regulations?
+        answer: |
+          A nonresident person supplying electronic services to an unregistered person in Mainland Tanzania, without appointing a tax representative, must apply for tax registration regardless of the registration threshold.
+      - question: |
+          How must the application for tax registration be submitted?
+        answer: |
+          The application for tax registration must be made online using a form prescribed in the Schedule to the Regulations.
+      - question: |
+          What happens after the Commissioner General is satisfied with the application for tax registration?
+        answer: |
+          The Commissioner General registers the applicant and issues them a Value Added Tax Registration Number for filing returns and paying taxes.
+      - question: |
+          What must a registered person do if they permanently stop supplying electronic services?
+        answer: |
+          A registered person must inform the Commissioner General using a form set out in the Schedule to the Regulations.
+      - question: |
+          Under what circumstances can the Commissioner General deregister a taxable person?
+        answer: |
+          The Commissioner General can deregister a person if they cease supplying electronic services or whenever the Commissioner General deems it appropriate.
+  - context: |
+      1ps. 1ps. 3. * Outstanding Tax Liabilities (if any): c. …………….……………………………………. d. …………………………………………………. ## VII. DECLARATION I, the undersigned, do hereby declare that the particulars given above are correct and complete to the best of my knowledge and that any change of details shall be communicated to the Commissioner General in writing within thirty days from the date of change. * First Name: ……………………………………………………. * Second Name: ……………………………………………….. * Position: ………………………………………………………….. * Signature: …………………………………………………………. * Date: ……………………………………………………………… GN NO 478Q (Contd) (Made under regulation 6(1)) ## VAT ELECTRONIC SERVICES RETURN Note: Furnishing false or misleading information is punishable by law ## Please read the instructions carefully before filling. ## INSTRUCTIONS FOR FILING VAT ELECTRONIC 2ps. SERVICES RETURN - 1. Please fill the below information correctly. - 2. All parts of the return are Mandatory. ## I. 2ps. 1ps. ## INSTRUCTIONS FOR FILING VAT ELECTRONIC SERVICES RETURN - 1. Please fill the below information correctly. - 2. All parts of the return are Mandatory. ## I. GENERAL INFORMATION | Taxpayer Identification Number (TIN): | |--------------------------------------------------| | VAT Registration Number (VRN): | | Name of Taxpayer: 2ps. | | Month of return : | | Year of return: | | VAT on Electronic Services GFS code description: | | VATon Electronic Services GFS code: 3ps. | ## II. 3ps. 1ps. - 2. All parts of the return are Mandatory. ## I. GENERAL INFORMATION | Taxpayer Identification Number (TIN): | |--------------------------------------------------| | VAT Registration Number (VRN): | | Name of Taxpayer: | | Month of return : 2ps. | | Year of return: | | VAT on Electronic Services GFS code description: | | VATon Electronic Services GFS code: | ## II. RETURN PARTICULARS | PART ONE (1) - SUPPLIES OF ELECTRONIC SERVICES 3ps.
+    questions_and_answers:
+      - question: |
+          What action must be taken if there is a change in details after submitting the declaration?
+        answer: |
+          The declarant must communicate any changes in details to the Commissioner General in writing within thirty days from the date of the change.
+      - question: |
+          What are the consequences of providing false or misleading information on the VAT Electronic Services Return?
+        answer: |
+          Furnishing false or misleading information is punishable by law.
+      - question: |
+          What specific taxpayer information is required in the 'General Information' section of the VAT Electronic Services Return?
+        answer: |
+          The 'General Information' section requires the Taxpayer Identification Number (TIN), VAT Registration Number (VRN), Name of Taxpayer, Month and Year of return, and the VAT on Electronic Services GFS code description and code.
+      - question: |
+          What is emphasized in the instructions for filing the VAT Electronic Services Return?
+        answer: |
+          The instructions emphasize that all parts of the return are mandatory and must be filled correctly.
+      - question: |
+          What declarations are made by the individual completing the VAT Electronic Services Return?
+        answer: |
+          The individual declares that the provided particulars are correct and complete to the best of their knowledge and commits to reporting any changes to the Commissioner General within thirty days.
+document_outline: |
+  ### Document Outline:
+  
+  The document outlines the **Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022**, as implemented by the United Republic of Tanzania under the Value Added Tax Act (Cap. 148). Published on July 1, 2022, it specifies guidelines for the registration, tax application, submission process, and compliance requirements for non-resident suppliers of electronic services, alongside defining the scope of taxable electronic services, penalties, and exemptions.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - GN_NO_478Q_THE_VALUE_ADDED_TAX_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_REGULATIONS_2022-1.md

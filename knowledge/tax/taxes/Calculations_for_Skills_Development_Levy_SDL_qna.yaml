@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o mini next ChatGPT ## Scenario: Professional, Scientific, and Technical Services Company Company Name: ProSciTech Ltd. Sector: Professional, Scientific, and Technical Activities (M 69-75) Business Operations: ProSciTech Ltd. provides consulting services in various fields including engineering, legal, and scientific research. The company employs consultants, researchers, administrative staff, and management personnel. ## Employee Details: -  Consultants: 40 employees -  Researchers: 20 employees -  Administrative Staff: 15 employees -  Management: 10 employees ## Salary Breakdown:  Consultants: TZS 3,000,000 per month per employee  Researchers: TZS 2,500,000 per month 2ps. per employee -  Administrative Staff: TZS 1,200,000 per month per employee -  Management: TZS 4,500,000 per month per employee ## Calculation of Skills and Development Levy (SDL) ## Step 1: Calculate Gross Emoluments for Each Category ## 1. Consultants: - o Number of employees: 40 - o Monthly salary per employee: TZS 3,000,000 - o Total monthly salary: 40×3,000,000=TZS120,000,00040 \times 3,000,000 = TZS 120,000,00040×3,000,000=TZS120,000,000 ## 2. Researchers: - o Number of employees: 20 - o Monthly salary per employee: TZS 2,500,000 - o Total monthly salary: 20×2,500,000=TZS50,000,00020 \times 2,500,000 = TZS 50,000,00020×2,500,000=TZS50,000,000 ## 3. Administrative Staff: - o Number of employees: 15 - o Monthly salary per employee: TZS 1,200,000 - o Total monthly 3ps. salary: 15×1,200,000=TZS18,000,00015 \times 1,200,000 = TZS 18,000,00015×1,200,000=TZS18,000,000 ## 4.
+    questions_and_answers:
+      - question: |
+          When is the payment due to the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month.
+      - question: |
+          What type of services does ProSciTech Ltd. provide?
+        answer: |
+          ProSciTech Ltd. provides consulting services in various fields, including engineering, legal, and scientific research.
+      - question: |
+          How many employees does ProSciTech Ltd. have in each staff category?
+        answer: |
+          ProSciTech Ltd. has 40 consultants, 20 researchers, 15 administrative staff, and 10 management personnel.
+      - question: |
+          What is the total monthly salary for the consultants employed by ProSciTech Ltd.?
+        answer: |
+          The total monthly salary for the consultants is TZS 120,000,000, calculated as 40 employees × TZS 3,000,000 per employee.
+      - question: |
+          What is the monthly gross emolument for the administrative staff category?
+        answer: |
+          The total monthly gross emolument for administrative staff is TZS 18,000,000, calculated as 15 employees × TZS 1,200,000 per employee.
+  - context: |
+      1ps. 1ps. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o next sector ChatGPT ## Scenario: Manufacturing Company Company Name: Prime Products Ltd. Sector: Manufacturing (C 10-33) Business Operations: Prime Products Ltd. is a medium-sized company that manufactures consumer goods. The company employs factory workers, quality control staff, administrative staff, and management personnel. ## Employee Details: -  Factory Workers: 200 employees -  Quality Control Staff: 30 employees -  Administrative Staff: 20 employees -  Management: 10 employees ## Salary Breakdown: -  Factory Workers: TZS 700,000 per month per employee -  Quality Control Staff: TZS 1,200,000 per 2ps. month per employee -  Administrative Staff: TZS 1,500,000 per month per employee -  Management: TZS 4,000,000 per month per employee ## Calculation of Skills and Development Levy (SDL) ## Step 1: Calculate Gross Emoluments for Each Category ## 1. Factory Workers: - o Number of employees: 200 - o Monthly salary per employee: TZS 700,000 - o Total monthly salary: 200×700,000=TZS140,000,000200 \times 700,000 = TZS 140,000,000200×700,000=TZS140,000,000 ## 2. Quality Control Staff: - o Number of employees: 30 - o Monthly salary per employee: TZS 1,200,000 - o Total monthly salary: 30×1,200,000=TZS36,000,00030 \times 1,200,000 = TZS 36,000,00030×1,200,000=TZS36,000,000 ## 3. Administrative Staff: - o Number of employees: 20 - o Monthly salary per employee: TZS 3ps. 1,500,000 - o Total monthly salary: 20×1,500,000=TZS30,000,00020 \times 1,500,000 = TZS 30,000,00020×1,500,000=TZS30,000,000 ## 4.
+    questions_and_answers:
+      - question: |
+          What is the payment deadline for Prime Product Ltd.'s tax liabilities to the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month.
+      - question: |
+          How many employees does Prime Products Ltd. have across all categories, and what are the categories?
+        answer: |
+          Prime Products Ltd. employs 260 individuals divided into four categories: 200 factory workers, 30 quality control staff, 20 administrative staff, and 10 management personnel.
+      - question: |
+          What is the total monthly salary expense for the factory workers?
+        answer: |
+          The total monthly salary expense for the factory workers is TZS 140,000,000 (calculated as 200 employees × TZS 700,000 per employee).
+      - question: |
+          What is the monthly salary per employee for quality control staff, and how does this differ from administrative staff salaries?
+        answer: |
+          The monthly salary per quality control staff member is TZS 1,200,000, while administrative staff members earn TZS 1,500,000 per month. The difference is TZS 300,000.
+      - question: |
+          What is the total monthly salary expense for the administrative staff?
+        answer: |
+          The total monthly salary expense for the administrative staff is TZS 30,000,000 (calculated as 20 employees × TZS 1,500,000 per employee).
+  - context: |
+      1ps. 1ps. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o mini next ChatGPT ## Scenario: Accommodation and Food Service Company Company Name: StayWell Ltd. Sector: Accommodation and Food Service Activities (I 55-56) Business Operations: StayWell Ltd. operates a chain of hotels and restaurants. The company employs hotel staff, restaurant staff, administrative staff, and management personnel. ## Employee Details: -  Hotel Staff: 70 employees -  Restaurant Staff: 50 employees -  Administrative Staff: 20 employees -  Management: 8 employees ## Salary Breakdown: -  Hotel Staff: TZS 600,000 per month per employee -  Restaurant Staff: TZS 700,000 2ps. per month per employee -  Administrative Staff: TZS 1,000,000 per month per employee -  Management: TZS 2,500,000 per month per employee ## Calculation of Skills and Development Levy (SDL) ## Step 1: Calculate Gross Emoluments for Each Category ## 1. Hotel Staff: - o Number of employees: 70 - o Monthly salary per employee: TZS 600,000 - o Total monthly salary: 70×600,000=TZS42,000,00070 \times 600,000 = TZS 42,000,00070×600,000=TZS42,000,000 ## 2. Restaurant Staff: - o Number of employees: 50 - o Monthly salary per employee: TZS 700,000 - o Total monthly salary: 50×700,000=TZS35,000,00050 \times 700,000 = TZS 35,000,00050×700,000=TZS35,000,000 ## 3. Administrative Staff: - o Number of employees: 20 - o Monthly salary per employee: TZS 3ps. 1,000,000 - o Total monthly salary: 20×1,000,000=TZS20,000,00020 \times 1,000,000 = TZS 20,000,00020×1,000,000=TZS20,000,000 ## 4.
+    questions_and_answers:
+      - question: |
+          What is the payment deadline to the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The payment to the TRA is due by the 7th day of the following month.
+      - question: |
+          How many employees are in each staff category at StayWell Ltd.?
+        answer: |
+          StayWell Ltd. employs 70 hotel staff, 50 restaurant staff, 20 administrative staff, and 8 management personnel.
+      - question: |
+          What is the total monthly salary for the hotel staff at StayWell Ltd.?
+        answer: |
+          The total monthly salary for hotel staff is TZS 42,000,000, calculated as 70 employees × TZS 600,000 per employee.
+      - question: |
+          What is the monthly salary per employee for the restaurant staff?
+        answer: |
+          The monthly salary per restaurant staff member is TZS 700,000.
+      - question: |
+          How is the total monthly salary for administrative staff calculated?
+        answer: |
+          The total monthly salary for administrative staff is calculated as 20 employees × TZS 1,000,000, which equals TZS 20,000,000.
+  - context: |
+      1ps. 1ps. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o mini next ChatGPT ## Scenario: Arts, Entertainment, and Recreation Company Company Name: ArtRec Ltd. Sector: Arts, Entertainment, and Recreation (R 90-93) Business Operations: ArtRec Ltd. operates various arts and entertainment venues, including theaters, art galleries, and recreational facilities. The company employs artists, performers, venue staff, and management personnel. ## Employee Details: -  Artists: 25 employees -  Performers: 30 employees -  Venue Staff: 40 employees -  Management: 8 employees ## Salary Breakdown: -  Artists: TZS 1,800,000 per month per employee -  Performers: TZS 1,500,000 per month 2ps. per employee -  Venue Staff: TZS 1,200,000 per month per employee -  Management: TZS 3,000,000 per month per employee ## Calculation of Skills and Development Levy (SDL) ## Step 1: Calculate Gross Emoluments for Each Category ## 1. Artists: - o Number of employees: 25 - o Monthly salary per employee: TZS 1,800,000 - o Total monthly salary: 25×1,800,000=TZS45,000,00025 \times 1,800,000 = TZS 45,000,00025×1,800,000=TZS45,000,000 ## 2. Performers: - o Number of employees: 30 - o Monthly salary per employee: TZS 1,500,000 - o Total monthly salary: 30×1,500,000=TZS45,000,00030 \times 1,500,000 = TZS 45,000,00030×1,500,000=TZS45,000,000 ## 3. Venue Staff: - o Number of employees: 40 - o Monthly salary per employee: TZS 1,200,000 - o Total monthly 3ps. salary: 40×1,200,000=TZS48,000,00040 \times 1,200,000 = TZS 48,000,00040×1,200,000=TZS48,000,000 ## 4.
+    questions_and_answers:
+      - question: |
+          What is the monthly salary per employee for the artists working at ArtRec Ltd.?
+        answer: |
+          The monthly salary per employee for the artists is TZS 1,800,000.
+      - question: |
+          How many performers are employed by ArtRec Ltd., and what is their total monthly salary?
+        answer: |
+          ArtRec Ltd. employs 30 performers, and their total monthly salary is TZS 45,000,000.
+      - question: |
+          What is the total monthly salary for venue staff at ArtRec Ltd.?
+        answer: |
+          The total monthly salary for venue staff is TZS 48,000,000.
+      - question: |
+          What is the due date for payments to the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month.
+      - question: |
+          How many employees in total work in the management category, and what is their monthly salary per employee?
+        answer: |
+          There are 8 management employees, and their monthly salary per employee is TZS 3,000,000.
+  - context: |
+      1ps. 1ps. 4o mini next ChatGPT ## Scenario: Public Administration and Defence Company Company Name: PubDef Ltd. Sector: Public Administration and Defence (O 84) Business Operations: PubDef Ltd. provides support services to government agencies and defense organizations, including administrative support, logistics, and security services. The company employs administrative staff, logistics personnel, security officers, and management personnel. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o mini next ChatGPT ## Scenario: Education Services Company Company Name: EduCare Ltd. Sector: Education (P 85) Business Operations: EduCare Ltd. operates educational institutions including schools and training centers. The company employs teachers, administrative staff, 2ps. support staff, and management personnel. 2ps. 1ps. This payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month. 4o mini next ChatGPT ## Scenario: Education Services Company Company Name: EduCare Ltd. Sector: Education (P 85) Business Operations: EduCare Ltd. operates educational institutions including schools and training centers. The company employs teachers, administrative staff, support staff, and management personnel. ## Employee Details: -  Teachers: 70 employees -  Administrative Staff: 25 employees -  Support Staff: 15 employees -  Management: 7 employees ## Salary Breakdown: -  Teachers: TZS 1,800,000 per month per employee -  Administrative Staff: TZS 1,200,000 per month per employee -  Support Staff: TZS 1,000,000 per 2ps. month per employee -  Management: TZS 3,500,000 per month per employee ## Calculation of Skills and Development Levy (SDL) ## Step 1: Calculate Gross Emoluments for Each Category ## 1. Teachers: - o Number of employees: 70 - o Monthly salary per employee: TZS 1,800,000 - Total monthly salary: 70×1,800,000=TZS126,000,00070 \times 1,800,000 = - o TZS 126,000,00070×1,800,000=TZS126,000,000 ## 2.
+    questions_and_answers:
+      - question: |
+          What type of services does PubDef Ltd. provide?
+        answer: |
+          PubDef Ltd. provides support services to government agencies and defense organizations, including administrative support, logistics, and security services.
+      - question: |
+          What is the employment structure of EduCare Ltd. in terms of personnel categories?
+        answer: |
+          EduCare Ltd. employs teachers (70), administrative staff (25), support staff (15), and management personnel (7).
+      - question: |
+          How is the total monthly salary for teachers employed by EduCare Ltd. calculated?
+        answer: |
+          The total monthly salary for teachers is calculated by multiplying the number of teachers (70) by their monthly salary per employee (TZS 1,800,000), resulting in TZS 126,000,000.
+      - question: |
+          By what date is the payment due to the Tanzania Revenue Authority (TRA) for both PubDef Ltd. and EduCare Ltd.?
+        answer: |
+          The payment is due to the Tanzania Revenue Authority (TRA) by the 7th day of the following month.
+      - question: |
+          What is the monthly salary breakdown for EduCare Ltd.'s employees by category?
+        answer: |
+          The monthly salary per employee is as follows: Teachers (TZS 1,800,000), Administrative Staff (TZS 1,200,000), Support Staff (TZS 1,000,000), and Management (TZS 3,500,000).
+document_outline: |
+  **Document Outline:**  
+  
+  The document provides detailed calculations for the Skills and Development Levy (SDL) due by companies from two sectors—Agriculture (Green Harvest Ltd.) and Mining and Quarrying (Rock Solid Minerals Ltd.). For each company, the document outlines their business operations, employee details, salary breakdown, and step-by-step computations of gross emoluments and SDL at the applicable rate of 3.5%, concluding with the total SDL due to the Tanzania Revenue Authority.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Calculations_for_Skills_Development_Levy_SDL.md

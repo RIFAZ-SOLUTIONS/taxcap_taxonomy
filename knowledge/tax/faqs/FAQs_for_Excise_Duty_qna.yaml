@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## FAQs for Excise Duty Creating a comprehensive list of 100 FAQs for Excise Duty under Tanzanian tax laws involves covering various aspects of the tax regime. Here's a detailed list: ## 1. What is excise duty? Excise duty is a tax levied on specific goods and services, such as alcohol, tobacco, and certain luxury items. ## 2. Who administers excise duty in Tanzania? Excise duty is administered by the Tanzania Revenue Authority (TRA) . ## 3. What items are subject to excise duty? Excise duty applies to items such as alcohol, tobacco products, mineral water, certain vehicles, and other goods specified 2ps. by the tax laws. ## 4. How is excise duty calculated? Excise duty can be calculated on a specific (per unit) or ad valorem (percentage of value) basis, depending on the item. ## 5. What is the excise duty rate for beer made from malt? The rates vary: TZS 620 per litre, TZS 918 per litre, or TZS 963.9 per litre depending on the type. ## 6. Are fruit juices subject to excise duty? 2ps. 1ps. ## 5. What is the excise duty rate for beer made from malt? The rates vary: TZS 620 per litre, TZS 918 per litre, or TZS 963.9 per litre depending on the type. ## 6. Are fruit juices subject to excise duty? Yes, fruit juices are subject to excise duty, with rates like TZS 9.9 per litre or TZS 255.2 per litre. ## 7. How is excise duty on imported powdered juice determined? Excise duty on imported powdered juice is TZS 255.2 per litre. ## 8. Is there excise duty on non-alcoholic beverages? Yes, non-alcoholic beverages with added sugar or 2ps. flavouring are taxed at TZS 67.1 per litre. ## 9. What is the excise duty rate for cigarettes?
+    questions_and_answers:
+      - question: |
+          What is excise duty?
+        answer: |
+          Excise duty is a tax levied on specific goods and services, such as alcohol, tobacco, and certain luxury items.
+      - question: |
+          Who administers excise duty in Tanzania?
+        answer: |
+          Excise duty is administered by the Tanzania Revenue Authority (TRA).
+      - question: |
+          Which items are typically subject to excise duty in Tanzania?
+        answer: |
+          Excise duty applies to items such as alcohol, tobacco products, mineral water, certain vehicles, and other goods specified by the tax laws.
+      - question: |
+          How is excise duty calculated?
+        answer: |
+          Excise duty can be calculated on a specific (per unit) or ad valorem (percentage of value) basis, depending on the item.
+      - question: |
+          What is the excise duty rate for fruit juices?
+        answer: |
+          Fruit juices are taxed at rates such as TZS 9.9 per litre or TZS 255.2 per litre.
+  - context: |
+      1ps. 1ps. ## 29. What is the excise duty on music and film products? Music and film products are taxed at TZS 55 per unit. ## 30. Are there any specific rules for luxury items? Luxury items may attract higher excise duty rates, such as for yachts and aircraft. ## 31. What is the rate for gas oil (diesel)? Gas oil (diesel) is taxed at TZS 255 per litre. ## 32. How is excise duty on imported powdered beer determined? Imported powdered beer is taxed at TZS 1,012.8 per litre. ## 33. Are there any exemptions for educational materials? Educational materials may 2ps. be exempt or have reduced rates, depending on specific regulations. ## 34. What are the excise duty rates for wine? Wine with more than 25% imported grapes is taxed at TZS 5,600 per litre, while wine with domestic grapes is TZS 200 per litre. ## 35. How does excise duty impact businesses? Businesses must factor excise duty into their pricing, import, and accounting processes. ## 36. What is the excise duty rate for old motorcycles? 2ps. 1ps. ## 35. How does excise duty impact businesses? Businesses must factor excise duty into their pricing, import, and accounting processes. ## 36. What is the excise duty rate for old motorcycles? Old motorcycles (more than three years) are taxed at 10%. ## 37. Are excise duties refundable? Refunds are possible under certain conditions, such as overpayments or exemptions. ## 38. What is the rate for imported powdered juices? Imported powdered juices are taxed at TZS 255.2 per litre. ## 39. Are luxury yachts subject to excise duty? Yes, luxury yachts are taxed at 20% ad valorem. ## 40. What is 2ps. the excise duty on imported spirits? Imported spirits can be taxed at up to TZS 4,386.06 per litre.
+    questions_and_answers:
+      - question: |
+          What is the excise duty on music and film products?
+        answer: |
+          Music and film products are taxed at TZS 55 per unit.
+      - question: |
+          How much is gas oil (diesel) taxed under excise duty?
+        answer: |
+          Gas oil (diesel) is taxed at TZS 255 per litre.
+      - question: |
+          What is the excise duty for wine made with imported versus domestic grapes?
+        answer: |
+          Wine with more than 25% imported grapes is taxed at TZS 5,600 per litre, while wine made with domestic grapes is taxed at TZS 200 per litre.
+      - question: |
+          Are luxury yachts subject to excise duty, and at what rate?
+        answer: |
+          Yes, luxury yachts are taxed at 20% ad valorem.
+      - question: |
+          Under what conditions are excise duties refundable?
+        answer: |
+          Refunds are possible under certain conditions, such as overpayments or exemptions.
+  - context: |
+      1ps. 1ps. Spirits with high alcohol content are taxed at TZS 4,386.06 per litre. ## 60. How does excise duty affect the pricing of alcoholic beverages? Excise duty can significantly increase the cost of alcoholic beverages, impacting pricing. ## 61. Are there any special rules for excise duty on tobacco products? Yes, tobacco products have specific rates based on domestic versus imported content and whether they have filters. ## 62. What is the excise duty on lubricating oil? Lubricating oil containing petroleum oils is taxed at TZS 735.9 per m³. ## 63. How is excise duty calculated for imported vehicles? Excise duty 2ps. for imported vehicles is based on cylinder capacity and age. ## 64. What are the excise duty rates for different types of alcoholic beverages? Rates vary from TZS 9.9 per litre for fruit juices to TZS 5,600 per litre for certain wines. ## 65. How often do businesses need to report excise duty? Businesses must report excise duty on a regular basis, typically monthly or quarterly, depending on their tax obligations. 2ps. 1ps. Rates vary from TZS 9.9 per litre for fruit juices to TZS 5,600 per litre for certain wines. ## 65. How often do businesses need to report excise duty? Businesses must report excise duty on a regular basis, typically monthly or quarterly, depending on their tax obligations. ## 66. What is the excise duty on imported used spare parts? Imported used spare parts are taxed at 25%. ## 67. Are there any tax reliefs available for excise duty? Certain items may qualify for tax relief or exemptions based on specific criteria or government policies. ## 68. How is excise duty 2ps. on motor vehicles with cylinder capacity over 2,000cc determined? Motor vehicles with cylinder capacity over 2,000cc are taxed at 10%. ## 69.
+    questions_and_answers:
+      - question: |
+          What is the excise duty on spirits with high alcohol content?
+        answer: |
+          Spirits with high alcohol content are taxed at TZS 4,386.06 per litre.
+      - question: |
+          How is excise duty calculated for imported vehicles?
+        answer: |
+          Excise duty for imported vehicles is based on cylinder capacity and age.
+      - question: |
+          What is the excise duty rate for lubricating oil containing petroleum oils?
+        answer: |
+          Lubricating oil containing petroleum oils is taxed at TZS 735.9 per m³.
+      - question: |
+          Are there different excise duty rates for various types of alcoholic beverages?
+        answer: |
+          Yes, rates vary from TZS 9.9 per litre for fruit juices to TZS 5,600 per litre for certain wines.
+      - question: |
+          What is the excise duty rate on imported used spare parts?
+        answer: |
+          Imported used spare parts are taxed at 25%.
+  - context: |
+      1ps. 1ps. -  Answer: Cigarettes with more than 75% domestic tobacco are taxed at TZS 14,936.4 per mil for those without filters and TZS 35,310 per mil for those with filters. ## 8. How is excise duty on lubricating oil calculated? -  Answer: Lubricating oil (containing petroleum oils) is taxed at TZS 735.9 per m³. ## 9. What is the excise duty rate for gas oil (diesel)? -  Answer: Gas oil (diesel) is taxed at TZS 255 per litre. ## 10. How is excise duty on illuminating kerosene determined? -  Answer: Illuminating kerosene is taxed at TZS 465 2ps. per litre. ## 11. What is the rate for excise duty on imported powdered beer? -  Answer: Imported powdered beer is taxed at TZS 1,012.8 per litre. ## 12. How is excise duty on non-alcoholic beverages with added sugar calculated? -  Answer: Non-alcoholic beverages with added sugar are taxed at TZS 67.1 per litre. - 13. What is the excise duty rate for old motor vehicles more than ten years old? 2ps. 1ps. ## 12. How is excise duty on non-alcoholic beverages with added sugar calculated? -  Answer: Non-alcoholic beverages with added sugar are taxed at TZS 67.1 per litre. - 13. What is the excise duty rate for old motor vehicles more than ten years old? -  Answer: Old motor vehicles more than ten years old are taxed at 30%. ## 14. How is excise duty on old motorcycles determined? -  Answer: Old motorcycles (more than three years) are taxed at 10%. ## 15. What is the excise duty on disposable plastic bags? -  Answer: Disposable plastic bags 2ps. are taxed at 50%. ## 16. How is excise duty on music and film products calculated?
+    questions_and_answers:
+      - question: |
+          What is the excise duty tax rate for cigarettes with more than 75% domestic tobacco and no filters?
+        answer: |
+          Cigarettes with more than 75% domestic tobacco and no filters are taxed at TZS 14,936.4 per mil.
+      - question: |
+          How is excise duty on lubricating oil containing petroleum oils calculated?
+        answer: |
+          Lubricating oil containing petroleum oils is taxed at TZS 735.9 per cubic meter (m³).
+      - question: |
+          What is the tax rate for gas oil (diesel) under excise duty?
+        answer: |
+          Gas oil (diesel) is taxed at TZS 255 per litre.
+      - question: |
+          What is the excise duty rate for old motor vehicles more than ten years old?
+        answer: |
+          Old motor vehicles more than ten years old are taxed at 30%.
+      - question: |
+          How is excise duty applied to non-alcoholic beverages with added sugar?
+        answer: |
+          Non-alcoholic beverages with added sugar are taxed at TZS 67.1 per litre.
+  - context: |
+      1ps. 1ps. ## 87. What is the excise duty rate for disposable plastic bags? Disposable plastic bags are taxed at 50%. ## 88. How is excise duty on imported used spare parts applied? Imported used spare parts are taxed at 25% ad valorem. ## 89. What is the excise duty on non-alcoholic beverages? Non-alcoholic beverages are taxed at TZS 67.1 per litre if they contain added sugar or flavouring. ## 90. Are there any special exemptions for excise duty on renewable energy products? Some renewable energy products may be exempt or have reduced rates depending on government policies. ## 91. What is 2ps. the excise duty rate for aircraft? Aircraft (excluding commercial aircraft) are taxed at 20% ad valorem. ## 92. How is excise duty on lubricating oil determined? Lubricating oil is taxed at TZS 735.9 per m³. ## 93. What is the excise duty on old passenger motor vehicles? Old passenger motor vehicles are taxed between 10% and 30% depending on age. ## 94. How are excise duties applied to alcoholic beverages? 2ps. 1ps. ## 93. What is the excise duty on old passenger motor vehicles? Old passenger motor vehicles are taxed between 10% and 30% depending on age. ## 94. How are excise duties applied to alcoholic beverages? Excise duties on alcoholic beverages vary based on their type and alcohol content. ## 95. What is the excise duty on motor spirit (gasoline) premium? Motor spirit (gasoline) premium is taxed at TZS 339 per litre. ## 96. Are there special rates for imported tobacco products? Yes, imported tobacco products may have different rates compared to domestic products. ## 97. How is excise duty on 2ps. lubricating greases calculated? Lubricating greases are taxed at TZS 0.87 per kg. ## 98.
+    questions_and_answers:
+      - question: |
+          What is the excise duty rate for disposable plastic bags?
+        answer: |
+          Disposable plastic bags are taxed at 50%.
+      - question: |
+          How is excise duty applied to imported used spare parts?
+        answer: |
+          Imported used spare parts are taxed at 25% ad valorem.
+      - question: |
+          What is the excise duty on non-alcoholic beverages containing added sugar or flavoring?
+        answer: |
+          Non-alcoholic beverages with added sugar or flavoring are taxed at TZS 67.1 per litre.
+      - question: |
+          Are there any special exemptions for excise duty on renewable energy products?
+        answer: |
+          Some renewable energy products may be exempt or have reduced rates depending on government policies.
+      - question: |
+          What is the excise duty on aircraft, excluding commercial aircraft?
+        answer: |
+          Aircraft excluding commercial aircraft are taxed at 20% ad valorem.
+document_outline: |
+  **Document Outline: FAQs for Excise Duty**  
+  This document provides a detailed list of 100 Frequently Asked Questions (FAQs) about excise duty under Tanzanian tax laws, covering topics such as taxable items (e.g., alcohol, tobacco, vehicles), calculation methods, applicable rates, exemptions, and administrative processes. It serves as a comprehensive guide for understanding the scope, rates, and implementation of excise duty in Tanzania.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - FAQs_for_Excise_Duty.md

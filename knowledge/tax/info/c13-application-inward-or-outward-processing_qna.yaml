@@ -1,0 +1,101 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C13
+      
+      ## EAST AFRICAN COMMUNITY                                                  
+                                     CUSTOMS
+      
+      ## Regulations 185 (1), 186 (2), 192 (1)
+         and 193 (2) APPLICATION FOR *INWARD/OUTWARD PROCESSING
+      
+      Company
+         Name
+      
+      Date
+      
+      Postal Address
+      
+      *TIN/PIN
+      
+      Telephone No
+      
+      Country
+      
+      2ps. of* export/Import
+      
+      *Fax Number &amp; Email Address
+      
+      Date of
+         *Import/Export
+      
+      Physical Location
+      
+      H.S CODE
+      
+      Quantity of
+         *Import/Export
+      
+      Goods description
+      
+      Value *Import/Export
+      
+      ## DETAILS OF
+         PROCESSING
+      
+      Applicant
+      
+      Signature………………………………….
+         
+      
+      *Approved/Not
+         Approved
+      
+      Commissioner………………………………………
+      
+      ……………………
+                    …….  ………….………. 
+      
+      Signature                      
+                                 Date
+      
+      C13
+      
+      ## EAST AFRICAN COMMUNITY                
+      
+      3ps.                                                               CUSTOMS
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the document mentioned in the context?
+        answer: |
+          The document is used for applying for inward or outward processing under the regulations of the East African Community Customs.
+      - question: |
+          What details must a company provide in the application form?
+        answer: |
+          A company must provide its name, date, postal address, TIN/PIN, telephone number, country, fax number, email address, physical location, and details about the import/export such as date, HS code, quantity, goods description, and value.
+      - question: |
+          What specific regulations are referenced as the basis for this application process?
+        answer: |
+          The application process is based on regulations 185 (1), 186 (2), 192 (1), and 193 (2) of the East African Community Customs.
+      - question: |
+          What is required from the applicant in the processing details section?
+        answer: |
+          The applicant is required to provide their signature in the processing details section of the application form.
+      - question: |
+          Who is responsible for approving or rejecting the application?
+        answer: |
+          The Commissioner of the East African Community Customs is responsible for approving or rejecting the application, and their signature is required alongside the decision.
+document_outline: |
+  **Document Outline:**  
+  This document is a standardized form used within the East African Community (EAC) Customs framework for applying for inward or outward processing of goods. It includes sections for company details, import/export information, goods description, processing details, and official approvals by the Commissioner.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c13-application-inward-or-outward-processing.md

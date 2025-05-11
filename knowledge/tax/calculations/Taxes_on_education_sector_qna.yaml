@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## 19. Development Levy - o Description : Levy for local community development related to educational projects. - o Law : Local Government Finance Act, 1982. - o Rate : Typically 0.3% of turnover. - o Example Calculation : Turnover for the year of TZS 200,000,000: -  Calculation: Development Levy = 0.3% × TZS 200,000,000 = TZS 600,000. ## 20. Occupational Safety and Health Fee - o Description : Fee for compliance with occupational safety and health regulations. - o Law : Occupational Safety and Health Act, 2003. - o Rate : Varies based on the scale and nature of operations. ## 21. Public 2ps. Service Fees - o Description : Fees for specific public services provided to educational institutions. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on service type and delivery costs. ## 22. Dividend Tax - o Description : Tax on dividends paid to shareholders of private educational institutions. - o Law : Income Tax Act, 2004. - o Rate : 10% for residents, 20% for non-residents. 2ps. 1ps. - o Rate : Determined based on service type and delivery costs. ## 22. Dividend Tax - o Description : Tax on dividends paid to shareholders of private educational institutions. - o Law : Income Tax Act, 2004. - o Rate : 10% for residents, 20% for non-residents. - o Example Calculation : Paying TZS 10,000,000 in dividends with a 10% dividend tax rate: -  Calculation: Dividend Tax = 10% × TZS 10,000,000 = TZS 1,000,000. ## 23. Transfer Pricing Regulations - o Description : Regulations ensuring fair market value in transactions within educational entities. - o Law : Income Tax Act, 2004. - 2ps. o Rate : Compliance based on transaction specifics. ## 24.
+    questions_and_answers:
+      - question: |
+          What is the Development Levy and its typical rate?
+        answer: |
+          The Development Levy is a fee for local community development related to educational projects, governed by the Local Government Finance Act, 1982. Its typical rate is 0.3% of turnover.
+      - question: |
+          How is the Occupational Safety and Health Fee determined?
+        answer: |
+          The Occupational Safety and Health Fee is determined based on the scale and nature of operations and is governed by the Occupational Safety and Health Act, 2003.
+      - question: |
+          What are the tax rates for Dividend Tax for residents and non-residents?
+        answer: |
+          The Dividend Tax rate is 10% for residents and 20% for non-residents, as specified under the Income Tax Act, 2004.
+      - question: |
+          Can you provide an example calculation for the Development Levy?
+        answer: |
+          If an institution has a turnover of TZS 200,000,000, the Development Levy is calculated as 0.3% × TZS 200,000,000 = TZS 600,000.
+      - question: |
+          What is the purpose of Transfer Pricing Regulations?
+        answer: |
+          Transfer Pricing Regulations ensure fair market value in transactions within educational entities and are governed by the Income Tax Act, 2004.
+  - context: |
+      1ps. 1ps. ## Taxes on education sector Here's a comprehensive list of taxes, levies, duties, and customs that businesses in the education sector in Tanzania might be obliged to pay. Each item includes a description, the applicable law, the rate at which it is charged, and an example of how it is calculated: ## 1. Pay As You Earn (PAYE) - o Description : Tax withheld from employee salaries. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : Total monthly payroll of TZS 20,000,000: -  Calculation: PAYE = Calculated based on progressive 2ps. tax brackets. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of educational institutions. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a school has a taxable income of TZS 100,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 100,000,000 = TZS 30,000,000. 2ps. 1ps. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of educational institutions. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a school has a taxable income of TZS 100,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 100,000,000 = TZS 30,000,000. ## 3. Value Added Tax (VAT) - o Description : Tax on goods and services purchased by educational institutions. - o Law : Value Added Tax Act, 2014. - o Rate : Standard rate is 18%, with exemptions for certain educational services. - 2ps.
+    questions_and_answers:
+      - question: |
+          What is Pay As You Earn (PAYE), and under which law is it governed?
+        answer: |
+          PAYE is a tax withheld from employee salaries, governed under the Income Tax Act, 2004.
+      - question: |
+          What is the rate structure for PAYE in Tanzania, and how is it applied?
+        answer: |
+          PAYE is applied using progressive rates that go up to 30%, calculated based on tax brackets.
+      - question: |
+          How is the Corporate Income Tax calculated for educational institutions in Tanzania?
+        answer: |
+          The Corporate Income Tax is calculated as 30% of the taxable income of the institution. For example, if a school has a taxable income of TZS 100,000,000, the tax would be TZS 30,000,000.
+      - question: |
+          What law governs the Value Added Tax (VAT) on goods and services purchased by educational institutions?
+        answer: |
+          The Value Added Tax (VAT) is governed by the Value Added Tax Act, 2014.
+      - question: |
+          What is the standard VAT rate in Tanzania, and are there any exemptions for the education sector?
+        answer: |
+          The standard VAT rate in Tanzania is 18%, but certain educational services are exempt from this tax.
+  - context: |
+      1ps. 1ps. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing computers valued at TZS 10,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 10,000,000 = TZS 1,000,000. ## 10. Excise Duty - o Description : Duty on specific goods purchased by educational institutions. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per item, often ad valorem. - o Example Calculation : Purchasing fuel for school buses valued at TZS 5,000,000 with 2ps. a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in educational institutions. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. 2ps. 1ps. - o Example Calculation : Purchasing fuel for school buses valued at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in educational institutions. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. - o Example Calculation : Total monthly payroll of TZS 40,000,000: -  Calculation: Training Levy = 4.5% × TZS 40,000,000 = TZS 1,800,000 per month. ## 12. Environmental Levy - o Description : Levy to fund environmental 2ps. protection measures related to educational activities. - o Law : Environmental Management Act, 2004. - o Rate : Typically 0.3% to 1% of gross procurement or operational spending.
+    questions_and_answers:
+      - question: |
+          Under which law is the Customs Duty in the East African Community governed?
+        answer: |
+          The Customs Duty in the East African Community is governed by the East African Community Customs Management Act, 2004.
+      - question: |
+          How is Excise Duty typically calculated for goods purchased by educational institutions?
+        answer: |
+          Excise Duty is calculated as a specific rate per item, often ad valorem. For example, if purchasing fuel valued at TZS 5,000,000 with a 15% excise duty rate, the duty would be 15% × TZS 5,000,000 = TZS 750,000.
+      - question: |
+          What is the rate of the Training Levy under the Vocational Education and Training Act, 1994?
+        answer: |
+          The rate of the Training Levy is 4.5% of the payroll.
+      - question: |
+          What is the purpose of the Environmental Levy, and under which law is it established?
+        answer: |
+          The Environmental Levy is used to fund environmental protection measures related to educational activities, and it is established under the Environmental Management Act, 2004.
+      - question: |
+          What is the range of rates for the Environmental Levy applied to educational institutions?
+        answer: |
+          The Environmental Levy typically ranges from 0.3% to 1% of gross procurement or operational spending.
+  - context: |
+      1ps. 1ps. 
+      - o Example Calculation : Accreditation fee of TZS 3,000,000 for a new degree
+         program. 
+      
+      ## 30. Levies for International Obligations
+      
+      - o Description :
+         Levies related to international educational treaties or agreements. 
+      - o Law
+         : International agreements and domestic legislation. 
+      - o Rate : Varies based
+         on international commitments and agreements. 
+      
+      These examples illustrate the
+         range of taxes, levies, duties, and customs that educational institutions in
+         Tanzania may be obliged to pay under the country's tax laws and regulations.
+         
+      
+      The calculations are based on hypothetical scenarios to show how these
+         charges are determined.
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is an example of an accreditation fee mentioned in the context?
+        answer: |
+          An accreditation fee example is TZS 3,000,000 for a new degree program.
+      - question: |
+          What does the section on 'Levies for International Obligations' describe?
+        answer: |
+          It describes levies related to international educational treaties or agreements.
+      - question: |
+          What determines the rate for levies related to international obligations?
+        answer: |
+          The rate varies based on international commitments and agreements.
+      - question: |
+          What is the legal basis for levies associated with international obligations?
+        answer: |
+          These levies are based on international agreements and domestic legislation.
+      - question: |
+          What do the examples in the context illustrate about educational taxes in Tanzania?
+        answer: |
+          They illustrate the range of taxes, levies, duties, and customs that educational institutions in Tanzania may be required to pay under the country's tax laws and regulations.
+document_outline: |
+  **Document Outline:**  
+  This document provides a detailed overview of the various taxes, levies, and duties applicable to the education sector in Tanzania. It covers key tax categories such as PAYE, Corporate Income Tax, VAT, and others, detailing their descriptions, governing laws, rates, and calculation examples to help businesses in the sector understand their tax obligations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_on_education_sector.md

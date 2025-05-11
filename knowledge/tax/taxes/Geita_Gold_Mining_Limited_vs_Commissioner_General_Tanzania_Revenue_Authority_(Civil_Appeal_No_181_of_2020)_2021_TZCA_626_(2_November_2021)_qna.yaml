@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. It is plain that the MDAs were given legal effect through the relevant Government Notices (GNs) discussed in the decision that is to say; The Excise Tariff (Remission) (Fuel Imported by Mining Companies) Order, GN. No.480 of 2002 and Road Fuel Tolls (Remission) (Holders of Mining Licence for Gold) Order, GN No. 99 of 2ps. 2005. Accordingly, we do not see any serious issue in the MDA in the manner the Tribunal treated it as a basis for the tax relief but not an end in itself as it were. Apparently, the respondent does not dispute the fact that in terms of section 11 of the VAT read together with item 8 of the Third Schedule thereto, the appellant was relieved from VAT on importation of fuel. He only disputes the appellant's 3ps. contention that such relief extended to supplying the exempted fuel to her contractors engaged to perform certain mining services on her behalf free from VAT. 2ps. 1ps. In any event, it is our view that with or without the MDA, the dispute did not relate to the appellant's entitlement to VAT relief on imported fuel rather, whether that exemption extended to her contractors regardless of the purpose of the use of the fuel supplied to such contractors. Apparently, the respondent does not dispute the fact that in terms of 2ps. section 11 of the VAT read together with item 8 of the Third Schedule thereto, the appellant was relieved from VAT on importation of fuel. Consequently, we do not see any merit in the argument in support of issue (i) and (iv) on the power of the Minister for Energy and Minerals to enter into MDAs neither is there any dispute whether the MDA was binding or not. We thus 3ps.
+    questions_and_answers:
+      - question: |
+          What legal instruments were given effect through Government Notices as discussed in the decision?
+        answer: |
+          The Excise Tariff (Remission) (Fuel Imported by Mining Companies) Order, GN. No.480 of 2002, and the Road Fuel Tolls (Remission) (Holders of Mining Licence for Gold) Order, GN No. 99 of 2005.
+      - question: |
+          What tax relief was the appellant entitled to under section 11 of the VAT and item 8 of the Third Schedule?
+        answer: |
+          The appellant was relieved from VAT on the importation of fuel according to section 11 of the VAT and item 8 of the Third Schedule.
+      - question: |
+          What was the core dispute regarding the VAT relief on fuel?
+        answer: |
+          The dispute was whether the VAT exemption on imported fuel extended to supplying exempted fuel to the appellant's contractors engaged to perform certain mining services.
+      - question: |
+          Did the tribunal's treatment of the MDA raise any serious issues?
+        answer: |
+          No, the tribunal treated the MDA as a basis for tax relief but not as an end in itself, and no serious issue was identified with this approach.
+      - question: |
+          Was there a dispute about the Minister for Energy and Minerals' authority to enter into MDAs or the binding nature of the MDAs?
+        answer: |
+          No, there was no dispute about the Minister's authority to enter into MDAs or whether the MDA was binding.
+  - context: |
+      1ps. 1ps. He maintained the same stance before the Board in an appeal by the appellant. The Board sustained the respondent's contention in its judgment appearing at pages 144 -149 of the record of appeal. The appellant's attempt to overturn the Board's decision before the Tribunal was barren of fruits. The appellant faulted the Board's decision on three grounds; one, disregarding the MDA she had with the GoT; two, holding that 2ps. there was a taxable supply to the Contractors in respect of fuel she supplied for exclusive use in the mining activities; and three, failing to rule that the appellant enjoyed relief from VAT pursuant to the Third Schedule to the VAT Act. The Tribunal did not find purchase in any of the grounds. In its judgment (appearing at pages 197 - 207 of the record of appeal), the Tribunal sustained the Board's 3ps. decision and dismissed the appeal. The Tribunal's reasoning in ground one was that despite the Board disregarding the MDA, such approach did not have any bearing on the ultimate decision in the appeal. 2ps. 1ps. The Tribunal did not find purchase in any of the grounds. In its judgment (appearing at pages 197 - 207 of the record of appeal), the Tribunal sustained the Board's decision and dismissed the appeal. The Tribunal's reasoning in ground one was that despite the Board disregarding the MDA, such approach did not have any bearing on the ultimate decision in the 2ps. appeal. With regard to ground two, the Tribunal concurred with the Board that there was a taxable supply of fuel to the appellant's contractors which was chargeable with VAT.
+    questions_and_answers:
+      - question: |
+          What were the appellant's three grounds for faulting the Board's decision?
+        answer: |
+          The appellant's three grounds were: 1) the Board disregarded the MDA she had with the GoT, 2) the Board held that there was a taxable supply to the contractors in respect of fuel she supplied for exclusive use in mining, and 3) the Board failed to rule that she enjoyed relief from VAT under the Third Schedule to the VAT Act.
+      - question: |
+          What was the Tribunal's stance on the appellant's claim regarding the MDA?
+        answer: |
+          The Tribunal reasoned that while the Board disregarded the MDA, this approach did not affect the ultimate decision in the appeal.
+      - question: |
+          How did the Tribunal rule on the issue of a taxable supply of fuel to the contractors?
+        answer: |
+          The Tribunal agreed with the Board that there was indeed a taxable supply of fuel provided to the appellant's contractors, which made it subject to VAT.
+      - question: |
+          Did the Tribunal find merit in any of the grounds raised by the appellant?
+        answer: |
+          No, the Tribunal did not find merit in any of the grounds raised by the appellant and ultimately sustained the Board's decision.
+      - question: |
+          Where can the Tribunal's judgment be found in the record of appeal?
+        answer: |
+          The Tribunal's judgment can be found in the record of appeal on pages 197 to 207.
+  - context: |
+      1ps. 1ps. The learned Senior State Attorney wound up his oral submissions urging the Court to dismiss the appeal on those submissions as well as the written submissions in reply. Submitting in rejoinder, Mr. Kileo had three arguments. One, the factual setting in GGML case was different from the instant appeal. Two, Back-charging was meant to account for the fuel as held by the Tribunal because, no VAT liability accrued for fuel supplied to 2ps. the contractors which explains why VAT was not charged and thus section 58 of the VAT Act was inapplicable considering that exhibit Rl reflects nil charge for VAT on fuel. Three, the contention on exhibit R l being a sample has been raised for the first time in this appeal and so the onus of proof that it indeed was, lies on the respondent. For a start, we wish to 3ps. state that having examined the contents of the written submissions for and against, the counsel's oral submissions in the light of the grounds of appeal, we think the issue for our consideration and determination is narrow. 2ps. 1ps. Two, Back-charging was meant to account for the fuel as held by the Tribunal because, no VAT liability accrued for fuel supplied to the contractors which explains why VAT was not charged and thus section 58 of the VAT Act was inapplicable considering that exhibit Rl reflects nil charge for VAT on fuel. Three, the contention on exhibit R l being a sample has been raised for the first time in 2ps. this appeal and so the onus of proof that it indeed was, lies on the respondent.
+    questions_and_answers:
+      - question: |
+          What did the Senior State Attorney argue in their oral submissions?
+        answer: |
+          The Senior State Attorney urged the Court to dismiss the appeal based on their oral submissions and the written submissions in reply.
+      - question: |
+          What was Mr. Kileo's first argument in his rejoinder?
+        answer: |
+          Mr. Kileo argued that the factual setting in the GGML case was different from the instant appeal.
+      - question: |
+          Why did Mr. Kileo argue that section 58 of the VAT Act was inapplicable?
+        answer: |
+          Mr. Kileo argued that section 58 of the VAT Act was inapplicable because no VAT liability accrued for fuel supplied to the contractors, as reflected by exhibit R1, which showed a nil charge for VAT on fuel.
+      - question: |
+          What did Mr. Kileo argue about the contention over exhibit R1 being a sample?
+        answer: |
+          Mr. Kileo argued that the contention about exhibit R1 being a sample was raised for the first time in the appeal, and the onus of proving this claim lies on the respondent.
+      - question: |
+          What did the Court identify as the issue for determination in the appeal?
+        answer: |
+          The Court identified that the issue for consideration and determination was narrow after examining the contents of the written and oral submissions in light of the grounds of appeal.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## CORAM: NDIKA, J.A.. MWANDAMBO, 3.A. And KAIRO. J.A. ## CIVIL APPEAL NO. 181 OF 2020 GEITA GOLD MINING LIMITED..................................................... APPELLANT VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY...........................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Mwanza,) (Twaib, J.) dated the 1st day of October, 2012 in Tax Appeal No. 4 of 2012 ## JUDGMENT OF THE COURT 18th October &amp; 2n d November, 2021 ## MWANDAMBO. J.A.: Geita Gold Mining Limited, the appellant, is before the Court faulting the decision of the Tax Revenue Appeals 2ps. Tribunal (the Tribunal) which upheld the decision of the Tax Revenue Appeals Board (the Board) holding the appellant liable to remit Value Added Tax (VAT) on fuel supplied to her contractor in the course of executing her mining activities in Geita Region. The facts giving rise to the instant appeal are not in dispute. 2ps. 1ps. J.A. ## CIVIL APPEAL NO. 181 OF 2020 GEITA GOLD MINING LIMITED..................................................... APPELLANT VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY...........................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Mwanza,) (Twaib, J.) dated the 1st day of October, 2012 in Tax Appeal No. 4 of 2012 ## JUDGMENT OF THE COURT 18th October &amp; 2n d November, 2021 ## MWANDAMBO. The facts giving rise to the instant appeal are not in dispute. To the extent they are material to the instant appeal, the facts run as follows: The appellant 2ps. is a holder of a mining licence for the operation of a gold mine in Geita Region. As part of the incentives to the holders of mining licences, the Value Added Tax Act, 1997, Cap. 148 R.E.
+    questions_and_answers:
+      - question: |
+          What is the main issue in the case between Geita Gold Mining Limited and the Commissioner General, Tanzania Revenue Authority?
+        answer: |
+          The main issue is whether Geita Gold Mining Limited is liable to remit Value Added Tax (VAT) on fuel supplied to its contractor for mining activities in the Geita Region.
+      - question: |
+          Which court issued the judgment on this appeal and when was the judgment delivered?
+        answer: |
+          The judgment was issued by the Court of Appeal of Tanzania at Dodoma on 2nd November 2021.
+      - question: |
+          What previous decisions upheld the appellant's liability before this appeal reached the Court of Appeal?
+        answer: |
+          The Tax Revenue Appeals Board and the Tax Revenue Appeals Tribunal had both upheld the appellant's liability to pay VAT on fuel supplied to its contractor.
+      - question: |
+          What incentive related to taxation is mentioned for mining license holders in Tanzania?
+        answer: |
+          The context mentions that mining license holders are offered incentives under the Value Added Tax Act, 1997, Cap. 148 R.E., although the specific nature of those incentives is not detailed here.
+      - question: |
+          Which tribunal's judgment was being appealed in this case, and who delivered that judgment?
+        answer: |
+          The judgment of the Tax Revenue Appeals Tribunal at Mwanza, delivered by Twaib, J., on 1st October 2012, was being appealed in this case.
+  - context: |
+      1ps. 1ps. As the Board correctly found, the section does not cover "supplies by" such company to any other person, including its contractors, as is the case herein". [ at page 204 o f the record]. We respectfully agree with the above being satisfied that it reflects a correct interpretation of the law. Having so said, we shall proceed to a discussion on the application of GGML case to the instant appeal. As alluded to earlier, the learned 2ps. counsel made no reference to our decision in GGML case in their respective written submissions but did so in their oral address. Briefly the facts in that case were that, like in the instant appeal, a dispute arose as to the appellant's failure to remit VAT to the respondent on the supply of excessive fuel to M/s Golden Construction Company Ltd who was 3ps. contracted to run the Geita Gold Mine Power Station for the generation of electricity to her mine. 2ps. 1ps. Having so said, we shall proceed to a discussion on the application of GGML case to the instant appeal. As alluded to earlier, the learned counsel made no reference to our decision in GGML case in their respective written submissions but did so in their oral address. The appellant's objection premised on the tax relief was rejected by the respondent maintaining that the appellant was liable to charge and remit VAT 2ps. on invoices for fuel supplied to her contractor. The Board sustained the respondent's stance and dismissed the appeal so did the Tribunal. The appellant appealed to this Court on four grounds. Ground one faulted the Tribunal for holding that the VAT was payable on excess fuel utilized by M/s Gold Construction Company Limited to run her power station whereas in ground two, she criticised 3ps.
+    questions_and_answers:
+      - question: |
+          What was the main issue in the GGML case referenced in the context?
+        answer: |
+          The main issue in the GGML case was a dispute over the appellant's failure to remit VAT on the supply of excessive fuel to M/s Golden Construction Company Ltd, a contractor running the Geita Gold Mine Power Station for electricity generation.
+      - question: |
+          What was the appellant's objection regarding the VAT remittance in the GGML case?
+        answer: |
+          The appellant's objection was premised on a tax relief, arguing that they were not liable to charge and remit VAT on the invoices for fuel supplied to their contractor.
+      - question: |
+          What was the position of the respondent and the subsequent rulings of the Board and Tribunal in the GGML case?
+        answer: |
+          The respondent maintained that the appellant was liable to charge and remit VAT on the invoices for fuel supplied to the contractor. The Board upheld this stance and dismissed the appeal, a decision that was also affirmed by the Tribunal.
+      - question: |
+          How did the counsel address the GGML case in relation to the instant appeal?
+        answer: |
+          The counsel made no reference to the GGML case in their written submissions but included it in their oral address.
+      - question: |
+          What were the first two grounds of appeal brought by the appellant in the instant case?
+        answer: |
+          Ground one criticized the Tribunal for holding that VAT was payable on excess fuel used by the contractor to run the power station, while ground two further challenged this conclusion.
+document_outline: |
+  **Document Outline:**  
+  
+  This document presents a legal judgment from the Court of Appeal of Tanzania in Civil Appeal No. 181 of 2020 between Geita Gold Mining Limited (Appellant) and the Commissioner General, Tanzania Revenue Authority (Respondent). The case revolves around a dispute over the appellant's liability to remit Value Added Tax (VAT) on fuel supplied to contractors under mining operations. The court reviews prior judgments by the Tax Revenue Appeals Board and Tribunal, which upheld the respondent's contention that the VAT exemption on fuel for mining activities did not extend to contracted parties.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Geita_Gold_Mining_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_181_of_2020)_2021_TZCA_626_(2_November_2021).md

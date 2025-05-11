@@ -1,0 +1,116 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## EAST AFRICAN COMMUNITY
+      
+      C. 25 CUSTOMS
+      
+      Regulation 98 (1)
+      
+      ## APPLICATION TO
+         TRANSFER STORES OF AIRCRAFT OR VESSEL
+      
+      To the Proper Officer,
+      
+      For Official
+         Use
+      
+      Rotation No. ……………………………
+      
+      *I/We,
+         ………………………………………………….  having furnished
+         a bond security dated …………………………………….. 
+      
+      In the
+         sum of  ……………………………………dollars, hereby request
+         permission to transfer the following stores from the
+         *Aircraft/vessel
+      
+      …………………………….………………to the
+         *aircraft/vessel………………………………………………
+      
+      Marks
+         and numbers of packages
+      
+      Description of
+         goods
+      
+      ………………………………………
+      
+      Master
+      
+      Date
+      
+      ………………………………..
+      
+      *Approved/Not
+         Approved
+      
+      ………………………………………
+      
+      Proper Officer
+      
+      Date
+         ………………………………. 
+      
+      I have received the above-mentioned
+         stores and I undertake that they will not be taken into use without the
+         express permission of the Commissioner until the *aircraft/vessel has left
+         ……………………………………………………………………..
+      
+      ……………………………………
+      
+      Master
+      
+      Date
+         ………………………………
+      
+      Aircraft/Vessel
+         ………………………………………..
+      
+      Shipped:
+      
+      ………………………………
+      
+      Date
+         …………………………………
+      
+      Proper   Officer
+      
+      *Delete whichever
+         is inapplicable
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of Regulation 98 under the East African Community Customs framework?
+        answer: |
+          Regulation 98 governs the application process to transfer stores between aircraft or vessels, requiring official approval from a Proper Officer and adherence to specified conditions.
+      - question: |
+          What documentation must applicants provide as part of the transfer request under Regulation 98?
+        answer: |
+          Applicants must provide a bond security, including details of the bond's date and value, along with information about the goods, their marks, and package numbers.
+      - question: |
+          What assurance must the receiver of the transferred stores make according to Regulation 98?
+        answer: |
+          The receiver must undertake not to use the transferred stores without the express permission of the Commissioner until the aircraft or vessel has departed.
+      - question: |
+          What approvals are required for a transfer of stores to take place under Regulation 98?
+        answer: |
+          The transfer requires the approval of a Proper Officer, who determines whether the request is approved or not approved, as indicated on the form.
+      - question: |
+          What information must be documented by the master of the aircraft or vessel during the transfer process?
+        answer: |
+          The master must confirm the receipt of the specified stores, sign and date the appropriate sections, and provide details of the aircraft or vessel involved in the transfer.
+document_outline: |
+  **Document Outline:**  
+  The document is a formal application form used within the East African Community under Regulation 98 (1) for requesting permission to transfer stores between aircraft or vessels. It includes sections for bond security details, descriptions of goods, approval or denial by a proper officer, and undertakings by the master of the aircraft or vessel.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c25-application-to-transfer-stores-of-aircratf-or-vessel.md

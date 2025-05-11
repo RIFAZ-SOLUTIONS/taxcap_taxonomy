@@ -1,0 +1,36 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> IsO 9001:2015 Certified Enhanced Domestic Revenue System USER GUIDE ON BULK UPLOADING OR DELETION OF EMPLOYEES ## Table of Contents | 1. | Task Summary................................................................................................................................... 1 | |------|-----------------------------------------------------------------------------------------------------------------------------------------------------| | 2 | Getting Started.................................................................................................................................. 2 | | 3 | A: BULK UPLOADING OF EMPLOYEES ............................................................................................... 3 | | 4 | B: BULK DELETION OF EMPLOYEES................................................................................................. 11 | ## 2ps. 1. Task Summary This User Manual (UM) provides the information necessary for PAYE Declarants to add or delete employees in bulk from employee's database in the taxpayer portal. The uploading of employees is done using excel template that is downloaded from the Taxpayer Portal. ## 2. Getting Started In order to use instructions outlined in this user guide, the user must have a valid Taxpayer Portal account and must be appointed as a PAYE Declarant 3ps. for the respective persons. Users with a few number of employees whose information does not change regularly, are advised to use the normal procedures of one by one addition option available in taxpayer portal. 2ps. 1ps. The uploading of employees is done using excel template that is downloaded from the Taxpayer Portal. ## 2. Getting Started In order to use instructions outlined in this user guide, the user must have a valid Taxpayer Portal account and must be appointed as a PAYE Declarant for the respective persons. Users with a few number of employees whose information does not change regularly, are advised to use the normal procedures of one by one addition option available in taxpayer portal. ## 3. A: BULK 2ps. UPLOADING OF EMPLOYEES By following these steps, the PAYE Declarant will be able to Upload bulk employees to Employees database in the Taxpayer portal. STEP 01: Go to the official TRA website then click ' Taxpayer Portal ' button.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the User Manual described in the context?
+        answer: |
+          The User Manual provides information for PAYE Declarants on how to add or delete employees in bulk using the taxpayer portal.
+      - question: |
+          What tool is used for bulk uploading of employees, and where can it be obtained?
+        answer: |
+          An Excel template is used for bulk uploading of employees, and it can be downloaded from the Taxpayer Portal.
+      - question: |
+          What is required for a user to follow the instructions in the user guide?
+        answer: |
+          The user must have a valid Taxpayer Portal account and be appointed as a PAYE Declarant for the respective persons.
+      - question: |
+          What is recommended for users with a small number of employees whose information does not change regularly?
+        answer: |
+          Users with a small number of employees whose information does not change regularly are advised to use the one-by-one addition option available in the taxpayer portal.
+      - question: |
+          What is the first step for bulk uploading employees to the Taxpayer Portal?
+        answer: |
+          The first step is to go to the official TRA website and click the 'Taxpayer Portal' button.
+document_outline: |
+  **Document Outline:**
+  
+  This user guide provides detailed instructions for PAYE Declarants on how to efficiently add or delete employees in bulk using the taxpayer portal. It includes step-by-step processes for downloading, completing, and uploading an Excel template for employee data management, as well as instructions for bulk employee deletion.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - BULK_EMPLOYEES_-_UPLOADING_BY_EXCEL_USER.md

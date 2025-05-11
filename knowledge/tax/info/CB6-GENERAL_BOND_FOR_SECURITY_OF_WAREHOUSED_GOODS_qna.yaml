@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Form CB6 ## EAST AFRICAN COMMUNITY CUSTOMS GENERAL BOND FOR SECURITY OF WAREHOUSED GOODS. I /We …………………………………………………………………………………. of……………………………………………………………………………………… and……………………………………………………………………………………. of…………………………………………………………………………………… .. hereby acknowledge that I am/ we are bound to the Commissioner in the 2ps. sum of ………………………………………… dollars to be paid to the Commissioner for which payment I / we bind myself / ourselves jointly and severally and also to my / our heirs, executors, administrators and assigns and every of them firmly by these presents. Dated this…………day of…………………….20….. I am/We are aware that the Commissioner by virtue of authority vested in him by the East African Customs Management Act has appointed No……………………….warehouse situated at …………………………….(place) whereof, I am/We are the occupier(s), 3ps. as a warehouse for warehousing of goods without payment of duty on the first entry thereof and has directed that I/we shall give security in the sum of ……………………………………………dollars and has approved the above named…………………………………………………………………. as surety of the above named…………………………………………………………………………. 2ps. 1ps. I am/We are aware that the Commissioner by virtue of authority vested in him by the East African Customs Management Act has appointed No……………………….warehouse situated at …………………………….(place) whereof, I am/We are the occupier(s), as a warehouse for warehousing of goods without payment of duty on the first entry thereof and has directed that I/we shall give security in the sum of ……………………………………………dollars and has approved the above named…………………………………………………………………. as surety of the above named…………………………………………………………………………. I/We understand that the conditions of this obligation are as 2ps. follows- - (i) The full duties on all goods shall at any time be warehoused in the above named warehouse shall from time to time be paid to the Commissioner. - (ii) All the goods shall be exported.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the East African Community Customs General Bond Form CB6?
+        answer: |
+          The purpose of the bond is to provide security for warehoused goods by binding the applicant to pay a specified sum to the Commissioner and comply with certain obligations regarding the warehousing and handling of goods.
+      - question: |
+          What authority does the Commissioner use to appoint warehouses for goods without payment of duty?
+        answer: |
+          The Commissioner uses the authority vested in them by the East African Customs Management Act to appoint specific warehouses for storing goods without the payment of duty on their first entry.
+      - question: |
+          What are the obligations of the applicant as outlined in the bond conditions?
+        answer: |
+          The applicant must ensure that full duties on all goods warehoused are paid to the Commissioner and that all the goods are exported as per the terms of the bond.
+      - question: |
+          What type of security is required when a warehouse is approved under this system?
+        answer: |
+          Security in the form of a monetary sum is required, as stipulated in the bond, and a surety must be approved to guarantee compliance with the bond's terms.
+      - question: |
+          Who can be held accountable under this bond in case of non-compliance?
+        answer: |
+          The applicant(s), along with their heirs, executors, administrators, and assigns, are jointly and severally bound to fulfill the obligations of the bond and are accountable in case of non-compliance.
+document_outline: |
+  **Document Outline:**  
+  The document is a General Bond for Security of Warehoused Goods under the East African Community Customs framework. It outlines the obligations of individuals or entities (and their sureties) who secure a customs warehouse, ensuring payment of duties or export of goods, with conditions for bond fulfillment governed by the East African Customs Management Act.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CB6-GENERAL_BOND_FOR_SECURITY_OF_WAREHOUSED_GOODS.md

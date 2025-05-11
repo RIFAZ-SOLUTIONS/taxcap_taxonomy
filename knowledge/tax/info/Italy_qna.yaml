@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Article 21 Income not expressly mentioned [Compare: OECD Model | UN Model] - 1. Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention except management fees shall be taxable only in the State. - 2. Management fees paid in a Contracting State to a resident of the other Contracting State may be taxed in both Contracting States. In such a case the items of income are taxable in that other Contracting State according to its own law. 2ps. 1ps. - 2. Management fees paid in a Contracting State to a resident of the other Contracting State may be taxed in both Contracting States. In such a case the items of income are taxable in that other Contracting State according to its own law. ## Chapter IV Method of elimination of double taxation Article 22 ## Credit method [Compare: OECD Model | UN Model] - 1. It is agreed that double taxation shall be avoided in the following manner: - n the case of a resident of Tanzania who: (a) I - (1) derives income from sources within Italy which, in accordance with the 2ps. provisions of this Convention, is exempt from Tanzania tax but may be taxed in Italy; then Tanzania may, in calculating tax on the remaining income of such resident, apply the rate of tax which would have been applicable if the income derived from sources within Italy had not been so exempted; - (2) derives income from sources within Italy, which, apart from the provisions of this Article, may be taxed in both Contracting States, then Tanzania shall allow as a deduction from the tax on the income of such resident, an amount equal to the tax paid in Italy. 3ps.
+    questions_and_answers:
+      - question: |
+          What types of income does Article 21 of the Convention refer to?
+        answer: |
+          Article 21 refers to items of income of a resident of a Contracting State that are not expressly dealt with in the previous Articles of the Convention, excluding management fees.
+      - question: |
+          How are management fees treated under Article 21 of the Convention?
+        answer: |
+          Management fees paid in one Contracting State to a resident of the other Contracting State may be taxed in both Contracting States, with the specific taxation determined by the laws of the resident's Contracting State.
+      - question: |
+          What method does Chapter IV, Article 22 outline for eliminating double taxation?
+        answer: |
+          Chapter IV, Article 22 describes the credit method as the approach to eliminating double taxation.
+      - question: |
+          How does Tanzania handle income derived from Italy that is exempt from Tanzanian tax under the Convention?
+        answer: |
+          Tanzania may, in calculating tax on the remaining income of such a resident, apply the rate of tax that would have been applicable if the income derived from Italy had not been exempted.
+      - question: |
+          What provision is made for income taxable in both Contracting States under Article 22?
+        answer: |
+          If income is taxable in both Contracting States, Tanzania allows a deduction from the tax owed on the resident's income equal to the tax paid in Italy.
+  - context: |
+      1ps. 1ps. - 5. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise. - 6. For the purpose of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary. ## Article 8 ## Shipping and air transport ## [Compare: OECD Model | UN Model] - 1. Profits from the operation of aircraft in international traffic shall be taxable only in the Contracting State in which the 2ps. place of effective management of the enterprise is situated. - 2. Profits from the operation of ships in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated. However, such profits may be taxed in the other Contracting State, but the tax so charged shall be reduced by fifty percent. 2ps. 1ps. ## Article 8 ## Shipping and air transport ## [Compare: OECD Model | UN Model] - 1. Profits from the operation of aircraft in international traffic shall be taxable only in the Contracting State in which the place of effective management of the enterprise is situated. - 2. Profits from the operation of ships in international traffic may be taxed in the Contracting State in which the place of effective management of the enterprise is situated. - 3. If the place of effective management of a shipping enterprise is aboard a ship, then it shall be deemed to be situated in the Contracting 2ps.
+    questions_and_answers:
+      - question: |
+          What is the rule for attributing profits to a permanent establishment when it merely purchases goods?
+        answer: |
+          No profits shall be attributed to a permanent establishment solely because it purchases goods or merchandise for the enterprise.
+      - question: |
+          Under what condition can the method for determining profits of a permanent establishment be changed?
+        answer: |
+          The method for determining profits of a permanent establishment can only be changed if there is a good and sufficient reason to the contrary.
+      - question: |
+          Where are profits from the operation of aircraft in international traffic taxable?
+        answer: |
+          Profits from the operation of aircraft in international traffic are taxable only in the Contracting State where the place of effective management of the enterprise is situated.
+      - question: |
+          How are profits from the operation of ships in international traffic taxed according to the context?
+        answer: |
+          Profits from the operation of ships in international traffic are taxable in the Contracting State where the place of effective management of the enterprise is situated, but they may also be taxed in the other Contracting State with the tax being reduced by fifty percent.
+      - question: |
+          How is the place of effective management determined if it is aboard a ship for a shipping enterprise?
+        answer: |
+          If the place of effective management of a shipping enterprise is aboard a ship, it is deemed to be situated in the Contracting State associated with that ship.
+  - context: |
+      1ps. 1ps. - 4. The Convention shall also apply to any identical or substantially similar taxes which are subsequently imposed in addition to, or in place of, the existing taxes. At the end of each year, the competent authorities of the Contracting States shall notify to each other any changes which have been made in their respective taxation laws. - 2. As regards the application of the Convention by a Contracting State any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the law of that Contracting State relating to the taxes which 2ps. are the subject of the Convention. ## Article 4 ## Fiscal domicile ## [Compare: OECD Model | UN Model] - 1. For the purposes of this Convention, the term "resident of a Contracting State" means any person who, under the law of that State, is liable to taxation therein by reason of his domicile, residence, place of management or any other criterion of similar nature. 2ps. 1ps. - 2. As regards the application of the Convention by a Contracting State any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the law of that Contracting State relating to the taxes which are the subject of the Convention. - 2. Where by reason of the provisions of paragraph 1 an individual is a resident of both Contracting States, then his case shall be determined in accordance with the following rules: - (a) he shall be deemed to be a resident of the Contracting State in which he has a permanent home 2ps. available to him. For the purpose of this article, a permanent home shall be where he dwells with his family. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What types of taxes does the Convention apply to?
+        answer: |
+          The Convention applies to existing taxes, as well as any identical or substantially similar taxes that are subsequently imposed in addition to or in place of the existing taxes.
+      - question: |
+          What is required of the competent authorities of the Contracting States each year?
+        answer: |
+          The competent authorities of the Contracting States are required to notify each other of any changes made to their respective taxation laws at the end of each year.
+      - question: |
+          How are terms not defined in the Convention interpreted in a Contracting State?
+        answer: |
+          Any term not defined in the Convention shall, unless the context requires otherwise, have the meaning it has under the tax laws of that Contracting State related to the taxes covered by the Convention.
+      - question: |
+          How is 'resident of a Contracting State' defined under the Convention?
+        answer: |
+          A 'resident of a Contracting State' refers to any person who, under that State's law, is liable to taxation due to domicile, residence, place of management, or other similar criteria.
+      - question: |
+          What rule determines residence when an individual is considered a resident of both Contracting States?
+        answer: |
+          If an individual is a resident of both Contracting States, their residence is determined by the location of their permanent home, defined as where they dwell with their family.
+  - context: |
+      1ps. 1ps. - 3. Where by reason of the provisions of paragraph 1 a person other than an individual is a resident of both Contracting States, then it shall be deemed to be a resident of the Contracting State in which its place of effective management is situated. ## Article 5 ## Permanent establishment ## [Compare: OECD Model | UN Model] - 1. For the purpose of this Convention, the term "permanent establishment" means a fixed place of business in which the business of the enterprise is wholly or partly carried on. - 3. The term "permanent establishment" shall not be deemed to include: - he 2ps. use of facilities solely for the purpose of storage, display or delivery of goods or merchandise (a) t belonging to the enterprise; - (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery; - (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise; - (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise or for collecting information, for the enterprise; - (e) the maintenance of a fixed place 3ps. of business solely for the purpose of advertising, for the supply of information, for scientific research or for similar activities which have a preparatory or auxiliary character, for the enterprise. 2ps. 1ps. ## Article 5 ## Permanent establishment ## [Compare: OECD Model | UN Model] - 1. For the purpose of this Convention, the term "permanent establishment" means a fixed place of business in which the business of the enterprise is wholly or partly carried on. - 4.
+    questions_and_answers:
+      - question: |
+          What determines the residence of a non-individual entity under the Convention if it qualifies as a resident in both Contracting States?
+        answer: |
+          The residence is determined by the location of its place of effective management.
+      - question: |
+          How is the term 'permanent establishment' defined in this context?
+        answer: |
+          Permanent establishment is defined as a fixed place of business in which the business of the enterprise is wholly or partly carried on.
+      - question: |
+          What activities are explicitly excluded from the definition of 'permanent establishment'?
+        answer: |
+          Activities such as using facilities solely for storage, display or delivery of goods, maintaining stock for these purposes or for processing by another enterprise, and maintaining a fixed place of business for purchasing, collecting information, advertising, supplying information, or scientific research with a preparatory or auxiliary character are excluded.
+      - question: |
+          What is the significance of comparing the definition of 'permanent establishment' to the OECD and UN Models?
+        answer: |
+          The comparison highlights that the definition aligns with standard international frameworks for taxation treaties, ensuring consistency and clarity.
+      - question: |
+          What is the purpose of explicitly defining activities with a preparatory or auxiliary character in relation to 'permanent establishment'?
+        answer: |
+          Defining such activities ensures that enterprises are not deemed to have a taxable presence in a Contracting State solely due to minor or supporting operations.
+  - context: |
+      1ps. 1ps. - 3. The term "royalties" as used in this Article means payments of any kind received as a consideration for the use of, or the right to use, any copyright of literary, artistic or scientific work including cinematograph films, any patent, trademark, design or model, plan, secret formula or process, or for the use of, or the right to use, industrial, commercial, or scientific equipment, or for information concerning industrial, commercial or scientific experience. - 5. Where, owing to a special relationship between the payer and the recipient or between both of them and some other persons, the amount of the 2ps. royalties paid, having regard to the use, right or information for which they are paid, exceeds the amount which would have been agreed upon by the payer and the recipient in the absence of such relationship, the provisions of this Article shall apply only to the last-mentioned amount. In that case, the excess part of the payment shall remain taxable according to the law of each contracting State, due regard being had to the other provisions of this Convention. 2ps. 1ps. In such a case, the royalties are taxable in that other Contracting State according to its own law. In that case, the excess part of the payment shall remain taxable according to the law of each contracting State, due regard being had to the other provisions of this Convention. ## Article 13 ## Capital gains ## [Compare: OECD Model | UN Model] - 1. Gains from the alienation of immovable property, as defined in paragraph 2 of Article 6, may be taxed in the Contracting State in which such property is situated. - 2. Gains from the alienation of movable property 2ps.
+    questions_and_answers:
+      - question: |
+          What does the term 'royalties' encompass according to the article?
+        answer: |
+          The term 'royalties' refers to payments received for the use or the right to use any copyright of literary, artistic, or scientific work, patents, trademarks, designs, models, plans, secret formulas, processes, or industrial, commercial, or scientific equipment, as well as for information concerning industrial, commercial, or scientific experience.
+      - question: |
+          How are excessive royalty payments due to special relationships treated under the article?
+        answer: |
+          If a special relationship leads to royalty payments exceeding the amount that would have been agreed upon in its absence, the provisions of the article apply only to the appropriate amount. The excess is taxable by the contracting states under their respective laws, accounting for the convention's other provisions.
+      - question: |
+          What happens to excessive royalty payments under the laws of the contracting states?
+        answer: |
+          Excessive royalty payments are taxable according to the law of each contracting state while considering the provisions outlined in the convention.
+      - question: |
+          How are gains from the alienation of immovable property taxed based on Article 13?
+        answer: |
+          Gains from the alienation of immovable property may be taxed in the contracting state where the property is situated.
+      - question: |
+          What is the scope of gains covered under Article 13 regarding movable property?
+        answer: |
+          Article 13 mentions gains from the alienation of movable property, but specific details are not provided in the given context.
+document_outline: |
+  **Document Outline:**  
+  This document is the text of the Convention between Tanzania and Italy for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income. It outlines the agreement's effective dates, tax scope, definitions, and residency rules, incorporating relevant provisions modeled after OECD and UN frameworks.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Italy.md

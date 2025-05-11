@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The present application is in my view no longer about whether extension of time must have been made during the period of six months. It is on record that Hon. Mruma J., of this Court in his ruling dated 08/05/2009 granted the Applicant extension of time for application for leave for prerogative orders. It is also on 2ps. record that on the 28/05/2009, the Applicant filed in this Court application for an order that this Court be pleased to issue prerogative orders of certiorari, mandamus and prohibition to remove into this Court and quash the decision of the 1 st and 2 nd Respondents dated 16 th February 2005 and 23 rd February 2005. This Application also attracted a preliminary objection 3ps. from the 3 rd Respondent on a point of law that the application was fatally defective for being prematurely before this Court and on the 29 th day of September 2009 the 1 st and 2 nd Respondents also raised three points of preliminary objection on the Application. 2ps. 1ps. It is on record that Hon. Mruma J., of this Court in his ruling dated 08/05/2009 granted the Applicant extension of time for application for leave for prerogative orders. The Application was stuck out by this Court on 14/12/2009 on among other reasons that it had overstepped the procedure by having been brought prematurely for prerogative orders 2ps. instead of first applying for leave to apply for prerogative orders as required by law. The Applicant have now come back to this Court and by this Application which was filed on 05/07/2010 they are seeking for extension of time within which to make this application for leave and for grant of leave to file an application for prerogative. The Applicant are still 3ps.
+    questions_and_answers:
+      - question: |
+          What extension of time was granted to the Applicant by Hon. Mruma J. on 08/05/2009?
+        answer: |
+          Hon. Mruma J. granted the Applicant an extension of time for application for leave to apply for prerogative orders.
+      - question: |
+          What was the purpose of the Applicant's filing on 28/05/2009?
+        answer: |
+          The Applicant filed an application for orders of certiorari, mandamus, and prohibition to quash decisions made by the 1st and 2nd Respondents on 16th and 23rd February 2005.
+      - question: |
+          What point of law was raised by the 3rd Respondent as a preliminary objection?
+        answer: |
+          The 3rd Respondent argued that the application was fatally defective for being prematurely brought before the Court.
+      - question: |
+          Why was the Applicant's original application struck out on 14/12/2009?
+        answer: |
+          The application was struck out because it overstepped the procedure by being brought prematurely for prerogative orders, instead of first applying for leave to apply for prerogative orders as required by law.
+      - question: |
+          What is the Applicant seeking in their new application filed on 05/07/2010?
+        answer: |
+          The Applicant is seeking an extension of time to make an application for leave and for the grant of leave to file an application for prerogative orders.
+  - context: |
+      1ps. 1ps. Mr. Kinguji learned Counsel appeared for the Applicant. - (c)For an order of prohibition to prohibit and or desist the 1 st and 2 nd Responndents from carrying out the threat of disposing of the vehicle and trailer stated at paragraph 2 (b)(ii) hereinabove; - (d) That Costs of this application be granted to the Applicant - (e) Any other and further reiief(s) that the Honourable Court may deem just and fit to grant. The Application has been 2ps. made out at the instance of Kinguji &amp; Company, Advocates and is supported by the Affidavit of TALAL ISLAM SALEH together with statement of the Applicant annexed to the Application and further grounds and reasons adduced during the hearing of the Application. On the 22 nd day of June 2010, the Respondents jointly filed a Notice of Preliminary Objection that on the 3ps. first hearing of the Application they shall raised a Preliminary Objection on a point of law that the Application is hopelessly out of time. 2ps. 1ps. - (c)For an order of prohibition to prohibit and or desist the 1 st and 2 nd Responndents from carrying out the threat of disposing of the vehicle and trailer stated at paragraph 2 (b)(ii) hereinabove; - (d) That Costs of this application be granted to the Applicant - (e) Any other and further reiief(s) that the Honourable Court may deem just and fit to grant. Mr. Malata submitting on the preliminary objection that the application hopelessly time barred argued that the 2ps. Application which is seeking to challenge the decision made by 1 st and 2 nd Respondents dated 16/02/2005 as reflected in prayer one in the Chamber Summons, is hopelessly out of time. Mr.
+    questions_and_answers:
+      - question: |
+          Who appeared for the Applicant in the case?
+        answer: |
+          Mr. Kinguji, learned Counsel, appeared for the Applicant.
+      - question: |
+          What specific order is being sought regarding the vehicle and trailer?
+        answer: |
+          The Applicant is seeking an order of prohibition to prevent the 1st and 2nd Respondents from carrying out the threat of disposing of the vehicle and trailer.
+      - question: |
+          On what grounds did the Respondents file a Preliminary Objection?
+        answer: |
+          The Respondents filed a Preliminary Objection arguing that the Application was hopelessly out of time, as it sought to challenge a decision made on 16/02/2005.
+      - question: |
+          What additional reliefs are the Applicants seeking apart from specific orders?
+        answer: |
+          The Applicants are seeking costs of the application and any other reliefs that the Honourable Court may deem just and fit to grant.
+      - question: |
+          Who provided support for the Applicant's Application and statement?
+        answer: |
+          The Application was supported by the Affidavit of Talal Islam Saleh and the statement of the Applicant annexed to the Application.
+  - context: |
+      1ps. 1ps. Mr. Malata elaborating submitted further that the present Application was filed in this Court on 07/05/2010 and counting from the date of the decision the subject of this application, it brings it to almost five years, which is beyond the time limit provided in the law within which the Applicant could have filed for extension of 2ps. time. Mr. Malata submitted further that this period is beyond the twelve months provided in the law within which to file for application extension. Mr. Malata submitted further that the Court while referring to the proviso to Order VIII Rule 1(2) which allows for enlargement of time to be made after the expiration of the 21 days when the defendant is required to file his 3ps. written statement of defence, the Court (Kaji, JA) observed thus "The meaning of this, in our view, is that, when the defendant fails to file written statement of defence within the prescribed period of twenty-one days, he may apply for extension of time, provided he does so within twenty-one days from the expiration of the prescribed period of twenty-one days. 2ps. 1ps. Mr. Malata submitted further that this period is beyond the twelve months provided in the law within which to file for application extension. If he does so more than twenty one days, his application cannot be entertained. The rationale behind it is to limit the discretion of the court to extend time within which the defendant can file a written statement 2ps. of defence as was held by this Court in TANZANIA HARBOURS AUTHORITY VS. MOHAMED R. MOHAMED Civil Appeal No.80 o f1999 (unreported." 3ps. 1ps. If he does so more than twenty one days, his application cannot be entertained.
+    questions_and_answers:
+      - question: |
+          When was the present application filed in this Court?
+        answer: |
+          The present application was filed in this Court on 07/05/2010.
+      - question: |
+          What is the time limit provided by law for filing an application for extension?
+        answer: |
+          The law provides a twelve-month time limit within which to file an application for extension.
+      - question: |
+          What observation did the Court make regarding an extension of time under Order VIII Rule 1(2)?
+        answer: |
+          The Court observed that a defendant may apply for an extension of time within twenty-one days after the expiration of the prescribed twenty-one-day period to file a written statement of defence.
+      - question: |
+          What happens if the application for an extension is made after the permitted twenty-one-day post-default period?
+        answer: |
+          If the application is made more than twenty-one days after the expiration of the prescribed period, it cannot be entertained.
+      - question: |
+          What rationale did the Court provide for limiting its discretion to extend time for filing a defendant's statement of defence?
+        answer: |
+          The rationale is to limit the Court's discretion to extend the time within which the defendant can file a written statement of defence, as was held in the case TANZANIA HARBOURS AUTHORITY VS. MOHAMED R. MOHAMED Civil Appeal No.80 of 1999.
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (COMMERCIAL DIVISION) AT PAR ES SALAAM ## MISCELLANEOUS CIVIL CAUSE NO.5 OF 2010 ## IN THE MATTER OF AN APPLICATION FOR LEAVE TO APPLY FOR ORDERS OF CERTIORARI, MANDAMUS AND PROHIBITION AND IN THE MATTER OF THE DECISION OF THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY AND COMMISSIONER FOR CUSTOMS AND EXCISE DATED 16 t h FEBRUARY, 2005 AND 23 r d FEBRUARY, 2005 ## BETWEEN ISLAM SALEH NAHDI LIMITED.................................... 2ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (COMMERCIAL DIVISION) AT PAR ES SALAAM ## MISCELLANEOUS CIVIL CAUSE NO.5 OF 2010 ## IN THE MATTER OF AN APPLICATION FOR LEAVE TO APPLY FOR ORDERS OF CERTIORARI, MANDAMUS AND PROHIBITION AND IN THE MATTER OF THE DECISION OF THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY AND COMMISSIONER FOR CUSTOMS AND EXCISE DATED 16 t h FEBRUARY, 2005 AND 23 r d FEBRUARY, 2005 ## BETWEEN ISLAM SALEH NAHDI LIMITED.................................... APPLICANT AND THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......................... 1 st DEFENDANT THE COMMISSIONER FOR CUSTOMS &amp; EXCISE..... 2 nd DEFENDANT THE ATTORNEY GENERAL...................................... 3 r d DEFENDANT Date of last order - 13/8/2010 Date of oral submissions 2ps. - 13/08/2010 Date of ruling - 24/09/2010 ## RULING ## MAKARAMBA, J.: This is a ruling on reserved reasons on the Preliminary Objection the Respondents raised against the Applicant's application for leave to apply for prorogated orders out of time, which was lodged in this Court on the 7 th day of July 2010. On the 13 th day of August when Counsel for the parties made oral submissions on the preliminary 3ps. objection, this Court dismissed the application with costs and reserved reasons for a later date. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What was the primary subject of the application in Miscellaneous Civil Cause No.5 of 2010?
+        answer: |
+          The application was for leave to apply for orders of certiorari, mandamus, and prohibition regarding decisions made by the Commissioner General of the Tanzania Revenue Authority and the Commissioner for Customs and Excise on February 16, 2005, and February 23, 2005.
+      - question: |
+          Who were the defendants in this case?
+        answer: |
+          The defendants were the Commissioner General of the Tanzania Revenue Authority (1st Defendant), the Commissioner for Customs and Excise (2nd Defendant), and the Attorney General (3rd Defendant).
+      - question: |
+          What decision did the court make on August 13, 2010?
+        answer: |
+          The court dismissed the applicant's request for leave to apply for orders out of time, with costs, and reserved the reasoning for a later date.
+      - question: |
+          When was the ruling on the reserved reasons delivered?
+        answer: |
+          The ruling on the reserved reasons was delivered on September 24, 2010.
+      - question: |
+          What was the date of the last order and oral submissions in the case?
+        answer: |
+          The date of the last order and the oral submissions was August 13, 2010.
+  - context: |
+      1ps. 1ps. Justice Mruma of this Court granted the applicant leave to apply for prerogative orders. Mr. Kinguji conceded that unfortunately instead of filing the application they had gone one stage ahead. Mr. Kinguji submitted further that on 14/12/2009, the application was struck out by Justice Makaramba of this Court and it is from this application which they filed praying 2ps. for extension of time starting from 14/12/2009 when time begun to run and not from 2005 as the learned State Attorney has submitted. Mr. Kinguji submitted further that they are still within time and technicalities should not be used to defeat justice and prayed the Preliminary Objection to be dismissed with costs for lack of merits. Mr. 3ps. Malata rejoining differed with Mr. Kinguji and submitted that the application before this Court which was filed on 07/05/2010 is seeking for among others prayers for leave to be granted to the applicant to file an application for prerogative orders. The date for reckoning the time limit is from the date the first application was struck out which is on 14/12/2009. 2ps. 1ps. Mr. Kinguji submitted further that they are still within time and technicalities should not be used to defeat justice and prayed the Preliminary Objection to be dismissed with costs for lack of merits. Mr. Malata rejoining differed with Mr. Kinguji and submitted that the application before this Court which was filed on 07/05/2010 is seeking for among others prayers 2ps. for leave to be granted to the applicant to file an application for prerogative orders. Mr.
+    questions_and_answers:
+      - question: |
+          Who granted the applicant leave to apply for prerogative orders?
+        answer: |
+          Justice Mruma of this Court granted the applicant leave to apply for prerogative orders.
+      - question: |
+          What error did Mr. Kinguji concede in handling the application?
+        answer: |
+          Mr. Kinguji conceded that instead of filing the application, they had prematurely gone one stage ahead.
+      - question: |
+          When was the application initially struck out by Justice Makaramba, and what is its significance in the timeline?
+        answer: |
+          The application was struck out on 14/12/2009 by Justice Makaramba, and this date marks the starting point for calculating the timeline for the extension of time requested.
+      - question: |
+          What argument did Mr. Kinguji present regarding the timeline and technicalities?
+        answer: |
+          Mr. Kinguji argued that they are still within time based on the timeline starting from 14/12/2009, and that technicalities should not be used to defeat justice.
+      - question: |
+          What was the filing date of the application before the Court, as mentioned by Mr. Malata?
+        answer: |
+          The application before the Court was filed on 07/05/2010, according to Mr. Malata.
+document_outline: |
+  **Document Outline:**
+  
+  This document is a ruling by the High Court of Tanzania, Commercial Division, on a Preliminary Objection raised by the Respondents (the Tanzania Revenue Authority and others) against the Applicant (Islam Saleh Nahdi Limited). The Applicant sought an extension of time to file for judicial review orders (certiorari, mandamus, and prohibition) related to decisions on vehicle seizure and forfeiture, while the Respondents argued that the application was time-barred; the court dismissed the application with costs after considering the submissions.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Islam_Saleh_Nahdi_Ltd_vs_The_Commissioner_General_(T)_Revenue_Authority_2_Others_(Misc_Civil_Cause_No_5_Of_2010)_2010_TZHCComD_34_(24_September_2010).md

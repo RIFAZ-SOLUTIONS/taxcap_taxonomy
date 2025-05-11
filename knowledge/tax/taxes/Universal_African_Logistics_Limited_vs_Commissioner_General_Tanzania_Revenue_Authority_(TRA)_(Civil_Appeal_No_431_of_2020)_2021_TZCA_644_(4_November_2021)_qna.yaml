@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. It was Mr. Gugami's further contention that even if the appellant had complied with the requirement under Note (b) (v) of the First Schedule to the VAT Act which was identical to the requirement under Regulation 6 (1) of the VAT Export Regulations, Regulation 6 (2) of the VAT Export Regulations qualifies Regulation 6 (1) by providing that services qualifying for zero-rating are those for which the intermediary receives commission from the principal. Section 7 (4) of the VAT Act defined "place of supply" of services as follows: "(4) 2ps. Services shall be regarded as supplied in Mainland Tanzania if the supplier of the services(a) has a place of business in Mainland Tanzania and no place of business elsewhere; (b) has no place of business in Mainland Tanzania or elsewhere but his usual place of residence is in Mainland Tanzania; or (c) has places of business in Mainland Tanzania and elsewhere but the place of business most concerned with the supply of the services is the place of business 3ps. in Mainland Tanzania." 2ps. 1ps. So far as the instant matter is concerned, the learned counsel contended that it was established before the Board that the appellant did not receive any commission from UWA, meaning that her services did not qualify for zerorating. It was common ground that paragraph (c) of section 7 (4) above is applicable to the matter at hand in view of the appellant's arrangements and operations at Mwanza as well as with its affiliate, UWA, in the United States. So far as zero-rating 2ps.
+    questions_and_answers:
+      - question: |
+          What qualifies services for zero-rating under Regulation 6 (2) of the VAT Export Regulations?
+        answer: |
+          Services qualify for zero-rating under Regulation 6 (2) of the VAT Export Regulations if the intermediary receives commission from the principal.
+      - question: |
+          How does Section 7 (4) of the VAT Act define the 'place of supply' for services?
+        answer: |
+          Section 7 (4) of the VAT Act states that services are supplied in Mainland Tanzania if the supplier has a place of business in Mainland Tanzania, has no place of business elsewhere, or most of the business operations related to the service are in Mainland Tanzania.
+      - question: |
+          Why were the appellant's services determined to not qualify for zero-rating?
+        answer: |
+          The appellant's services did not qualify for zero-rating because it was established that the appellant did not receive any commission from UWA.
+      - question: |
+          Which part of Section 7 (4) of the VAT Act was relevant to the appellant’s case?
+        answer: |
+          Paragraph (c) of Section 7 (4) of the VAT Act was relevant, as the appellant had arrangements and operations in Mwanza and with its affiliate, UWA, in the United States.
+      - question: |
+          What specific requirement under Note (b) (v) of the First Schedule to the VAT Act aligns with Regulation 6 (1) of the VAT Export Regulations?
+        answer: |
+          The specific requirement under Note (b) (v) of the First Schedule aligns with Regulation 6 (1) in mandating conditions for services to qualify for zero-rating.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: NDIKA, J.A.. MWANDAMBO. J.A.. And KAIRO. J.A.^ CIVIL APPEAL NO. 431 OF 2020 UNIVERSAL AFRICAN LOGISTICS LIMITED ................................... APPELLANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY (TRA)................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, J. - Chairman) in dated the 18th day of August, 2020 Tax Appeal No. 21 of 2018 ## JUDGMENT OF THE COURT 18th October &amp; 4th November, 2021 ## NDIKA, J.A.: The essence of this matter is the question whether 2ps. the appellant, Universal African Logistics Limited, is liable to pay TZS. 1,617,932,388.00 as additional value added tax ("VAT") and interest thereon amounting to TZS. 411,972,225.00 for the years 2011, 2012 and 2013 as assessed by the respondent, the Commissioner General, Tanzania Revenue Authority. The question was determined in the affirmative by the Tax Revenue Appeals Board ("the Board")/ at the first 3ps. instance, and the Tax Revenue Appeals Tribunal ("the Tribunal"), on appeal. Still discontented, the appellant now appeals to this Court. 2ps. 1ps. 411,972,225.00 for the years 2011, 2012 and 2013 as assessed by the respondent, the Commissioner General, Tanzania Revenue Authority. The question was determined in the affirmative by the Tax Revenue Appeals Board ("the Board")/ at the first instance, and the Tax Revenue Appeals Tribunal ("the Tribunal"), on appeal. Still discontented, the 2ps. appellant now appeals to this Court. The essential facts of the case, as summarized by the Tribunal, are as follows: the appellant is a company incorporated in Tanzania and headquartered in Mwanza. Trading in the name of Kilimanjaro Aviation Logistics Centre, the appellant engaged in the business of coordinating and organizing permits for landing and navigation for private aviation within the African continent.
+    questions_and_answers:
+      - question: |
+          What is the central issue in the case of Universal African Logistics Limited v. Commissioner General, Tanzania Revenue Authority?
+        answer: |
+          The central issue is whether Universal African Logistics Limited is liable to pay TZS. 1,617,932,388.00 as additional value added tax (VAT) and TZS. 411,972,225.00 in interest for the years 2011, 2012, and 2013, as assessed by the Tanzania Revenue Authority.
+      - question: |
+          Which entities determined the appellant’s liability before the case reached the Court of Appeal?
+        answer: |
+          The appellant’s liability was determined in the affirmative by the Tax Revenue Appeals Board at first instance and the Tax Revenue Appeals Tribunal on appeal before it reached the Court of Appeal.
+      - question: |
+          What is the nature of business conducted by Universal African Logistics Limited?
+        answer: |
+          Universal African Logistics Limited, trading as Kilimanjaro Aviation Logistics Centre, engages in coordinating and organizing permits for landing and navigation for private aviation within the African continent.
+      - question: |
+          Who presided over the Tax Revenue Appeals Tribunal's judgment in Tax Appeal No. 21 of 2018?
+        answer: |
+          The Tax Revenue Appeals Tribunal's judgment in Tax Appeal No. 21 of 2018 was presided over by Miemmas, J., who acted as the Chairman.
+      - question: |
+          What is the geographical location of Universal African Logistics Limited's headquarters?
+        answer: |
+          Universal African Logistics Limited is headquartered in Mwanza, Tanzania.
+  - context: |
+      1ps. 1ps. Replying, Mr. Gugami agreed that Tanzania applies the destination principle in charging VAT on supplies of goods or services but that the law imposes a restricted or deeming approach with respect to the treatment of exportation and zero-rating of supplies of services to the extent that a service may be consumed or enjoyed outside Tanzania but fail to qualify for treatment as exported supply and hence deemed by law 2ps. to have been destined in Tanzania. That the relevant provision for the present purposes is Note (b) (v) of the First Schedule to the VAT Act as amended by the Finance Act No. 13 of 2008 and Regulation 6 (1) of the VAT Export Regulations both of which are in pari materia. These provisions stipulate that the supply of services rendered by an intermediary acting for another person, shall be treated as 3ps. being exported only when the underlying transaction is supplied outside Tanzania. The phrase "underlying transaction", it was submitted, refers, according to Regulation 2 of the VAT Export Regulations, to principal business, deal or matter. 2ps. 1ps. That the relevant provision for the present purposes is Note (b) (v) of the First Schedule to the VAT Act as amended by the Finance Act No. 13 of 2008 and Regulation 6 (1) of the VAT Export Regulations both of which are in pari materia. These provisions stipulate that the supply of services rendered by an intermediary acting for another person, shall be treated as being exported only when the underlying transaction is 2ps. supplied outside Tanzania. Thus, Mr. Gugami argued that the appellant's principal business of coordinating, organising, arranging, processing and obtaining landing and navigation permits is what constitutes her underlying business as opposed to flying over Africa's airspace as alleged by the appellant's counsel.
+    questions_and_answers:
+      - question: |
+          What principle does Tanzania apply when charging VAT on supplies of goods or services?
+        answer: |
+          Tanzania applies the destination principle when charging VAT on supplies of goods or services.
+      - question: |
+          Under what conditions is the supply of services by intermediaries considered to be exported under Tanzanian VAT law?
+        answer: |
+          The supply of services by intermediaries is considered to be exported only when the underlying transaction is supplied outside Tanzania, as per Note (b) (v) of the First Schedule to the VAT Act and Regulation 6 (1) of the VAT Export Regulations.
+      - question: |
+          What does the phrase 'underlying transaction' refer to in the context of VAT Export Regulations?
+        answer: |
+          The phrase 'underlying transaction' refers to the principal business, deal, or matter, according to Regulation 2 of the VAT Export Regulations.
+      - question: |
+          What constitutes the appellant's principal business in the case discussed?
+        answer: |
+          The appellant's principal business is coordinating, organizing, arranging, processing, and obtaining landing and navigation permits.
+      - question: |
+          Why does the appellant's principal business not qualify as flying over Africa's airspace according to the argument?
+        answer: |
+          It does not qualify as flying over Africa's airspace because the appellant's principal business is defined as coordinating, organizing, arranging, processing, and obtaining landing and navigation permits, rather than the act of flying itself.
+  - context: |
+      1ps. 1ps. We further note from Exhibit A-2 that in response to the request for opinion, the respondent confirmed that the proposed transactions fell outside the ambit of the VAT Act and that they would not be vatable. However, we would agree with Mr. Gugami that Exhibit A-l does not mention the appellant as the taxpayer for whom the advice was sought. In the premises, the claim that the 2ps. opinion in issue should not operate against the appellant as a taxpayer on the ground that it was acted upon by the appellant does not arise. It negates the appellant's claim that she relied upon the respondent's opinion given to her to her detriment. Specifically on the question of estoppel, we are unpersuaded by Dr. Mwiburi's submission that the respondent being a statutory organ vested with the power to administer the tax laws should be estopped from denying the commanding adherence or bindingness on 3ps. it of its opinions to taxpayers. 2ps. 1ps. In the premises, the claim that the opinion in issue should not operate against the appellant as a taxpayer on the ground that it was acted upon by the appellant does not arise. It negates the appellant's claim that she relied upon the respondent's opinion given to her to her detriment. It is our respectful view that our decision in Roshani Meghjee {supra) settled the law that there is no estoppel against the performance of a statutory duty. By way of 2ps. emphasis, we wish to extract a quotation from Income Tax Commissioner {supra), which was the basis of our decision in Roshani Meghjee {supra)'.
+    questions_and_answers:
+      - question: |
+          What did the respondent confirm in Exhibit A-2 regarding the proposed transactions?
+        answer: |
+          The respondent confirmed that the proposed transactions fell outside the ambit of the VAT Act and would not be subject to VAT.
+      - question: |
+          Why does Exhibit A-1 not support the appellant's claim regarding tax advice?
+        answer: |
+          Exhibit A-1 does not mention the appellant as the taxpayer for whom the advice was sought, undermining the appellant's claim of reliance on the respondent's opinion to her detriment.
+      - question: |
+          What was Dr. Mwiburi's argument concerning estoppel and statutory organs?
+        answer: |
+          Dr. Mwiburi argued that the respondent, as a statutory organ vested with the power to administer tax laws, should be estopped from denying the binding nature of its opinions to taxpayers.
+      - question: |
+          How does the decision in Roshani Meghjee impact the appellant's claim regarding estoppel?
+        answer: |
+          The decision in Roshani Meghjee established that there is no estoppel against the performance of a statutory duty, thereby negating the appellant's claim.
+      - question: |
+          What precedent is cited to reinforce the decision in Roshani Meghjee?
+        answer: |
+          The case of Income Tax Commissioner is cited as the basis for the decision in Roshani Meghjee, reinforcing the principle that there is no estoppel against the performance of statutory duties.
+  - context: |
+      1ps. 1ps. The impugned holding reads thus: "We therefore agree with the findings of the Board that the appellant failed to produce sufficient evidence to prove that there was agency relationship (implied) between the appellant and Universal Weather and Aviation. As correctly held by the Board, in normal circumstances if the appellant is the agent of Universal Weather and Aviation it was expected that those invoices were to be sent directly to Universal Weather and Aviation as a principal and in return Universal 2ps. Weather and Aviation had to pay commission to the appellant as his agent but unfortunately this was not the case. "[Emphasis added] Dr. Mwiburi started off arguing that the above holding was a total misapprehension of the facts and the law. Citing sections 138 and 139 of the Law of Contract Act, Cap. 345 R.E. 2002 he contended that the authority of an agent could be either express or implied and that the existence of an 3ps. agency could be proved not just by documentary evidence but it could also be inferred from the conduct of the parties. 2ps. 1ps. "[Emphasis added] Dr. Mwiburi started off arguing that the above holding was a total misapprehension of the facts and the law. Citing sections 138 and 139 of the Law of Contract Act, Cap. 345 R.E. 2002 he contended that the authority of an agent could be either express or implied and that the existence of an agency could be proved not just by documentary evidence but it could also be inferred from the 2ps. conduct of the parties.
+    questions_and_answers:
+      - question: |
+          What was the main finding of the Board regarding the appellant's claim of an agency relationship with Universal Weather and Aviation?
+        answer: |
+          The Board found that the appellant failed to produce sufficient evidence to prove there was an implied agency relationship with Universal Weather and Aviation.
+      - question: |
+          Why did the Board conclude that there was no agency relationship between the appellant and Universal Weather and Aviation?
+        answer: |
+          The Board noted that, in a typical agency relationship, invoices would be sent directly to Universal Weather and Aviation as the principal, and the principal would pay the agent a commission. This did not occur in this case.
+      - question: |
+          What sections of the Law of Contract Act, Cap. 345 R.E. 2002, did Dr. Mwiburi cite in his argument?
+        answer: |
+          Dr. Mwiburi cited sections 138 and 139 of the Law of Contract Act, Cap. 345 R.E. 2002.
+      - question: |
+          According to Dr. Mwiburi, how can the authority of an agent be established?
+        answer: |
+          Dr. Mwiburi argued that an agent's authority could be either express or implied and that an agency relationship could be inferred from the conduct of the parties, not just through documentary evidence.
+      - question: |
+          What issue did Dr. Mwiburi raise about the Board's holding?
+        answer: |
+          Dr. Mwiburi argued that the Board's holding was a misapprehension of the facts and the law, particularly regarding the evidence needed to establish an agency relationship.
+document_outline: |
+  ### Document Outline
+  
+  This document outlines a civil appeal before the Court of Appeal of Tanzania involving Universal African Logistics Limited (the appellant) and the Tanzania Revenue Authority (the respondent). The case examines whether the appellant is liable to pay additional VAT and interest for services rendered during 2011-2013, following conflicting interpretations of the VAT Act and subsequent tax assessments by the TRA. The matter proceeded through the Tax Revenue Appeals Board and Tribunal before reaching the Court of Appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Universal_African_Logistics_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(TRA)_(Civil_Appeal_No_431_of_2020)_2021_TZCA_644_(4_November_2021).md

@@ -1,0 +1,161 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR-ES-SALAAM ## (CO RAM: MUG ASH A, I.A., WAMBALI. 3.A.. And KEREFU. J.A.T ## CIVIL APPEAL NO. 117 OF 2019 VODACOM TANZANIA PUBLIC LIMITED COMPANY (Formerly Vodacom Tanzania Limited) .............. APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY...... ...................... .........RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam ) (Fauz Twaib- Chairman1 ) dated the 10th day of November, 2017 in Tax Appeal No. 22 of 2015 ## RULING OF THE COURT 8th &amp; 14th July, 2020 ## MUGASHA. J.A.: 2ps. The appellant is a Telecommunication Network and Wireless Services provider registered in Tanzania. The appellant entered into an agreement with the software supplier, Siemens Telecommunications (PTY) Ltd for purchase of software in order to enable the appellant operate the software in accordance with his requirements. The respondent conducted tax audit in respect of the appellant's business affairs for the period covering the year 2001 to 2004. On 3ps. 10th November 2006 the respondent served the appellant with preliminary audit findings. 2ps. 1ps. The appellant is a Telecommunication Network and Wireless Services provider registered in Tanzania. The appellant entered into an agreement with the software supplier, Siemens Telecommunications (PTY) Ltd for purchase of software in order to enable the appellant operate the software in accordance with his requirements. The respondent conducted tax audit in respect of the appellant's business affairs for the period covering the year 2001 to 2004. On 2ps. 10th November 2006 the respondent served the appellant with preliminary audit findings. In the wake of the appellant being discontented with the tax audit, a meeting was convened between the parties following which, on 24th April 2007 the respondent prepared and issued the revised preliminary audit findings.
+    questions_and_answers:
+      - question: |
+          What type of business does the appellant engage in?
+        answer: |
+          The appellant is a Telecommunication Network and Wireless Services provider registered in Tanzania.
+      - question: |
+          Who did the appellant enter into an agreement with for software purchase, and why?
+        answer: |
+          The appellant entered into an agreement with Siemens Telecommunications (PTY) Ltd to purchase software that would enable it to operate according to its requirements.
+      - question: |
+          What period was covered by the tax audit conducted by the respondent?
+        answer: |
+          The tax audit conducted by the respondent covered the period from 2001 to 2004.
+      - question: |
+          When did the respondent serve the appellant with preliminary audit findings?
+        answer: |
+          The preliminary audit findings were served to the appellant on 10th November 2006.
+      - question: |
+          What action did the respondent take after the appellant expressed discontent with the tax audit?
+        answer: |
+          After a meeting between the parties, the respondent prepared and issued revised preliminary audit findings on 24th April 2007.
+  - context: |
+      1ps. 1ps. FK/CF/VTL/Tax Appeal No. 22 of 2015 as seen at page 574 of the record of appeal, requested to be supplied with certified copies of judgment decree and proceedings on ground that the initially supplied copies were not signed by the Vice Chairman and Members of the Board. However, on the record there is no evidence that the Registrar did acknowledge or 2ps. make any response to the appellant's letter. Instead, on record at page 580 there is a letter Ref. FK/CF/VTL/App.NO.22 OF 2015 dated 12/3/2019 whereby the appellant's counsel sought a second certificate of delay which is reflected at page 583 of the record now excluding the period between 15/11/2007 to 11/3/2019 to have been utilised for the preparation and delivery of the proceedings, judgment and decree of the impugned decision of the Tribunal. 2ps. 1ps. However, on the record there is no evidence that the Registrar did acknowledge or make any response to the appellant's letter. Instead, on record at page 580 there is a letter Ref. FK/CF/VTL/App.NO.22 OF 2015 dated 12/3/2019 whereby the appellant's counsel sought a second certificate of delay which is reflected at page 583 of the record now excluding the period between 15/11/2007 to 11/3/2019 to have been utilised for the preparation and delivery of the proceedings, 2ps. judgment and decree of the impugned decision of the Tribunal. The Court in the past has dealt with the issue surrounding the status of an appeal which is accompanied by two certificates of delay in the cases of maneno mengi lim ite d and th re e o th e rs vs fa r id a SAID NYAMACHUMBE AND THE REGISTRAR OF COMPANIES [2004] TLR 391 and omary shaban s. nyambu, 3ps.
+    questions_and_answers:
+      - question: |
+          Why did the appellant request certified copies of the judgment, decree, and proceedings?
+        answer: |
+          The appellant requested certified copies because the initially supplied copies were not signed by the Vice Chairman and Members of the Board.
+      - question: |
+          Was there any evidence that the Registrar responded to the appellant's letter requesting certified copies?
+        answer: |
+          No, there was no evidence on record that the Registrar acknowledged or responded to the appellant's letter.
+      - question: |
+          What is the significance of the letter dated 12/3/2019 mentioned on page 580 of the record?
+        answer: |
+          The letter dated 12/3/2019 reflects the appellant's counsel seeking a second certificate of delay, excluding the period between 15/11/2007 and 11/3/2019 for the preparation and delivery of the proceedings, judgment, and decree.
+      - question: |
+          Which court cases were referenced regarding appeals with two certificates of delay?
+        answer: |
+          The referenced court cases were Maneno Mengi Limited and Three Others vs. Farida Said Nyamachumbe and the Registrar of Companies [2004] TLR 391 and Omary Shaban S. Nyambu.
+      - question: |
+          What time period was excluded from the second certificate of delay sought by the appellant?
+        answer: |
+          The excluded time period was from 15/11/2007 to 11/3/2019.
+  - context: |
+      1ps. 1ps. When the appeal was called on for hearing, the appellant was represented by Ms. Hadija Kinyaka and Dr. Erasmo Nyika, learned counsel whereas the respondent had the services of Messrs. Harold Gugami, Marcel Busegano, Juma Kisongo and Hospis Maswanyia, all learned State Attorneys from the respondent's office. In order to satisfy ourselves on the propriety of the appeal which is accompanied by two different 2ps. certificates of delay, we invited learned counsel for the parties to address us on the matter. Apart from conceding that on record there are two certificates of delay, Ms. Kinyaka was quick to shift the blame to the Registrar of the Tribunal claiming that she issued a second certificate of delay without withdrawing the initial certificate of delay. She added that, although the appellant made written correspondences on the matter, that was not acknowledged by the 3ps. Registrar. 2ps. 1ps. In order to satisfy ourselves on the propriety of the appeal which is accompanied by two different certificates of delay, we invited learned counsel for the parties to address us on the matter. Apart from conceding that on record there are two certificates of delay, Ms. Kinyaka was quick to shift the blame to the Registrar of the Tribunal claiming that she issued a second certificate of delay without withdrawing the initial certificate of delay. On the way forward, the 2ps. learned counsel urged the Court to ignore the initial certificate of delay and consider the appeal to be competent on the basis of the subsequent certificate of delay and proceed to hear the appeal or in the alternative, strike out the appeal with no order as to costs so as to enable the appellant to bring a proper appeal. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          Who represented the appellant and respondent during the hearing of the appeal?
+        answer: |
+          The appellant was represented by Ms. Hadija Kinyaka and Dr. Erasmo Nyika, while the respondent was represented by Messrs. Harold Gugami, Marcel Busegano, Juma Kisongo, and Hospis Maswanyia, all State Attorneys.
+      - question: |
+          What issue prompted the court to invite counsel to address it?
+        answer: |
+          The court invited counsel to address the issue of the appeal being accompanied by two different certificates of delay.
+      - question: |
+          Why did Ms. Kinyaka blame the Registrar of the Tribunal over the certificates of delay issue?
+        answer: |
+          Ms. Kinyaka claimed that the Registrar issued a second certificate of delay without withdrawing the initial certificate of delay and failed to acknowledge written correspondences from the appellant on the matter.
+      - question: |
+          What were the two alternative actions proposed by the counsel for the appellant regarding the appeal?
+        answer: |
+          The counsel for the appellant proposed either ignoring the initial certificate of delay and proceeding with the appeal based on the subsequent certificate of delay or striking out the appeal with no order as to costs to allow the appellant to bring a proper appeal.
+      - question: |
+          What concession did Ms. Kinyaka make regarding the certificates of delay?
+        answer: |
+          Ms. Kinyaka conceded that there were indeed two certificates of delay on record.
+  - context: |
+      1ps. 1ps. 
+      
+      We  also  find  that,  the  appellant's  counsel  shares  the  blame  in what
+         has befallen this  appeal.  We say so  because after being  supplied with the
+          requisite documents  by the  Registrar,  she took no action  and remained
+         with the irregular documents for 55 days which was close to expiry of the 
+         period  within  which  to  lodge  an  appeal,  without  seeking the 
+         indulgence  of the  Registrar  to  have 
+      
+      2ps. the  documents  rectified.   This was  not  a  demonstration  of  diligence  on 
+         the  part  of  the  appellant's counsel. 
+      
+      In  view  of what we  have
+         endeavored to demonstrate there is no gainsaying  that the appeal  is  time 
+         barred  and  we  accordingly  strike  it out.   We make  no order as to costs
+         since the anomaly has  been  raised by the Court suo motu.
+      
+      
+      
+      2ps. 1ps.   This was  not  a  demonstration  of  diligence  on  the  part  of  the 
+         appellant's counsel. 
+      
+      In  view  of what we  have endeavored to demonstrate
+         there is no gainsaying  that the appeal  is  time  barred  and  we 
+         accordingly  strike  it out.   We make  no order as to costs since the
+         anomaly has  been  raised by the Court suo motu. 
+      
+      DATED at DAR-ES-SALAAM
+         this 13th  day of July, 2020.
+      
+      ## S. E. A.
+      
+      2ps.  MUGASHA
+      
+      ## JUSTICE OF APPEAL
+      
+      ## F.  L.  K. WAMBALI
+      
+      ## JUSTICE OF APPEAL
+      
+      ##
+         R. 1 KEREFU
+      
+      ## JUSTICE OF APPEAL
+      
+      The  Judgment  delivered  on  this  14th  
+         day  of  July,  2020  in  the presence of Ms. Regina Moyo, learned counsel
+         for the appellant and Mr. Amandus Ndayeza, learned Senior State Attorney for
+         the respondent, is hereby certified as a true copy of the original. 
+      
+      <!--
+         image -->
+      
+      <!-- image -->
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the main reason the appeal was struck out?
+        answer: |
+          The appeal was struck out because it was time-barred, and the appellant's counsel failed to take timely action to rectify irregular documents supplied by the Registrar.
+      - question: |
+          How long did the appellant's counsel retain the irregular documents without action?
+        answer: |
+          The appellant's counsel retained the irregular documents for 55 days without taking action or seeking the Registrar's indulgence to have them rectified.
+      - question: |
+          Why did the Court decide to make no order as to costs?
+        answer: |
+          The Court made no order as to costs because the anomaly regarding the appeal's time-barred status was raised by the Court suo motu (on its own initiative).
+      - question: |
+          Who were the Justices of Appeal involved in this judgment?
+        answer: |
+          The Justices of Appeal were S. E. A. Mugasha, F. L. K. Wambali, and R. Kerefu.
+      - question: |
+          On what date was the judgment certified as a true copy of the original?
+        answer: |
+          The judgment was certified as a true copy of the original on July 14, 2020.
+document_outline: |
+  **Document Outline:**  
+  This document is a ruling from the Court of Appeal of Tanzania regarding Civil Appeal No. 117 of 2019, in which Vodacom Tanzania Public Limited Company (the appellant) challenged the taxation assessments by the Commissioner General of the Tanzania Revenue Authority (the respondent) related to software royalty payments and withholding tax for the years 2001–2004. The appeal arises from prior decisions by the Tax Revenue Appeals Board and Tribunal, with the appellant raising five legal grounds regarding the interpretation and application of tax provisions under the Income Tax Act, 1973.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Vodacom_Tanzania_Ltd_Company_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_117_of_2019)_2020_TZCA_349_(14_July_2020).md

@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (3) The Minister shall, in each year, lay before the National Assembly a copy of the report on the audit. - (4) The financial year of the Board shall be a period of twelve months ending on the thirty-first day of December in each year. [s. 62] ## PART VI MISCELLANEOUS PROVISIONS 66. It shall be an offence for any person, whether or not he is a member or an officer of a local government authority or the Board- - (a) to do any act or thing 2ps. which is designed or whose probable result is to unlawfully jeopardise the finances of an authority; or - (b) to procure, or in any other way have a hand in any act or activity aimed at preventing the making or collection of rates or other revenue by a local government authority. [s. 63] - 67 . 2ps. 1ps. [s. 63] - 67 . A person who contravenes any provision of this Act for which no specific penalty is provided, commits an offence and shall, upon conviction, be liable to a fine of not less than two hundred thousand shillings but not exceeding one million shillings or to imprisonment for a term of not less than twelve months but 2ps. not exceeding twenty four months or to both. [s. 64] 67A. There shall be exempted all taxes and levies imposed by local government authorities for products produced in the Export Processing Zone and Special Economic Zone during initial period of ten years. Regulations Repeal of Act No. 8 of 1979 Omitted 68. The Minister may make regulations for the better carrying into effect of the purposes and provisions of this Act and for prescribing or providing for any matter or thing which is 3ps.
+    questions_and_answers:
+      - question: |
+          What is the financial year period for the Board as stated in the text?
+        answer: |
+          The financial year of the Board is a period of twelve months ending on the thirty-first day of December in each year.
+      - question: |
+          What must the Minister do annually in relation to the audit report?
+        answer: |
+          The Minister must lay before the National Assembly a copy of the report on the audit each year.
+      - question: |
+          What constitutes an offence under section 66 of the Act?
+        answer: |
+          It is an offence to unlawfully jeopardize the finances of a local government authority or to engage in activities aimed at preventing the making or collection of rates or other revenue by a local government authority.
+      - question: |
+          What is the penalty for contravening provisions of the Act where no specific penalty is provided?
+        answer: |
+          A person is liable to a fine of not less than two hundred thousand shillings but not exceeding one million shillings, or to imprisonment for a term of no less than twelve months but not exceeding twenty-four months, or to both.
+      - question: |
+          What tax exemption is granted for products produced in the Export Processing Zone and Special Economic Zone?
+        answer: |
+          Products produced in the Export Processing Zone and Special Economic Zone are exempt from taxes and levies imposed by local government authorities during the initial period of ten years.
+  - context: |
+      1ps. 1ps. - (6) Subject to such directions as the Minister may give in that behalf, a district council may transfer any portion of the assets vested in it by this section to any township authority or authorities within its area of jurisdiction. 10 of 1986 s.24 10 of 1987 s.30 18 of 1991 s.16 8 of 2012 s. 35 16 of 2015 s.24 4 of 2018 s.33 Cap.4 s.8 Cap.208 Cap.168 - (c) liable to make payment of any money payable by it; or - (d) 2ps. liable to transfer, convey or assign any property which was or is to be transferred, conveyed or assigned, as the case may be, under instrument or document of the nature of an instrument or document to which, mutatis mutandis , subsection (4) of this section applies and which is subsisting on or after, or comes into operation after the commencement of this 3ps. Act, the instrument or document shall continue in full force and effect, and the rights and liabilities of the village council in question arising from the instrument or document concerned shall continue vesting in that village council, notwithstanding any other provisions of this Act to the contrary. 2ps. 1ps. - (7) Notwithstanding the enactment of the Act and the repeal of the Villages Act, all assets and liabilities vested in any village council immediately before, and subsisting on, the commencement of the Act and this Act shall continue to vest in and to be the property and liabilities, respectively, of the village council concerned. - 6. -(1) The revenues, funds and resources of an urban authority shall consist of- - (a) all assets vested in the urban authority by virtue of section 5; - (b) all moneys derived from 2ps.
+    questions_and_answers:
+      - question: |
+          What authority does a district council have regarding the transfer of assets vested in it?
+        answer: |
+          A district council may transfer any portion of the assets vested in it to any township authority or authorities within its jurisdiction, subject to directions from the Minister.
+      - question: |
+          What happens to instruments or documents subsisting on or created after the commencement of the Act?
+        answer: |
+          Such instruments or documents continue in full force and effect, and the rights and liabilities arising from them remain vested in the relevant village council, despite any provisions of the Act to the contrary.
+      - question: |
+          How are a village council's assets and liabilities affected by the repeal of the Villages Act?
+        answer: |
+          All assets and liabilities vested in a village council prior to the commencement of the new Act remain vested in and continue to be the property and liabilities of the village council concerned.
+      - question: |
+          What constitutes the revenues, funds, and resources of an urban authority?
+        answer: |
+          The revenues, funds, and resources of an urban authority include all assets vested in the authority under section 5 and all money derived from other relevant sources.
+      - question: |
+          What responsibilities might a village council have regarding property transfers under the Act?
+        answer: |
+          A village council may be liable to transfer, convey, or assign property under an instrument or document that complies with subsection (4) of the section, provided it subsists on or comes into effect after the commencement of the Act.
+  - context: |
+      1ps. 1ps. - (4) All revenues of an urban authority shall be paid into the general fund of the urban authority. | Sources of revenue of district | 7. -(1) The revenues, funds and resources of a district council shall consist of- | 7. -(1) The revenues, funds and resources of a district council shall consist of- 2ps. 3ps. | |----------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | 4ps. councils Acts Nos. 4 s.8 | (e) 5ps. | all moneys derived from any rate imposed by the district council under or in pursuance of this Act or any other written law; 6ps. 7ps. | | Cap. 2ps. 1ps. | Sources of revenue of district | 7. -(1) The revenues, funds and resources of a district council shall consist of- | 7. -(1) The revenues, funds and resources of a district council shall consist of- 2ps. 3ps. | |----------------------------------|-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | councils Acts Nos. 4 s.8 4ps. | (e) | all moneys derived from any rate imposed by 5ps. the district council under or in pursuance of this Act or any other written law; 6ps. 7ps. | | Cap. 77 | (f) 8ps. | all fees for licences granted within the area of the district council under the Intoxicating Liquors 9ps. 10ps. | | | (h) 11ps. | imposed under this Act or any other written law, except for major export crops whose produce cess shall range between zero and 12ps. five percent of the farm-gate price shall as well be payable at source; all moneys derived from fees charged for the registration of marriages contracted within the area of the district council; | | Cap.208 | (i) 13ps. | all moneys derived from fees for licences granted under the Business Activities Registration Act, in respect of business premises situated within the area of the district council; 14ps.
+    questions_and_answers:
+      - question: |
+          What happens to all revenues of an urban authority?
+        answer: |
+          All revenues of an urban authority must be paid into the general fund of the urban authority.
+      - question: |
+          What is one source of revenue for a district council under the outlined regulations?
+        answer: |
+          One source of revenue for a district council is all moneys derived from any rate imposed by the council under or in pursuance of the Act or any other written law.
+      - question: |
+          What fees related to licenses contribute to a district council's revenue?
+        answer: |
+          Fees for licenses granted within the district council's area under laws such as the Intoxicating Liquors regulations are a source of revenue.
+      - question: |
+          What does the Act specify regarding cess for major export crops?
+        answer: |
+          The Act specifies that the cess for major export crops shall range between zero and five percent of the farm-gate price and must be payable at the source.
+      - question: |
+          How does the Business Activities Registration Act contribute to a district council's revenue?
+        answer: |
+          The Business Activities Registration Act contributes through monies derived from fees for licenses granted for business premises situated within the district council's area.
+  - context: |
+      1ps. 1ps. - 69. Repeal. - 70. [Omitted.] \_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ ## CHAPTER 290 \_\_\_\_\_\_\_\_\_ ## THE LOCAL GOVERNMENT FINANCES ACT An Act to make provision for sources of revenue and the management of funds and resources of local government authorities and for matters connected or incidental to securing the proper collection and sound management of finances in the local government system. [14 th March, 1983] [G.N. No. 206 of 1983] Acts Nos. 9 of 1982 18 of 1983 4 of 1985 17 of 1985 10 of 1986 4 of 1987 10 of 1987 18 of 1991 23 of 1991 6 of 1999 12 of 1999 14 of 2001 10 of 2002 15 of 2ps. 2003 15 of 2004 6 of 2006 9 of 2008 14 of 2009 15 of 2010 5 of 2011 8 of 2012 2 of 2015 16 of 2015 2 of 2016 4 of 2017 4 of 2018 G.N. No. 33 of 2001 Short title Omitted Application Cap.287 Cap.288 Cap.4 s.8 Interpretation Acts Nos. 2ps. 1ps. - 70. [Omitted.] \_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ ## CHAPTER 290 \_\_\_\_\_\_\_\_\_ ## THE LOCAL GOVERNMENT FINANCES ACT An Act to make provision for sources of revenue and the management of funds and resources of local government authorities and for matters connected or incidental to securing the proper collection and sound management of finances in the local government system. [14 th March, 1983] [G.N. No. 206 of 1983] Acts Nos. 6 of 1999 s.65 9 of 2008 s.4 16 of 2015 s.24 Act No. 27 of 1972 ## PART I PRELIMINARY PROVISIONS - 1. This Act may be cited 2ps. as the Local Government Finances Act. ## 2. Omitted. - 3.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Local Government Finances Act as stated in the text?
+        answer: |
+          The purpose of the Local Government Finances Act is to make provisions for sources of revenue, the management of funds and resources of local government authorities, and matters connected to ensuring proper collection and sound financial management in the local government system.
+      - question: |
+          On what date was the Local Government Finances Act introduced?
+        answer: |
+          The Local Government Finances Act was introduced on 14th March, 1983.
+      - question: |
+          What does Part I of the Local Government Finances Act cover?
+        answer: |
+          Part I of the Local Government Finances Act covers preliminary provisions, including the short title of the Act.
+      - question: |
+          Can you list any amendments to the Local Government Finances Act mentioned in the text?
+        answer: |
+          The Act was amended multiple times, including by Acts Nos. 6 of 1999, 9 of 2008, 16 of 2015, and others listed in the text.
+      - question: |
+          What is the short title of the Act, as mentioned in Section 1?
+        answer: |
+          The short title of the Act is 'The Local Government Finances Act.'
+  - context: |
+      1ps. 1ps. 'the Act' means, in relation to a district authority, the Local Government (District Authorities) Act, and in relation to an urban authority, the Local Government (Urban Authorities) Act; 'Urban Councils Act' means the Urban Councils (Interim Provisions) Act, repealed by the Act; and 'Villages Act' means the Villages and Ujamaa Villages (Registration, Designation and Administration) Act, repealed by the Act. - (2) Upon the commencement of the Act and the establishment of a district council in the area previously of a District Development Council- - 2ps. (a) all sums of money, roads, open places, lands, buildings, waterworks, bridges, pier, ferries, vehicles, goods and all other property of any kind vested in, belonging to, held by, or purported to belong to or be held by the District Development Council or held by the Government for or on behalf of that District Development Council, shall, by virtue of this subsection and without further assurance, be transferred to and vest in a 3ps. like interest in the district council in question; - (b) all the assets which were transferred to the Government from the former local authority by virtue of the provisions of the Decentralisation Act, and which are subsisting immediately before the commencement of the Act shall, by virtue of this subsection and without further assurance, be transferred to and vest in the district council established under the Act in the area of the 4ps. former local authority; and - (c) subject to such directions as the Minister may, after consultation with the Minister responsible for finance, give in that behalf- Act No.
+    questions_and_answers:
+      - question: |
+          What does the term 'the Act' refer to for district and urban authorities?
+        answer: |
+          'The Act' refers to the Local Government (District Authorities) Act for district authorities and the Local Government (Urban Authorities) Act for urban authorities.
+      - question: |
+          Which acts were repealed by 'the Act'?
+        answer: |
+          The Urban Councils (Interim Provisions) Act and the Villages and Ujamaa Villages (Registration, Designation and Administration) Act were repealed by 'the Act'.
+      - question: |
+          What happens to the property of a District Development Council upon the establishment of a district council under 'the Act'?
+        answer: |
+          All property, including money, roads, lands, buildings, waterworks, and vehicles, vested in or belonging to a District Development Council is transferred to and vested in the newly established district council without further assurance.
+      - question: |
+          What happens to the assets transferred to the Government under the Decentralisation Act upon the commencement of 'the Act'?
+        answer: |
+          These assets are transferred to and vested in the district council established under 'the Act' in the area of the former local authority.
+      - question: |
+          Who has the authority to issue directions regarding the transfer of assets under 'the Act'?
+        answer: |
+          The Minister, after consultation with the Minister responsible for finance, has the authority to issue directions regarding the transfer of assets under 'the Act'.
+document_outline: |
+  **Document Outline:**  
+  The *Local Government Finance Act* [CAP. 290 R.E.2019] of Tanzania outlines the financial framework governing local government authorities, including their revenue sources, powers to impose taxes and rates, methods of collection, grant allocations, and borrowing privileges. The document is divided into sections addressing preliminary provisions, funds and resources of local authorities, tax and rate collection mechanisms, and enforcement procedures, as updated through November 30, 2019.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CHAPTER_290-THE_LOCAL_GOVERNMENT_FINANCE_ACT-01.md

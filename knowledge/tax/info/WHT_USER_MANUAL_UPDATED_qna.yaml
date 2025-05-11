@@ -1,0 +1,169 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ISO 9001.2015 Certified Enhanced Domestic Revenue System USER GUIDE ON HOW TO FILE WITHHOLDING TAX RETURN Version 2.0 ## Contents | Task Summary .................................................................................................................................... 1 | Task Summary .................................................................................................................................... 1 | |--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------| | Getting Started .................................................................................................................................... 2 | Getting Started .................................................................................................................................... 2 | | 1.0 2ps. | HOWTOACCESS WITHHOLDING TAX MANAGEMENT MODULE ............................................... 3ps. 3 | | STEP 01: Accessing Taxpayer Portal (through Official TRA Website) ............................. 3 4ps. | STEP 01: Accessing Taxpayer Portal (through Official TRA Website) ............................. 3 | | STEP 02: Log in into Taxpayer portal page ........................................................................... 4 5ps. | STEP 02: Log in into Taxpayer portal page ........................................................................... 4 | | STEP 03: Accessing Services .................................................................................................. 4 | 6ps. STEP 03: Accessing Services .................................................................................................. 4 | | STEP 04: Select 'File Tax Returns' ........................................................................................ 5 | STEP 04: Select 'File Tax Returns' ........................................................................................ 5 | | STEP 04: Select 7ps. 'Session' ....................................................................................................... 5 | STEP 04: Select 'Session' ....................................................................................................... 5 | | 2.0 8ps. | HOWTOCREATE BRANCH........................................................................................................ 9ps. 6 | | STEP 05: Creation of Branch .................................................................................................... 6 | STEP 05: Creation of Branch .................................................................................................... 6 | | 3.0 10ps. 11ps. | HOWTOCREATE BATCH........................................................................................................... 8 | | STEP 06: Creation of Batches .................................................................................................. 8 | STEP 06: Creation of Batches .................................................................................................. 8 12ps. | | OPTION 01: Single addition of deductions .......................................................................... 10 | OPTION 01: Single addition of deductions .......................................................................... 10 13ps. | | OPTION 02: Multiple addition of deductions ....................................................................... 11 | OPTION 02: Multiple addition of deductions ....................................................................... 11 | | 4.0 14ps. 15ps. | GENERATING CONTROL NUMBER FOR WITHHOLDING TAX PAYMENT/REMITTANCE..............14 16ps. | | STEP 07: Creation of Control Number .................................................................................. 14 | STEP 07: Creation of Control Number .................................................................................. 14 | | 5.0 17ps. 18ps. | HOWTOFILE WITTHOLDING TAX RETURNS............................................................................
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Enhanced Domestic Revenue System User Guide?
+        answer: |
+          The guide is intended to assist users in filing withholding tax returns using the Enhanced Domestic Revenue System, with step-by-step instructions provided across various modules.
+      - question: |
+          What is the first step to accessing the Withholding Tax Management Module?
+        answer: |
+          The first step involves accessing the Taxpayer Portal through the official TRA website.
+      - question: |
+          What are the two options available for adding deductions when creating a batch?
+        answer: |
+          The two options for adding deductions are single addition of deductions and multiple addition of deductions.
+      - question: |
+          What step outlines the process of generating a control number for withholding tax payment?
+        answer: |
+          Step 07 explains the process of creating a control number for withholding tax payment or remittance.
+      - question: |
+          Which section provides details on branch creation?
+        answer: |
+          Section 2.0 includes instructions on how to create a branch, specifically detailed in Step 05.
+  - context: |
+      1ps. 1ps. <!-- image --> ## STEP 03: Accessing Services Upon logging in click on 'Services', to access all available services offered by the Authority in the Taxpayer Portal. <!-- image --> ## STEP 04: Select 'File Tax Returns' Select File Tax Returns session so as to trigger the display of Entities managed by declarant. However, this is optional and taxpayers without any need for branches may skip this step Click Manage Tax Returns 2ps. menu, select WITHHOLD then Branch . <!-- image --> ## For Branch addition, click Branch submenu as depicted below; <!-- image --> ## Branch management menu will display Add Branch button for creation of Branches. <!-- image --> Important branch information must be selected in each of the five fields for the submit button to appear; once it does, the branch will be established and its details can be edited or deleted. <!-- image --> ## 3.0 HOW TO CREATE BATCH ## STEP 06: Creation of Batches A Batch is created to include deductions transactions of a taxpayer for a particular month. 2ps. 1ps. However, this is optional and taxpayers without any need for branches may skip this step Click Manage Tax Returns menu, select WITHHOLD then Branch . <!-- image --> ## For Branch addition, click Branch submenu as depicted below; <!-- image --> ## Branch management menu will display Add Branch button for creation of Branches. <!-- image --> ## 3.0 HOW TO CREATE BATCH ## STEP 06: Creation of Batches A Batch is created to include deductions transactions of a taxpayer for a particular month. Click Manage Tax Returns menu, select WITHHOLD then Batch . <!-- image --> Batch management menu will display Add 2ps. Batch button for creation of Batches.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the 'Services' section in the Taxpayer Portal?
+        answer: |
+          The 'Services' section allows access to all available services offered by the Authority in the Taxpayer Portal.
+      - question: |
+          What should taxpayers do in the 'File Tax Returns' section if they have entities to manage?
+        answer: |
+          Taxpayers should select the 'File Tax Returns' session to view entities managed by the declarant and click 'Manage Tax Returns', then select 'WITHHOLD' followed by 'Branch'.
+      - question: |
+          What information is required to create and finalize a branch addition?
+        answer: |
+          Important branch information must be selected in each of the five fields for the submit button to appear, allowing the branch to be established.
+      - question: |
+          What is the purpose of creating a batch in the Taxpayer Portal?
+        answer: |
+          A batch is created to include deduction transactions of a taxpayer for a particular month.
+      - question: |
+          What steps are involved in creating a batch after accessing the 'Manage Tax Returns' menu?
+        answer: |
+          The user should select 'WITHHOLD', then 'Batch', and use the 'Add Batch' button in the Batch management menu to create batches.
+  - context: |
+      1ps. 1ps. Click Add New Deduction button for addition of single deduction as depicted below; (Fill and select the correct particulars in the required fields then the submit button will populate thereafter) <!-- image --> ## OPTION 02: Multiple addition of deductions Bulk deduction addition is useful for taxpayers with a large number of transactions that involve deduction of withholding tax for the month. This may be done using a special designed excel template downloaded from the system. They may be corrected for errors and added again by way of either one by one transaction or by bulk uploading using excel. Upon successfully 2ps. uploading correct deductions, scroll to the bottom of the screen to submit correct deductions. 2ps. 1ps. They may be corrected for errors and added again by way of either one by one transaction or by bulk uploading using excel. Upon successfully uploading correct deductions, scroll to the bottom of the screen to submit correct deductions. <!-- image --> ## Upon clicking Submit Correct Deduction button, a pop-up message for confirmation will appear as depicted hereunder; <!-- image --> ## Uploaded deductions under a specific batch for the month that they have been added will appear as depicted below; <!-- image --> ## 4.0 GENERATING CONTROL NUMBER FOR WITHHOLDING TAX PAYMENT/REMITTANCE ## STEP 07: Creation of Control Number In the taxpayer portal, 2ps. the principal amount for withholding tax remittance for the month is completed in the Withholding tax management module under the specific batch to which deductions have been added. 3ps. 1ps. They may be corrected for errors and added again by way of either one by one transaction or by bulk uploading using excel. Upon successfully uploading correct deductions, scroll to the bottom of the screen to submit correct deductions.
+    questions_and_answers:
+      - question: |
+          What is the process for adding a single deduction in the system?
+        answer: |
+          To add a single deduction, click the 'Add New Deduction' button, fill in the required fields with the correct particulars, and then submit using the 'Submit' button.
+      - question: |
+          How can multiple deductions be added at once, and what tool facilitates this process?
+        answer: |
+          Multiple deductions can be added in bulk using a specially designed Excel template, which is downloaded from the system. Corrected errors can be re-uploaded either transaction by transaction or through bulk uploading using the Excel file.
+      - question: |
+          What needs to be done after successfully uploading deductions in the system?
+        answer: |
+          After successfully uploading correct deductions, users need to scroll to the bottom of the screen and click the 'Submit Correct Deduction' button.
+      - question: |
+          What happens after clicking the 'Submit Correct Deduction' button?
+        answer: |
+          After clicking the 'Submit Correct Deduction' button, a pop-up message for confirmation will appear to finalize the submission process.
+      - question: |
+          Where is the principal amount for withholding tax remittance completed in the taxpayer portal?
+        answer: |
+          The principal amount for withholding tax remittance is completed in the 'Withholding Tax Management' module under the specific batch to which deductions have been added.
+  - context: |
+      1ps. 1ps. 
+      
+      (Control number attached under each batch is the one used for making payments
+         and activates certificates of a particular batch after remittance)
+      
+      <!--
+         image -->
+      
+      ## 5.0  HOW TO FILE WITTHOLDING TAX RETURNS
+      
+      Creation of batch
+         will trigger the obligation to file withholding tax return for a particular
+         period.  To Submit Withholding Tax Return for the particular period, click
+         the unfiled return submenu in the Main Menu on the left of your screen.
+         
+      
+      <!-- image -->
+      
+      After  successfully  submitting  your  withholding  tax 
+         return,  the  assessment  will  be accessible in the filed return
+      
+      2ps. menu.  The principal amount will be NIL because the principal amounts are being
+         paid through different batches created, and on the assessment, you
+      
+      <!--
+         image -->
+      
+      With reference to the provision of Section 82, 83, and 83A of the
+         Income Act, Cap.  332 and Section 46 of the Tax Administration Act 2015, your
+         submitted return with reference number 202310131758701223915995 has been
+         assessed with a principal tax liability of TZS 0.00 and penalty of TZS.
+      
+      
+      
+      2ps. 1ps. 
+      
+      <!-- image -->
+      
+      After  successfully  submitting  your  withholding  tax 
+         return,  the  assessment  will  be accessible in the filed return menu.  The
+         principal amount will be NIL because the principal amounts are being paid
+         through different batches created, and on the assessment, you
+      
+      <!-- image
+         -->
+      
+      With reference to the provision of Section 82, 83, and 83A of the Income
+         Act, Cap.  707,500.00 as depicted in the table below; Tax
+      
+      Payment details
+      
+      |
+           Tax Debit Number |   GFS Codes | AmountDue date for payment   | Type  
+      
+      2ps.   
+         |
+      |--------------------|-------------|------------------------------|-----------|
+      |
+                  446080711 |    11610136 | 0.0o07 February 2023         | PRINCIPAL
+         |
+      |          446080712 |    11610136 | 707,500.00/24 March 2023     | PENALTY
+           |
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What action triggers the obligation to file a withholding tax return?
+        answer: |
+          The creation of a batch triggers the obligation to file a withholding tax return for a specific period.
+      - question: |
+          How can a user submit a withholding tax return for a particular period?
+        answer: |
+          To submit a withholding tax return, the user needs to click the 'unfiled return' submenu in the Main Menu on the left side of the screen.
+      - question: |
+          Why is the principal amount shown as NIL in the assessment after filing the withholding tax return?
+        answer: |
+          The principal amount is NIL because the principal amounts are being paid through different batches created.
+      - question: |
+          What sections of the Income Act and Tax Administration Act are referenced in the context of withholding tax assessments?
+        answer: |
+          Sections 82, 83, and 83A of the Income Act, Cap. 332, and Section 46 of the Tax Administration Act 2015 are referenced.
+      - question: |
+          What are the details of the penalty payment mentioned in the assessment table?
+        answer: |
+          The penalty payment has a Tax Debit Number of 446080712, GFS Code 11610136, an amount of TZS 707,500.00, and is due on 24 March 2023.
+document_outline: |
+  **Document Outline:**  
+  This document is a user guide (Version 2.0) for filing withholding tax returns using the Enhanced Domestic Revenue System. It provides ISO 9001:2015-certified instructions, including steps to access the taxpayer portal, manage branches, and create batches for tax filings.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - WHT_USER_MANUAL_UPDATED.md

@@ -1,0 +1,126 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Examples used in the Guidelines are for demonstrative purposes only. These guidelines are therefore expected to provide a general over view as well as a practical guidance on issues and factors to be considered in arriving at an acceptable arm's length price. These include among others:- -  The rationale for adoption of arm's length principle. -  The framework on which application of the acceptable transfer prancing method is based. -  2ps. The general principles of comparability which form the foundation of transfer pricing analysis. -  Documentation by taxpayers which should be prepared and maintained in support of their determination of the arm's length price. -  Treatment of intra group transactions. -  The underlying principle adopted in these guidelines has their basis on our own tax statutes and the OECD/UN guidelines. ## 3.0 SCOPE - 3.1 The Guidelines are applicable on controlled transactions for the acquisition or supply of property or services between associated persons, where 3ps. at least one person is assessable or chargeable to tax in the United Republic of Tanzania. 2ps. 1ps. -  Treatment of intra group transactions. -  The underlying principle adopted in these guidelines has their basis on our own tax statutes and the OECD/UN guidelines. ## 3.0 SCOPE - 3.1 The Guidelines are applicable on controlled transactions for the acquisition or supply of property or services between associated persons, where at least one person is assessable or chargeable to tax in the United Republic of Tanzania. - 3.2 The guidelines are applicable to Taxpayers involved in domestic controlled transactions where the prices between associated 2ps. parties are inconsistent with the arm's length standard. - 3.
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of the guidelines mentioned in the context?
+        answer: |
+          The guidelines aim to provide a general overview and practical guidance on issues and factors to be considered in determining an acceptable arm's length price.
+      - question: |
+          What principles or standards form the foundation of these guidelines?
+        answer: |
+          The guidelines are based on the arm's length principle, our own tax statutes, and the OECD/UN guidelines.
+      - question: |
+          To which transactions are these guidelines applicable?
+        answer: |
+          The guidelines apply to controlled transactions for the acquisition or supply of property or services between associated persons, where at least one person is assessable or chargeable to tax in the United Republic of Tanzania.
+      - question: |
+          What are some of the factors documented in the guidelines to ensure compliance with the arm's length principle?
+        answer: |
+          The factors include comparability analysis, documentation by taxpayers to support their determination of the arm's length price, and the treatment of intra-group transactions.
+      - question: |
+          Do the guidelines cover domestic controlled transactions, and under what condition?
+        answer: |
+          Yes, the guidelines are applicable to domestic controlled transactions where the prices between associated parties do not comply with the arm's length standard.
+  - context: |
+      1ps. 1ps. ## 12.4 List of Documentation A transfer pricing documentation may consist of the following: ## (a) Organizational Structure - (i) Taxpayer's worldwide organizational and ownership structure (including global organization chart and significant changes in the relationship, if any), covering all associated persons whose transactions directly or indirectly affect the pricing of the documented transactions. - (ii) Company organization chart. ## (b) Group financial report Transfer pricing documentation should include the group financial report, equivalent to an annual report, for the most recent accounting period where transaction with related 2ps. parties apply. ## (c) Nature of the business/industry and market conditions - (i) Outline of the taxpayer's business including relevant recent history, the industries operated in, analysis of the general economic and legal issues affecting the business and industry, the taxpayer's business lines and the property or services in the controlled transactions; - (ii) The corporate business plans to the extent of providing an insight into the nature and purpose of 3ps. the relevant transactions between the associated persons; - (iii) A description of the structure, intensity and dynamics of the relevant competitive environment(s). 2ps. 1ps. - (ii) Company organization chart. ## (b) Group financial report Transfer pricing documentation should include the group financial report, equivalent to an annual report, for the most recent accounting period where transaction with related parties apply. ## (d) Controlled transactions - (i) Description of details of the property or services to which the international/domestic transaction relates; any intangible rights or property attached thereto, the participants, the scope, timing, frequency, type and value of 2ps.
+    questions_and_answers:
+      - question: |
+          What should the organizational structure section of transfer pricing documentation include?
+        answer: |
+          The organizational structure section should include the taxpayer's worldwide organizational and ownership structure, a global organization chart, and details of any significant changes in relationships affecting the pricing of documented transactions.
+      - question: |
+          What purpose does the group financial report serve in transfer pricing documentation?
+        answer: |
+          The group financial report, equivalent to an annual report, ensures that the documentation reflects the financial details of transactions with related parties during the most recent accounting period.
+      - question: |
+          What kind of information about the nature of the business should transfer pricing documentation provide?
+        answer: |
+          It should provide an outline of the taxpayer's business, relevant recent history, industry analysis, economic and legal factors, business lines, properties or services in controlled transactions, and corporate business plans with insights into relevant transactions.
+      - question: |
+          What details should be included about controlled transactions?
+        answer: |
+          Controlled transactions documentation should describe the details of the property or services involved, any intangible rights or properties, the participants, scope, timing, frequency, type, and value of the transactions.
+      - question: |
+          Why is it important to describe the competitive environment in transfer pricing documentation?
+        answer: |
+          Describing the competitive environment provides context by outlining its structure, intensity, and dynamics, which helps clarify how market conditions influence the taxpayer’s controlled transactions.
+  - context: |
+      1ps. 1ps. Such services may include management, coordination and control functions for the whole group. The cost of providing such services may be borne initially by the parent, by a specially designated group member ('a group services center' or by another group member. The main issues in the analysis of transfer pricing for intra-group services are: - (a) Whether intra - group services have in fact been provided - (b) Whether the intra-group charge for such services for tax purposes are at arm's length prices. The following factors should serve as a 2ps. guide in determining whether services have been rendered: - (i) Whether the activity provides a respective group member with economic or commercial value to enhance its commercial position and whether an independent enterprise in comparable circumstances would be willing to pay or perform in-house for its services - (ii) If the activity is not one for which the independent would have been willing to pay or perform for itself, the activity ordinarily should 3ps. not be considered as an intra - group services under the arm's length principle - (iii) In general, no intra - group services should be found for activities undertaken by one group member that merely duplicate a service that another group member is performing for itself; or that is being performed for such other group member by a third party - (iv) An associated enterprise should not be considered to receive an intra -group services when it 4ps. obtains incidental attributable solely to its being part of a large concern, and not to any specific activity being performed. 2ps. 1ps. The cost of providing such services may be borne initially by the parent, by a specially designated group member ('a group services center' or by another group member.
+    questions_and_answers:
+      - question: |
+          What are the main issues in analyzing transfer pricing for intra-group services?
+        answer: |
+          The main issues are determining whether intra-group services have actually been provided and whether the intra-group charges for such services are at arm's length prices for tax purposes.
+      - question: |
+          What factors help determine if intra-group services have been rendered?
+        answer: |
+          Factors include whether the activity provides economic or commercial value to enhance the group member's commercial position and whether an independent enterprise in comparable circumstances would pay for or perform the service in-house.
+      - question: |
+          When should an activity not be considered an intra-group service under the arm's length principle?
+        answer: |
+          An activity should not be considered an intra-group service if an independent enterprise would not have been willing to pay for or perform it, or if the activity merely duplicates a service already performed by another group member or a third party.
+      - question: |
+          Why might an associated enterprise not be considered to receive an intra-group service?
+        answer: |
+          An associated enterprise is not considered to receive an intra-group service if it benefits incidentally merely from being part of a larger concern, without any specific activity being performed for it.
+      - question: |
+          Who can bear the initial cost of providing intra-group services?
+        answer: |
+          The initial cost of providing intra-group services may be borne by the parent company, a specially designated group member (a 'group services center'), or another group member.
+  - context: |
+      1ps. 1ps. ## TANZANIA REVENUE AUTHORITY ## TRANSFER PRICING GUIDELINES ## PREFACE The Transfer pricing guideline (hereinafter referred to as the guidelines) has been drafted as a practical guide and is not intended to be a prescriptive or an exhaustive discussion of every transfer pricing issue that might arise. Each transfer pricing arrangement case will be decided on its own factors and circumstances, taking into account the taxpayers' business strategies and commercial judgment. These Guidelines will be periodically 2ps. reviewed and revised on an ongoing basis. 2ps. 1ps. ## TANZANIA REVENUE AUTHORITY ## TRANSFER PRICING GUIDELINES ## PREFACE The Transfer pricing guideline (hereinafter referred to as the guidelines) has been drafted as a practical guide and is not intended to be a prescriptive or an exhaustive discussion of every transfer pricing issue that might arise. Each transfer pricing arrangement case will be decided on its own factors and circumstances, taking into account the taxpayers' business strategies and commercial judgment. These Guidelines will be periodically 2ps. reviewed and revised on an ongoing basis. ## Contents | 1.0 INTRODUCTION........................................................................................................ | 1.0 INTRODUCTION........................................................................................................ | 1 | |----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----| | 2.0 OBJECTIVE OF THE GUIDELINES.......................................................................... | 2.0 OBJECTIVE OF THE GUIDELINES.......................................................................... | 1 | | 3.0 3ps. | SCOPE..................................................................................................................... | 2 | | 4ps. 4.0 DEFINITIONS AND TERMINOLOGIES................................................................... | 4.0 DEFINITIONS AND TERMINOLOGIES................................................................... | 2 | | 5.0 5ps. | POSITION OF THE LAW...................................................................................... 6ps. | 4 | | 6.0 7ps. | THE ARM'S LENGTH PRINCIPLE...................................................................... | 4 | | 7.0 DETERMINATION OF ARM'S LENGTH PRICE .................................................... | 7.0 8ps. DETERMINATION OF ARM'S LENGTH PRICE .................................................... | 5 | | 8.0 COMPARABILITY ANALYSIS................................................................................. | 8.0 COMPARABILITY ANALYSIS................................................................................. | 9 | | 9.0 FACTORS DETERMINING COMPARABILITY.................................................... 9ps. | 9.0 FACTORS DETERMINING COMPARABILITY.................................................... | 10 | | 10.0 ACCEPTABLE METHODS OF DETERMINING AN ARM'S LENGTH PRICE 10ps.
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of the Tanzania Revenue Authority's Transfer Pricing Guidelines?
+        answer: |
+          The guidelines serve as a practical guide and are not meant to be prescriptive or exhaustive in addressing every transfer pricing issue; cases are decided based on their unique factors and circumstances.
+      - question: |
+          How does the Tanzania Revenue Authority determine the outcome of transfer pricing cases?
+        answer: |
+          Each transfer pricing arrangement case is decided based on the specific factors and circumstances, taking into account the business strategies and commercial judgment of the taxpayers.
+      - question: |
+          How often will the Transfer Pricing Guidelines be updated?
+        answer: |
+          The guidelines will be periodically reviewed and revised on an ongoing basis.
+      - question: |
+          What topics are covered in the contents of the Tanzania Revenue Authority's Transfer Pricing Guidelines?
+        answer: |
+          The topics include an introduction, objectives, scope, definitions, the law's position, the arm's length principle, determination of arm's length price, comparability analysis, and factors determining comparability.
+      - question: |
+          What principle underpins the determination of arm's length pricing in the guidelines?
+        answer: |
+          The determination of arm's length pricing is based on the arm's length principle, which is covered as a key topic in the guidelines.
+  - context: |
+      1ps. 1ps. This is because the net margins which are used in the TNMM are very sensitive to the relative cost structures of the entities being compared, as they include operating efficient distributorship than the independent firm, the application of the TNMM would result in a lower net profit being determined for the distributorship than if the RP method were used. Thus, unless an adjustment could be made to reflect the relative efficiency of the firms 2ps. being compared, use of the TNMM would not provide reliable result. In practice, firms are structurally unique and comparisons of indicators between firms will tend to be less reliable than comparisons made at the gross margin level. For these reasons the TNMM along with the profit split method are considered to be methods of last resort in international practice. This observation does not preclude the TNMM from being used. It must be recognized that reliable information on gross margins 3ps. may be difficult, if not impossible to obtain. Thus information constraints may dictate the TNMM as the only practical approach in many cases. 2ps. 1ps. This observation does not preclude the TNMM from being used. It must be recognized that reliable information on gross margins may be difficult, if not impossible to obtain. Thus information constraints may dictate the TNMM as the only practical approach in many cases. The related party (Tested party) whose profit level will be compared to the profit level of the independent parties will usually be the party 2ps. for which reliable data on the most closely comparable transactions can be identified. It is usually the enterprise that is the least complex and that does not own valuable intangible property. ## Example CCP is a manufacturer of dehydrated food. Its products are distributed to its subsidiaries through Europe.
+    questions_and_answers:
+      - question: |
+          Why are net margins in the Transactional Net Margin Method (TNMM) considered sensitive?
+        answer: |
+          Net margins in the TNMM are considered sensitive because they reflect the relative cost structures of the entities being compared, which include operating efficiencies and other structural differences.
+      - question: |
+          Why is the TNMM considered less reliable than gross margin comparisons?
+        answer: |
+          The TNMM is considered less reliable than gross margin comparisons because firms are structurally unique, and comparisons of indicators like net profit margins between firms are inherently less accurate.
+      - question: |
+          Under what circumstances is the TNMM used despite its limitations?
+        answer: |
+          The TNMM is used when reliable information on gross margins is difficult or impossible to obtain, making it the only practical approach in those cases.
+      - question: |
+          What characteristics typically define the related party (tested party) selected for TNMM application?
+        answer: |
+          The tested party is usually the least complex entity, does not own valuable intangible property, and is the one for which reliable and comparable transaction data can be identified.
+      - question: |
+          Why are the TNMM and profit split method considered methods of last resort in international practice?
+        answer: |
+          The TNMM and profit split method are considered methods of last resort because they tend to be less reliable due to challenges in comparing net profits and structural differences between firms.
+document_outline: |
+  This document outlines the Tanzania Revenue Authority’s Transfer Pricing Guidelines, serving as a practical guide for addressing transfer pricing issues on a case-by-case basis. It details key principles, such as the arm's length principle, acceptable methods for determining pricing, comparability analysis, documentation requirements, and other relevant considerations, with periodic revisions to ensure continued relevance.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - TP_Guideline.md

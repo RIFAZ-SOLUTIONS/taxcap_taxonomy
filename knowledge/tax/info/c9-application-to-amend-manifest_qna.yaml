@@ -1,0 +1,121 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## EAST AFRICAN COMMUNITY
+      
+      C9 CUSTOMS
+      
+      <!-- image -->
+      
+      Regulation 110
+      
+      ##
+         APPLICATION TO AMEND *INWARD REPORT/OUTWARD
+         MANIFEST
+      
+      *Aircraft/Vessel…………………
+      
+      (Registration and
+         Nationality)
+      
+      Date of Report………………………………
+      
+      *Bill of
+         Lading/Air way Bill No
+      
+      *Consignor/Consignee
+      
+      Rotation No. 
+         …………………
+      
+      Port of…………………………
+      
+      Country
+         ………………………. 
+      
+      Date
+      
+      ………………20……
+      
+      Permission
+         is requested to amend the Inward *Report/Outward Manifest of the
+         *aircraft/vessel by adding/deducting* the under- mentioned packages or change
+         of destination or change of ownership, which *I/We declare *was/not
+         *landed/exported *in/from
+         …………………………………………………or the destination
+         or ownership Is changed for the reasons stated hereunder:
+      
+      Reasons
+         ……………………………………………………………………………………………………………………………………………
+      
+      As
+         per B/L or AWB
+      
+      Total No. and kind of
+         packages………………………
+      
+      Weight (Kg)
+      
+      M 3
+      
+      Marks and
+         Numbers
+      
+      Description of
+         Goods
+      
+      *Destination/Owner
+      
+      …………………………………. 
+      
+      Master
+         or Agent         
+      
+      2ps.                                                                                 
+                      Amendment * accepted/not
+         accepted
+      
+      Date……………………20……  
+      
+      3ps.                                                                               
+         …………………………………………….. 
+      
+      Proper Officer
+      
+      *
+         Delete whichever is inapplicable
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Regulation 110 form within the East African Community customs process?
+        answer: |
+          The Regulation 110 form is used to request amendments to an Inward Report or Outward Manifest for an aircraft or vessel, including changes such as adding or removing packages, changes in destination, or changes in ownership.
+      - question: |
+          What details about the aircraft or vessel must be provided on the Regulation 110 form?
+        answer: |
+          Details required include the registration and nationality of the aircraft or vessel, along with the date the report was made.
+      - question: |
+          What information about the cargo must be included when amending the Inward Report or Outward Manifest?
+        answer: |
+          The form requires details such as the total number and kind of packages, their weight (in kilograms), volume (M3), marks and numbers, description of goods, and their destination or owner.
+      - question: |
+          What reasons might need to be specified for requesting an amendment to the manifest?
+        answer: |
+          Reasons could involve packages being added or removed, changes in the destination, changes in ownership, or the declaration that goods were not landed or exported as initially reported.
+      - question: |
+          Who is responsible for approving or rejecting the amendment request on the Regulation 110 form?
+        answer: |
+          The amendment request must be approved or rejected by the Proper Officer of customs, who also needs to record their decision on the form.
+document_outline: |
+  **Document Outline:**  
+  The document outlines Regulation 110 of the East African Community C9 Customs, providing a formal application form for requesting amendments to an inward report or outward manifest for aircraft or vessels. It includes details such as registration, bill of lading or airway bill, consignor/consignee information, and reasons for changes in packages, destination, or ownership, along with fields for official approval.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c9-application-to-amend-manifest.md

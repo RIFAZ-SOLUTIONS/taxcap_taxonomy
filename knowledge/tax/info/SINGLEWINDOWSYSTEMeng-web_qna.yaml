@@ -1,0 +1,75 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Steps towards Single Window Implementation <!-- image --> ## Key Areas of the Single Window System <!-- image --> Effective implementation of this project mostly depends on the cooperation of stakeholders which includes Traders, Goverment Institutions and Private Sectors. ## 'Together We build Our Nation' ## CONTACTS ## TRA Call Centre E-mail: huduma@tra.go.tz services@tra.go.tz Toll Free: 0800 780078 0800 750075 ## Tanzania Revenue Authority Postcode: 28 Edward Sokoine Drive 11105 Mchafukoge Ilala CBD P.O. Box 11491 Dar es Salaam, Tanzania Telephone: +255 22 211 9591-4, +255 22 2127080 E-mail: info@tra.go.tz Website: www.tra.go.tz For any misconduct by TRA Officials call: +255 689 122515 2ps. SMS: +255 689 122516 To unearth tax evaders call: +255 22 2137638 au +255 784 210209 <!-- image --> ## ELECTRONIC SINGLE WINDOW SYSTEM (eSWS) <!-- image --> <!-- image --> ## Introduction The implementation of the EAC Customs Union was envisaged to be progressive and so far a number of milestones have been achieved towards attainment of a fully-fledged Customs Union including establishment of One Stop Border Post (OSBP) and Single Customs Territory (SCT). 2ps. 1ps. ## Steps towards Single Window Implementation <!-- image --> ## Key Areas of the Single Window System <!-- image --> Effective implementation of this project mostly depends on the cooperation of stakeholders which includes Traders, Goverment Institutions and Private Sectors. ## 'Together We build Our Nation' ## CONTACTS ## TRA Call Centre E-mail: huduma@tra.go.tz services@tra.go.tz Toll Free: 0800 780078 0800 750075 ## Tanzania Revenue Authority Postcode: 28 Edward Sokoine Drive 11105 Mchafukoge Ilala CBD P.O. Simplified/Easy cross border trade is among the key factors for countries trade competitiveness. Tanzania is 2ps. viewed to be less competitive when compared to other countries in the region in terms of cross borders transactions.
+    questions_and_answers:
+      - question: |
+          What is the key factor for the effective implementation of the Single Window System project?
+        answer: |
+          The effective implementation of the Single Window System project depends on the cooperation of stakeholders, including traders, government institutions, and private sectors.
+      - question: |
+          What milestones have been achieved under the EAC Customs Union towards a fully-fledged Customs Union?
+        answer: |
+          Significant milestones under the EAC Customs Union include the establishment of the One Stop Border Post (OSBP) and the Single Customs Territory (SCT).
+      - question: |
+          Why is simplifying cross-border trade important for Tanzania?
+        answer: |
+          Simplifying cross-border trade is crucial for enhancing Tanzania's trade competitiveness, as the country is considered less competitive in comparison to other nations in the region for cross-border transactions.
+      - question: |
+          What is the toll-free contact information for Tanzania Revenue Authority’s (TRA) call centre?
+        answer: |
+          The toll-free numbers for TRA's call centre are 0800 780078 and 0800 750075.
+      - question: |
+          What should citizens do to report tax evasion in Tanzania?
+        answer: |
+          Citizens can report tax evasion by calling +255 22 2137638 or +255 784 210209.
+  - context: |
+      1ps. 1ps. 
+      
+      ## Benefits
+      
+      The Single Window concept examines regulatory  controls  through 
+         the  eyes  of  the trader and views all interactions between trade and
+         regulatory agencies without regard for the internal division within the
+         government  (Paperless  One-gate  One  Stop).  This  approach  benefits  both
+          the  government and  traders  as  it  clearly  brings  out  all  the
+         procedural  redundancies,  duplication  in  the filing of information and
+         wastefulness involved in  the  overall  effort  in 
+      
+      2ps. fulfilling  cross-border transactions.  It is a trade and logistiical web based
+         infrastructure that will be implemented throgh TANCIS.
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the focus of the Single Window concept?
+        answer: |
+          The Single Window concept examines regulatory controls from the perspective of the trader and analyzes all interactions between trade and regulatory agencies, ignoring internal government divisions.
+      - question: |
+          What key benefit does the Single Window provide to the government and traders?
+        answer: |
+          The Single Window highlights procedural redundancies, duplication in filing information, and wastefulness, thereby helping both the government and traders streamline cross-border transactions.
+      - question: |
+          How does the Single Window aim to improve trade interactions?
+        answer: |
+          The Single Window aims to simplify and integrate interactions by offering a 'Paperless One-gate One Stop' system that reduces inefficiencies in the overall effort.
+      - question: |
+          What infrastructure will be used to implement the Single Window system?
+        answer: |
+          The Single Window system will be implemented through TANCIS, a trade and logistical web-based infrastructure.
+      - question: |
+          What challenges in cross-border transactions does the Single Window address?
+        answer: |
+          The Single Window addresses challenges such as procedural redundancies, duplication in filing, and inefficiencies in cross-border transactions.
+document_outline: |
+  **Document Outline:**  
+  The document outlines the implementation of Tanzania's Electronic Single Window System (eSWS) to enhance trade facilitation, reduce logistics costs, and streamline import, export, and transit procedures. It details the concept, benefits, and implementation strategy of eSWS, highlighting its importance in improving regional competitiveness and the collaboration required among stakeholders, including traders, government institutions, and private sectors.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - SINGLEWINDOWSYSTEMeng-web.md

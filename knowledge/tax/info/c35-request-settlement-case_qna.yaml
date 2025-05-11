@@ -1,0 +1,80 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C. 35
+      
+      ## EAST AFRICAN COMMUNITY                                                
+                                    CUSTOMS
+      
+      Regulation 186
+      
+      ## REQUEST FOR SETTLEMENT
+         OF CASE
+      
+      To the
+         Commissioner
+      
+      At…………………………………………  Country
+         ………………………………….. 
+      
+      I am concerned in contravention
+         of the East
+      
+      2ps. African Community Customs Management Act, namely
+         (section/regulation);
+      
+      ……………………………………………………………………………………………………………
+      
+      ..
+         
+      
+      I  admit  being  guilty  of  the  offence  and  hereby  request  the 
+         Commissioner  to  deal  with  the case under the provisions of Part XVIII of
+         the said Act. 
+      
+      It has been explained to me by the proper officer and I
+         understand that any order made by the Commissioner is final and is not
+         subject to appeal. 
+      
+      Date this………… day of …………
+         20…..
+      
+      ………………………………………
+      
+      Name and Signature of
+         Offender
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the 'Request for Settlement of Case' form in the context of the East African Community Customs regulations?
+        answer: |
+          The purpose of the form is for an individual to admit guilt to an offense under the East African Community Customs Management Act and request that the case be resolved by the Commissioner under Part XVIII of the Act.
+      - question: |
+          What section of the East African Community Customs Management Act does the offender need to reference on the form?
+        answer: |
+          The offender is required to reference the specific section or regulation of the East African Community Customs Management Act related to the contravention.
+      - question: |
+          What explicit provision regarding appeals is stated in the form?
+        answer: |
+          The form states that any order made by the Commissioner is final and not subject to appeal.
+      - question: |
+          What is required from the offender at the end of the form?
+        answer: |
+          The offender is required to sign the form, providing their name and signature, along with the date of submission.
+      - question: |
+          Under which part of the East African Community Customs Management Act does the case settlement process fall?
+        answer: |
+          The case settlement process falls under Part XVIII of the East African Community Customs Management Act.
+document_outline: |
+  **Document Outline:**  
+  This document is a formal request form addressed to the Commissioner of the East African Community Customs, under Regulation 186 of the Customs Management Act, allowing an individual who admits guilt in a customs-related contravention to request case settlement under Part XVIII of the Act, with the understanding that the Commissioner's decision is final and non-appealable.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c35-request-settlement-case.md

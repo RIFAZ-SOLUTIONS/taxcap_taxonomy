@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## Enhanced Domestic Revenue System USER GUIDE ON REMISSION OF INTEREST AND PENALTY Version 1.0 <!-- image --> ## Table of Contents | 1. 2ps. | Task Summary ...................................................................................................................3 | |----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------| | 2. 3ps. | Getting Started ...................................................................................................................4 | | 3. 4ps. 5ps. | HOW TO ACCESS REMISSION MODULE .......................................................................5 | | STEP 01: Accessing Taxpayer Portal (through Official TRA Website) ...........................5 | STEP 01: Accessing Taxpayer 6ps. Portal (through Official TRA Website) ...........................5 | | STEP 02: Log in into Taxpayer portal page .......................................................................6 | STEP 02: Log in into Taxpayer portal page .......................................................................6 | | STEP 04: Select 7ps. 'Remission' .............................................................................................7 | STEP 04: Select 'Remission' .............................................................................................7 | | STEP 04: Select 'Session' ..................................................................................................8 | STEP 04: Select 'Session' ..................................................................................................8 | | 4. HOW TO APPLY FOR REMISSION 8ps. | ..................................................................................9 9ps. | | STEP 05: Dashboard ............................................................................................................9 | STEP 05: Dashboard ............................................................................................................9 | | STEP 06: New Remission Application ...............................................................................9 | STEP 06: New Remission Application ...............................................................................9 | | STEP 07: Applied Remission Applications ......................................................................12 | STEP 07: Applied Remission Applications ......................................................................12 10ps. | <!-- image --> ## 1. Task Summary This User Manual (UM) provides the information necessary for taxpayers with assessments of interest or penalties to apply for remission through the Remission Module accessible through the Taxpayer portal. 2ps. 1ps. <!-- image --> ## 2. Getting Started In order to perform actions as per instructions outlined in this user guide, the user must have an active Taxpayer Portal Account as a Director/Administrator or Declarant or Individual Taxpayer. <!-- image --> ## 3. HOW TO ACCESS REMISSION MODULE By following these steps, the Declarant will be able to request for remission of interest and penalty in the Taxpayer portal.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the User Manual (UM)?
+        answer: |
+          The User Manual provides information for taxpayers with interest or penalty assessments to apply for remission through the Remission Module in the Taxpayer portal.
+      - question: |
+          Who can perform the actions outlined in this user guide?
+        answer: |
+          The actions can be performed by users with an active Taxpayer Portal Account, such as Directors/Administrators, Declarants, or Individual Taxpayers.
+      - question: |
+          What is the main purpose of the Remission Module in the Taxpayer portal?
+        answer: |
+          The Remission Module allows Declarants to request remission of interest and penalty for their tax assessments.
+      - question: |
+          What is the first step to access the Remission Module?
+        answer: |
+          The first step is accessing the Taxpayer Portal through the official TRA website.
+      - question: |
+          What should users do after logging into the Taxpayer Portal for accessing remission options?
+        answer: |
+          After logging in, users should select 'Remission' from the provided portal options to proceed with their request.
+document_outline: |
+  **Document Outline:**  
+  This user guide, "Enhanced Domestic Revenue System: User Guide on Remission of Interest and Penalty (Version 1.0)," provides step-by-step instructions for taxpayers to access and use the Remission Module via the Taxpayer Portal. It includes guidance on logging in, navigating the module, and submitting applications to request remission of assessed interest or penalties.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Remission_of_Penalties_and_Interest_User_Guide_Taxpayers.md

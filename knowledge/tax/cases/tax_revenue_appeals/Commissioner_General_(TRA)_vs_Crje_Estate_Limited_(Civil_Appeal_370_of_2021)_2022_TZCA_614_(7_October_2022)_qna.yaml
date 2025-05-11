@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. As a result, the appellant served the respondent a demand notice in exhibit A10 for payment of TZS 2,268,636,778.63. The appellant maintained the same position notwithstanding the respondent's application for review. Being aggrieved, the respondent appealed to the Tax Revenue Appeals Board (the Board). The Board having heard the appeal and considered the provision of section 19(2) of the TIA in line with the amendment, was of the 2ps. opinion that, the amendment in question did not affect the benefits created before its coming into forth. In particular, it observed as follows: " Thus, as no amendments either through legislative enactment or otherwise made within five years from the date o f issuance o f the certificate of incentives could affect the benefits granted to the appellant (the i nvestor), then we are satisfied that, the amendment of section 19(2) o f the 3ps. Tanzania Investment Act, 1997 as introduced by the Finance Act 2013 does not apply ## to the project that was registered on 8P January, 2009." The appellant was not pleased with that decision. 2ps. 1ps. The Board having heard the appeal and considered the provision of section 19(2) of the TIA in line with the amendment, was of the opinion that, the amendment in question did not affect the benefits created before its coming into forth. The appellant was not pleased with that decision. She thus appealed, to the Tax Revenue Appeals Tribunal (the Tribunal), raising in essence three complaints. One, the 2ps. Board was wrong in holding that the respondents tax benefits under the certificate of incentive in question were not affected by the amendment of the law.
+    questions_and_answers:
+      - question: |
+          What was the amount specified in the demand notice served by the appellant to the respondent?
+        answer: |
+          The demand notice specified a payment of TZS 2,268,636,778.63.
+      - question: |
+          What was the main issue considered by the Tax Revenue Appeals Board regarding the amendment to section 19(2) of the Tanzania Investment Act?
+        answer: |
+          The Board considered whether the amendment to section 19(2) of the Tanzania Investment Act, introduced by the Finance Act 2013, affected benefits created before the amendment came into force.
+      - question: |
+          How did the Board interpret the impact of the 2013 amendment on projects registered before its enactment?
+        answer: |
+          The Board concluded that the amendment did not apply to projects, such as the respondent's, that had been registered before the amendment, as it could not affect benefits granted within five years from the issuance of a certificate of incentives.
+      - question: |
+          What specific project registration date did the Board reference in its decision?
+        answer: |
+          The Board referenced the project registration date of January 8, 2009.
+      - question: |
+          What was the appellant's main complaint in their appeal to the Tax Revenue Appeals Tribunal?
+        answer: |
+          The appellant argued that the Board was wrong in holding that the respondent's tax benefits under the certificate of incentive were not affected by the amendment of the law.
+  - context: |
+      1ps. 1ps. 38) (as amended by the Finance Act, 2013. - 2. The Tax Revenue Appeals Tribunal erred in law and fact in holding that each Certificate of Incentive is a separate agreement between the investor and the Government and it has its own terms and conditions as well as privileges granted to the investor o f the given project for the given time, in contravention and disregard o f section 19(1) and 19 (4) o f the Tanzania Investment 2ps. Act (Cap.38) as well as Clause B. - 3. The Tax Revenue Appeals Tribunal erred in law and fact in holding that the respondent is entitled to 100% import duty exemption under the Customs Tariff Act, 1976 in total reliance of the certificate o f incentive granted to the respondent in 2009, thus contravening article 39 (2) o f the East Africa Community Customs Union Protocol, 2004 and section 253 o f the East African Community Customs Management Act, 2004 which requires Tanzania to apply the East African 3ps. Community Customs Management Act, 2004 in a ll customs matters. 2ps. 1ps. 38) (as amended by the Finance Act, 2013. - 2. The Tax Revenue Appeals Tribunal erred in law and fact in holding that each Certificate of Incentive is a separate agreement between the investor and the Government and it has its own terms and conditions as well as privileges granted to the investor o f the given project for the given time, in contravention and disregard o f section 19(1) and 19 (4) o f the Tanzania Investment 2ps. Act (Cap.38) as well as Clause B. - 4.
+    questions_and_answers:
+      - question: |
+          What legal provision governs the application of customs matters in Tanzania according to the context?
+        answer: |
+          The East African Community Customs Management Act, 2004 governs customs matters in Tanzania as required by section 253 of the Act.
+      - question: |
+          What error did the Tax Revenue Appeals Tribunal make regarding the Certificates of Incentive?
+        answer: |
+          The Tribunal erred in law and fact by holding that each Certificate of Incentive is a separate agreement with unique terms, disregarding section 19(1) and 19(4) of the Tanzania Investment Act (Cap. 38).
+      - question: |
+          Which international protocol was allegedly contravened by granting a 100% import duty exemption based solely on the Certificate of Incentive?
+        answer: |
+          The East African Community Customs Union Protocol, 2004, specifically Article 39(2), was allegedly contravened.
+      - question: |
+          How does the Finance Act, 2013 relate to the text provided?
+        answer: |
+          The Finance Act, 2013 amended legal provisions mentioned in the context, such as the Customs Tariff Act and other related legislations.
+      - question: |
+          Why was reliance on the Certificate of Incentive to grant import duty exemption viewed as problematic?
+        answer: |
+          Relying solely on the Certificate of Incentive was viewed as problematic because it contravened the requirements set out in the East African Community Customs Management Act, 2004 and the East African Community Customs Union Protocol, 2004.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## ( CORAM: KWARIKO J.A.. KEREFU. 3.A. And MAIGE. J.A.1 CIVIL APPEAL NO. 370 OF 2021 COMMISSIONER GENERAL (TRA)........................................... APPELLANT ## VERSUS CRJE ESTATE LIMITED......... ................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, Chairperson:^ dated the 7th day of September, 2021 in Tax Appeal No. 67 of 2019 ## JUDGMENT OF THE COURT 30h September, &amp; 7th October, 2022 ## MAIGE, J.A.: The respondent, CRJE Estate Limited, a construction company duly incorporated under the laws of Tanzania, entered into an agreement, in 2008 with Mwalimu 2ps. Nyerere Foundation for construction of a commercial building in Dar es Salaam. It is common ground that, the project, the subject of the dispute, was registered with the Tanzania Investment Centre (TIC) in December, 2008 and a certificate of incentive under section 17 of the Tanzania Investment Act [Cap. 2ps. 1ps. J.A.1 CIVIL APPEAL NO. 370 OF 2021 COMMISSIONER GENERAL (TRA)........................................... APPELLANT ## VERSUS CRJE ESTATE LIMITED......... ................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, Chairperson:^ dated the 7th day of September, 2021 in Tax Appeal No. 67 of 2019 ## JUDGMENT OF THE COURT 30h September, &amp; 7th October, 2022 ## MAIGE, J.A.: 38 R.E. 2019], (the TIA) was granted to the respondent in January 2009 and which was subsequently, extended as per exhibits A4 and A7, to November, 2018. In carrying out the project, the respondent 2ps. imported various deemed capital goods unto which the appellant approved 100% import duty exemption pursuant to the respective certificate.
+    questions_and_answers:
+      - question: |
+          Who are the parties involved in Civil Appeal No. 370 of 2021?
+        answer: |
+          The parties are the Commissioner General (TRA) as the appellant and CRJE Estate Limited as the respondent.
+      - question: |
+          What was the nature of the agreement between CRJE Estate Limited and the Mwalimu Nyerere Foundation?
+        answer: |
+          The agreement, entered into in 2008, was for CRJE Estate Limited to construct a commercial building in Dar es Salaam.
+      - question: |
+          What approval did CRJE Estate Limited receive from the Tanzania Investment Centre (TIC) in 2008?
+        answer: |
+          The project was registered with TIC, and CRJE Estate Limited was granted a certificate of incentive under section 17 of the Tanzania Investment Act in January 2009.
+      - question: |
+          What tax-related benefit was provided to CRJE Estate Limited for the construction project?
+        answer: |
+          The appellant, TRA, approved a 100% import duty exemption for various deemed capital goods required for the construction project.
+      - question: |
+          What governing body initially handled the tax dispute before the appeal reached the Court of Appeal of Tanzania?
+        answer: |
+          The tax dispute was initially handled by the Tax Revenue Appeals Tribunal at Dar es Salaam.
+  - context: |
+      1ps. 1ps. The issue, in our view, revolve around the benefits an investor enjoys under section 19(1) of the T1A and its protection under section 19(2) of the same law. The two provisions under which the two rights are provided for, had kept the same wordings notwithstanding the 2012 and 2013 amendments. (2) For the purpose of creating a predictable investment climate, an investor to whom a Certificate has been issued shall be entitled to the benefits referred to under subsection (1) 2ps. and such benefits shall not, during the period o f five years from the date o f i ssuance o f such Certificate be amended or modified to the detriment o f the investor" In 2012 and 2013 amendments, it is undeniable, the benefits under subsection (1) was amended, by the new provisions of subsection (4), by restricting the exemptions for import duties in deemed capital goods to 90% in the 2012 amendment and 3ps. 75% in the 2013 amendment. That is where the dispute lies. The protection under subsection (2) was not expressly altered by the 2013 amendment. 2ps. 1ps. That is where the dispute lies. The protection under subsection (2) was not expressly altered by the 2013 amendment. Mr. Kinabo contents that, the said provision has implicitly been affected in that; the benefits and protection therein are only available to strategic and major investors under section 20 of the TIA. With all respects to the learned counsel, we have repeatedly examined the two amendments and we could not find any provision through which we could imply discriminatory application 2ps. of the benefits between strategic and major investors on the one hand and ordinary investors with certificates of incentive on the other.
+    questions_and_answers:
+      - question: |
+          What is the core issue discussed in the context?
+        answer: |
+          The core issue revolves around the benefits an investor enjoys under section 19(1) of the TIA and their protection under section 19(2), specifically after the 2012 and 2013 amendments modified subsection (1) but not explicitly subsection (2).
+      - question: |
+          What changes were introduced in the 2012 and 2013 amendments to subsection (1) of the TIA?
+        answer: |
+          The amendments restricted the exemptions for import duties on deemed capital goods to 90% in 2012 and further reduced them to 75% in 2013.
+      - question: |
+          Did the 2013 amendment explicitly alter the protection provided under subsection (2)?
+        answer: |
+          No, the protection under subsection (2) was not explicitly altered by the 2013 amendment.
+      - question: |
+          What is Mr. Kinabo's contention about the impact of the 2013 amendment on subsection (2)?
+        answer: |
+          Mr. Kinabo argues that the protection under subsection (2) has been implicitly affected, limiting its availability to strategic and major investors under section 20 of the TIA.
+      - question: |
+          What conclusion do the authors draw regarding allegations of discriminatory application of benefits under the amendments?
+        answer: |
+          The authors conclude that there is no provision in the 2012 and 2013 amendments that implies discriminatory application of benefits between strategic and major investors and ordinary investors with certificates of incentive.
+  - context: |
+      1ps. 1ps. The counsel finally urged us to answer the issue negatively. Submitting in rebuttal on the issue, Ms. Kinyaka who made the submissions for the respondent supported the decision of the Tribunal that a certificate of incentive is an agreement between the Government and the investor. She substantiated her argument with section 17 (7) of the TTA and the principle in Vodacom Tanzania Public Limited Company vs. Commissioner General, TRA, Civil Appeal No. 107 of 2020 (unreported). She did not agree with the 2ps. appellants submissions that, the Attorney General was not involved because under section 5(2) (c) of the HA, the Attorney General is a part of the TIC. In any event, she submitted, a certificate of incentive being conclusive evidence of validity of its contents, it was upon the appellant to adduce evidence in proof of non- involvement of the Attorney General. In rejoinder, Mr. Kinabo maintained the same position that a certificate of incentive is not an agreement. 2ps. 1ps. She did not agree with the appellants submissions that, the Attorney General was not involved because under section 5(2) (c) of the HA, the Attorney General is a part of the TIC. In any event, she submitted, a certificate of incentive being conclusive evidence of validity of its contents, it was upon the appellant to adduce evidence in proof of non- involvement of the Attorney General. In rejoinder, Mr. Kinabo maintained the same position that a certificate of incentive 2ps. is not an agreement. He urged the Court not to rely on the Vodacom case (supra), because the issue therein, unlike in the instant one, pertained to Income Tax Act. We have tentatively followed the counsel's submissions on the issue. It raises two questions.
+    questions_and_answers:
+      - question: |
+          What argument did Ms. Kinyaka present to support the Tribunal's decision regarding the certificate of incentive?
+        answer: |
+          Ms. Kinyaka argued that a certificate of incentive is an agreement between the Government and the investor, citing section 17(7) of the TTA and the principle in the Vodacom Tanzania Public Limited Company vs. Commissioner General, TRA case for support.
+      - question: |
+          Why did Ms. Kinyaka disagree with the appellants' claim about the Attorney General's involvement?
+        answer: |
+          Ms. Kinyaka disagreed with the appellants' claim by referring to section 5(2)(c) of the HA, which indicates that the Attorney General is part of the TIC. She argued that the appellant had the burden of proving the Attorney General's non-involvement.
+      - question: |
+          What stance did Mr. Kinabo take regarding the certificate of incentive?
+        answer: |
+          Mr. Kinabo maintained that a certificate of incentive is not an agreement and urged the Court not to rely on the Vodacom case, stating that it involved a different issue pertaining to the Income Tax Act.
+      - question: |
+          What was the significance of section 5(2)(c) of the HA in the dispute?
+        answer: |
+          Section 5(2)(c) of the HA was significant because Ms. Kinyaka used it to argue that the Attorney General, as part of the TIC, was inherently involved in matters related to the certificate of incentive, countering the appellants' claims.
+      - question: |
+          Why did Mr. Kinabo object to the use of the Vodacom Tanzania case as a precedent?
+        answer: |
+          Mr. Kinabo objected to its use because the issue in that case related to the Income Tax Act, which he argued was different from the issue in the current dispute regarding the certificate of incentive.
+document_outline: |
+  ### Document Outline:
+  
+  This document is a judgment by the Court of Appeal of Tanzania in **Civil Appeal No. 370 of 2021**, involving the Commissioner General of the Tanzania Revenue Authority (TRA) (Appellant) and CRJE Estate Limited (Respondent). The case centers on a tax dispute over import duty exemptions granted to the respondent under a certificate of incentive issued pursuant to the Tanzania Investment Act, which was later affected by amendments to the law; the respondent challenged the application of these amendments to their project, with earlier rulings from the Tax Revenue Appeals Board and Tribunal favoring the respondent.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Commissioner_General_(TRA)_vs_Crje_Estate_Limited_(Civil_Appeal_370_of_2021)_2022_TZCA_614_(7_October_2022).md

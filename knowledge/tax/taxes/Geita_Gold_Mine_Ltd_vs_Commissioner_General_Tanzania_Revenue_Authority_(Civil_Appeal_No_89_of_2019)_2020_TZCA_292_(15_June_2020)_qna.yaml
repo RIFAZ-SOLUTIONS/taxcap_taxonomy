@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 3r d &amp; 15th June, 2020 ## LEVIRA. 3.A.: The appellant, GEITA GOLD MINING LIMITED (GGML) owns and operates a gold mine in Geita. For smooth running of mining activities at the mine site, the appellant decided to build its own power station to produce electricity. Therefore, she entered into an agreement with Golden Construction Limited (GCL) for construction of the said power plant, supply and 2ps. installation of 7 big generators and Geita Power Plant Limited (GPPL) to manage and operate the power plant. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## rCORAM: MUGASHA. J.A.. NDIKA. J.A. And LEVIRA. J.A.l ## CIVIL APPEAL NO. 89 OF 2019 GEITA GOLD MINING LTD...........................................................APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY ... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Mwanza ) ## fShanawa. 3.1 Dated 10th day of October, 2012 in Tax Appeal No. 14 of 2006 ## JUDGMENT OF THE COURT The 3ps. GCL supplied the said generators but on installation they collapsed. 2ps. 1ps. VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY ... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Mwanza ) ## fShanawa. 3.1 Dated 10th day of October, 2012 in Tax Appeal No. 14 of 2006 ## JUDGMENT OF THE COURT The GCL supplied the said generators but on installation they collapsed. As a result, the holding company of GCL by the name Rolls Royce had to enter into a hire Agreement with 2ps. Aggreko International Project Ltd (AIPL) to install 24 small generators to the appellant's mines as an alternative to the 7 collapsed generators. The agreement between the appellant and GPPL permitted the operator of power house to use fuel efficiently and fuel consumption rate was imposed.
+    questions_and_answers:
+      - question: |
+          Who owns and operates the gold mine in Geita?
+        answer: |
+          Geita Gold Mining Limited (GGML) owns and operates the gold mine in Geita.
+      - question: |
+          What was the purpose of GGML building its own power station?
+        answer: |
+          The purpose of building the power station was to produce electricity for the smooth running of mining activities at the mine site.
+      - question: |
+          What happened to the generators supplied by Golden Construction Limited (GCL)?
+        answer: |
+          The generators supplied by GCL collapsed upon installation.
+      - question: |
+          What alternative solution was arranged after the collapse of the generators?
+        answer: |
+          Rolls Royce, the holding company of GCL, entered into a hire agreement with Aggreko International Project Ltd (AIPL) to install 24 small generators as an alternative to the seven collapsed generators.
+      - question: |
+          What condition was imposed in the agreement with Geita Power Plant Limited (GPPL)?
+        answer: |
+          The agreement permitted the operator of the power house to use fuel efficiently and imposed a fuel consumption rate.
+  - context: |
+      1ps. 1ps. In support of his position the learned counsel cited the case of Resolute Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 125 of 2017 (unreported) in which the Court cited with approval the case of Cape Brandy Syndicate v. Inland Revenue Commissioners (1921) 1 KB 64; where it was stated that, in taxing one has to look merely at what is clearly said. He therefore 2ps. prayed that the decisions of lower tribunals be upheld, the appeal be dismissed and the appellant be ordered to pay VAT. In a very brief rejoinder, Mr. Kileo urged us to construe the provisions of the VAT Act purposively and harmoniously instead of invoking a strict interpretation rule as requested by the respondent's counsel. He said, if sections 4 and 5 of the Act will so be construed, it will be realised that there was no taxable supply. He 3ps. added that, both the Board and the Tribunal did not rule out that there was sale of fuel. 2ps. 1ps. In a very brief rejoinder, Mr. Kileo urged us to construe the provisions of the VAT Act purposively and harmoniously instead of invoking a strict interpretation rule as requested by the respondent's counsel. He said, if sections 4 and 5 of the Act will so be construed, it will be realised that there was no taxable supply. He added that, both the Board and the Tribunal did not rule out that there was sale of 2ps. fuel. According to him, the case cited by the respondent is distinguishable because it talked about tax exemptions prescribed in the Government Notices and this is irrelevant in the present matter. He thus reiterated his prayer that this appeal be allowed.
+    questions_and_answers:
+      - question: |
+          What precedent did the learned counsel for the respondent cite to support their position?
+        answer: |
+          The learned counsel cited the case of Resolute Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 125 of 2017, where the court relied on Cape Brandy Syndicate v. Inland Revenue Commissioners (1921) 1 KB 64, emphasizing that in taxing, one must look at what is clearly stated.
+      - question: |
+          What was the primary argument made by the respondent's counsel in favor of their position?
+        answer: |
+          The respondent's counsel argued for a strict interpretation of tax laws and requested that the decisions of the lower tribunals be upheld, the appeal dismissed, and the appellant ordered to pay VAT.
+      - question: |
+          What interpretation approach did Mr. Kileo advocate for in response to the respondent's argument?
+        answer: |
+          Mr. Kileo urged a purposive and harmonious construction of the VAT Act, arguing against the strict interpretation approach proposed by the respondent's counsel.
+      - question: |
+          Why did Mr. Kileo claim the case cited by the respondent was irrelevant?
+        answer: |
+          Mr. Kileo argued that the case cited by the respondent discussed tax exemptions in Government Notices, which he deemed irrelevant to the matter at hand.
+      - question: |
+          What conclusion did Mr. Kileo highlight about the rulings of the Board and the Tribunal regarding the sale of fuel?
+        answer: |
+          Mr. Kileo pointed out that neither the Board nor the Tribunal ruled out that there was a sale of fuel, suggesting that their findings should support his argument that there was no taxable supply.
+  - context: |
+      1ps. 1ps. Aggrieved, the appellant unsuccessfully challenged the decision of the respondent to both the Tax Revenue Appeals Board (the Board) vide VAT Tax Appeal No. 8 of 2004 and the Tax Revenue Appeals Tribunal (the Tribunal) vide VAT Appeal No. 14 of 2006. Undauntedly, the appellant has preferred the current appeal. - 2. That the Tax Revenue Appeals Tribunal erred in law and fact when it held that there was a vatable supply of fuel between Geita 2ps. Gold Mine Limited and Golden Construction Company operating the Geita Gold Mine Power Station. - 3. The Tax Revenue Appeals Tribunal erred in law in relying on the un-issued invoice to hold that VAT is payable by reason only of the existence of the invoice without giving due regard to section 4 and 5 of the VAT Act, 1997. - 4. The Tax Revenue Appeals Tribunal erred in law in dismissing the appeal and ordering the appellant to pay costs. 2ps. 1ps. The Memorandum of Appeal contains four grounds challenging the decision of the Tax Revenue Appeals Tribunal as follows:- - 1. The Tax Revenue Appeals Tribunal erred in law when it held that Value Added Tax (VAT) is payable on the excess fuel utilized by M/S Golden Construction Company to run the Geita Gold Mine Power Station. The parties filed written submissions for and against this 2ps. appeal in compliance with Rule 106 of the Tanzania Court of Appeai Rules 2009 (the Rules). At the hearing of the appeal, the appellant was represented by Mr. Alan Kileo, learned advocate, assisted by Mr. Wilson Mukebezi and Mr. Norbet Mwaifwani, both learned counsel; whereas the Respondent had the services of Mr. Evarist Mashiba, learned Principal State Attorney assisted by Mr. Hospis Maswanyia, Mr. Harold Gugami and Mr. Yohana 3ps.
+    questions_and_answers:
+      - question: |
+          What was the appellant challenging in the appeal?
+        answer: |
+          The appellant was challenging the decision of the Tax Revenue Appeals Tribunal on four grounds, including the tribunal's determination that VAT was payable on excess fuel utilized by Golden Construction Company at the Geita Gold Mine Power Station.
+      - question: |
+          What specific error in law did the appellant claim the Tax Revenue Appeals Tribunal made regarding invoices?
+        answer: |
+          The appellant claimed the tribunal erred in relying on an un-issued invoice to hold that VAT was payable, without considering sections 4 and 5 of the VAT Act, 1997.
+      - question: |
+          Who represented the appellant during the hearing of this appeal?
+        answer: |
+          The appellant was represented by Mr. Alan Kileo, assisted by Mr. Wilson Mukebezi and Mr. Norbet Mwaifwani, all learned advocates.
+      - question: |
+          What procedural rule guided the submission of written arguments in this appeal?
+        answer: |
+          The written submissions for and against the appeal were filed in compliance with Rule 106 of the Tanzania Court of Appeal Rules, 2009.
+      - question: |
+          What determination by the Tax Revenue Appeals Tribunal about fuel supply was being contested?
+        answer: |
+          The appellant contested the tribunal's ruling that there was a vatable supply of fuel between Geita Gold Mine Limited and Golden Construction Company, which operated the Geita Gold Mine Power Station.
+  - context: |
+      1ps. 1ps. He argued further that section 57 (now 58) of the VAT Act which demands VAT to be recoverable whenever there is an invoice showing that VAT, must be read together with section 5 of the same Act because fundamentally, VAT is a tax on transaction. As such, he said, section 57 assumes that there is supply but in the current matter there was 2ps. no supply and the said section becomes irrelevant. Upon being prompted by the Court to state whether or not the appellant was privy to the contract between the GCL and Rolls Royce Company which supplied 24 generators, his response was in the negative. However, he maintained that there was no supply of fuel so it was not right for the 3ps. respondent to claim for VAT. Finally, he urged us to allow this appeal. 2ps. 1ps. Upon being prompted by the Court to state whether or not the appellant was privy to the contract between the GCL and Rolls Royce Company which supplied 24 generators, his response was in the negative. However, he maintained that there was no supply of fuel so it was not right for the respondent to claim for VAT. Finally, he urged us 2ps. to allow this appeal. In reply, Mr. Maswanyia, learned State Attorney adopted the written submissions and stated that there is no doubt that the appellant supplied fuel to GCL, raised an invoice and proceeded to charge VAT as it can be seen at page 14 of the record of appeal. He also said that, there is no dispute that the invoice subject to this dispute was never cancelled todate. 3ps. He referred to section 4(1) of the VAT Act and said that, VAT is chargeable to any supply of goods made to a taxable person.
+    questions_and_answers:
+      - question: |
+          What does section 58 of the VAT Act stipulate regarding VAT recovery?
+        answer: |
+          Section 58 of the VAT Act stipulates that VAT becomes recoverable whenever there is an invoice showing that VAT was charged.
+      - question: |
+          Why did the appellant argue that section 57 (now section 58) of the VAT Act was irrelevant in this case?
+        answer: |
+          The appellant argued that section 58 was irrelevant because it assumes a supply occurred, but in the current matter, there was no supply.
+      - question: |
+          Was the appellant privy to the contract between GCL and Rolls Royce Company for the supply of 24 generators?
+        answer: |
+          No, the appellant stated they were not privy to the contract between GCL and Rolls Royce Company for the supply of 24 generators.
+      - question: |
+          What was the learned State Attorney's main argument regarding the supply of fuel to GCL?
+        answer: |
+          The learned State Attorney argued that the appellant did supply fuel to GCL, issued an invoice, and charged VAT, as evidenced on page 14 of the record of appeal.
+      - question: |
+          According to section 4(1) of the VAT Act, when is VAT chargeable?
+        answer: |
+          VAT is chargeable on any supply of goods made to a taxable person, as mandated by section 4(1) of the VAT Act.
+  - context: |
+      1ps. 1ps. On the other hand, the respondent argued that the appellant made a supply which is taxable because she sold fuel to GCL. We note that the counsel for the appellant did not dispute the fact that the appellant issued an invoice for fuel indicating VAT to GCL, although he said, it was wrong because there was no supply and the respondent was not supposed to claim VAT. The appellant demanded payment for the fuel supplied 2ps. for the running of the said generators from Golden Construction Limited and issued a tax invoice of USD 5, 527,553.83 and charged VAT of 20% but did not remit the same to the respondent. According to the record, the invoice was debited and it appears in the appellant's audit report for the year 2002 2003. The invoice which the counsel for the appellant 3ps. claimed that it was cancelled, which was found to be untrue both before the Board and the Tribunal. 2ps. 1ps. We further note that the appellant was not privy to the subsequent agreement between Rolls Royce Company Limited (as a parent Company of GCL) and AIPL which supplied 24 generators consuming excessive fuel. The appellant demanded payment for the fuel supplied for the running of the said generators from Golden Construction Limited and issued a tax invoice of USD 5, 527,553.83 and charged VAT of 20% but did not remit the 2ps. same to the respondent. Section 5(1) of the VAT Act defines "taxable supplies" as any supply of goods or services made by a taxable person in the course of or in furtherance of his business. 3ps. 1ps. The appellant demanded payment for the fuel supplied for the running of the said generators from Golden Construction Limited and issued a tax invoice of USD 5, 527,553.
+    questions_and_answers:
+      - question: |
+          What argument did the appellant's counsel make regarding the invoice issued to GCL?
+        answer: |
+          The appellant's counsel argued that the invoice indicating VAT was issued in error because there was no actual supply, and therefore the respondent should not have claimed VAT.
+      - question: |
+          What was the value of the tax invoice issued by the appellant, and what VAT rate was applied?
+        answer: |
+          The tax invoice issued by the appellant was valued at USD 5,527,553.83, and a VAT rate of 20% was applied.
+      - question: |
+          Did the appellant remit the VAT charged on the fuel supply to the respondent?
+        answer: |
+          No, the appellant charged VAT on the fuel supply but did not remit it to the respondent.
+      - question: |
+          What did the appellant claim about the status of the issued tax invoice, and what was found during the proceedings?
+        answer: |
+          The appellant claimed that the tax invoice was canceled, but this was found to be untrue during proceedings before both the Board and the Tribunal.
+      - question: |
+          How does the VAT Act define 'taxable supplies' under Section 5(1)?
+        answer: |
+          Section 5(1) of the VAT Act defines 'taxable supplies' as any supply of goods or services made by a taxable person in the course of or in furtherance of their business.
+document_outline: |
+  **Document Outline:**
+  
+  This document outlines a legal dispute in the Court of Appeal of Tanzania between Geita Gold Mining Ltd (GGML) and the Commissioner General of the Tanzania Revenue Authority regarding a Value Added Tax (VAT) assessment. It details the appellant's disagreement with tax authorities over VAT liability for excess fuel consumption at the Geita mine power station, subsequent appeals through the Tax Revenue Appeals Board and Tribunal, and the grounds of appeal presented to the Court of Appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Geita_Gold_Mine_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_89_of_2019)_2020_TZCA_292_(15_June_2020).md

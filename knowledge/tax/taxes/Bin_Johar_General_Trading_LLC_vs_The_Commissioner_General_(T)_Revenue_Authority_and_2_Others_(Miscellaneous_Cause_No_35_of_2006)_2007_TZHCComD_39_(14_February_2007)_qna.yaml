@@ -1,0 +1,131 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (COMMERCIAL DIVISION) ## AT PAR ES SALAAM ## MISCELLANEOUS COMMERCIAL CAUSE NO. 35 OF 2006 IN THE MATTER OF AN APPLICATION FOR THE ORDERS OF CERTIORARI, MANDAMUS AND PROHIBITION; AND IN THE MATTER OF THE EXERCISE OF QUASI-JUDICIAL POWERS UNDER THE EAST AFRICAN COMMUNITY CUSTOMS MANAGEMENT ACT, 2004 IN EXCESS OF JURISDICTION; AND IN THE MATTER OF ACTING ULTRA VIRES STATUTORY POWERS; AND IN THE MATTER OF THE EXERCISE OF STATUTORY POWERS FOR IMPROPER MOTIVES; AND IN THE MATTER OF ABUSE OF QUASI-JUDICIAL POWERS; AND IN THE MATTER OF FETTERED ACCESS TO JUDICIAL REMEDIES; AND IN THE MATTER OF WRONGFUL MISAPPLICATION OF THE LAW AND CONTRAVENTION OF 2ps. THE RULES OF NATURAL JUSTICE; AND IN THE MATTER OF IMPROPER EXERCISE OF DISCRETIONARY EXTRA JUDICIAL POWERS; BETWEEN BIN JOHAR GENERAL TRADING LLC.... APPLICANT VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY..... 1st RESPONDENT ## THE COMMISSIONER FOR CUSTOMS 2nd RESPONDENT THE ATTORNEY GENERAL.................... 3rd RESPONDENT ## RULING ## MJASIRI, J. 2ps. 1ps. APPLICANT VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY..... 1st RESPONDENT ## THE COMMISSIONER FOR CUSTOMS 2nd RESPONDENT THE ATTORNEY GENERAL.................... 3rd RESPONDENT ## RULING ## MJASIRI, J. This is an application by BIN JOHAR GENERAL TRADING LLC for the orders of certiorari, mandamus and prohibition against the Commissioner General Tanzania Revenue Authority, first Respondent; the Commissioner for Customs, second Respondent and the Attorney General, third Respondent. The application arises from an order made by the second Respondent to seize a consignment of 5,975,64 metric tons of diesel on board Mt Olympique Pride. The Applicant contracted Enoch Supply and Trading LLC and 2ps. MT Olympique Pride a tanker ship to ferry diesel gas oil for GBP Tanzania Limited in Tanga and to another merchant based in Somalia.
+    questions_and_answers:
+      - question: |
+          What is the main legal issue in Miscellaneous Commercial Cause No. 35 of 2006?
+        answer: |
+          The main legal issue involves BIN JOHAR GENERAL TRADING LLC seeking orders of certiorari, mandamus, and prohibition against the respondents for allegedly acting ultra vires, abusing quasi-judicial powers, and fettering access to judicial remedies.
+      - question: |
+          Who are the respondents in the case filed by BIN JOHAR GENERAL TRADING LLC?
+        answer: |
+          The respondents are the Commissioner General of the Tanzania Revenue Authority (1st Respondent), the Commissioner for Customs (2nd Respondent), and the Attorney General (3rd Respondent).
+      - question: |
+          What action by the second respondent led to the filing of this application?
+        answer: |
+          The second respondent, the Commissioner for Customs, seized a consignment of 5,975.64 metric tons of diesel on board the tanker ship MT Olympique Pride.
+      - question: |
+          What was the purpose of the diesel being transported on the MT Olympique Pride?
+        answer: |
+          The diesel was being transported for GBP Tanzania Limited in Tanga and another merchant based in Somalia, as contracted by BIN JOHAR GENERAL TRADING LLC and Enoch Supply and Trading LLC.
+      - question: |
+          Who presided over the application by BIN JOHAR GENERAL TRADING LLC in this case?
+        answer: |
+          The application was presided over by Justice Mjasiri in the High Court of Tanzania (Commercial Division).
+  - context: |
+      1ps. 1ps. The person or authority to whom it is issued must be either under a statutory duty or legal duty to do something or not to do something; the duty itself being imperative in nature. ' The issue of certiorari is purely discretionary and the rule is that certiorari should only be granted where no other suitable remedy exists. A writ of certiorari is not granted merely because the decision is erroneous. The superior court cannot convert itself into a court of appeal and examine for itself the correctness of the decision impugned in respect of a matter 2ps. entirely within jurisdiction unless the record disclosed an error apparent on its face or an irregularity in the procedure which goes contrary to the principles of natural justice Veerappa Pillai V Raman Raman Ltd [1951] SCR 583, AIR 1952 SC 192. Professor Luoga submitted that the court would issue the orders applied for if the following circumstances are present: - '(a) Respondent had taken into account matters which they ought not to have taken into account. 2ps. 1ps. ' The issue of certiorari is purely discretionary and the rule is that certiorari should only be granted where no other suitable remedy exists. A writ of certiorari is not granted merely because the decision is erroneous. - (b) The Respondents did not take into account matters which they ought to have taken into account. - (c) The Respondents were in lack of excess jurisdiction. - (d) The conclusion arrived at is so unreasonable that no reasonable authority could ever come to it. - (e) The rules of natural justice have been violated. - (f) There is illegality of 2ps. procedure or decision.
+    questions_and_answers:
+      - question: |
+          What is a key condition for the issuance of a writ of certiorari?
+        answer: |
+          The authority to whom it is issued must be under a statutory or legal duty to act or refrain from acting, and this duty must be imperative in nature.
+      - question: |
+          Why is the issuance of certiorari considered discretionary?
+        answer: |
+          Certiorari is discretionary because it is granted only when no other suitable remedy exists and is not granted merely because a decision is erroneous.
+      - question: |
+          What limitations are placed on the superior court when examining a decision impugned under certiorari?
+        answer: |
+          The superior court cannot convert itself into a court of appeal to assess the correctness of a decision unless there is an error apparent on the face of the record or a procedural irregularity violating natural justice.
+      - question: |
+          What are some circumstances under which the court may issue a writ of certiorari?
+        answer: |
+          The court may issue certiorari if the respondent considered irrelevant matters, failed to consider relevant matters, acted beyond their jurisdiction, reached an unreasonable conclusion, violated natural justice, or there was procedural illegality.
+      - question: |
+          What legal precedent is referenced to clarify the principles of certiorari?
+        answer: |
+          The case Veerappa Pillai v. Raman & Raman Ltd ([1951] SCR 583, AIR 1952 SC 192) is referenced to elaborate on the principles of certiorari.
+  - context: |
+      1ps. 1ps. I am indeed grateful to both Counsels for the well Researched presentations. The orders for mandamus, certiorari and prohibition are discretionary remedies. As a general rule the court will refuse to issue the order if there is another convenient and feasible remedy within the reach of the applicant. In Abadiah Salehe V Dodoma Wine Company Limited 1990 TLR 113 (HC) Masanche J cited the decision of Samatta J (as he then was) in the case of Moris Onyango V The Senior Investigating Officer Customs Department Mbeya in Criminal application No.25 of 1981 wherein he stated as under: 'It is 2ps. an entirely correct preposition to say that an order of mandamus is a discretionary remedy. The order is not one's right and it is not issued as a matter of course. The purpose of the order is to supply defects of justice. 2ps. 1ps. In Abadiah Salehe V Dodoma Wine Company Limited 1990 TLR 113 (HC) Masanche J cited the decision of Samatta J (as he then was) in the case of Moris Onyango V The Senior Investigating Officer Customs Department Mbeya in Criminal application No.25 of 1981 wherein he stated as under: 'It is an entirely correct preposition to say that an order of mandamus is a discretionary remedy. The order is not one's right and it is not issued as a matter of course. It will therefore issue where there is no specific legal remedy for enforcing the specific legal right 2ps. claimed or where, although there is an alternative legal remedy, such mode of redress is considered by the court to be less convenient, beneficial and effectual. As a general rule the court will refuse to issue the order if there is another convenient or feasible remedy within the reach of the applicant.' 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What are the three discretionary remedies mentioned in the context?
+        answer: |
+          The three discretionary remedies mentioned are mandamus, certiorari, and prohibition.
+      - question: |
+          Under what conditions will the court refuse to issue an order for mandamus?
+        answer: |
+          The court will refuse to issue an order for mandamus if there is another convenient and feasible remedy within the reach of the applicant.
+      - question: |
+          What is the purpose of an order of mandamus according to the text?
+        answer: |
+          The purpose of an order of mandamus is to supply defects of justice when there is no specific legal remedy to enforce a claimed legal right or when alternative remedies are less convenient, beneficial, or effectual.
+      - question: |
+          Which legal cases were cited to discuss the discretionary nature of mandamus?
+        answer: |
+          The legal cases cited are Abadiah Salehe v Dodoma Wine Company Limited 1990 TLR 113 (HC) and Moris Onyango v The Senior Investigating Officer Customs Department Mbeya in Criminal Application No. 25 of 1981.
+      - question: |
+          Why is an order of mandamus described as not being one's right or issued as a matter of course?
+        answer: |
+          An order of mandamus is described this way because it is a discretionary remedy that is only issued in situations where justice requires it and not automatically upon request.
+  - context: |
+      1ps. 1ps.  Even if the Respondents action were unfounded as long as the seizure order
+         affected the applicant, it would seem strange that no move was made prior to
+         the application filed in court. 
+      
+      In view of what has been stated hereinabove
+         I am left with no other option but to dismiss the application with costs.  It
+         is so ordered. 
+      
+      Sauda Mjasiri Judge February 14, 2007
+      
+      Delivered in Chambers
+         this 15th day of February 2007 in the presence of Mr. Laswai, Advocate for
+         the Applicant and in the presence of Mr. Beleko, Advocate for the first and
+         second Respondent and in
+      
+      2ps. the absence of the Attorney General this 15th day of February 2007.
+      
+      Sauda
+         Mjasiri Judge February 15, 2007
+      
+      1988 - words
+      
+      <!-- image -->
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the ruling made by Judge Sauda Mjasiri regarding the application?
+        answer: |
+          Judge Sauda Mjasiri dismissed the application with costs.
+      - question: |
+          Who were present during the delivery of the ruling on February 15, 2007?
+        answer: |
+          Mr. Laswai, Advocate for the Applicant, and Mr. Beleko, Advocate for the first and second Respondent, were present, while the Attorney General was absent.
+      - question: |
+          On what date was the application dismissed by the court?
+        answer: |
+          The application was dismissed by the court on February 14, 2007.
+      - question: |
+          Where was the ruling delivered on February 15, 2007?
+        answer: |
+          The ruling was delivered in chambers.
+      - question: |
+          What seems unusual about the applicant's actions according to the judge?
+        answer: |
+          The judge found it strange that no move was made by the applicant prior to the application filed in court, even if the action by the Respondents was unfounded.
+document_outline: |
+  **Document Outline:**
+  
+  This document outlines a ruling by the High Court of Tanzania (Commercial Division) in a case where BIN JOHAR GENERAL TRADING LLC seeks the discretionary judicial remedies of *certiorari*, *mandamus*, and *prohibition* against the Tanzania Revenue Authority, its customs commissioner, and the Attorney General. The case concerns the seizure of a shipment of diesel on board a tanker ship, with disputes over alleged legal violations, procedural compliance, and the proper exercise of statutory and quasi-judicial authority.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Bin_Johar_General_Trading_LLC_vs_The_Commissioner_General_(T)_Revenue_Authority_and_2_Others_(Miscellaneous_Cause_No_35_of_2006)_2007_TZHCComD_39_(14_February_2007).md

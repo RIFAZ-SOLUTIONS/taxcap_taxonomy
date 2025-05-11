@@ -1,0 +1,126 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. | HS Heading No | Description of the Products 2ps. 3ps. 4ps. 5ps. 6ps. 7ps. | Origin Criteria (Working 8ps. or processing carried out on non-originating materials that confers originating status) 9ps. | |------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | 41.01 to 41.03 | Raw hides and skins of bovine (including buffalo) or equine 10ps. animals (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment dressed or further prepared), whether or not dehaired or split; raw skins of sheep or lambs (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment dressed or further prepared), whether or not with wool on or split, other than those excluded by note 1(c) to Chapter 41; other raw hides and skins (fresh, or salted, dried, limed, pickled or otherwise preserved, but not tanned, parchment dressed or further prepared), whether or not dehaired or split, other than those excluded by note 1(b) 11ps. or 1(c) to Chapter 41 | Manufacture in which all the materials of these headings used are wholly produced 12ps. 13ps. | | 41.04 to 41.06 | Tanned or crust hides and skins, without wool or hair on, whether or not split, but not further prepared 14ps. 15ps. 16ps. 17ps. 18ps. 19ps. | Re-tanning of tanned or pre-tanned hides and skins of sub-headings 4104 .11, 4104. 19, 4105. 10, 4106. 21, 4106. 31 or 4106. 91, 20ps. 21ps. | | 41.07, 41.12 and 41.13 | Leather further prepared after tanning or crusting 22ps. 23ps. 24ps. 25ps. 26ps. 27ps. | Manufacture from materials of any heading, except that 28ps. of the product. 2ps. 1ps. However, materials of sub-headings 4104 .41, 4104. 49, 4105. 30, 4106. 22, 4106. 32 and 4106.
+    questions_and_answers:
+      - question: |
+          What are the included product categories under HS Headings 41.01 to 41.03?
+        answer: |
+          They include raw hides and skins of bovine (including buffalo) or equine animals, raw skins of sheep or lambs, and other raw hides and skins, all in a preserved state like salted, dried, or pickled, but not tanned or further prepared, excluding those excluded by certain notes in Chapter 41.
+      - question: |
+          What processing criteria apply to products under HS Headings 41.01 to 41.03 for originating status?
+        answer: |
+          All materials used under these headings must be wholly produced.
+      - question: |
+          How are tanned or crust hides and skins under HS Headings 41.04 to 41.06 defined?
+        answer: |
+          They are hides and skins without wool or hair, tanned or crusted, which may be split but are not further prepared.
+      - question: |
+          What is the applicable processing rule for products under HS Headings 41.04 to 41.06?
+        answer: |
+          Re-tanning of tanned or pre-tanned hides and skins of specific sub-headings such as 4104.11, 4104.19, 4105.10, 4106.21, 4106.31, or 4106.91 is required.
+      - question: |
+          What manufacturing conditions apply to leather under HS Headings 41.07, 41.12, and 41.13?
+        answer: |
+          Leather further prepared after tanning or crusting must be manufactured from materials of any heading, except that of the product, with exclusions for certain sub-headings such as 4104.41 and 4104.49.
+  - context: |
+      1ps. 1ps. However, tools of headings 82.02 to 82.05 may be incorporated into the set, provided that their total value does not exceed 15% of the ex-works price of the set | | ex 82.11 | Knives with cutting blades, serrated or not (including pruning knives), other than knives of heading 82.08 and blades therefore. 2ps. | Manufacture from materials of any heading, except that of the product. However, knife blades and handles of base metal may be used 3ps. | | 82.14 | Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets 4ps. and instruments (including nail files) | Manufacture from materials of any heading, except that of the product. However, handles of base metal may be used 5ps. | | HS Heading No | Description of the Products 6ps. | Origin Criteria (Working or processing carried out on non-originating materials that confers originating status) 7ps. | |-----------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | 82.15 | Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter- knives, sugar tongs and similar kitchen 8ps. or tableware. 2ps. 1ps. | Manufacture from materials of any heading, except that of the product. However, knife blades and handles of base metal may be used 2ps. 3ps. | | 82.14 | Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paper knives); manicure or pedicure sets and instruments (including nail files) | Manufacture from materials of any heading, except that of the product. | Manufacture from materials of any heading, except that of the product. However, handles of base metal may be used 4ps. | | ex Chapter 83 | Miscellaneous articles of base metal; except for: 5ps.
+    questions_and_answers:
+      - question: |
+          What is the maximum allowable value of tools of headings 82.02 to 82.05 that can be included in a set, relative to the ex-works price of the set?
+        answer: |
+          The total value of tools from headings 82.02 to 82.05 included in the set must not exceed 15% of the ex-works price of the set.
+      - question: |
+          Under what conditions can knife blades and handles of base metal be used in the manufacture of knives under heading 82.11?
+        answer: |
+          Knife blades and handles of base metal may be used in the manufacture of knives under heading 82.11, as long as the knives are manufactured from materials of any heading except that of the product.
+      - question: |
+          What types of items are included in heading 82.14, and are there any specific manufacturing requirements for these items?
+        answer: |
+          Heading 82.14 includes items such as other articles of cutlery (e.g., hair clippers, butchers' knives, kitchen cleavers), manicure or pedicure sets, and nail files. These items must be manufactured from materials of any heading except that of the product, though handles of base metal may be used.
+      - question: |
+          What is covered under heading 82.15, and what raw material restrictions apply during its manufacture?
+        answer: |
+          Heading 82.15 covers kitchen or tableware items such as spoons, forks, ladles, skimmers, cake-servers, and similar utensils. These items must be manufactured from materials of any heading except that of the product, but knife blades and handles of base metal may be used.
+      - question: |
+          What does 'ex Chapter 83' encompass, and are there any exceptions noted?
+        answer: |
+          'Ex Chapter 83' encompasses miscellaneous articles of base metal, but it specifically excludes certain items that are not detailed in the provided context.
+  - context: |
+      1ps. 1ps. | HS Heading No | Description of the Products 2ps. | Origin Criteria (Working or processing carried out on non-originating materials that confers originating status) 3ps. 4ps. 5ps. | |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | 70.13 | Glassware of a kind used for table, kitchen, toilet, office, indoor decoration or similar purposes (other than that of heading 70.10 or 70.18) 6ps. | Manufacture from materials of any heading, except that of the product Or Cutting of glassware, provided the value of the uncut glassware does not exceed 60 % of the ex-works price of the product Or Hand-decoration (with the exception of silk-screen printing) of hand-blown glassware, providedthevalueofthehand-blownglassware does not exceed 70 %of the ex-works price of the product | | ex 70.19 | Articles (other than yarn) 7ps. of glass fibres 8ps. | Manufacture from uncoloured slivers, rovings, yarn or chopped strands, or glass wool 9ps. 10ps. 11ps. | | ex Chapter 71 | Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin; except for: | Manufacture from materials of any heading, except that of the product Or Manufacture in which the value of all 12ps. the non-originating materials useddoesnotexceed 60 %of the ex-works price of the product 13ps. | | 71.06, 71.08 and 71.10 | 14ps. Precious metals: 15ps. | 16ps. 17ps. 18ps. 19ps. | | HS Heading No | Description of the Products 20ps. | Origin Criteria (Working or processing carried out on non-originating materials that confers originating status) 21ps. 22ps. | |---------------------------------|-----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | | -Unwrought 23ps. | Manufacture from materials of any heading, except those of headings 71.06, 71.08 and 71.10 Or Electrolytic, thermal or chemical separation of precious metals of heading 71.06, 71.08 or 71.10 Or Fusion and/or alloying of precious metals of heading 71.
+    questions_and_answers:
+      - question: |
+          What types of glassware fall under HS Heading 70.13?
+        answer: |
+          HS Heading 70.13 includes glassware used for table, kitchen, toilet, office, indoor decoration, or similar purposes, excluding glassware of headings 70.10 or 70.18.
+      - question: |
+          What are the origin criteria for products classified under ex 70.19?
+        answer: |
+          Products under ex 70.19, which are articles of glass fibres (other than yarn), must be manufactured from uncoloured slivers, rovings, yarn or chopped strands, or glass wool to acquire originating status.
+      - question: |
+          What manufacturing processes can confer originating status to natural or cultured pearls and similar products under ex Chapter 71?
+        answer: |
+          For ex Chapter 71 products, originating status is conferred through manufacturing from materials of any heading except that of the product, or through manufacturing where the value of all non-originating materials used does not exceed 60% of the ex-works price.
+      - question: |
+          Under what conditions can uncut glassware be considered originating under HS Heading 70.13?
+        answer: |
+          Uncut glassware under HS Heading 70.13 can be considered originating if the value of the uncut glassware does not exceed 60% of the ex-works price of the final product.
+      - question: |
+          What specific processes confer originating status to unwrought precious metals under headings 71.06, 71.08, and 71.10?
+        answer: |
+          Originating status for unwrought precious metals under these headings can be conferred through manufacture from materials of any heading (except headings 71.06, 71.08, and 71.10), or via processes such as electrolytic, thermal, or chemical separation, as well as fusion and/or alloying of precious metals.
+  - context: |
+      1ps. 1ps. ISBN: 978-9987-712-62-5 <!-- image --> ## THE EAST AFRICAN COMMUNITY CUSTOMS UNION (RULES OF ORIGIN) RULES, 2015 <!-- image --> THE EAST AFRICAN COMMUNITY ## THE EAST AFRICAN COMMUNITY CUSTOMS UNION (RULES OF ORIGIN) RULES, 2015 ## THE EAST AFRICAN COMMUNITY CUSTOMS UNION (RULES OF ORIGIN) RULES, 2015 ## TABLE OF CONTENTS RULE TITLE | RULE 1 | Citation 2ps. | |----------|----------------------------------------------------------------------------------------------| | RULE 2 | Purpose of the Rules of Origin 3ps. | | RULE 3 | Interpretation | | RULE 4 | 4ps. Origin criteria | | RULE 5 | Goods wholly produced in a Partner State 5ps. | | RULE 6 | Goods produced using materials not wholly obtained from a Partner State | | RULE 7 | Processes not conferring origin 6ps. | | RULE 8 | Cumulation of origin 7ps. | | RULE 9 | Unit of qualification 8ps. | | RULE 10 | Sets 9ps. | | RULE 11 | Separation of materials | | RULE 12 | Treatment of mixtures 10ps. | | RULE 13 | Treatment of packing 11ps. | | RULE 14 | Neutral elements 12ps. | | RULE 15 | Territoriality 13ps. | | RULE 16 | Direct transport | | RULE 17 | Issuance 14ps. of certificate of origin | | RULE 18 | Issue of duplicate certificate of origin 15ps. | | RULE 19 | Issue of certificate of origin on the basis of proof of origin issued or made out previously | | RULE 20 | Approved exporter 16ps. | | RULE 21 | Validity of proof of origin 17ps. | | RULE 22 | Exemptions from certificate of origin | | RULE 23 | Notification of information related to competent authorities 18ps.
+    questions_and_answers:
+      - question: |
+          What is the main purpose of the East African Community Customs Union (Rules of Origin) Rules, 2015?
+        answer: |
+          The purpose of these rules is to establish criteria for determining the origin of goods within the East African Community to ensure proper implementation of customs policies.
+      - question: |
+          What do the 'goods wholly produced in a Partner State' refer to under Rule 5?
+        answer: |
+          This refers to goods that are entirely obtained or produced in one of the East African Community Partner States, without the use of imported materials.
+      - question: |
+          What is the concept of 'cumulation of origin' as referred to in Rule 8?
+        answer: |
+          Cumulation of origin allows materials originating from one Partner State to be used in another Partner State without affecting the final product’s origin status.
+      - question: |
+          What is addressed under Rule 14, titled 'Neutral elements'?
+        answer: |
+          Rule 14 states that neutral elements, which are tools, equipment, and materials used in producing a good but not physically incorporated into it, do not affect the origin determination.
+      - question: |
+          What provision is made under Rule 17 regarding certificates of origin?
+        answer: |
+          Rule 17 involves the issuance of certificates of origin, which are documents that certify that goods meet the criteria set by the Rules of Origin for trade within the East African Community.
+  - context: |
+      1ps. 1ps. | Manufacture in which the value of all the non-originating materials useddoesnotexceed 70 %of the ex-works price of the product 2ps. | | 87.14 | Parts and accessories of vehicles of headings 87.11 to 87.13. 3ps. | Manufacture in which the value of all the non-originating materials useddoesnotexceed 70 %of the ex-works price of the product | | 4ps. 87.16 | Trailers and semi-trailers; other vehicles, not mechanically propelled; parts thereof. | Manufacture from materials of any heading, except that of the product 5ps. | | ex Chapter 88 | Aircraft, spacecraft, andpartsthereof; 6ps. except for: | Manufacture from materials of any heading, except that of the product Or Manufacture in which the value of all the non-originating materials useddoesnotexceed 70% of the ex-works price of the product | | ex 88.04 7ps. | Rotochutes 8ps. | Manufacture from materials of any heading, except that of the product Or Manufacture in which the value of all the non-originating materials useddoesnotexceed 70% of the ex-works price of the product | | HS Heading No | Description of the Products 9ps. 10ps. | Origin Criteria (Working or processing carried out on non-originating materials that confers originating status) 11ps. | |-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Chapter 89 | Ships, boats and floating structures 12ps. | Manufacture from materials of any heading, except that of the product Or Manufacture in which the value 13ps.
+    questions_and_answers:
+      - question: |
+          What does the origin criteria specify for parts and accessories of vehicles of headings 87.11 to 87.13?
+        answer: |
+          The origin criteria specify that the value of all non-originating materials used must not exceed 70% of the ex-works price of the product.
+      - question: |
+          What is the manufacturing requirement for trailers and semi-trailers under heading 87.16?
+        answer: |
+          The manufacture must be from materials of any heading, except that of the product itself.
+      - question: |
+          What are the two options for origin criteria listed for aircraft, spacecraft, and their parts, excluding rotochutes?
+        answer: |
+          The options are either to manufacture from materials of any heading except that of the product, or to ensure that the value of all non-originating materials does not exceed 70% of the ex-works price of the product.
+      - question: |
+          What is specified in the origin criteria for rotochutes under heading ex 88.04?
+        answer: |
+          The same origin criteria apply as for other aircraft and spacecraft parts, requiring either manufacture from materials of any heading except that of the product or ensuring non-originating materials do not exceed 70% of the ex-works price.
+      - question: |
+          What is the origin requirement for items classified under Chapter 89 (Ships, boats, and floating structures)?
+        answer: |
+          The requirements are either manufacture from materials of any heading except that of the product or manufacture ensuring that the value of all non-originating materials does not exceed 70% of the ex-works price.
+document_outline: |
+  The document contains the 2015 Rules of Origin for the East African Community (EAC) Customs Union, outlining detailed provisions such as origin criteria, certification processes, exemptions, and enforcement mechanisms. It includes a table of contents listing the 30 rules and relevant schedules that define how goods qualify as originating within EAC Partner States.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - EACRULESOFORIGIN2015.md

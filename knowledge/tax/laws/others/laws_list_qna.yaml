@@ -1,0 +1,59 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - THE COMPANIES ACT, (CAP.  212)
+      - THE EXCISE (MANAGEMENT AND TARIFF) ACT, (CAP.
+          147)
+      - THE INCOME TAX ACT, (CAP.  332)
+      - THE MOTOR VEHICLES (TAX ON
+         REGISTRATION AND TRANSFER) ACT, (CAP.  124)
+      - THE TANZANIA REVENUE AUTHORITY
+         ACT, (CAP.  399)
+      - THE TAX ADMINISTRATION ACT, (CAP.  438)
+      - THE VALUE ADDED
+         TAX ACT, (CAP.  148)
+      - THE ROAD AND FUEL TOLLS ACT, (CAP.  220)
+      - THE STAMP
+         DUTY ACT CAP 189
+      - THE TAX REVENUE APPEALS ACT, (CAP.  408)
+      - THE EXPORT TAX
+         ACT, (CAP.  196)
+      - THE FOREIGN VEHICLES TRANSIT CHARGES ACT, (CAP.  84)
+      - THE
+         IMPORTS CONTROL
+      
+      2ps. ACT, (CAP.  276)
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the title of the primary document mentioned in the context?
+        answer: |
+          The primary document is titled 'THE COMPANIES ACT, (CAP. 212)'.
+      - question: |
+          Which act governs the administration and enforcement of excise management and tariffs?
+        answer: |
+          The Excise (Management and Tariff) Act, (CAP. 147) governs the administration and enforcement of excise management and tariffs.
+      - question: |
+          Which act addresses the taxation of motor vehicle registration and transfer?
+        answer: |
+          The Motor Vehicles (Tax on Registration and Transfer) Act, (CAP. 124) addresses the taxation of motor vehicle registration and transfer.
+      - question: |
+          What does the Tanzania Revenue Authority Act (CAP. 399) primarily pertain to?
+        answer: |
+          The Tanzania Revenue Authority Act (CAP. 399) pertains to establishing and regulating the operations of the Tanzania Revenue Authority (TRA).
+      - question: |
+          Which act governs the imposition of value-added tax in the context?
+        answer: |
+          The Value Added Tax Act, (CAP. 148) governs the imposition of value-added tax.
+document_outline: |
+  This document outlines various legislative acts governing taxation, corporate regulation, and revenue administration in Tanzania. It includes laws pertaining to income tax, excise duties, value-added tax (VAT), vehicle registration, international trade, transit charges, fuel tolls, tax administration, revenue appeals, and imports control.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - laws_list.md

@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Example: A company imports fishing nets valued at TZS 20,000,000. The applicable import duty rate on fishing nets is 10%. The import duty payable would be TZS 2,000,000 (10% of TZS 20,000,000). - 14. Excise Duty on Fuel : Rates vary by fuel type; currently applicable rates can be obtained from the Tanzania Revenue Authority (TRA). Example: A fishing company purchases diesel fuel for its vessels. The excise duty rate on diesel fuel is TZS 150 per liter. If the company purchases 10,000 liters of diesel, the excise duty payable would be TZS 1,500,000 (TZS 150 2ps. x 10,000 liters). - 15. Stamp Duty on Land Transactions : Rates vary based on the value and type of transaction. Example: A company acquires agricultural land valued at TZS 500,000,000. The stamp duty rate on land transactions is 4%. The stamp duty payable would be TZS 20,000,000 (4% of TZS 500,000,000). - 16. Forest Royalties : Specific rates determined based on the type and volume of timber or forest product harvested. Example: A logging company harvests 1,000 cubic meters of timber. 2ps. 1ps. The stamp duty payable would be TZS 20,000,000 (4% of TZS 500,000,000). - 16. Forest Royalties : Specific rates determined based on the type and volume of timber or forest product harvested. Example: A logging company harvests 1,000 cubic meters of timber. The royalty rate on timber is TZS 1,000 per cubic meter. The forest royalty payable would be TZS 1,000,000 (TZS 1,000 x 1,000 cubic meters). - 17. Fishing License Fees : Varies based on the type of fishing and vessel size; specific rates are set by the Ministry of Livestock and Fisheries. Example: A commercial 2ps. fishing company obtains a license for deep-sea fishing.
+    questions_and_answers:
+      - question: |
+          How is the import duty on fishing nets calculated?
+        answer: |
+          The import duty on fishing nets is calculated by applying the applicable rate (10%) to the total value of the nets. For example, if the nets are valued at TZS 20,000,000, the duty payable would be TZS 2,000,000 (10% of TZS 20,000,000).
+      - question: |
+          What is the excise duty rate on diesel fuel, and how is it applied?
+        answer: |
+          The excise duty rate on diesel fuel is TZS 150 per liter. For example, if a company purchases 10,000 liters of diesel, the excise duty payable would be TZS 1,500,000 (TZS 150 x 10,000 liters).
+      - question: |
+          What is the stamp duty rate on land transactions, and how is the duty calculated?
+        answer: |
+          The stamp duty rate on land transactions is 4% of the land's value. For instance, if a company acquires agricultural land valued at TZS 500,000,000, the stamp duty payable would be TZS 20,000,000 (4% of TZS 500,000,000).
+      - question: |
+          How are forest royalties calculated for timber harvesting?
+        answer: |
+          Forest royalties for timber harvesting are calculated based on the volume harvested and the applicable rate. For example, if a company harvests 1,000 cubic meters of timber at a rate of TZS 1,000 per cubic meter, the royalty payable would be TZS 1,000,000 (TZS 1,000 x 1,000 cubic meters).
+      - question: |
+          What determines the fees for a fishing license in Tanzania?
+        answer: |
+          Fishing license fees in Tanzania vary based on the type of fishing and vessel size. Specific rates are set by the Ministry of Livestock and Fisheries.
+  - context: |
+      1ps. 1ps. - 16. Forest Royalties : Specific rates determined based on the type and volume of timber or forest product harvested. Calculation: Forest royalty payable is computed based on the volume of timber harvested multiplied by the royalty rate per unit. Tax officers verify harvesting volumes and assess forest royalties. Example: A logging company harvests 1,000 cubic meters of timber. Royalty rate on timber is TZS 1,000 per cubic meter. Forest royalty payable would be TZS 1,000,000 (TZS 1,000 x 1,000 cubic meters). - 17. Fishing License Fees : Varies based on the type of fishing and vessel 2ps. size; specific rates are set by the Ministry of Livestock and Fisheries. Determination: Fishing license fees are prescribed by fisheries regulations based on fishing methods, vessel size, and fishing zones. Tax officers verify compliance and issue fishing licenses. Example: A commercial fishing company obtains a license for deep-sea fishing. Annual license fee for vessels over 20 meters is TZS 5,000,000. - 18. Water Resource Fees : Varies based on the volume of water used for irrigation and other agricultural purposes. 2ps. 1ps. Example: A commercial fishing company obtains a license for deep-sea fishing. Annual license fee for vessels over 20 meters is TZS 5,000,000. - 18. Water Resource Fees : Varies based on the volume of water used for irrigation and other agricultural purposes. Calculation: Water resource fee payable is computed based on the volume of water used multiplied by the applicable fee rate per unit. Tax officers verify water usage and assess water resource fees. Example: An agricultural farm utilizes 10,000 cubic meters of water from a local river for irrigation. Water resource fee is TZS 100 per 2ps. cubic meter. Fee payable would be TZS 1,000,000 (TZS 100 x 10,000 cubic meters). ## Local Authority Levies - 19.
+    questions_and_answers:
+      - question: |
+          How is the forest royalty payable calculated?
+        answer: |
+          The forest royalty payable is determined by multiplying the volume of timber or forest products harvested by the royalty rate per unit.
+      - question: |
+          What factors influence fishing license fees?
+        answer: |
+          Fishing license fees vary based on the type of fishing, vessel size, fishing methods, and fishing zones, as set by the Ministry of Livestock and Fisheries.
+      - question: |
+          What is the annual fishing license fee for vessels over 20 meters used in deep-sea fishing?
+        answer: |
+          The annual fishing license fee for vessels over 20 meters used in deep-sea fishing is TZS 5,000,000.
+      - question: |
+          How is the water resource fee payable determined for agricultural irrigation?
+        answer: |
+          The water resource fee payable is calculated by multiplying the volume of water used for agricultural purposes by the applicable fee rate per unit.
+      - question: |
+          What is the fee payable if an agricultural farm uses 10,000 cubic meters of water at a rate of TZS 100 per cubic meter?
+        answer: |
+          The fee payable would be TZS 1,000,000 (TZS 100 x 10,000 cubic meters).
+  - context: |
+      1ps. 1ps. Taxes in agriculture, forestry, and fishing Here's a detailed breakdown of the rates for various taxes, levies, duties, customs, and charges applicable to economic activities in agriculture, forestry, and fishing in Tanzania, along with examples to illustrate how they are calculated: ## Taxes and Levies - 1. Income Tax : Progressive rates up to 30% for individuals; 30% flat rate for corporations. Example: If a corporation earns a net profit of TZS 100,000,000 in a tax year, the income tax payable would be TZS 30,000,000 (30% of TZS 100,000,000). - 2. Corporate Tax : 30% of net profits for corporations. Example: A corporation 2ps. reports net profits of TZS 500,000,000. The corporate tax liability would be TZS 150,000,000 (30% of TZS 500,000,000). - 3. Capital Gains Tax : 20% on gains from the sale of assets. Example: An individual sells agricultural land for TZS 200,000,000, resulting in a capital gain of TZS 50,000,000 (after deducting the cost of acquisition). The capital gains tax payable would be TZS 10,000,000 (20% of TZS 50,000,000). 2ps. 1ps. - 3. Capital Gains Tax : 20% on gains from the sale of assets. Example: An individual sells agricultural land for TZS 200,000,000, resulting in a capital gain of TZS 50,000,000 (after deducting the cost of acquisition). The capital gains tax payable would be TZS 10,000,000 (20% of TZS 50,000,000). - 4. Pay As You Earn (PAYE) : Progressive rates up to 30% on employment income. Example: An employee earns a monthly salary of TZS 2,000,000. The PAYE would be calculated based on the progressive rates applicable to monthly earnings (e.g., 0% on the first TZS 400,000, 9% 2ps. on the next TZS 400,000, and so forth). - 5.
+    questions_and_answers:
+      - question: |
+          What is the income tax rate for corporations and how is it applied?
+        answer: |
+          The income tax rate for corporations in Tanzania is a flat 30%, applied to net profits. For example, a corporation with net profits of TZS 100,000,000 would pay TZS 30,000,000 in income tax.
+      - question: |
+          What is the rate for capital gains tax and how is it calculated?
+        answer: |
+          The capital gains tax rate is 20% in Tanzania, applied to the gain from the sale of assets. For instance, if someone sells agricultural land for TZS 200,000,000 with a gain of TZS 50,000,000, the tax payable would be TZS 10,000,000.
+      - question: |
+          How is the corporate tax calculated for businesses with high profits?
+        answer: |
+          Corporate tax is calculated at a flat rate of 30% of net profits. For example, if a corporation reports net profits of TZS 500,000,000, the corporate tax liability is TZS 150,000,000.
+      - question: |
+          How does the Pay As You Earn (PAYE) tax system work for salaried employees?
+        answer: |
+          PAYE in Tanzania uses progressive rates of up to 30% on employment income. For instance, an employee earning TZS 2,000,000 monthly would have portions of their salary taxed at different rates, starting with 0% on the first TZS 400,000, 9% on the next TZS 400,000, and so on.
+      - question: |
+          What example illustrates the calculation of capital gains tax on the sale of land?
+        answer: |
+          If an individual sells agricultural land for TZS 200,000,000 and the capital gain after acquisition costs is TZS 50,000,000, the capital gains tax is TZS 10,000,000 (20% of the gain).
+  - context: |
+      1ps. 1ps. - 28. Road Toll Fees : Varies by location and type of vehicle transporting goods. Example: A truck transporting harvested maize pays a road toll fee of TZS 20,000 at a toll booth along the highway. - 29. Social Security Contributions : Based on employee earnings, contributing to pension and health insurance schemes. Example: An agricultural company pays social security contributions of TZS 50,000 per month for each employee earning TZS 1,000,000 monthly. - 30. Environmental Compliance Fees : Varies based on the scale and potential environmental impact of the activity. Example: A large-scale aquaculture project submits an environmental impact 2ps. assessment. The environmental compliance fee is TZS 50,000,000. Here's an expanded list with examples that include a section showing how the calculation is determined by tax officers or relevant authorities for each tax, levy, duty, customs, and charge applicable to agriculture, forestry, and fishing sectors in Tanzania: ## Taxes and Levies - 1. Income Tax : Progressive rates up to 30% for individuals; 30% flat rate for corporations. 2ps. 1ps. Example: A large-scale aquaculture project submits an environmental impact assessment. The environmental compliance fee is TZS 50,000,000. Here's an expanded list with examples that include a section showing how the calculation is determined by tax officers or relevant authorities for each tax, levy, duty, customs, and charge applicable to agriculture, forestry, and fishing sectors in Tanzania: ## Taxes and Levies - 1. Income Tax : Progressive rates up to 30% for individuals; 30% flat rate for corporations. Calculation: Taxable income is determined after allowable deductions (such as expenses and allowances) are subtracted from gross income. Tax officers verify income statements 2ps. and supporting documents during audits to ensure compliance. Example: A corporation reports gross income of TZS 200,000,000 and deducts TZS 50,000,000 in allowable expenses.
+    questions_and_answers:
+      - question: |
+          What determines the road toll fees for vehicles transporting goods?
+        answer: |
+          Road toll fees vary based on location and the type of vehicle transporting goods. For example, a truck transporting harvested maize pays TZS 20,000 at a toll booth along the highway.
+      - question: |
+          How are social security contributions calculated in Tanzania?
+        answer: |
+          Social security contributions are based on employee earnings and contribute to pension and health insurance schemes. For instance, an agricultural company pays TZS 50,000 per month for each employee earning TZS 1,000,000 monthly.
+      - question: |
+          What factors influence environmental compliance fees in Tanzania?
+        answer: |
+          Environmental compliance fees vary depending on the scale and potential environmental impact of the activity. For example, a large-scale aquaculture project submitting an environmental impact assessment pays TZS 50,000,000.
+      - question: |
+          What are the income tax rates for individuals and corporations in Tanzania?
+        answer: |
+          Income tax rates for individuals are progressive, going up to 30%, while corporations are taxed at a flat rate of 30%.
+      - question: |
+          How is taxable income determined for income tax purposes in Tanzania?
+        answer: |
+          Taxable income is calculated by subtracting allowable deductions, such as expenses and allowances, from gross income. Tax officers verify income statements and supporting documents during audits to ensure compliance.
+  - context: |
+      1ps. 1ps. Tax officers verify product classifications and excise duty payments. Example: A company manufactures and sells TZS 50,000,000 worth of processed agricultural products subject to 5% excise duty. Excise duty payable would be TZS 2,500,000 (5% of TZS 50,000,000). - 8. Stamp Duty : Rates vary based on the transaction type (e.g., land leases, forestry concessions, fishing licenses). Determination: Stamp duty rates are prescribed by stamp duty laws and regulations. Tax officers verify transaction details and assess stamp duty liabilities. Example: A lease agreement for agricultural land is executed with a lease amount of TZS 200,000,000. Stamp 2ps. duty rate on lease agreements is 1%. Stamp duty payable would be TZS 2,000,000 (1% of TZS 200,000,000). - 9. Customs Duties : Rates vary by product, typically based on the East African Community (EAC) Common External Tariff. Calculation: Customs duty payable is calculated based on the customs value of imported goods multiplied by the applicable duty rate. Tax officers verify customs declarations and assess duties. Example: A company imports agricultural machinery valued at TZS 50,000,000. 2ps. 1ps. Calculation: Customs duty payable is calculated based on the customs value of imported goods multiplied by the applicable duty rate. Tax officers verify customs declarations and assess duties. Example: A company imports agricultural machinery valued at TZS 50,000,000. The applicable customs duty rate on agricultural machinery is 10%. Customs duty payable would be TZS 5,000,000 (10% of TZS 50,000,000). - 10. Environmental Levy : Varies depending on the environmental impact; specific rates may be prescribed by regulations. Determination: Environmental levy rates are determined by environmental authorities based on the potential environmental impact of activities. Tax officers 2ps. verify compliance with environmental regulations. Example: A company operates a fish processing plant known to discharge waste into a nearby river.
+    questions_and_answers:
+      - question: |
+          How is the excise duty on processed agricultural products calculated?
+        answer: |
+          The excise duty on processed agricultural products is calculated by applying the applicable rate (e.g., 5%) to the total value of the products sold. For example, if a company sells TZS 50,000,000 worth of processed agricultural products subject to 5% excise duty, the duty payable would be TZS 2,500,000.
+      - question: |
+          What is the stamp duty rate for a lease agreement for agricultural land, and how is it applied?
+        answer: |
+          The stamp duty rate for a lease agreement for agricultural land is 1%. It is applied to the total lease amount; for instance, a lease value of TZS 200,000,000 would result in a stamp duty payable of TZS 2,000,000.
+      - question: |
+          What determines the rates for customs duties under the East African Community Common External Tariff?
+        answer: |
+          Customs duty rates under the East African Community Common External Tariff vary by product and are determined based on the customs value of imported goods multiplied by the applicable duty rate. For example, importing agricultural machinery valued at TZS 50,000,000 with a 10% duty rate would result in a customs duty of TZS 5,000,000.
+      - question: |
+          Who is responsible for verifying compliance with environmental levy regulations, and how are rates determined?
+        answer: |
+          Tax officers verify compliance with environmental regulations regarding the environmental levy. The rates are determined by environmental authorities based on the potential environmental impact of specific activities.
+      - question: |
+          What are some factors that influence stamp duty rates, and how are they assessed?
+        answer: |
+          Stamp duty rates vary based on the type of transaction, such as land leases, forestry concessions, or fishing licenses. Tax officers assess stamp duty liabilities by verifying transaction details and applying rates prescribed by stamp duty laws and regulations.
+document_outline: |
+  **Document Outline:**  
+  This document provides a detailed overview of taxation in Tanzania's agriculture, forestry, and fishing industries, including applicable tax rates, duties, levies, and charges. Each tax type, such as income tax, VAT, customs duties, and others, is explained with illustrative examples demonstrating their calculation.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_in_agriculture.md

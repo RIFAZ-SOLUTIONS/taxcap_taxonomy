@@ -1,0 +1,132 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. This total includes duties on the fuel used for transportation and the excise duty on motor vehicles with a cylinder capacity exceeding 2,000cc. 4o mini next ChatGPT ## Scenario: Accommodation and Food Service Activities Sector ## Company Profile Name : StayCation Ltd. Sector : Accommodation and Food Service Activities Business : StayCation Ltd. operates a chain of hotels and restaurants offering accommodation and dining services to tourists and local guests. ## Products and Services Details -  Food and Beverages Sold : - o Non-Alcoholic Beverages : -  Fruit Juices : 20,000 liters -  Waters with Added Sugar or Sweetening Matter : 15,000 liters ## Excise Duty Rates for 2ps. FY 2023/24: -  Fruit Juices (including grape must) : 9.9 TZS per liter -  Waters with Added Sugar or Sweetening Matter : 67.1 TZS per liter ## Excise Duty Calculation ## 1. Calculate Excise Duty for Fruit Juices  Quantity Sold : 20,000 liters  Excise Duty Rate : 9.9 TZS per liter ## Excise Duty for Fruit Juices = Quantity Sold × Excise Duty Rate - = 20,000 liters × 9.9 TZS/liter - = 198,000 TZS ## 2. Calculate Excise Duty for Waters with Added Sugar or Sweetening Matter  Quantity Sold : 15,000 liters  Excise Duty Rate : 67.1 TZS per liter ## Excise Duty for Waters with Added Sugar or 3ps. Sweetening Matter = Quantity Sold × Excise Duty Rate = 15,000 liters × 67.1 TZS/liter = 1,016,500 TZS ## Total Excise Duty Total Excise Duty Payable by StayCation Ltd. = Excise Duty for Fruit Juices + Excise Duty for Waters with Added Sugar or Sweetening Matter = 198,000 TZS + 1,016,500 TZS = 1,214,500 TZS ## Summary -  Total Excise Duty Payable by StayCation Ltd.
+    questions_and_answers:
+      - question: |
+          What sector does StayCation Ltd. operate in?
+        answer: |
+          StayCation Ltd. operates in the 'Accommodation and Food Service Activities' sector.
+      - question: |
+          What are the quantities of non-alcoholic beverages sold by StayCation Ltd. in FY 2023/24?
+        answer: |
+          StayCation Ltd. sold 20,000 liters of fruit juices and 15,000 liters of waters with added sugar or sweetening matter.
+      - question: |
+          What is the excise duty rate for fruit juices and waters with added sugar or sweetening matter?
+        answer: |
+          The excise duty rate for fruit juices is 9.9 TZS per liter, and for waters with added sugar or sweetening matter, it is 67.1 TZS per liter.
+      - question: |
+          How is the excise duty for fruit juices calculated, and what is the total amount?
+        answer: |
+          The excise duty for fruit juices is calculated by multiplying the quantity sold (20,000 liters) by the excise duty rate (9.9 TZS per liter), resulting in a total of 198,000 TZS.
+      - question: |
+          What is the total excise duty payable by StayCation Ltd. for FY 2023/24?
+        answer: |
+          The total excise duty payable by StayCation Ltd. is 1,214,500 TZS, which includes 198,000 TZS for fruit juices and 1,016,500 TZS for waters with added sugar or sweetening matter.
+  - context: |
+      1ps. 1ps. ## Total Excise Duty Total Excise Duty Payable by BuildRight Ltd. = Excise Duty for Cement = 4,000,000 TZS ## Summary ##  Total Excise Duty Payable by BuildRight Ltd. : 4,000,000 TZS In this scenario, BuildRight Ltd. incurs an excise duty of 4,000,000 TZS, which is based on their purchase of cement. There are no excise duties on other construction materials like steel and bricks. ## Products and Purchases Details -  Beverages Sold : - o Non-Alcoholic Beer : 10,000 liters - o Imported Powdered Juice : 5,000 liters -  Electronics and Household Items : - o No specific excise duty listed for electronics and 2ps. household items in the provided rates ## Excise Duty Rates for FY 2023/24: -  Non-Alcoholic Beer : 673.2 TZS per liter -  Imported Powdered Juice : 255.2 TZS per liter -  Electronics and Household Items : No specific excise duty rates listed ## Excise Duty Calculation ## 1. Calculate Excise Duty for Non-Alcoholic Beer  Quantity Sold : 10,000 liters  Excise Duty Rate : 673.2 TZS per liter ## Excise Duty for Non-Alcoholic Beer = Quantity Sold × Excise Duty Rate - = 10,000 liters × 673.2 TZS/liter - = 6,732,000 TZS ## 2. Calculate Excise Duty for Imported Powdered Juice  Quantity Sold : 5,000 liters  Excise Duty Rate : 255.2 TZS 3ps. per liter Excise Duty for Imported Powdered Juice = Quantity Sold × Excise Duty Rate = 5,000 liters × 255.2 TZS/liter = 1,276,000 TZS ## 3. Excise Duty for Electronics and Household Items Since there are no specific excise duty rates for electronics and household items listed, these products are not subject to excise duty under the current rates. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the total excise duty payable by BuildRight Ltd. for cement?
+        answer: |
+          The total excise duty payable by BuildRight Ltd. for cement is 4,000,000 TZS.
+      - question: |
+          What is the excise duty rate for non-alcoholic beer in FY 2023/24, and how much duty was incurred on its sale?
+        answer: |
+          The excise duty rate for non-alcoholic beer is 673.2 TZS per liter, and the total duty incurred on selling 10,000 liters is 6,732,000 TZS.
+      - question: |
+          Are there any excise duties applicable to electronics and household items under the listed rates?
+        answer: |
+          No, there are no specific excise duty rates for electronics and household items, so they are not subject to excise duty under the current rates.
+      - question: |
+          How is the excise duty for imported powdered juice calculated, and what is the total amount payable?
+        answer: |
+          The excise duty for imported powdered juice is calculated by multiplying the quantity sold (5,000 liters) by the excise duty rate (255.2 TZS per liter), resulting in a total duty of 1,276,000 TZS.
+      - question: |
+          Are any construction materials other than cement subject to excise duty for BuildRight Ltd.?
+        answer: |
+          No, other construction materials such as steel and bricks are not subject to excise duty for BuildRight Ltd.
+  - context: |
+      1ps. 1ps. ## Calculations for Excise Duty ## Scenario: Agriculture, Forestry, and Fishing Sector ## Company Profile Name : GreenHarvest Ltd. Sector : Agriculture Business : GreenHarvest Ltd. is a Tanzanian company specializing in the production and sale of fruit juices. The company operates a large fruit processing plant where it manufactures various types of fruit juices, including apple, orange, and mango juice. ## Production Details -  Volume of Fruit Juices Produced : -  Excise Duty Rates for FY 2023/24 : - o Unfermented Fruit Juices (including grape must) : 9.9 TZS per liter - o Imported Powdered Juice - : 255.2 TZS per liter o Apple Juice: 50,000 liters o Orange Juice: 2ps. 30,000 liters o Mango Juice: 20,000 liters Since GreenHarvest Ltd. produces unfermented fruit juices locally, the applicable excise duty rate is 9.9 TZS per liter for their products. 2ps. 1ps. ## Calculations for Excise Duty ## Scenario: Agriculture, Forestry, and Fishing Sector ## Company Profile Name : GreenHarvest Ltd. Sector : Agriculture Business : GreenHarvest Ltd. is a Tanzanian company specializing in the production and sale of fruit juices. The company operates a large fruit processing plant where it manufactures various types of fruit juices, including apple, orange, and mango juice. ## Excise Duty Calculation ## 1. Calculate Excise Duty for Apple Juice  Quantity Produced : 50,000 liters  Excise Duty Rate : 9.9 TZS per liter Excise Duty for Apple Juice = Quantity Produced × Excise Duty Rate = 50,000 liters × 9.9 TZS/liter = 495,000 TZS ## 2. Calculate Excise Duty for 2ps. Orange Juice  Quantity Produced : 30,000 liters  Excise Duty Rate : 9.9 TZS per liter Excise Duty for Orange Juice = Quantity Produced × Excise Duty Rate = 30,000 liters × 9.
+    questions_and_answers:
+      - question: |
+          What type of products does GreenHarvest Ltd. specialize in?
+        answer: |
+          GreenHarvest Ltd. specializes in the production and sale of fruit juices, including apple, orange, and mango juice.
+      - question: |
+          What is the excise duty rate in Tanzania for locally produced unfermented fruit juices in FY 2023/24?
+        answer: |
+          The excise duty rate for locally produced unfermented fruit juices is 9.9 TZS per liter.
+      - question: |
+          How is the excise duty for apple juice calculated for GreenHarvest Ltd.?
+        answer: |
+          The excise duty for apple juice is calculated by multiplying the quantity produced (50,000 liters) by the excise duty rate (9.9 TZS per liter), resulting in 495,000 TZS.
+      - question: |
+          What is the total quantity of orange juice produced by GreenHarvest Ltd., and how much excise duty does it incur?
+        answer: |
+          GreenHarvest Ltd. produced 30,000 liters of orange juice, which incurs an excise duty of 30,000 × 9.9 TZS = 297,000 TZS.
+      - question: |
+          Which products are subject to the excise duty rate for unfermented fruit juices in GreenHarvest Ltd.'s operations?
+        answer: |
+          Apple juice, orange juice, and mango juice produced by GreenHarvest Ltd. are subject to the excise duty rate for unfermented fruit juices (9.9 TZS per liter).
+  - context: |
+      1ps. 1ps. ## Production Details -  Volume of Crushed Stone Aggregates Produced : 100,000 cubic meters -  Excise Duty Rates for FY 2023/24 : o Cement : 20 TZS per kg Since RockSolid Ltd. produces crushed stone aggregates, which is a raw material rather than a finished product like cement, the excise duty on cement does not apply directly to their primary product. However, if RockSolid Ltd. were to produce or sell cement, the excise duty would be applicable. Since the primary business is the extraction of crushed stone aggregates, the company would not be subject to excise duty for its main 2ps. product unless it engages in the production of excise-dutied goods like cement. If there are specific details or additional products that RockSolid Ltd. handles which fall under different excise duty rates, those would need to be considered separately based on Tanzanian tax regulations. 2ps. 1ps. Since the primary business is the extraction of crushed stone aggregates, the company would not be subject to excise duty for its main product unless it engages in the production of excise-dutied goods like cement. If there are specific details or additional products that RockSolid Ltd. handles which fall under different excise duty rates, those would need to be considered separately based on Tanzanian tax regulations. 4o mini next sector ChatGPT ## Scenario: Manufacturing Sector ## Company Profile Name : ABC Beverages Ltd. Sector : Manufacturing Business : ABC Beverages Ltd. is a Tanzanian company specializing in the production of various types of alcoholic and non-alcoholic 2ps. beverages, including beer and wine. 3ps. 1ps. Since the primary business is the extraction of crushed stone aggregates, the company would not be subject to excise duty for its main product unless it engages in the production of excise-dutied goods like cement.
+    questions_and_answers:
+      - question: |
+          What is the primary product of RockSolid Ltd.?
+        answer: |
+          The primary product of RockSolid Ltd. is crushed stone aggregates.
+      - question: |
+          What is the excise duty rate for cement in FY 2023/24?
+        answer: |
+          The excise duty rate for cement in FY 2023/24 is 20 TZS per kilogram.
+      - question: |
+          Why is RockSolid Ltd. not subject to excise duty for its primary product?
+        answer: |
+          RockSolid Ltd. is not subject to excise duty for its primary product because crushed stone aggregates are a raw material, not a finished product like cement.
+      - question: |
+          Under what circumstances would RockSolid Ltd. be subject to excise duty?
+        answer: |
+          RockSolid Ltd. would be subject to excise duty if it engages in the production or sale of excise-dutied goods like cement or other taxable products.
+      - question: |
+          What sector does ABC Beverages Ltd. operate in, and what products does it produce?
+        answer: |
+          ABC Beverages Ltd. operates in the manufacturing sector and produces various alcoholic and non-alcoholic beverages, including beer and wine.
+  - context: |
+      1ps. 1ps. ## Total Excise Duty Total Excise Duty Payable by EduWorld Ltd. = 0 TZS ## Summary -  Total Excise Duty Payable by EduWorld Ltd. : 0 TZS In this scenario, EduWorld Ltd. incurs no excise duty as there are no applicable rates for educational services based on the provided excise duty rates. ## Excise Duty Calculation Since there are no specific excise duty rates for healthcare and social work services in the provided list, HealthPlus Ltd. does not incur any excise duty on their medical consultations, hospitalization, treatments, and social care services. ## Total Excise Duty Total Excise Duty Payable by HealthPlus Ltd. = 0 2ps. TZS ## Summary -  Total Excise Duty Payable by HealthPlus Ltd. : 0 TZS In this scenario, HealthPlus Ltd. incurs no excise duty as there are no applicable rates for healthcare and social work services based on the provided excise duty rates. 2ps. 1ps. ## Services and Fees Details  Healthcare Services Fees : o Medical Consultations : 4,000,000 TZS o Hospitalization and Treatments : 6,000,000 TZS  Social Care Services Fees : 1,000,000 TZS ## Excise Duty Rates for FY 2023/24: -  There are no specific excise duty rates listed for healthcare and social work services. 4o mini next ChatGPT ## Scenario: Arts, Entertainment, and Recreation Sector ## Company Profile Name : ArtWorld Ltd. Sector : Arts, Entertainment, and Recreation Business : ArtWorld Ltd. operates a chain of entertainment venues, including theaters, cinemas, and recreational facilities. They also sell tickets for various entertainment events. 3ps. 1ps. ## Total Excise Duty Total Excise Duty Payable by HealthPlus Ltd. = 0 TZS ## Summary -  Total Excise Duty Payable by HealthPlus Ltd. : 0 TZS In this scenario, HealthPlus Ltd.
+    questions_and_answers:
+      - question: |
+          Why does EduWorld Ltd. incur no excise duty?
+        answer: |
+          EduWorld Ltd. incurs no excise duty because there are no applicable excise duty rates for educational services as per the provided excise duty rates.
+      - question: |
+          What are the total fees for healthcare and social care services provided by HealthPlus Ltd.?
+        answer: |
+          The total fees for healthcare and social care services provided by HealthPlus Ltd. are 11,000,000 TZS, including 4,000,000 TZS for medical consultations, 6,000,000 TZS for hospitalization and treatments, and 1,000,000 TZS for social care services.
+      - question: |
+          What is the excise duty rate for healthcare and social work services in the fiscal year 2023/24?
+        answer: |
+          There are no specific excise duty rates listed for healthcare and social work services for FY 2023/24.
+      - question: |
+          What type of business does ArtWorld Ltd. operate in the Arts, Entertainment, and Recreation sector?
+        answer: |
+          ArtWorld Ltd. operates a chain of entertainment venues, including theaters, cinemas, and recreational facilities, and sells tickets for various entertainment events.
+      - question: |
+          What is the total excise duty payable by HealthPlus Ltd. and why?
+        answer: |
+          The total excise duty payable by HealthPlus Ltd. is 0 TZS because there are no applicable excise duty rates for healthcare and social work services based on the provided excise duty rates.
+document_outline: |
+  ### Document Outline for Scenarios in Excise Duty Calculation  
+  
+  1. **Calculations for Excise Duty in the Agriculture Sector (GreenHarvest Ltd.)**  
+     This section outlines excise duty calculations for GreenHarvest Ltd., a Tanzanian fruit juice manufacturer. Excise duties are calculated based on the production volume of apple, orange, and mango juices, with a total duty payable of 990,000 TZS.  
+  
+  2. **Calculations for Excise Duty in the Mining and Quarrying Sector (RockSolid Ltd.)**  
+     This section details the tax scenario for RockSolid Ltd., a quarry operator producing crushed stone aggregates. While excise duty on crushed stone does not apply, a hypothetical scenario calculates excise duty for cement production, resulting in a duty of 200,000 TZS for 10,000 kg of cement. Additional regulations may apply for other products.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Calculations_for_Excise_Duty.md

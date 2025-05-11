@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR ES SALAAM ## (CORAM: MZIRAY, J.A., MKUYE, J.A., and KOROSSO, J.A.) CIVIL APPEAL NO. 148 OF 2018 COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY................................................ APPELLANT ## VERSUS AGGREKO INTERNATIONAL PROJECTS LTD...............................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, Chairperson, Mwaibula and Kissenqe, members) Dated the 25th day of July, 2018 in Tax Appeal No. 27 of 2016 ## JUDGMENT OF THE COURT 7t h June &amp; 4t h July, 2019 ## KOROSSO. 3.A.: The appeal before the Court arises from a 2ps. decision of the Tax Revenue Appeals Tribunal (the Tribunal) dated 25t h July 2018 in Tax Appeal No. 27 of 2016. The appellant is the Commissioner General of the Tanzania Revenue Authority (TRA). TRA is a Revenue Authority established under Section 4 of the Tanzania Revenue Authority Act Cap 399 R.E. 2006, with a duty to assess, collect and account for Government revenue in the country. 2ps. 1ps. 3.A.: The appeal before the Court arises from a decision of the Tax Revenue Appeals Tribunal (the Tribunal) dated 25t h July 2018 in Tax Appeal No. 27 of 2016. The appellant is the Commissioner General of the Tanzania Revenue Authority (TRA). TRA is a Revenue Authority established under Section 4 of the Tanzania Revenue Authority Act Cap 399 R.E. 2006, with a duty to assess, collect and account for 2ps. Government revenue in the country. The present appeal arises from the fact that TRA is involved in a tax dispute with the respondent, Aggreko International Projects Ltd.
+    questions_and_answers:
+      - question: |
+          What is the role of the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The Tanzania Revenue Authority (TRA) is responsible for assessing, collecting, and accounting for government revenue in Tanzania, as established under Section 4 of the Tanzania Revenue Authority Act Cap 399 R.E. 2006.
+      - question: |
+          What is the subject matter of Civil Appeal No. 148 of 2018?
+        answer: |
+          The appeal concerns a tax dispute between the Commissioner General of the Tanzania Revenue Authority (TRA) and Aggreko International Projects Ltd.
+      - question: |
+          Which tribunal rendered the decision being appealed in this case?
+        answer: |
+          The decision being appealed was rendered by the Tax Revenue Appeals Tribunal in Tax Appeal No. 27 of 2016.
+      - question: |
+          Who were the justices presiding over the appeal in the Court of Appeal of Tanzania?
+        answer: |
+          The justices presiding over the appeal were Mziray, J.A., Mkuye, J.A., and Korosso, J.A.
+      - question: |
+          When was the Tribunal's judgment that led to this appeal issued?
+        answer: |
+          The Tribunal's judgment was issued on the 25th of July, 2018.
+  - context: |
+      1ps. 1ps. The counsel stated that this statement is erroneous because Tullow Tanzania BV case (supra) was decided in July 2018, and by that time, the decision of the Tribunal had already been given. Therefore there was no possibility that the Tribunal would have had the opportunity to consider the decision of this Court in Tullow Tanzania BV case (supra) prior to concluding the matter before them. We will cogitate this assertion without delay. Having perused through the records of appeal 2ps. we find that the decision of the Tribunal is dated 25t h July 2018 and that of this Court in Tullow Tanzania BV case (supra) is dated 4t h July 2018. Therefore the argument by the respondent counsel disputing the assertion by the learned counsel for the appellant is devoid of merit. Although at the same time, perusing through the records of the Tribunal we find that the Tribunal were aware of 3ps. our decision in Tullow Tanzania BV case (supra) because it is referred to in the Judgment of the Tribunal as seen at pgs. 2ps. 1ps. We will cogitate this assertion without delay. Having perused through the records of appeal we find that the decision of the Tribunal is dated 25t h July 2018 and that of this Court in Tullow Tanzania BV case (supra) is dated 4t h July 2018. Therefore the argument by the respondent counsel disputing the assertion by the learned counsel for the appellant is devoid of merit. 211, 216, 218, 219 of the record of appeal rendering 2ps. the argument by the appellant's counsel that had the Tribunal been made aware of the decision in Tullow Tanzania BV case (supra) they would have confirmed the decision of the Board, also without substance.
+    questions_and_answers:
+      - question: |
+          What was the main argument presented by the appellant's counsel in relation to the Tullow Tanzania BV case?
+        answer: |
+          The appellant's counsel argued that the Tribunal could not have been aware of this Court's decision in the Tullow Tanzania BV case (decided on 4th July 2018) when making its decision on 25th July 2018.
+      - question: |
+          What evidence refuted the appellant's counsel's argument regarding the Tribunal's awareness of the Tullow Tanzania BV case?
+        answer: |
+          The Tribunal's records showed references to the Tullow Tanzania BV case in its judgment, proving that the Tribunal was aware of the case when it made its decision.
+      - question: |
+          When was the Tribunal's decision in the matter dated?
+        answer: |
+          The Tribunal's decision was dated 25th July 2018.
+      - question: |
+          When was the decision in the Tullow Tanzania BV case issued by this Court?
+        answer: |
+          The decision in the Tullow Tanzania BV case was issued on 4th July 2018.
+      - question: |
+          Why was the respondent counsel's argument disputing the appellant's claim deemed without merit?
+        answer: |
+          The respondent counsel's argument was deemed without merit because the Tribunal's records confirmed that it had considered the Tullow Tanzania BV case in its decision.
+  - context: |
+      1ps. 1ps. That is understanding the concept of withholding tax and what it entails. We recognize that this matter has been previously addressed by this Court and we thus proceed to adopt what was stated by this Court in Tullow Tanzania BV case (supra), that "Withholding tax" is a tax that is required to be withheld by the person making "payment" of certain amounts to another person 2ps. in respect of goods supplied or services rendered to satisfy the recipients' tax liability. We take leaf from a decision of this Court in Bulyanhulu Gold Mine Limited vs. Commissioner General (TRA), Consolidated Civil Appeal No. 89 and 90 of 2015 (unreported) where they adopted excepts from a book, "Income Tax Law in Tanzania Source Book, "DUP" (1996) Ltd 2000, cited at pgs. 8 and 9 of the Judgment of this Court, 3ps. disclosing several rules of construction which we find appropriate to also consider in the present case. 2ps. 1ps. We take leaf from a decision of this Court in Bulyanhulu Gold Mine Limited vs. Commissioner General (TRA), Consolidated Civil Appeal No. 89 and 90 of 2015 (unreported) where they adopted excepts from a book, "Income Tax Law in Tanzania Source Book, "DUP" (1996) Ltd 2000, cited at pgs. 8 and 9 of the Judgment of this Court, disclosing several rules of construction which we find appropriate to also consider in 2ps. the present case. These include: - 1. The strict construction Rule (KHman vs. Winkworth (1933)17 TC 569 - 2. Considering the Statute as a whole Rule- where there is an irreconcilable conflict ; in that, two provisions on the surface appear irreconcilable, each has to be interpreted in a manner which will not negate the other - 3.
+    questions_and_answers:
+      - question: |
+          What is the definition of withholding tax as discussed in the context?
+        answer: |
+          Withholding tax is a tax that is required to be withheld by the person making a payment of certain amounts to another person in respect of goods supplied or services rendered to satisfy the recipients' tax liability.
+      - question: |
+          Which court case is referenced in explaining withholding tax?
+        answer: |
+          The Tullow Tanzania BV case is referenced in discussing the concept of withholding tax.
+      - question: |
+          What book is cited in the Bulyanhulu Gold Mine Limited vs. Commissioner General (TRA) case, and what purpose does it serve?
+        answer: |
+          The book 'Income Tax Law in Tanzania Source Book, DUP (1996) Ltd 2000' is cited, and it provides rules of construction that are applicable for interpreting tax-related statutes.
+      - question: |
+          What are some of the rules of construction mentioned in the judgment of Bulyanhulu Gold Mine Limited vs. Commissioner General (TRA)?
+        answer: |
+          The rules include the strict construction rule and the considering the statute as a whole rule, where irreconcilable provisions are interpreted in a manner that does not negate one another.
+      - question: |
+          What principle is applied when two statutory provisions appear irreconcilable according to the discussed rules of construction?
+        answer: |
+          When two provisions appear irreconcilable, each is interpreted in a manner that does not negate the other, ensuring harmony within the statute.
+  - context: |
+      1ps. 1ps. 606,410,218/- as interest thereto arising from management fees paid by the respondent for service rendered from non-resident service providers. Upon being served with the said certificate, the respondent, dissatisfied with the assessments of withholding tax on management fees, objected to the assessment but the appellant confirmed the assessments, arguing that it was a correct reflection of the situation and the law. The respondent was aggrieved by this decision and lodged an appeal before the Tax 2ps. Revenue Appeals Board (the Board) and the Board upheld the assessment by the appellant. Being aggrieved by the decision of the Board the respondent did not stop there and proceeded to file an appeal before the Tax Revenue Appeals Tribunal (the Tribunal) where his appeal was allowed. When considering the respondent's appeal against the appellant withholding tax assessment, the Board held that 3ps. payments made to non- residents for services performed outside Tanzania have a source in Tanzania hence subject to withholding tax and that for income tax purposes the income will have a source in Tanzania if its base is in Tanzania. 2ps. 1ps. The respondent was aggrieved by this decision and lodged an appeal before the Tax Revenue Appeals Board (the Board) and the Board upheld the assessment by the appellant. Being aggrieved by the decision of the Board the respondent did not stop there and proceeded to file an appeal before the Tax Revenue Appeals Tribunal (the Tribunal) where his appeal was allowed. When the second appeal went 2ps. before the Tribunal, issues considered included the import of our decision in Commissioner General (TRA) vs Pan African Energy, Civil Appeal No.
+    questions_and_answers:
+      - question: |
+          What was the main subject of dispute regarding the tax assessment?
+        answer: |
+          The main dispute was over withholding tax on management fees paid by the respondent to non-resident service providers, which the appellant argued were subject to tax under Tanzanian law.
+      - question: |
+          What was the Board's reasoning for upholding the withholding tax assessment?
+        answer: |
+          The Board held that payments made to non-residents for services performed outside Tanzania have a source in Tanzania if their base is in Tanzania, making them subject to withholding tax.
+      - question: |
+          What decision did the Tax Revenue Appeals Tribunal make regarding the respondent's appeal?
+        answer: |
+          The Tax Revenue Appeals Tribunal allowed the respondent's appeal, overturning the decision made by the Board.
+      - question: |
+          How did the respondent respond to the decision made by the Tax Revenue Appeals Board?
+        answer: |
+          The respondent, dissatisfied with the Board's decision to uphold the appellant's tax assessment, proceeded to file an appeal before the Tax Revenue Appeals Tribunal.
+      - question: |
+          What prior case was referenced during the Tribunal's consideration of the appeal?
+        answer: |
+          The case of Commissioner General (TRA) vs Pan African Energy, Civil Appeal No., was referenced during the Tribunal's consideration of the appeal.
+  - context: |
+      1ps. 1ps. That the Court should be guided by its own decisions, such as the Tullow Tanzania BV case, (supra), where at pg. 11 of the Judgment, the word " rendered' was defined and that applying the said interpretation, the phrase "service rendered' in Tanzania means "service supplied' or " delivered ' in Tanzania. With regard to the decision relied upon by the Tribunal in allowing the appeal, that is, the case of Pan 2ps. African Energy Tanzania Ltd (supra), the counsel for the appellant urged the Court to find the said decision distinguishable because the findings therein were substantially influenced by consideration of various provisions of the Indian Income Tax provisions which differ materially from provisions of our tax laws. The counsel further submitted that the holding on this issue found in Tullow 3ps. Tanzania BV case (supra) whose respective findings have been reaffirmed by this Court in Shell Deep Water TZ BP vs Commissioner General for TRA, Civil Appeal No. 123 of 2018 (unreported) and found to be good law, should guide the deliberation and determination of the appeal before the Court. 2ps. 1ps. It was further argued by the appellant's counsel, that since the services were consumed in Tanzania in line with the holding in Tullow Tanzania BV (supra), the assumption should be that the services were rendered in Tanzania, and thus payment of service fees made by the respondent company to non-resident service providers had a 2ps. source in Tanzania, meaning that, the respondent company have an obligation to withhold tax for such payment and remit the same to TRA and pay the requisite interest arising from delay in payment of accrued tax.
+    questions_and_answers:
+      - question: |
+          What was the interpretation of the phrase 'service rendered' in the Tullow Tanzania BV case?
+        answer: |
+          In the Tullow Tanzania BV case, the phrase 'service rendered' in Tanzania was interpreted to mean 'service supplied' or 'delivered' in Tanzania.
+      - question: |
+          Why did the counsel for the appellant argue that the Pan African Energy Tanzania Ltd case was distinguishable?
+        answer: |
+          The counsel argued that the Pan African Energy Tanzania Ltd case was distinguishable because its findings were influenced by provisions of Indian Income Tax laws, which differ materially from Tanzania's tax laws.
+      - question: |
+          Which other case reaffirmed the findings in the Tullow Tanzania BV case as good law?
+        answer: |
+          The findings in the Tullow Tanzania BV case were reaffirmed as good law in the case of Shell Deep Water TZ BP vs Commissioner General for TRA, Civil Appeal No. 123 of 2018.
+      - question: |
+          What assumption did the appellant's counsel make regarding services consumed in Tanzania?
+        answer: |
+          The appellant's counsel assumed that since the services were consumed in Tanzania, they were rendered in Tanzania, implying that the respondent company was obligated to withhold tax and remit it to the TRA.
+      - question: |
+          What was the appellant's argument regarding payment of service fees to non-resident service providers?
+        answer: |
+          The appellant argued that payment of service fees to non-resident service providers had a source in Tanzania, creating an obligation for the respondent company to withhold and remit tax along with interest for delayed payments.
+document_outline: |
+  **Document Outline:**
+  
+  This document discusses Civil Appeal No. 148 of 2018 before the Court of Appeal of Tanzania, involving the Commissioner General of the Tanzania Revenue Authority (TRA) as the appellant and Aggreko International Projects Ltd. as the respondent. The case arises from a tax dispute concerning TRA's imposition of withholding tax on management fees paid by the respondent to its head office and non-resident service providers, which was contested through appeals filed at different levels of the Tax Revenue Appeals system.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Commissioner_General_Tanzania_Revenue_Authority_TRA_vs_Aggreko_International_Projects_Ltd_(Civil_Appeal_No_148_of_2018)_2019_TZCA_178_(4_June_2019).md

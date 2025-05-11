@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## ( CORAM: MWAMBEGELE, J.A.. KEREFU, J.A. And MAIGE. J.A.) CIVIL APPEAL NO. 392 OF 2020 SHANA GENERAL STORE LIMITED....................................... APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.....................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal Sitting at Dar es Salaam) ( Miemas, J. - Chairperson) Dated the 12th day of August, 2020 in Tax Appeal No. 38 of 2018 ## JUDGMENT OF THE COURT 25,n October, 2021 &amp; 3r d November, 2021 ## MAIGE, J.A.: Under section 111 (1) of the East African Community 2ps. Customs Management Act, 2004 (the EACCMA), goods originating from Partner States are accorded preferential tariff treatment in accordance with the Rules of Origin provided for under the Protocol on the Establishment of the East African Customs Union (the Protocol). The motive behind the Rules of Origin, it would seem to us, is to promote intra-state trade among the Partner States by ensuring that it is only goods originating from the EAC custom territory which enjoy tax relief under the single customs territory arrangement. 2ps. 1ps. - Chairperson) Dated the 12th day of August, 2020 in Tax Appeal No. 38 of 2018 ## JUDGMENT OF THE COURT 25,n October, 2021 &amp; 3r d November, 2021 ## MAIGE, J.A.: Under section 111 (1) of the East African Community Customs Management Act, 2004 (the EACCMA), goods originating from Partner States are accorded preferential tariff treatment in accordance with the Rules of Origin provided for under the Protocol on the Establishment of the East African Customs Union (the Protocol). Tanzania and Kenya are 2ps. irrefutably among the Partner States of East African Community Customs Union (EACCU). The appellant is a company duly incorporated under the laws of Tanzania dealing with retail and wholesale trade.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Rules of Origin under the Protocol on the Establishment of the East African Customs Union?
+        answer: |
+          The Rules of Origin are intended to promote intra-state trade among Partner States by ensuring that only goods originating from the EAC customs territory benefit from tax relief under the single customs territory arrangement.
+      - question: |
+          Which law governs preferential tariff treatment for goods originating from Partner States in the East African Community?
+        answer: |
+          The East African Community Customs Management Act, 2004 (EACCMA) governs preferential tariff treatment for goods originating from Partner States.
+      - question: |
+          What is the relationship between Tanzania and Kenya within the East African Community Customs Union?
+        answer: |
+          Tanzania and Kenya are both Partner States within the East African Community Customs Union (EACCU).
+      - question: |
+          What type of business does the appellant, Shana General Store Limited, engage in?
+        answer: |
+          Shana General Store Limited is involved in retail and wholesale trade.
+      - question: |
+          What is the significance of section 111(1) of the EACCMA in this context?
+        answer: |
+          Section 111(1) of the EACCMA allows goods originating from Partner States to receive preferential tariff treatment in accordance with the Rules of Origin.
+  - context: |
+      1ps. 1ps. The dispute, it would appear, is whether the certificate of origin is a conclusive evidence that, the goods in question are manufactured using raw materials originated from Kenya. For the appellant, it is submitted, the same is conclusive evidence that, the goods in question originates from Kenya. Reliance was placed on the provisions of rule 12 (1) of the Rules of Origin. For 2ps. the respondent, it was submitted that the same is not relevant where the goods are covered by the remission scheme because the rules of origin and the remission scheme are mutually exclusive. We propose to start by remarking that, whether certificate of origin is a conclusive evidence on the originality of the goods for the purpose of preferential tariff treatments is a question of law and must have its answer founded on law and not mere logical arguments. This being a tax dispute, the burden of proof is, according to 3ps. section 18(2) (b) of the Tax Revenue Appeals Act, [Cap. 408, R.E., 2019], on the appellant. 2ps. 1ps. We propose to start by remarking that, whether certificate of origin is a conclusive evidence on the originality of the goods for the purpose of preferential tariff treatments is a question of law and must have its answer founded on law and not mere logical arguments. This being a tax dispute, the burden of proof is, according to section 18(2) (b) of the Tax Revenue Appeals Act, [Cap. 408, R.E., 2019], on the appellant. Therefore, in Insiginia case 2ps. (supra) itwasheld:- ## "The burden of proof in tax matters has often been placed on the tax-payer.
+    questions_and_answers:
+      - question: |
+          What is the primary dispute regarding the certificate of origin?
+        answer: |
+          The dispute is whether the certificate of origin serves as conclusive evidence that the goods in question are manufactured using raw materials originated from Kenya.
+      - question: |
+          What argument does the appellant make regarding the certificate of origin?
+        answer: |
+          The appellant argues that the certificate of origin is conclusive evidence that the goods in question originate from Kenya, relying on the provisions of rule 12(1) of the Rules of Origin.
+      - question: |
+          What is the respondent's position on the relevance of the certificate of origin in this case?
+        answer: |
+          The respondent contends that the certificate is not relevant when the goods are covered by the remission scheme, claiming that the rules of origin and the remission scheme are mutually exclusive.
+      - question: |
+          According to the context, on what basis must the question of whether a certificate of origin is conclusive evidence be resolved?
+        answer: |
+          The question must be resolved as a matter of law, with its answer founded on legal principles rather than mere logical arguments.
+      - question: |
+          Who holds the burden of proof in this tax dispute, according to the Tax Revenue Appeals Act?
+        answer: |
+          According to section 18(2)(b) of the Tax Revenue Appeals Act, [Cap. 408, R.E., 2019], the burden of proof lies with the appellant in this tax dispute.
+  - context: |
+      1ps. 1ps. In his submissions, Mr. Axwesso faults the Tribunal in not holding that, the appellant was wrongly subjected to payment of duties under Article 25(3) of the Protocol despite the evidence in the certificate of origin that the goods originated from Kenya. He submits that, in accordance with rule 12 (1) of the Rules of Origin, the certificate of origin is a rebuttable presumption that the goods in question are produced using raw materials from Kenya. The 2ps. counsel placed heavy reliance on the case of Insignia Limited vs. Commissioner General (TRA) Civil Appeal No. 7 of 2007 (unreported) to the effect that, where the respondent in exercise of its duty seizes the documents of a tax-payer and makes use of them to compute the tax-payer's VAT liability, the taxpayer is deemed to have made out a prima facie case such that the evidential burden shifts on the respondent. 2ps. 1ps. He submits that, in accordance with rule 12 (1) of the Rules of Origin, the certificate of origin is a rebuttable presumption that the goods in question are produced using raw materials from Kenya. He submits therefore that, upon producing such a certificate, the burden of proof shifted to the Respondent. He submits further that, since the certificate of origin was issued by the Kenyan Revenue Authority (KRA) which is a competent authority, it was conclusive 2ps. such that it could only be rebutted in exceptional circumstance and only through a verification exercise under rule 12(2) of the Rules of Origin 2009 which was applicable at that juncture. He submits further that, by unilaterally disregarding the certificate of origin, the respondent committed an act of fundamental breach of the EAC laws which seek to harmonize trade among the Partner States. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What does Mr. Axwesso argue regarding the Tribunal's handling of duties under Article 25(3) of the Protocol?
+        answer: |
+          Mr. Axwesso argues that the Tribunal erred by not holding that the appellant was wrongly subjected to duties despite the certificate of origin showing the goods originated from Kenya.
+      - question: |
+          What is the significance of the certificate of origin under Rule 12(1) of the Rules of Origin?
+        answer: |
+          Under Rule 12(1), the certificate of origin serves as a rebuttable presumption that the goods were produced using raw materials from Kenya.
+      - question: |
+          How does the case of Insignia Limited vs. Commissioner General relate to the appellant's argument?
+        answer: |
+          The case supports the idea that when a tax authority seizes and uses a taxpayer's documents, the taxpayer is deemed to have made a prima facie case, shifting the evidential burden to the tax authority.
+      - question: |
+          What conditions does Mr. Axwesso claim are required to rebut the certificate of origin?
+        answer: |
+          Mr. Axwesso claims that the certificate can only be rebutted in exceptional circumstances and through a verification exercise under Rule 12(2) of the Rules of Origin 2009.
+      - question: |
+          What breach does Mr. Axwesso allege the respondent committed by disregarding the certificate of origin?
+        answer: |
+          He alleges that by unilaterally disregarding the certificate of origin, the respondent fundamentally breached EAC laws aimed at harmonizing trade among Partner States.
+  - context: |
+      1ps. 1ps. The respondent confirmed its decision but only that, it adjusted the quantum of the import duty to TZS 457,855,601.25. Being aggrieved, the appellant appealed to the Tax Revenue Appeals Board (the Board) on the ground that, the imported goods were eligible for preferential tariff treatment and that; the decision of the respondent was in violation of the provisions of section 111 of the EACCMA read together with rule 4(1) of the EAC Rules of Origin. In its decision 2ps. dismissing the appeal, the Board was of the opinion that, as the manufacturer was a beneficiary of the duty remission scheme, the importation of goods to Tanzania could not be duty free. On whether the certificate of origin was a conclusive evidence on the originality of the imported goods, the Board observed as follows:- "In no way either can a certificate of origin be used as a bar to the Respondent from 3ps. doing its roie of collecting taxes. 2ps. 1ps. The respondent was blamed in not taking into account that the certificate of origin was a conclusive evidence that, the imported goods originated from Kenya. In its decision dismissing the appeal, the Board was of the opinion that, as the manufacturer was a beneficiary of the duty remission scheme, the importation of goods to Tanzania could not be duty free. After all, the certificate of origin does not contain a declaration to the effect that 2ps. the goods imported by the Appellant were manufactured by materials obtained from Kenya. The declaration merely states that the goods are of Kenyan origin having been produced in Kenya ." Further aggrieved, the appellant appealed to the Tax Revenue Appeals Tribunal (the Tribunal) on three grounds.
+    questions_and_answers:
+      - question: |
+          What was the quantum of the import duty adjusted to by the respondent?
+        answer: |
+          The import duty was adjusted to TZS 457,855,601.25.
+      - question: |
+          What was the appellant's primary argument in their appeal to the Tax Revenue Appeals Board?
+        answer: |
+          The appellant argued that the imported goods were eligible for preferential tariff treatment and that the respondent's decision violated section 111 of the EACCMA and rule 4(1) of the EAC Rules of Origin.
+      - question: |
+          Why did the Tax Revenue Appeals Board dismiss the appellant's appeal?
+        answer: |
+          The Board dismissed the appeal on the grounds that the manufacturer was a beneficiary of the duty remission scheme, and therefore the importation of goods to Tanzania could not be duty-free.
+      - question: |
+          What was the Board's opinion on the certificate of origin as evidence for the goods' origin?
+        answer: |
+          The Board stated that the certificate of origin was not conclusive evidence on the originality of the goods and could not prevent the respondent from performing its tax collection duties.
+      - question: |
+          What limitation did the certificate of origin have according to the Board's decision?
+        answer: |
+          The certificate of origin did not declare that the goods were manufactured using materials obtained from Kenya; it merely stated that the goods were of Kenyan origin and produced in Kenya.
+  - context: |
+      1ps. 1ps. Where there is an obvious lacuna or omission and/ or ambiguity the courts have a duty to fill in the gaps or dear the ambiguity". tariff." It is also the law under Rule 4(1) of the EAC Rules of Origin, 2009 that, the mere fact that goods are consigned directly from a Partner State, does not qualify them to be classified as goods 2ps. originating from the EAC customs territory for the purpose of preferential tariff treatment. They have to meet either of the two criteria set out in items (a) and (b). 2ps. 1ps. tariff." It is also the law under Rule 4(1) of the EAC Rules of Origin, 2009 that, the mere fact that goods are consigned directly from a Partner State, does not qualify them to be classified as goods originating from the EAC customs territory for the purpose of preferential tariff treatment. They have to meet either of the two 2ps. criteria set out in items (a) and (b). Thus:- "Goods shall be accepted as originating in a Partner State where they are consigned directly from a Partner State to a consignee in another Partner State and where: - (a) They have been wholly produced as provided for in Rule 5 of these Rules; or - (b) They have been produced in a Partner State wholly or partially from materials imported from outside the Partner State or of undetermined origin by a process of production which affects a substantial transformation such that: - (i) the c.i.f 3ps.
+    questions_and_answers:
+      - question: |
+          What duty do the courts have when there is an obvious omission or ambiguity in the law?
+        answer: |
+          The courts have a duty to fill in the gaps or clear the ambiguity in cases of obvious omission or ambiguity in the law.
+      - question: |
+          What does Rule 4(1) of the EAC Rules of Origin, 2009 say about goods consigned directly from a Partner State?
+        answer: |
+          Rule 4(1) states that goods consigned directly from a Partner State do not automatically qualify as goods originating from the EAC customs territory for preferential tariff treatment; they must meet criteria outlined in items (a) and (b).
+      - question: |
+          What are the conditions under which goods are considered as originating in a Partner State according to the EAC Rules of Origin?
+        answer: |
+          Goods are considered as originating in a Partner State if they are consigned directly from a Partner State and either wholly produced in the Partner State (as provided in Rule 5) or produced through substantial transformation of imported materials.
+      - question: |
+          What does 'substantial transformation' mean under the EAC Rules of Origin, 2009?
+        answer: |
+          'Substantial transformation' refers to a process of production in which materials imported from outside the Partner State or of undetermined origin undergo such significant change that they meet the criteria for originating goods.
+      - question: |
+          Why is it insufficient for goods to be simply consigned directly from a Partner State for preferential tariff treatment?
+        answer: |
+          It is insufficient because the goods must also satisfy specific production criteria, such as being wholly produced in the Partner State or undergoing substantial transformation, to qualify as originating goods.
+document_outline: |
+  **Document Outline:**
+  
+  This document outlines a civil appeal in the Court of Appeal of Tanzania (Civil Appeal No. 392 of 2020) between Shana General Store Limited (Appellant) and the Commissioner General, Tanzania Revenue Authority (Respondent). The appeal involves a dispute over the imposition of customs duties on goods imported from Kenya, where the appellant argued eligibility for preferential tariff treatment under the East African Community Customs Management Act (EACCMA) and Rules of Origin, while the respondent maintained that duties were applicable due to the supplier's participation in a duty remission scheme.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Shana_General_Store_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_392_of_2020)_2021_TZCA_633_(3_November_2021).md

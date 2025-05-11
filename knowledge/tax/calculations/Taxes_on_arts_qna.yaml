@@ -1,0 +1,81 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Taxes on arts, entertainment, and recreation sector Here is a comprehensive list of taxes, levies, duties, and customs that businesses in the arts, entertainment, and recreation sector in Tanzania might be obliged to pay. Each item includes a description, the applicable law, the rate at which it is charged, and an example of how it is calculated: ## 1. Pay As You Earn (PAYE) - o Description : Tax withheld from employee salaries. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : For an employee earning TZS 1,000,000 per 2ps. month: -  Calculation: PAYE = TZS 82,500 + 25% of the amount exceeding TZS 720,000. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of businesses in the arts, entertainment, and recreation sector. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. 2ps. 1ps. - o Example Calculation : For an employee earning TZS 1,000,000 per month: -  Calculation: PAYE = TZS 82,500 + 25% of the amount exceeding TZS 720,000. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of businesses in the arts, entertainment, and recreation sector. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a sports club has a taxable income of TZS 50,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 50,000,000 = TZS 15,000,000. ## 3. Value Added Tax (VAT) - o 2ps. Description : Tax on goods and services sold by businesses in the arts, entertainment, and recreation sector. - o Law : Value Added Tax Act, 2014.
+    questions_and_answers:
+      - question: |
+          What is the maximum rate of Pay As You Earn (PAYE) in Tanzania?
+        answer: |
+          The maximum rate of PAYE is 30%, according to the Income Tax Act, 2004.
+      - question: |
+          How is PAYE calculated for an employee earning TZS 1,000,000 per month?
+        answer: |
+          For an employee earning TZS 1,000,000 per month, PAYE is calculated as: TZS 82,500 + 25% of the amount exceeding TZS 720,000.
+      - question: |
+          What is the Corporate Income Tax rate for businesses in the arts, entertainment, and recreation sector in Tanzania?
+        answer: |
+          The Corporate Income Tax rate is 30% of taxable income, as specified in the Income Tax Act, 2004.
+      - question: |
+          How much Corporate Income Tax would a sports club with a taxable income of TZS 50,000,000 pay?
+        answer: |
+          The sports club would pay TZS 15,000,000 in Corporate Income Tax, calculated as 30% × TZS 50,000,000.
+      - question: |
+          What law governs Value Added Tax (VAT) for businesses in the arts, entertainment, and recreation sector in Tanzania?
+        answer: |
+          The Value Added Tax (VAT) is governed by the Value Added Tax Act, 2014.
+  - context: |
+      1ps. 1ps. ## 9. Customs Duties - o Description : Duties on imported goods and equipment for the sector. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing musical instruments valued at TZS 15,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 15,000,000 = TZS 1,500,000. ## 10. Excise Duty - o Description : Duty on specific goods sold by businesses in the sector. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per 2ps. item, often ad valorem. - o Example Calculation : Selling alcohol at an event valued at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in the sector. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. 2ps. 1ps. - o Example Calculation : Selling alcohol at an event valued at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in the sector. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. - o Example Calculation : Total monthly payroll of TZS 30,000,000: -  Calculation: Training Levy = 4.5% × TZS 30,000,000 = TZS 1,350,000. ## 12. Environmental Levy - o Description : Levy to fund environmental protection measures 2ps. related to activities in the sector.
+    questions_and_answers:
+      - question: |
+          What is the purpose of Customs Duties mentioned in the context?
+        answer: |
+          Customs Duties are applied to imported goods and equipment for the sector.
+      - question: |
+          Under which law are Customs Duties regulated, and what is the typical duty rate range?
+        answer: |
+          Customs Duties are regulated by the East African Community Customs Management Act, 2004, with rates typically ranging from 0% to 25% depending on the item.
+      - question: |
+          How is Excise Duty calculated for goods sold in the sector?
+        answer: |
+          Excise Duty is calculated based on specific rates per item, often ad valorem. For example, selling alcohol valued at TZS 5,000,000 with a 15% duty rate results in a duty of TZS 750,000.
+      - question: |
+          What is the Training Levy, and how is its rate determined?
+        answer: |
+          The Training Levy is used for skills development and training in the sector, with a rate set at 4.5% of an organization's payroll, as per the Vocational Education and Training Act, 1994.
+      - question: |
+          What is the Environmental Levy meant to fund, as described in the context?
+        answer: |
+          The Environmental Levy is meant to fund environmental protection measures related to activities in the sector.
+  - context: |
+      1ps. 1ps. - o Rate : Calculated based on the specific tax or duty owed and period of noncompliance. ## 19. Development Levy - o Description : Levy for local community development related to projects in the sector. - o Law : Local Government Finance Act, 1982. - o Rate : Typically 0.3% of turnover. - o Example Calculation : Turnover for the year of TZS 100,000,000: -  Calculation: Development Levy = 0.3% × TZS 100,000,000 = TZS 300,000. ## 20. Occupational Safety and Health Fee - o Description : Fee for compliance with occupational safety and health regulations. - o Law : Occupational Safety 2ps. and Health Act, 2003. - o Rate : Varies based on the scale and nature of operations. ## 21. Public Service Fees - o Description : Fees for specific public services provided to businesses in the sector. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on service type and delivery costs. 2ps. 1ps. ## 21. Public Service Fees - o Description : Fees for specific public services provided to businesses in the sector. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on service type and delivery costs. ## 22. Dividend Tax - o Description : Tax on dividends paid to shareholders of private businesses in the sector. - o Law : Income Tax Act, 2004. - o Rate : 10% for residents, 20% for non-residents. - o Example Calculation : Paying TZS 10,000,000 in dividends to non-resident shareholders: -  Calculation: Dividend Tax = 20% × TZS 10,000,000 = TZS 2ps. 2,000,000. ## 23. Foreign Service Levy - o Description : Levy on foreign services utilized by businesses in the sector. - o Law : Income Tax Act, 2004.
+    questions_and_answers:
+      - question: |
+          What is the rate for the Development Levy, and how is it calculated?
+        answer: |
+          The Development Levy is typically 0.3% of turnover. For example, if the turnover is TZS 100,000,000, the levy would be calculated as 0.3% × TZS 100,000,000 = TZS 300,000.
+      - question: |
+          Under which law is the Occupational Safety and Health Fee levied?
+        answer: |
+          The Occupational Safety and Health Fee is levied under the Occupational Safety and Health Act, 2003.
+      - question: |
+          How is the rate for Public Service Fees determined?
+        answer: |
+          The rate for Public Service Fees is determined based on the type of service provided and its delivery costs, as per various sector-specific laws and regulations.
+      - question: |
+          What are the tax rates for Dividend Tax for residents and non-residents, and how is it applied?
+        answer: |
+          The Dividend Tax rate is 10% for residents and 20% for non-residents. For example, if TZS 10,000,000 is paid in dividends to non-resident shareholders, the tax would be 20% × TZS 10,000,000, resulting in TZS 2,000,000.
+      - question: |
+          What is the Foreign Service Levy and under which law is it imposed?
+        answer: |
+          The Foreign Service Levy is a tax on foreign services utilized by businesses in the sector and is imposed under the Income Tax Act, 2004.
+document_outline: |
+  **Document Outline:**  
+  The document provides a detailed overview of the various taxes, levies, duties, and customs applicable to businesses in the arts, entertainment, and recreation sector in Tanzania. Each entry includes a description, the governing law, tax rates, and practical examples of how these taxes are calculated for compliance purposes.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_on_arts.md

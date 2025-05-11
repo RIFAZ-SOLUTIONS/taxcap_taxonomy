@@ -1,0 +1,68 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C. 5
+      
+      ## EAST AFRICAN COMMUNITY                                                 
+                               CUSTOMS
+      
+      Regulation 15 (1), 93 (1) and 111 (1) (2) (3)
+         PASSENGER LIST/MANIFEST
+      
+      Owner or Operator
+         …………………………………. 
+      
+      Aircraft/ Vessels/ Vehicles
+         ………………………………Flight/Registration 
+         No
+      
+      ……………………..
+      
+      (Registration marks and nationality
+      
+      2ps. )
+      
+      *Arrived at/Departing from………………………..…            
+         Date…………….. ……………
+      
+      (Place and country)
+      
+      Prepared by
+         ……………………………….         Date
+         ……………….Page…….of…..…Pages
+      
+      (Master)
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What regulations are mentioned in the context regarding customs?
+        answer: |
+          Regulation 15 (1), 93 (1), and 111 (1) (2) (3) are mentioned in the context regarding customs.
+      - question: |
+          What type of document is described in the context?
+        answer: |
+          The document described is a 'Passenger List/Manifest' within the framework of customs regulations.
+      - question: |
+          Who is identified as responsible for preparing the document?
+        answer: |
+          The document is prepared by the 'Master,' as indicated in the template.
+      - question: |
+          What details are required to identify the mode of transport listed in the manifest?
+        answer: |
+          Details required include the 'Owner or Operator,' 'Aircraft/Vessels/Vehicles,' 'Flight/Registration No.,' and 'Registration marks and nationality.'
+      - question: |
+          What information needs to be recorded about the trip in the document?
+        answer: |
+          Information about the place and country of departure or arrival, as well as the date, needs to be recorded.
+document_outline: |
+  The document appears to be a standardized customs form used by the East African Community for recording passenger lists or manifests for aircraft, vessels, and vehicles. It collects details such as the owner/operator, flight/registration information, arrival or departure locations, and is completed by the responsible party (e.g., the master).
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c5-passenger-list.md

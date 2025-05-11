@@ -1,0 +1,220 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C.31
+      
+      ## EAST AFRICAN COMMUNITY                                                 
+                                   CUSTOMS
+      
+      Regulation 139 (3)
+      
+      ## DUTY DRAWBACK *
+         DEBENTURE/CLAIM FORM
+      
+      Port
+         of……………………………Country……………….…            
+      
+      2ps.   Rotation No……………………
+      
+      *I/We
+         ………………………………………
+         TIN/PIN…………………..VAT No……………… of
+      
+      address
+         ……………………………………………………………………………………..
+         having entered
+      
+      goods for exportation to……………………………..
+         or for use as stores in the *Aircraft/Vessel
+      
+      …….…………. 
+         …………and having fulfilled the conditions on which drawback is allowed,
+         hereby
+      
+      apply for the drawback due thereon. 
+      
+      DDB Registration
+         No…………………………. 
+      
+      IMPORTED
+      
+      RAW
+      
+      MATERIALS
+      
+      C17 No.
+      
+      Kind
+         and No
+      
+      of Pkgs
+      
+      HSCODE
+      
+      Description of goods imported
+      
+      Quantity
+      
+      Country
+      
+      of
+         Origin
+      
+      ## EXPORTS:
+      
+      Export Entry
+      
+      No. 
+      
+      Date
+      
+      Full description and
+      
+      quantity
+         of goods
+      
+      exported
+      
+      H.S.
+         Code
+      
+      FOB
+      
+      Value
+      
+      (Dollars)
+      
+      Duty
+      
+      Drawback
+      
+      Coefficient
+      
+      Amount
+      
+      claimed
+      
+      (Dollars)
+      
+      *I/We
+         declare the above particulars to be true, that the goods have been actually
+         *exported/ shipped for use as stores, and have not been released and are not
+         intended to be re-landed in the Partner States and that at the time of
+      
+      3ps. entry and *exportation/shipment of the goods, *I was/We were, and still
+         'am/are', entitled to the drawback thereon which amounts to  ……………
+         dollars. 
+      
+      Declared this……………day of ………….20……       
+         *Exporter/Agent…………………………..….
+      
+      
+      
+      2ps. 1ps. 
+      
+      IMPORTED
+      
+      RAW
+      
+      MATERIALS
+      
+      C17 No.
+      
+      Kind and No
+      
+      of Pkgs
+      
+      HSCODE
+      
+      Description
+         of goods imported
+      
+      Quantity
+      
+      Country
+      
+      of Origin
+      
+      ## EXPORTS:
+      
+      Export
+         Entry
+      
+      No. 
+      
+      Declared this……………day of ………….20……       
+         *Exporter/Agent…………………………..…. 
+      
+      The drawback on the
+         goods mentioned in this debenture amounts to ……….………dollars.
+         
+      
+      Date…………………………….  20……….           Proper
+         Officer ……………………………………. 
+      
+      Received
+         this………… day of ………… 20……… the sum of
+         …………………….… dollars. 
+      
+      Exporter  
+         ………………………………………. 
+      
+      Amount of Refund
+         claimed………………………………….   Amount verified and
+         recommended
+         for
+      
+      refund…………………………………………
+      
+      Recommended by
+         ……………………………………………………    
+         …………………………..
+      
+      Name and address              
+      
+      2ps.                                 Signature and date
+      
+      Amount approved and
+         authorised by Commissioner (in Dollars)
+         ……………………………………
+      
+      Amount paid (Dollars)
+         …………………………………
+      
+      Name and Signature of paying officer
+         ……………………………………………………………….
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Duty Drawback Debenture/Claim Form in the East African Community Customs Regulation 139 (3)?
+        answer: |
+          The form is used to apply for duty drawback on exported goods or goods used as stores, provided that the conditions for drawback eligibility have been fulfilled.
+      - question: |
+          What types of information must an exporter provide under the 'IMPORTED RAW MATERIALS' section of the form?
+        answer: |
+          An exporter must provide details such as the C17 number, kind and number of packages, HS code, description of goods imported, their quantity, and country of origin.
+      - question: |
+          What declaration must the exporter/agent make about the exportation or shipment of goods?
+        answer: |
+          The exporter/agent must declare that the goods have been exported or shipped for use as stores, have not been released, will not be re-landed in Partner States, and that they are entitled to the drawback claimed.
+      - question: |
+          Who is responsible for verifying and approving the refund claim for duty drawback?
+        answer: |
+          The claim is verified and recommended by an authorized individual, and the amount is approved and authorized by the Commissioner.
+      - question: |
+          What information is documented regarding the payment of the duty drawback amount?
+        answer: |
+          The document records the amount claimed, the amount verified and recommended for refund, the amount approved and authorized by the Commissioner, the amount paid, and the signature and name of the paying officer.
+document_outline: |
+  **Document Outline:**  
+  The document is an official Customs form under Regulation 139 (3) of the East African Community, used for claiming duty drawbacks on exported goods or goods used as stores in aircraft/vessels. It includes fields for detailing imported raw materials, exported goods, duty drawback calculations, declarations by exporters/agents, and approval or payment authorizations by relevant customs officers.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c31-duty-drawback-debenture-claim-fForm.md

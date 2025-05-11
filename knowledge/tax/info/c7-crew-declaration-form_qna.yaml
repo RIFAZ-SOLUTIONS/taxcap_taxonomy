@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C.7 ## EAST AFRICAN COMMUNITY CUSTOMS ## CREW DECLARATION FORM <!-- image --> Aircraft / Vessel. ………………………… From. …………………………... 2ps. Date of Arrival.……………. Notice to Master and Officers and Crew of aircraft/vessels regarding goods brought as their private property from outside the Community This form must be completed in readiness to be handed over to the Proper Officer who first visits the aircraft/vessel. It must be signed by each member of the crew (including the Master and Officers), who must state next his signature the total quantity of dutiable articles in his possession including those which may have been handed in for sealing up on arrival. If he has nothing he must state 'Nil'. All articles acquired 3ps. abroad or during the voyage must be declared. Any articles or property of any member of the Crew found in the aircraft/vessel and not declared will be liable to forfeiture and the owner will be liable to prosecution. 2ps. 1ps. If he has nothing he must state 'Nil'. All articles acquired abroad or during the voyage must be declared. Any articles or property of any member of the Crew found in the aircraft/vessel and not declared will be liable to forfeiture and the owner will be liable to prosecution. Members of a Crew who remain on an aircraft/vessel during his stay in port may be allowed under certain conditions to retain in their possession for their own use on board small quantities of tobacco, spirits, and other dutiable goods. Such 2ps. goods MUST NOT BE LANDED without the authority of a Proper Officer. To the Proper Officer, Port of ……………………………………… We the undersigned Master, Officers and members of the Crew of the. …………………………….
+    questions_and_answers:
+      - question: |
+          What is the purpose of the East African Community Customs Crew Declaration Form?
+        answer: |
+          The form is used to declare all dutiable goods brought as private property by crew members of an aircraft or vessel when arriving from outside the East African Community.
+      - question: |
+          What must a crew member do if they have no dutiable articles to declare?
+        answer: |
+          If a crew member has no dutiable articles to declare, they must state 'Nil' next to their signature on the declaration form.
+      - question: |
+          What are the consequences of failing to declare dutiable goods as a member of the crew?
+        answer: |
+          Undeclared articles found on the aircraft or vessel will be liable to forfeiture, and the owner may face prosecution.
+      - question: |
+          Under what conditions can crew members retain dutiable goods on board the aircraft or vessel while in port?
+        answer: |
+          Crew members may retain small quantities of tobacco, spirits, and other dutiable goods for personal use on board, provided these goods are not landed without the authority of a Proper Officer.
+      - question: |
+          Who must sign the declaration form, and what information do they include next to their signature?
+        answer: |
+          The declaration form must be signed by each member of the crew, including the Master and Officers, who must indicate the total quantity of dutiable articles in their possession or state 'Nil' if they have none.
+document_outline: |
+  **Document Outline:**  
+  This document is the Crew Declaration Form for the East African Community Customs, which aircraft and vessel crew members, including the Master and Officers, must complete upon arrival. It outlines the procedures for declaring dutiable goods brought as private property, specifies penalties for undeclared items, and includes a section for crew signatures and itemized declarations of tobacco, spirits, and other goods.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c7-crew-declaration-form.md

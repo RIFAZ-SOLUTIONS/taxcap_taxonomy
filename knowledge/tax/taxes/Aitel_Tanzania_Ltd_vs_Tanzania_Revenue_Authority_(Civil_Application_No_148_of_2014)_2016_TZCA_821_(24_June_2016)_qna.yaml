@@ -1,0 +1,59 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Elaborating the applicant's written submissions, Mr. Tairo contended that after lodging the Notice of Appeal, the respondent was notified of the decision of the Tax Revenue Appeals Tribunal in a letter written by the Registrar of the Tribunal and dated the 12th December, 2013. The notification letter, he said, also enclosed the copy of the proceedings, judgment and the decree of the Tribunal. And, yet, for some obscure cause, the respondent adopted a passive stance and made 2ps. no effort whatsoever to counter the applicant's quest either by way of an affidavit in reply or written submission. Thus, to this end, the factual averments as contained in the applicant's affidavit stand uncontested. It is common ground that this application revolves around the question whether or not the respondent is in breach of Rule 90(1) of the Rules which stipulates: - "90. 2ps. 1ps. And, yet, for some obscure cause, the respondent adopted a passive stance and made no effort whatsoever to counter the applicant's quest either by way of an affidavit in reply or written submission. Thus, to this end, the factual averments as contained in the applicant's affidavit stand uncontested. It is common ground that this application revolves around the question whether or not the respondent is in breach of Rule 90(1) 2ps. of the Rules which stipulates: - "90.
+    questions_and_answers:
+      - question: |
+          What was the purpose of the notification letter dated 12th December, 2013?
+        answer: |
+          The notification letter informed the respondent of the decision of the Tax Revenue Appeals Tribunal and enclosed the copy of the proceedings, judgment, and decree of the Tribunal.
+      - question: |
+          How did the respondent react to the applicant's submissions?
+        answer: |
+          The respondent adopted a passive stance, making no effort to counter the applicant's quest either through an affidavit in reply or written submission.
+      - question: |
+          What consequence arose from the respondent not contesting the application?
+        answer: |
+          The factual averments contained in the applicant's affidavit remained uncontested.
+      - question: |
+          What central issue does this application revolve around?
+        answer: |
+          The application revolves around whether or not the respondent is in breach of Rule 90(1) of the Rules.
+      - question: |
+          What does Rule 90(1) address in the context of the case?
+        answer: |
+          Rule 90(1) is referenced as the rule in question potentially breached by the respondent, though the specific stipulation of the rule is not detailed in the context provided.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: KAI3AGE, 3.A., MUSSA, 3.A. And MWARI3A, 3.A.1 ) CIVIL APPLICATION NO. 148 OF 2014 AIRTEL TANZANIA LTD............................................................. APPLICANT ## VERSUS TANZANIA REVENUE AUTHORITY.........................................RESPONDENT (Application for striking out notice of appeal from the decision of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## (Twaib, 3.) Dated the 22n d day of November, 2013 In Tribunal Tax Appeal No. 14 of 2012 ## RULING OF THE COURT 27th May &amp; 24th June, 2016 ## MUSSA, J.A.: The respondent was dissatisfied by the decision 2ps. of the Tax Revenue Appeals Tribunal which was pronounced on the 22n d November, 2013. In response, she duly filed a Notice of appeal on the 5t h December, 2013 which was received and acknowledged by counsel for the applicant on the 6th December, 2013. Thereafter, according to the applicant, the respondent took no further action, hence the application at hand. 2ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: KAI3AGE, 3.A., MUSSA, 3.A. And MWARI3A, 3.A.1 ) CIVIL APPLICATION NO. 148 OF 2014 AIRTEL TANZANIA LTD............................................................. APPLICANT ## VERSUS TANZANIA REVENUE AUTHORITY.........................................RESPONDENT (Application for striking out notice of appeal from the decision of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## (Twaib, 3.) Dated the 22n d day of November, 2013 In Tribunal Tax Appeal No. 14 of 2012 ## RULING OF THE COURT 27th May &amp; 24th June, 2016 ## MUSSA, J.A.: In effect, the application seeks to move the 2ps. Court to strike out the respondent's Notice of Appeal on the ground that some essential step in the proceedings has not been taken within the prescribed time.
+    questions_and_answers:
+      - question: |
+          What was the main reason for the application by Airtel Tanzania Ltd. in Civil Application No. 148 of 2014?
+        answer: |
+          The application sought to strike out Tanzania Revenue Authority's Notice of Appeal on the grounds that essential steps in the proceedings were not taken within the prescribed time.
+      - question: |
+          What action did the Tanzania Revenue Authority take after the Tax Revenue Appeals Tribunal's decision on November 22, 2013?
+        answer: |
+          The Tanzania Revenue Authority filed a Notice of Appeal on December 5, 2013, which was acknowledged by the applicant's counsel on December 6, 2013.
+      - question: |
+          Who presided over the Tax Revenue Appeals Tribunal decision being appealed in this case?
+        answer: |
+          The Tax Revenue Appeals Tribunal decision was presided over by Twaib, J.
+      - question: |
+          What was the date of the ruling by the Court of Appeal in Civil Application No. 148 of 2014?
+        answer: |
+          The ruling of the Court of Appeal was delivered on June 24, 2016, following hearings on May 27, 2016.
+      - question: |
+          What specific Tribunal case is at the center of the dispute in Civil Application No. 148 of 2014?
+        answer: |
+          The case in question is Tax Appeal No. 14 of 2012 from the Tax Revenue Appeals Tribunal.
+document_outline: |
+  **Document Outline:**
+  
+  This ruling by the Court of Appeal of Tanzania addresses a civil application filed by Airtel Tanzania Ltd seeking to strike out a notice of appeal filed by the Tanzania Revenue Authority. The application alleges that the respondent failed to take necessary steps within the prescribed time under Rule 90(1) of the Court of Appeal Rules after lodging the notice of appeal, and the court deliberates on the validity of the application in light of uncontested evidence presented by the applicant.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Aitel_Tanzania_Ltd_vs_Tanzania_Revenue_Authority_(Civil_Application_No_148_of_2014)_2016_TZCA_821_(24_June_2016).md

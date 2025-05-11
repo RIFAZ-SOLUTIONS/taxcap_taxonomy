@@ -1,0 +1,104 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C 38
+      
+      ## EAST AFRICAN COMMUNITY                                                 
+                                        CUSTOMS
+      
+      Regulation 208
+      
+      ## APPLICATION FOR
+         PAYMENT OF PROCEEDS FROM SALE OF GOODS
+      
+      Date ……………., 20…….
+         
+      
+      The Proper
+      
+      2ps. Officer,
+      
+      at …………………………………………… Country
+         ………………………………………
+      
+      *I / We hereby apply for the
+         balance of proceeds of the sale of the under-mentioned
+         goods
+      
+      on……..……… (date of sale) from aircraft/vessel/vehicle
+         …………………..… Rotation
+         No.
+      
+      ……………………………………
+      
+      ## PARTICULARS OF
+         GOODS
+      
+      ………………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………
+      
+      *I/We
+         hereby declare that the goods sold were owned by *me/us and that *I am/we are
+         entitled to the balance of the proceeds of the sale.
+         
+      
+      ………………….……………. 
+      
+      Name and Signature of Owner
+      
+      ##
+         For Official use only
+      
+      *Approved / Not approved
+      
+      Amount Payable
+         …………………………………………………………………. 
+         (dollars)
+      
+      ……………………………..
+      
+      Commissioner
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is Regulation 208 within the East African Community Customs context primarily concerned with?
+        answer: |
+          Regulation 208 deals with applications for the payment of proceeds from the sale of goods.
+      - question: |
+          What information is required in the application for payment of proceeds from the sale of goods?
+        answer: |
+          The application requires the date of sale, details of the aircraft/vessel/vehicle involved, rotation number, and particulars of the goods sold.
+      - question: |
+          What declaration must the applicant make when submitting the application?
+        answer: |
+          The applicant must declare that the goods sold were owned by them and that they are entitled to the balance of the proceeds.
+      - question: |
+          Who has the authority to approve or deny the application?
+        answer: |
+          Approval or denial of the application is determined by a Commissioner.
+      - question: |
+          What information is included under the 'For Official Use Only' section of the application?
+        answer: |
+          The 'For Official Use Only' section includes approval status, amount payable in dollars, and relevant details from the Commissioner.
+document_outline: |
+  **Document Outline:**  
+  The document is a formal application form under Regulation 208 of the East African Community Customs framework, used by individuals or entities to request payment of the balance of proceeds from the sale of specified goods. It includes fields for applicant details, particulars of goods, and official approval by the Commissioner.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c38-appliction-payment-process-from-sale-of-goods.md

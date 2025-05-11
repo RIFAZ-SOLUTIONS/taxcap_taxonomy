@@ -1,0 +1,169 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image -->
+      
+      IDARA YA KODI ZA NDANI ISO 9001: 2008 CERTIFIED
+      
+      ## FOMU YA
+         USAJILI WA JENGO
+      
+      ## A. TAARIFA ZA MLIPAKODI
+      
+      1. Jina Kamili la Mmiliki
+         (Majina Matatu)
+      
+      Namba ya Simu. 
+      
+      2 Mahali: Kata (i)
+      
+      Mtaa
+      
+      Namba ya
+         Nyumba
+      
+      Namba ya Shina ilipo Nyumba
+      
+      Mtaa
+      
+      Namba ya Nyumba
+      
+      Namba ya Shina
+         Nyumba ilipo
+      
+      (iii)
+      
+      Mtaa (iii)
+      
+      Namba ya Nyumba
+      
+      Namba ya Shina ilipo
+         Nyumba
+      
+      ## B: MAELEZO YA JENGO
+      
+      1 .  Namba ya
+         Kiwanja
+      
+      Kitalu
+      
+      Barabara
+      
+      Kitalu
+      
+      Barabara
+      
+      Kitalu
+      
+      Barabara
+      
+      2. Aina ya
+         Jengo: Kawaida
+      
+      Ghorofa: (i)
+      
+      Idadi ya Ghorofa
+      
+      Kawaida
+      
+      Ghorofa: (ii)
+      
+      Idadi
+         ya Ghorofa(ii)
+      
+      Kawaida
+      
+      Ghorofa: (iii). 
+      
+      Idadi ya Ghorofa (iii)\_
+      
+      3.
+         Matumizi ya Jengo: (i). 
+      
+      Makazi
+      
+      Biasharal
+      
+      Makazi na
+         Biashara
+      
+      Mengineyo
+      
+      Taja\_
+      
+      Jengo: (ii) Makazil
+      
+      Biashara
+      
+      Makazi na
+         Biashara
+      
+      Mengineyo
+      
+      Taja. 
+      
+      Jengo: (iii) Makazi
+      
+      Biasharal
+      
+      Makazi na
+         Biashara
+      
+      Mengineyo
+      
+      Taja
+      
+      "Mimi ambaye ni msimamizilmmiliki wa jengo
+         nathibitisha kuwa taarifa nilizozitoa
+      
+      2ps. hapo juu ni za kweli"
+      
+      Jina Kamili . 
+      
+      Saini\_
+      
+      Tarehe
+      
+      NB: KIAMBATISHO:
+         Kitambulisho cha mpiga kuralHati ya JengolLeseni ya Udereva
+      
+      FOMU HII
+         HAIUZWI
+      
+      APPENDIX 1
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of this form?
+        answer: |
+          The primary purpose of this form is to register a building with the relevant tax authority (Idara ya Kodi za Ndani).
+      - question: |
+          What specific details are required about the owner under 'TAARIFA ZA MLIPAKODI'?
+        answer: |
+          The form requires the owner's full name (three names), phone number, and the location details, including ward, street, house number, and plot number.
+      - question: |
+          How is information about the building's type and usage collected?
+        answer: |
+          The form collects details about the type of building (standard or multi-floor), the number of floors, and the building's usage, which may include residential, business, mixed-use, or other specified purposes.
+      - question: |
+          What is required under the declaration section of the form?
+        answer: |
+          The form requires the building owner or manager to declare that the provided information is accurate by signing, providing their full name, and including the date.
+      - question: |
+          What documents must be attached to the form?
+        answer: |
+          The required attachments include a voter's ID, a building certificate, or a driver's license.
+document_outline: |
+  ### Document Outline: Building Registration Form (Fomu ya Usajili wa Jengo)
+  
+  This document outlines a form issued by the Tanzania Revenue Authority (TRA), certified under ISO 9001:2008, for registering building ownership. It collects taxpayer details (name, contact, and address), building information (plot number, type, and usage), and includes a declaration section requiring the owner's signature and identification documents.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Property_Registration_Form.md

@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. This Act may be cited as the Vocational Education Training Act. - 2 . In this Act, unless the context otherwise requires"apprentice" means a person of at least fifteen years of age, except where a higher minimum age is otherwise required by law, and who is employed to learn an occupation under standards of apprenticeship approved by the Board; "Authority" means the Vocational Education and Training Authority established by section 3; Cap. 399 "Board" means the Vocational Education and Training Board established by section 5; 'Commissioner' means the 2ps. Commissioner General appointed under the Tanzania Revenue Authority Act; "Committee" means a Trade Advisory Committee established by section 8; "Director" means the Director General of Vocational Education and Training appointed pursuant to section 10; "Fund" means the Vocational Education and Training Fund established by section 22; "indentured trainee" means a person other than an apprentice who is not bound by a written contract but serves an employer for a determined period of time with a view to acquiring knowledge of a trade, and who attends prescribed course of study leading 3ps. to trade tests and examination; "inspector" means an inspector appointed by the Director General; "levy" means skills and development levy imposed under section 14 of this Act; 'Minister" means the Minister responsible for vocational education and training; "Regional Board" means a Regional Vocational Education and Training Board established for a region pursuant to section 11; 'Regional Vocational Training and Service Centre" means a centre which has been delegated special regional authority and responsibilities by the Board; "trade test" means an examination 4ps.
+    questions_and_answers:
+      - question: |
+          What is the minimum age for someone to be considered an apprentice according to the Act?
+        answer: |
+          The minimum age for someone to be considered an apprentice is at least fifteen years, except where a higher minimum age is required by law.
+      - question: |
+          What is the Vocational Education and Training Authority, and how is it established?
+        answer: |
+          The Vocational Education and Training Authority is the entity responsible for overseeing vocational education and training, and it is established by section 3 of the Act.
+      - question: |
+          Who is an indentured trainee as defined in the Act?
+        answer: |
+          An indentured trainee is a person, other than an apprentice, who is not bound by a written contract but serves an employer for a determined period to acquire trade knowledge and attends prescribed courses leading to trade tests and examinations.
+      - question: |
+          What does the term 'levy' refer to in this Act?
+        answer: |
+          The term 'levy' refers to the skills and development levy imposed under section 14 of the Act.
+      - question: |
+          What is the purpose of a trade test as defined in the Act?
+        answer: |
+          A trade test refers to an examination designed to assess the skills and knowledge of individuals in a specific trade.
+  - context: |
+      1ps. 1ps. - (2) Without prejudice to subsection (1), the Authority may establish or manage vocational training institutions including vocational teacher training colleges, Regional Vocational Training and Service Centres and Vocational Training Centres. ## PART III VOCATIONAL EDUCATION AND TRAINING BOARD AND REGIONAL BOARDS Establishment of Vocational Education and Training Board Functions and powers of Board - 5 .-(1) There is hereby established for the Authority, a Board to be known as the Vocational Education and Training Board. - (2) 2ps. The Board shall be composed of eleven members to be appointed as follows - - (a) the Chairman who shall be appointed by the President; - (b) ten other members to be appointed by the Minister upon being nominated as follows- - (i) two members to be nominated by the organisations for the time being representing employers; (ii) - two members to be nominated by trade unions movement; - (iii) three members to be nominated by each of the ministries responsible for industries, education and labour; and - (iv) 3ps. three members to be nominated by nongovernmental organisations which manage vocational education and training institutions. 2ps. 1ps. - (2) Without prejudice to subsection (1), the Authority may establish or manage vocational training institutions including vocational teacher training colleges, Regional Vocational Training and Service Centres and Vocational Training Centres. ## PART III VOCATIONAL EDUCATION AND TRAINING BOARD AND REGIONAL BOARDS Establishment of Vocational Education and Training Board Functions and powers of Board - 5 .-(1) There is hereby established for the Authority, a Board to be known as the Vocational Education and Training Board. - (3) 2ps. The persons to be nominated and appointed members of the Board shall be those who are qualified to contribute to the development of vocational education and training.
+    questions_and_answers:
+      - question: |
+          What types of institutions can the Authority establish or manage under this context?
+        answer: |
+          The Authority may establish or manage vocational training institutions, including vocational teacher training colleges, Regional Vocational Training and Service Centres, and Vocational Training Centres.
+      - question: |
+          What is the name of the Board established under PART III of the document?
+        answer: |
+          The Board established under PART III is called the Vocational Education and Training Board.
+      - question: |
+          How many members make up the Vocational Education and Training Board?
+        answer: |
+          The Vocational Education and Training Board is composed of eleven members.
+      - question: |
+          Who appoints the Chairman of the Vocational Education and Training Board?
+        answer: |
+          The Chairman of the Vocational Education and Training Board is appointed by the President.
+      - question: |
+          What qualifications should the nominated members of the Board possess?
+        answer: |
+          The nominated members of the Board should be qualified to contribute to the development of vocational education and training.
+  - context: |
+      1ps. 1ps. - (7) The decision of the Board shall be by majority votes of the members present and voting, and in the event of an equality of votes, the Chairman of the meeting shall have a casting vote. - 8 .-(1) The Board may establish Committees, to be known as Trade Advisory Committees, to assist in the performance of its functions. - (2) A Trade Advisory Committee may be established in respect of such industry, trade or occupation as the Board may determine. - (3) Each 2ps. Trade Advisory Committee shall consist of such number of members, being not more than seven, as the Board may determine of whom- - (a) one member shall be representing the interests of the vocational education and training institutions; - (b) one member who is a training specialist, to be appointed by the Board; - (c) two members shall be chosen to represent the interests of employers in the industry concerned; and ## Cap. 2ps. 1ps. - 8 .-(1) The Board may establish Committees, to be known as Trade Advisory Committees, to assist in the performance of its functions. - (2) A Trade Advisory Committee may be established in respect of such industry, trade or occupation as the Board may determine. 4 s. 8 Functions of Trade Advisory Committees - (d) two members shall be chosen to represent the interests of employees in the industry concerned. - (4) The Board shall appoint one of their number to be 2ps. the Chairman of the Trade Advisory Committee. - (5) Every member of the Committee shall, unless he sooner resigns or otherwise ceases to hold office, hold office for a period of three years and may be eligible for reappointment.
+    questions_and_answers:
+      - question: |
+          How are decisions of the Board determined in case of an equality of votes?
+        answer: |
+          In case of an equality of votes, the Chairman of the meeting has a casting vote.
+      - question: |
+          What is the purpose of Trade Advisory Committees established by the Board?
+        answer: |
+          Trade Advisory Committees are established to assist the Board in the performance of its functions.
+      - question: |
+          What is the maximum number of members a Trade Advisory Committee can have, and who are they required to represent?
+        answer: |
+          A Trade Advisory Committee can have up to seven members, representing vocational education and training institutions, a training specialist, employers (two members), and employees (two members) in the industry concerned.
+      - question: |
+          How long is the term of office for members of a Trade Advisory Committee?
+        answer: |
+          Members of a Trade Advisory Committee hold office for a period of three years unless they resign or otherwise cease to hold office, and they may be eligible for reappointment.
+      - question: |
+          Who appoints the Chairman of a Trade Advisory Committee?
+        answer: |
+          The Board appoints one of the Trade Advisory Committee members to be its Chairman.
+  - context: |
+      1ps. 1ps. 14 of 2001 s.33 4 of 2013 s.60 2 of 2016 s.102 Cap. 4 s.8 14 .-(1) Subject to the provisions of this Part, there shall be charged, levied and payable to the Commissioner at the end of every month, from every employer who has in his employment four or more employees, a levy to be known as the skills and development levy. - (3) For purposes of this section, 'gross monthly emoluments' in relation to any employee includes 2ps. wages, salary, leave pay, sick pay, payment in lieu of leave, fee, commission, bonus, gratuity and any subsistence, travelling entertainment or other allowance paid to him by the employer in respect of his employment or service, and any amount so paid in respect of employment or services rendered by the employee in any month other than the month in which it is paid, shall be deemed 3ps. to be emoluments in respect of the calendar month in which it is paid. Cap.332 Distribution of levy Acts Nos. 2ps. 1ps. - (2) The levy shall be the sum of money equal to four point five per centum of the total gross monthly emoluments payable by the employer to all his employees in respect of that month. Cap.332 Distribution of levy Acts Nos. 14 of 2001 s.34 5 of 2011 s.35 Returns and time for payment of levy Acts Nos. 14 of 2001 s.36 15 of 2004 s.56 10 of 2015 s.146 - (4) Where in any case an employer pays emoluments 2ps.
+    questions_and_answers:
+      - question: |
+          What is the skills and development levy, and who is required to pay it?
+        answer: |
+          The skills and development levy is a charge payable to the Commissioner at the end of every month by employers with four or more employees.
+      - question: |
+          What is included in the term 'gross monthly emoluments' for calculating the levy?
+        answer: |
+          'Gross monthly emoluments' include wages, salary, leave pay, sick pay, payment in lieu of leave, fees, commissions, bonuses, gratuities, and subsistence, traveling, or entertainment allowances paid by the employer to employees.
+      - question: |
+          What percentage of the total gross monthly emoluments is charged as the skills and development levy?
+        answer: |
+          The skills and development levy is four point five percent (4.5%) of the total gross monthly emoluments.
+      - question: |
+          How is the levy treated for payments made outside the month of service?
+        answer: |
+          Any payment made for employment or services rendered in a month other than when it is paid is deemed to be emoluments for the calendar month in which it is paid.
+      - question: |
+          What provisions determine the time for payment of the levy?
+        answer: |
+          The levy must be paid to the Commissioner at the end of every month as outlined in the legal provisions of Acts such as No. 14 of 2001 s.36, No. 15 of 2004 s.56, and No. 10 of 2015 s.146.
+  - context: |
+      1ps. 1ps. - (2) The Director General shall be the Chief Executive of the Authority and shall be directly responsible to the Board for the day to day administration of the affairs of the Authority. - (3) The Director General shall be Secretary of the Board and may participate in its deliberations, but shall not be entitled to vote on any resolution or other matter before the Board. - 11 .-(1) The Board shall establish for any Region a Regional Vocational Educational Training Board. - (2) The Regional Board shall be composed of not more than seven members to 2ps. be appointed as follows- - (a) a Chairman to be appointed by the Board; - (b) three members to be nominated by the organisations for the time being representing employees; - (c) two members to be nominated by trade union movements representing employees; - (d) one member to be nominated by the Regional Administration; and - (e) one member to be nominated by a nongovernmental organisation representing a training institution. - (3) The Regional Director shall be Secretary to the Regional Board. 2ps. 1ps. - 11 .-(1) The Board shall establish for any Region a Regional Vocational Educational Training Board. - (3) The Regional Director shall be Secretary to the Regional Board. - 12 . 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the role of the Director General in the Authority?
+        answer: |
+          The Director General is the Chief Executive of the Authority and is directly responsible to the Board for the day-to-day administration of its affairs.
+      - question: |
+          Can the Director General vote on Board resolutions or matters?
+        answer: |
+          No, the Director General may participate in the Board's deliberations but is not entitled to vote on any resolution or matter.
+      - question: |
+          How many members can compose a Regional Vocational Educational Training Board?
+        answer: |
+          A Regional Vocational Educational Training Board can have no more than seven members.
+      - question: |
+          Who appoints the Chairman of a Regional Vocational Educational Training Board?
+        answer: |
+          The Chairman is appointed by the Board.
+      - question: |
+          Which groups nominate members to a Regional Vocational Educational Training Board?
+        answer: |
+          Members are nominated by organizations representing employees, trade union movements, the Regional Administration, and a nongovernmental organization representing a training institution.
+document_outline: |
+  **Document Outline:**
+  
+  The *Vocational Education and Training Act [CAP. 82 R.E. 2019]* provides the legal framework for regulating vocational education and training in Tanzania. It establishes the Vocational Education and Training Authority, defines its objectives, functions, and governance structures, introduces a vocational training levy, and outlines provisions for the management of related funds and other regulatory matters.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - THE_VOCATIONAL_EDUCATION_AND_TRAINING_ACT_RE_2019.md

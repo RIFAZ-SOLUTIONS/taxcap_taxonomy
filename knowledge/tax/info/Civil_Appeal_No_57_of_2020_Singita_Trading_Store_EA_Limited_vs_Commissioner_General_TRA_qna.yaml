@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ( ## CORAM: LILA. J.A.. MWANPAMBO, 3.A. AND KEREFU, J.A.) CIVIL APPEAL NO. 57 OF 2020 ## SINGITA TRADING STORE (EA) LIMITED.............................APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......... ........................ RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) fMiemmas. Chairperson.) Dated the 1s t day of November, 2019 in Tax Appeal No. 16 of 2018 ## JUDGMENT OF THE COURT 21s : April &amp; 6th May, 2021 ## KEREFU. J.A.: The appellant, Singita Trading Store 2ps. (EA) Limited has lodged this appeal challenging the decision of the Tax Revenue Appeals Tribunal (the Tribunal) which dismissed its appeal against the decision of the Tax Revenue Appeals Board (the Board) in favour of the respondent, the Commissioner General Tanzania Revenue Authority (the TRA). Most of the facts forming the background of the appeal as obtained from the 3ps. record are, fortunately, not in dispute. They go thus: The appellant is a registered company having its place of business in Mara Region. 2ps. 1ps. The appellant, Singita Trading Store (EA) Limited has lodged this appeal challenging the decision of the Tax Revenue Appeals Tribunal (the Tribunal) which dismissed its appeal against the decision of the Tax Revenue Appeals Board (the Board) in favour of the respondent, the Commissioner General Tanzania Revenue Authority (the TRA). Most of the facts forming the background of 2ps. the appeal as obtained from the record are, fortunately, not in dispute. They go thus: The appellant is a registered company having its place of business in Mara Region.
+    questions_and_answers:
+      - question: |
+          What is the case title and which court is handling it?
+        answer: |
+          The case is titled 'CIVIL APPEAL NO. 57 OF 2020', and it is being handled by the Court of Appeal of Tanzania at Dar es Salaam.
+      - question: |
+          Who are the parties involved in the appeal?
+        answer: |
+          The appellant is Singita Trading Store (EA) Limited, and the respondent is the Commissioner General of the Tanzania Revenue Authority (TRA).
+      - question: |
+          What decision is Singita Trading Store (EA) Limited appealing against?
+        answer: |
+          Singita Trading Store (EA) Limited is appealing against the decision of the Tax Revenue Appeals Tribunal, which had dismissed its appeal in favor of the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          From which region does the appellant company conduct its business?
+        answer: |
+          The appellant, Singita Trading Store (EA) Limited, conducts its business in the Mara Region.
+      - question: |
+          What is the background judgment being challenged in this case?
+        answer: |
+          The judgment being challenged is the one issued by the Tax Revenue Appeals Tribunal on November 1, 2019, in Tax Appeal No. 16 of 2018.
+  - context: |
+      1ps. 1ps. Secondly, a question on the application by the Tribunal of a provision of the Constitution, a statute, subsidiary legislation or any legal doctrine to the evidence on record. Finally, a question on a conclusion arrived at by the Tribunal where there is failure to evaluate the evidence or if there no evidence to support it or that it is so perverse or so illegal that no reasonable tribunal would arrive at it ." The appellant's 2ps. complaint in respect of the first ground of appeal relates to the Tribunal's decision upholding the decision of the Board that the respondent used correct currency in computing withholding tax liability due to the appellant. It is on record that, the appellant submitted before the Board invoices which did not specify the type of currency used to pay the service providers. Therefore, to ascertain the type of currency used by the parties, the Board and the Tribunal 3ps. resorted to paragraph 4 of the management agreement (exhibit R2) between the parties where it is clearly indicated that payment between the parties should be in the US$. 2ps. 1ps. The appellant's complaint in respect of the first ground of appeal relates to the Tribunal's decision upholding the decision of the Board that the respondent used correct currency in computing withholding tax liability due to the appellant. It is on record that, the appellant submitted before the Board invoices which did not specify the type of currency used to pay the service providers. In addition, the Board and the Tribunal 2ps. scrutinized Exhibits Al, A2, R3 and R4 to arrive at their decisions.
+    questions_and_answers:
+      - question: |
+          What was the appellant's first ground of complaint in the context of the appeal?
+        answer: |
+          The appellant's first complaint was related to the Tribunal's decision upholding the Board's finding that the respondent used the correct currency in computing the withholding tax liability due to the appellant.
+      - question: |
+          How did the Board and the Tribunal determine the type of currency used for payments between the parties?
+        answer: |
+          The Board and the Tribunal relied on paragraph 4 of the management agreement (exhibit R2), which specified that payments between the parties should be made in US dollars.
+      - question: |
+          What evidence was submitted by the appellant that complicated the determination of the currency used?
+        answer: |
+          The appellant submitted invoices before the Board that did not specify the type of currency used to pay the service providers.
+      - question: |
+          What exhibits were reviewed by the Board and the Tribunal to support their decisions?
+        answer: |
+          The Board and the Tribunal scrutinized Exhibits Al, A2, R3, and R4 in making their decisions.
+      - question: |
+          Under what circumstances can a Tribunal's conclusion be challenged according to the context?
+        answer: |
+          A Tribunal's conclusion can be challenged if there is a failure to evaluate the evidence, no evidence to support the conclusion, or if the decision is so perverse or illegal that no reasonable tribunal would arrive at it.
+  - context: |
+      1ps. 1ps. Mr. Maswanyia also referred us to the notes to the appellant's financial statements (exhibit R3) found at page 143 of the record, where the accounting system of the appellant is in US$. He then argued that, tht; Board and the Tribunal considered exhibits Al, A2, R2 and R3 and wore satisfied that the appellants payments of the management fees to its counterparts was in US$. He contended that, since the 2ps. said issue was properly considered and determined by the Board and the Tribunal this Court has no jurisdiction to reconsider the same on the strength of section 25 (2) of the Tax Revenue Appeals Act, [Cap 408 R.E. 2019] (the TRAA). He emphasized that, since under that section the appellant is only required to appeal on matters of law, she cannot be heard at this stage on a factual finding by the Board 3ps. and the Tribunal. He distinguished the case of Deemay Daati and 2 Others (supra) relied upon by Mr. Kileo by arguing that the facts in that criminal case are not applicable to the current tax appeal. 2ps. 1ps. He contended that, since the said issue was properly considered and determined by the Board and the Tribunal this Court has no jurisdiction to reconsider the same on the strength of section 25 (2) of the Tax Revenue Appeals Act, [Cap 408 R.E. 2019] (the TRAA). He emphasized that, since under that section the appellant is only required to appeal on matters of law, she cannot be heard at this stage on 2ps. a factual finding by the Board and the Tribunal. Based on his submissions, Mr. Maswanyia urged us to dismiss the appeal with costs.
+    questions_and_answers:
+      - question: |
+          On what basis did Mr. Maswanyia argue that the court lacked jurisdiction to reconsider the issue raised by the appellant?
+        answer: |
+          Mr. Maswanyia argued that the court lacked jurisdiction to reconsider the issue because section 25 (2) of the Tax Revenue Appeals Act [Cap 408 R.E. 2019] limits appeals to matters of law and bars revisiting a factual finding already determined by the Board and the Tribunal.
+      - question: |
+          What was the currency used in the appellant’s accounting system according to exhibit R3?
+        answer: |
+          The appellant's accounting system was in US$, as reflected in the notes to the financial statements found in exhibit R3.
+      - question: |
+          Why did Mr. Maswanyia state that the case of Deemay Daati and 2 Others was not applicable to the current tax appeal?
+        answer: |
+          Mr. Maswanyia distinguished the case of Deemay Daati and 2 Others, arguing that it was a criminal case with different facts and therefore not relevant to the current tax appeal.
+      - question: |
+          What exhibits were considered by the Board and the Tribunal in the case?
+        answer: |
+          The Board and the Tribunal considered exhibits A1, A2, R2, and R3 in making their decision.
+      - question: |
+          What remedy did Mr. Maswanyia seek from the court regarding this appeal?
+        answer: |
+          Mr. Maswanyia urged the court to dismiss the appeal with costs.
+  - context: |
+      1ps. 1ps. The respondent's response to that ground as per the written submissions found at pages 92 - 93 of the record of appeal goes thus: - " The appellant's management invoices values were in unspecified currency. To attest to this position, we attach the copies of the respective invoices to this submission and pray that the said invoices be collectively admitted as exhibit in this Appeal. These other documents 2ps. included the management agreement entered into between the appellant and Singita Trading Stores (Pty) Ltd of South Africa and financial statements (Accounts) submitted by the appellant for tax purposes for years of income 2010, 2011 and2012." The Board considered the above submissions and concluded at page 166 of the record of appeal that: - " We are convinced that there is evidence that suffices to 3ps. prove that the appellant was paying management fees billed by Ms. Singita Trading Stores (Pty) Ltd of South Africa in US Dollars, exhibit R3 proves this fact. Equally, exhibit R2 is dear that it had been agreed that management fees would be payable in US Dollars. 2ps. 1ps. These other documents included the management agreement entered into between the appellant and Singita Trading Stores (Pty) Ltd of South Africa and financial statements (Accounts) submitted by the appellant for tax purposes for years of income 2010, 2011 and2012." Equally, exhibit R2 is dear that it had been agreed that management fees would be payable in US Dollars. The appellant's advocate contention that the 2ps. respondent's offices had admitted usage of wrong currency cannot outweigh dear terms of an agreement signed by the appellant leave alone the appellant's own notes of financial statements.
+    questions_and_answers:
+      - question: |
+          What evidence did the appellant provide to support their claim about the unspecified currency of management invoices?
+        answer: |
+          The appellant attached copies of the respective invoices and requested that these be collectively admitted as exhibits in the appeal.
+      - question: |
+          What additional documents were submitted by the appellant in support of their case?
+        answer: |
+          The appellant submitted the management agreement with Singita Trading Stores (Pty) Ltd of South Africa and financial statements for the years 2010, 2011, and 2012.
+      - question: |
+          What conclusion did the Board reach about the currency used for management fee payments?
+        answer: |
+          The Board concluded that there was sufficient evidence showing that the appellant was paying management fees to Singita Trading Stores (Pty) Ltd in US Dollars, as evidenced by exhibits R3 and R2.
+      - question: |
+          What did exhibit R2 reveal regarding the payment terms for management fees?
+        answer: |
+          Exhibit R2 revealed that it had been agreed that management fees would be payable in US Dollars.
+      - question: |
+          Why did the Board reject the appellant's claim about the respondent's use of the wrong currency?
+        answer: |
+          The Board rejected the claim because the terms of the signed agreement and the appellant's own financial statement notes made it clear that the payment was to be in US Dollars.
+  - context: |
+      1ps. 1ps. This kind of practice is nothing less than introducing a fresh litigation between the parties which cannot be permitted at this stage. Accordingly, we are constrained to decline to consider the oral submissions made by Mr. Kileo before us. If this were permitted, Utigation would have no end except when iegai ingenuity is exhausted. " [Emphasis added]. [See also the cases of Georgio Anagnostou and Another 2ps. v. Emmanuel Marangakis and Another, Civil Application No. 464/01 of 2018 and Chacha Jeremiah Murimi &amp; 3 Others v. Republic, Criminal Application No. 69/08 of 2019]. We need not overemphasize the principle that litigants shouid not be allowed to change their goal posts when new views are discovered in the course of litigation. We may go further and add that permitting the appellant's counsel ingenuity to prevail over the relevant law 3ps. including the rules regulating the procedure before this Court does not accord with the smooth conduct of litigation depriving the other party from pursuing his case free from surprises. 2ps. 1ps. [See also the cases of Georgio Anagnostou and Another v. Emmanuel Marangakis and Another, Civil Application No. 464/01 of 2018 and Chacha Jeremiah Murimi &amp; 3 Others v. Republic, Criminal Application No. 69/08 of 2019]. We need not overemphasize the principle that litigants shouid not be allowed to change their goal posts when new views are discovered in the course of litigation. With the above, 2ps. we will now turn our attention to the first ground of appeal indicated above. Back to the first ground of appeal, we think Mr. Maswanyia is correct in submitting that tax appeals to this Court are only on matters of law and not facts. This is in accordance with section 25 (2) of the TRM which state that: - ' !
+    questions_and_answers:
+      - question: |
+          Why did the court decline to consider the oral submissions made by Mr. Kileo?
+        answer: |
+          The court declined to consider the oral submissions because they amounted to introducing a fresh litigation between the parties, which is impermissible at that stage.
+      - question: |
+          What principle did the court emphasize regarding changes in litigation views?
+        answer: |
+          The court emphasized that litigants should not be allowed to change their goal posts when new views are discovered during litigation, as it disrupts the smooth conduct of the case and creates unfair surprises for the opposing party.
+      - question: |
+          What risks does the court associate with permitting legal ingenuity to prevail over procedural rules?
+        answer: |
+          The court noted that permitting legal ingenuity to override relevant laws and procedures hinders the smooth conduct of litigation and deprives the opposing party of pursuing their case fairly and without unexpected changes.
+      - question: |
+          What type of issues can be appealed to the court in tax cases, according to Mr. Maswanyia?
+        answer: |
+          According to Mr. Maswanyia, tax appeals to the court can only involve matters of law, not matters of fact, as stipulated by section 25(2) of the TRM.
+      - question: |
+          What cases were cited by the court to support its position on litigation conduct?
+        answer: |
+          The court cited 'Georgio Anagnostou and Another v. Emmanuel Marangakis and Another, Civil Application No. 464/01 of 2018' and 'Chacha Jeremiah Murimi & 3 Others v. Republic, Criminal Application No. 69/08 of 2019' to support its position on proper litigation conduct.
+document_outline: |
+  **Document Outline:**
+  
+  The document is a legal judgment from the Court of Appeal of Tanzania regarding Civil Appeal No. 57 of 2020, where Singita Trading Store (EA) Limited challenges a decision by the Tax Revenue Appeals Tribunal in favor of the Commissioner General of the Tanzania Revenue Authority. The case revolves around disputed withholding tax demands for services rendered between 2010 and 2012, with the appellant contending legal inaccuracies, lack of due process, and arithmetical errors in the tax assessments.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Civil_Appeal_No_57_of_2020_Singita_Trading_Store_EA_Limited_vs_Commissioner_General_TRA.md

@@ -1,0 +1,109 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. In rejoinder, Learned Counsel for the respondent argued that the prayers sought in the chamber summons cannot be the same. That since there is mandatory provisions of the law which requires the contents of a document to be adhered and a party cannot ignore it thus the affidavit is defective. The respondent reiterated his submission in chief on the preliminary objection. On the cited 2ps. case of Mukisa Biscuits Manufacturing Co. Ltd Vs West End Distributors Ltd (1969) E.A,C,A 696, Learned Counsel submitted that the applicant wrongly interpreted the holding of the case law since the same is on what amounts to a preliminary objection to be a point of law which is properly raised by the respondent on the defects of the applicant's supporting 3ps. affidavit which is contrary to Rule 24(3) of the Labour Court Rules 2007, Government Notice No. 106 of 2007, the applicant has failed to comply with. Learned Counsel for the respondent therefore prayed for the preliminary objection to be sustained and the application be dismissed with costs. 2ps. 1ps. The respondent reiterated his submission in chief on the preliminary objection. Learned Counsel for the respondent therefore prayed for the preliminary objection to be sustained and the application be dismissed with costs. Having gone through written submissions by both parties and Court records at hand, the key issue for determination in the raised preliminary objection is whether or not the applicant's affidavit has comply with the requirements of Rule 2ps. 24(3)(c) and (d) of the Labour Court Rules, Government Notice 106 of 2007. Rule 24(3) provides that:- 24(3).
+    questions_and_answers:
+      - question: |
+          What was the key issue for determination in the raised preliminary objection?
+        answer: |
+          The key issue was whether the applicant's affidavit complied with the requirements of Rule 24(3)(c) and (d) of the Labour Court Rules, Government Notice 106 of 2007.
+      - question: |
+          What was the respondent's argument regarding the affidavit's compliance?
+        answer: |
+          The respondent argued that the affidavit was defective and failed to comply with the mandatory provisions of Rule 24(3) of the Labour Court Rules, 2007.
+      - question: |
+          Which case law did the applicant reference, and how did the respondent critique its interpretation?
+        answer: |
+          The applicant referenced the Mukisa Biscuits Manufacturing Co. Ltd Vs West End Distributors Ltd (1969) case. The respondent contended that the applicant wrongly interpreted the holding, which pertains to what constitutes a preliminary objection, a point of law properly raised by the respondent in this case.
+      - question: |
+          What did Learned Counsel for the respondent pray for in this matter?
+        answer: |
+          The counsel prayed for the preliminary objection to be sustained and the application to be dismissed with costs.
+      - question: |
+          What is the significance of Rule 24(3) in this legal context?
+        answer: |
+          Rule 24(3) specifies the mandatory requirements for the contents of a supporting affidavit, which the applicant was accused of failing to adhere to, making the affidavit defective.
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## LABOUR DIVISION AT DAR ES SALAAM REVISION NO. 422 OF 2016 MBONIPA KASASE.......................... APPLICANT VERSUS TANZANIA REVENUE AUTHORITY........... .......... ...RESPONDENT ## RULING Date of Last Order: 22/03/2018 Date of Ruling: 06/04/2018 ## L.L.Mashaka, 3 This is a ruling in respect of preliminary objection filed by the respondent Tanzania Revenue Authority on the 21s t November 2017 that the application for revision filed by the applicant Mbonipa Kasase contravenes Rule 24 (3) (c) and (d) of the Labour Court Rules, GN No. 106 of 2007. The 2ps. hearing of the preliminary objection was by way of written submissions and it is noted that the respondent's submission was drawn and filed by Mr. Raphael Rwezaura, Advocate from Apex Attorneys Advocates who represented the respondent and those by the applicant drawn and filed in person. 2ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## LABOUR DIVISION AT DAR ES SALAAM REVISION NO. 422 OF 2016 MBONIPA KASASE.......................... The point of the preliminary objection is that the affidavit in support of the application deponed by the applicant himself does not disclose legal issues that arise from the material facts and reliefs sought as per Rule 24(3)(c) and (d) of the Labour Court Rules, GN 106 of 2007. That 2ps. the affidavit in support of the application does not meet the requirements of the law above whereas the requirements must be complied with by the applicant but the same has not been adhered to hence the same is incurably defective. That the said provision of Rule 24 (3) amongst others requires the affidavit in support of the application 3ps.
+    questions_and_answers:
+      - question: |
+          What legal rule did the respondent claim the applicant violated in the application for revision?
+        answer: |
+          The respondent claimed the applicant violated Rule 24(3)(c) and (d) of the Labour Court Rules, GN No. 106 of 2007.
+      - question: |
+          Who represented the respondent in the case, and which law firm prepared their submissions?
+        answer: |
+          The respondent, Tanzania Revenue Authority, was represented by Mr. Raphael Rwezaura, an advocate from Apex Attorneys Advocates.
+      - question: |
+          What was the method used for the hearing of the preliminary objection?
+        answer: |
+          The preliminary objection hearing was conducted by way of written submissions.
+      - question: |
+          What specific issue did the respondent raise about the applicant's affidavit?
+        answer: |
+          The respondent argued that the applicant's affidavit did not disclose legal issues arising from the material facts and reliefs sought, as required by Rule 24(3)(c) and (d) of the Labour Court Rules.
+      - question: |
+          On what basis did the respondent claim the applicant's affidavit was defective?
+        answer: |
+          The respondent claimed the applicant's affidavit did not comply with the requirements of Rule 24(3) of the Labour Court Rules and was therefore incurably defective.
+  - context: |
+      1ps. 1ps.   The  Attorney  General, Civil  Revision No.  10 of 2010,Court of Appeal of
+         Tanzania at Dar Es salaam,  [unreported]
+      
+      at  pages  7  and  8,  His 
+         Lordship  Rutakangwa,JA  [as  he  then  was],  in  that case  the Court  of 
+         Appeal expounded  in  depth  what  is  a preliminary objection.  It ought to
+         be struck out. 
+      
+      For  the  interest  of  justice, I grant  the  applicant 
+         leave  to  file
+      
+      2ps.  a competent application for revision within  14 days from today. 
+      
+      This 
+         application  for  revision  is  accordingly  struck  out  with  no  orders as
+         to costs. 
+      
+      So ordered
+      
+      <!-- image -->
+      
+      JUDGE
+      
+      06/04/2018
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the subject of the Court of Appeal of Tanzania case mentioned in the context?
+        answer: |
+          The case involved an explanation of what constitutes a preliminary objection, as expounded by His Lordship Rutakangwa, JA, at pages 7 and 8 of the case document.
+      - question: |
+          What action did the court take regarding the current application for revision?
+        answer: |
+          The court struck out the application for revision with no orders as to costs.
+      - question: |
+          What directive did the judge provide to the applicant after striking out the application?
+        answer: |
+          The judge granted the applicant leave to file a competent application for revision within 14 days from the date of the ruling.
+      - question: |
+          Who issued the ruling in the case described in the context?
+        answer: |
+          The ruling was issued by a judge, as noted at the end of the document, on 06/04/2018.
+      - question: |
+          Was there any order regarding costs in this ruling?
+        answer: |
+          No, the application was struck out with no orders as to costs.
+document_outline: |
+  ### Document Outline: High Court of Tanzania Labour Division Ruling  
+  
+  This document details a ruling from the High Court of Tanzania, Labour Division, regarding a preliminary objection raised by the Tanzania Revenue Authority (Respondent) against an application for revision filed by Mbonipa Kasase (Applicant). The objection focuses on alleged procedural defects in the applicant's affidavit under Rule 24(3)(c) and (d) of the Labour Court Rules, GN No. 106 of 2007, arguing it lacks mandatory legal details, while the applicant disputes these claims and advocates for the dismissal of the objection.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Mbonipa_Kasase_vs_Tanzania_Revenue_Authority_(Revision_No_422_of_2016)_2018_TZHCLD_35_(6_April_2018).md

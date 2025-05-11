@@ -1,0 +1,57 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## TANZANIA REVENUE AUTHORITY ISO 9001 : 2015 Certified ## MONTHLY INCOME TAX TABLES 2023 / 2024 <!-- image --> ## Vision 'A Trusted Revenue Administration for Socio-Economic Development' ## Mission 'We Make It Easy to Pay Tax and Enhance Compliance for Sustainable Development' ## Themes *Operational Excellence** Taxpayers' Engagement** Automation** Innovation* ## Core Values PROFFESSIONALISM, INTERGRITY, TRUSTWORTHY AND ACCOUNTABILITY <!-- image --> ISO 9001 : 2015 Certified ## RESIDENT INDIVUALS INCOME TAX RATES WITH EFFECT FROM 1ST JULY, 2023 | Monthly Income 2ps. | Tax Rate 3ps. | |--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------| | Where the total income does not exceed Tshs. 270,000/= | NIL 4ps. | | Where the total income exceeds Tshs. 270,000/= but does not exceed Tshs. 520,000/= | 8% of the amount in excess of Tshs. 270,000/= | | Where the total income exceeds Tshs. 520,000/= but does not exceed Tshs. 760,000/= 5ps. | Tshs. 20,000/= plus 20% of the amount in excess of Tshs. 520,000/= | | Where the total income exceeds Tshs. 760,000/= but does not exceed Tshs. 1,000,000/= | Tshs. 2ps. 1ps. 520,000/= | | Where the total income exceeds Tshs. 760,000/= but does not exceed Tshs. 1,000,000/= | Tshs. 68,000/= plus 25% of the amount in excess of Tshs. 760,000/= | | Where the total income exceeds Tshs. 1,000,000/= | Tshs. 128,000/= 2ps. plus 30% of the amount in excess of Tshs. 1,000,000/= | | Note: Threshold per annum: Annual Income of Tshs 3,240,000/= is not taxable | Note: Threshold per annum: Annual Income of Tshs 3,240,000/= is not taxable | ## Worked example: Income of Tshs. 520,000/= Tax is (520,000-270,000) x 8%=Tshs. 20,000/= Income of Tshs. 760,000/= Tax is 20,000 + (760,000-520,000) x 20%=Tshs. 68,000/= Income of Tshs. 1,000,000/= Tax is 68,000 + (1,000,000-760,000) x 25%=Tshs.
+    questions_and_answers:
+      - question: |
+          What is the vision of the Tanzania Revenue Authority?
+        answer: |
+          The vision of the Tanzania Revenue Authority is 'A Trusted Revenue Administration for Socio-Economic Development'.
+      - question: |
+          What are the core values of the Tanzania Revenue Authority?
+        answer: |
+          The core values are Professionalism, Integrity, Trustworthiness, and Accountability.
+      - question: |
+          What is the income tax rate for a monthly income that exceeds Tshs. 270,000 but does not exceed Tshs. 520,000?
+        answer: |
+          The income tax rate is 8% of the amount exceeding Tshs. 270,000.
+      - question: |
+          What is the annual income threshold for non-taxable income according to the 2023/2024 tax tables?
+        answer: |
+          The annual income threshold for non-taxable income is Tshs. 3,240,000.
+      - question: |
+          How is income tax calculated for a monthly income of Tshs. 760,000?
+        answer: |
+          For a monthly income of Tshs. 760,000, the tax is calculated as Tshs. 20,000 plus (760,000 - 520,000) x 20%, which equals Tshs. 68,000.
+  - context: |
+      1ps. 1ps. | |-----------------------|-----------------------------------|----------------------------------| | Not exceeding 1000 cc | 250,000/- | 125,000/- | | 1000 - 2000 cc | 500,000/- | 250,000/- 2ps. | | 2000 - 3000 cc | 1,000,000/- | 500,000/- | | Above 3000 cc | 1,500,000/- 3ps. | 750,000/- | Note: Benefit is not chargeable where the employer does not claim deduction in respect of the ownership, maintenance, or operation of the vehicle. - c. Other Benefits : Market value will apply for quantification of other benefits in kind. ## · Monthly SDL and PAYE return An employer is obliged to submit the SDL and PAYE monthly 4ps. return to TRA glyph&lt;c=3,font=/OJWQWF+ArialMT&gt; showing number of employees and levy paid within seven days after the glyph&lt;c=3,font=/OJWQWF+ArialMT&gt; month of salary deduction. ## · Skills Development Levy (SDL) Rate is glyph&lt;c=22,font=/OJWQWF+ArialMT&gt;glyph&lt;c=17,font=/OJWQWF+ArialMT&gt;glyph&lt;c=24,font=/OJWQWF+ArialMT&gt; % of the monthly gross emolument for Tanzania Mainland. ## · Monthly PAYE return An employer is obliged to submit the PAYE return to TRA showing employment taxes withheld respectively within seven days after the month of salary pay. 2ps. 1ps. ## · Monthly SDL and PAYE return An employer is obliged to submit the SDL and PAYE monthly return to TRA glyph&lt;c=3,font=/OJWQWF+ArialMT&gt; showing number of employees and levy paid within seven days after the glyph&lt;c=3,font=/OJWQWF+ArialMT&gt; month of salary deduction. ## · Skills Development Levy (SDL) Rate is glyph&lt;c=22,font=/OJWQWF+ArialMT&gt;glyph&lt;c=17,font=/OJWQWF+ArialMT&gt;glyph&lt;c=24,font=/OJWQWF+ArialMT&gt; % of the monthly gross emolument for Tanzania Mainland. ## · Monthly PAYE return An employer is obliged to submit the PAYE return to TRA showing employment taxes withheld respectively within seven days after the month of salary pay. glyph&lt;c=3,font=/OJWQWF+ArialMT&gt; ## Exempted employers 2ps.
+    questions_and_answers:
+      - question: |
+          What is the specified benefit value for a vehicle with an engine capacity of 2000-3000 cc?
+        answer: |
+          The specified benefit value for a vehicle with an engine capacity of 2000-3000 cc is 1,000,000/- for full benefits and 500,000/- for half benefits.
+      - question: |
+          In what scenario is the vehicle benefit not chargeable to the employer?
+        answer: |
+          The vehicle benefit is not chargeable if the employer does not claim a deduction for the ownership, maintenance, or operation of the vehicle.
+      - question: |
+          What is the obligation of an employer regarding the submission of SDL and PAYE monthly returns?
+        answer: |
+          Employers are required to submit SDL and PAYE monthly returns to the Tanzania Revenue Authority (TRA) within seven days after the end of the month of salary deduction, indicating the number of employees and the levy paid.
+      - question: |
+          What percentage is the Skills Development Levy (SDL) based on for Tanzania Mainland?
+        answer: |
+          The Skills Development Levy (SDL) rate is a specified percentage of the monthly gross emolument for Tanzania Mainland, although the exact percentage is not legible in the provided context.
+      - question: |
+          What is the deadline for submitting PAYE returns to TRA after salary payment?
+        answer: |
+          PAYE returns must be submitted to the Tanzania Revenue Authority (TRA) within seven days after the month of salary payment, detailing employment taxes withheld.
+document_outline: |
+  The document provides details on the Tanzania Revenue Authority's monthly income tax tables for the fiscal year 2023/2024, including tax rates for resident individuals, tax exemptions, and taxable benefits such as housing and motor vehicles. It also outlines the organization’s vision, mission, core values, and operational themes focused on professionalism, integrity, and innovation.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - TRA_Monthly_Income_Tax_2023_24.md

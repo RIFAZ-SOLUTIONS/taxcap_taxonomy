@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## EAST AFRICAN COMMUNITY C.2 CUSTOMS Regulations 11 (1), 12 (2), 20 (1), 88 and 110 ## CARGO MANIFEST ## *REPORT INWARD / OUTWARD OF VESSEL/ AIRCRAFT / VEHICLE Rotation No……………………………………... Port of landing/departure/loading…………………………… Country …………….. Date of landing/departure ……………………... Nationality and Port of Registration/ …………………………………..………. Name/ Registration of Vessel/ Aircraft/Vehicle…………………………Port of destination ……………………… Country …………….. Net registered tonnage………………………… Number of crew …………………………….. Name of master………………………………… Agent's Name……………………………………………………………………PIN / TIN…………………………………………………. I declare that the particulars in the inwards Report are true to the best 2ps. of my knowledge and belief, that the inward manifest consists of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pages and that I have not broken bulk or delivered any goods out of the vessel since departure from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of Arrival …………… Master or Agent ……………. I declare that the outward manifest consisting of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pages contains a true account of all goods shipped and that the particulars of the vessel/aircraft/vehicle and the cargo are correct to the best of my knowledge and belief. …………………………… Date of 3ps. departure ………………… Master or Agent C.2 ## EAST AFRICAN COMMUNITY CUSTOMS ……………………………………….. 2ps. 1ps. I declare that the particulars in the inwards Report are true to the best of my knowledge and belief, that the inward manifest consists of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ pages and that I have not broken bulk or delivered any goods out of the vessel since departure from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date of Arrival …………… Master or Agent ……………. …………………………… Date of departure ………………… Master or Agent C.2 ## EAST AFRICAN COMMUNITY CUSTOMS ……………………………………….. Signed and declared 2ps. this …… day of …. ..…20... in my presence Proper Officer ## CARGO MANIFEST ## N.B: - 1. Indicate Total No. of Bills of Lading/ Airway Bills/ Freight Note …………. - 2. All pages of the cargo manifest must be numbered. Page ……….of………………… C.
+    questions_and_answers:
+      - question: |
+          What information is required about the vessel, aircraft, or vehicle in the report of inward or outward movement?
+        answer: |
+          The report requires the rotation number, port of landing/departure/loading, nationality and port of registration, name/registration of the vessel/aircraft/vehicle, port of destination, net registered tonnage, number of crew, name of the master, and agent's name along with their PIN/TIN.
+      - question: |
+          What declarations must the master or agent make regarding the cargo manifesto?
+        answer: |
+          The master or agent must declare that the inward and outward cargo manifests are true to the best of their knowledge and belief, indicate the total number of pages, and confirm that no goods were broken in bulk or delivered since departure.
+      - question: |
+          What key dates must be documented in the customs report?
+        answer: |
+          The dates of arrival and departure of the vessel, aircraft, or vehicle must be documented in the customs report.
+      - question: |
+          What are the requirements for the cargo manifest according to the document?
+        answer: |
+          The cargo manifest must include all pages properly numbered and indicate the total number of Bills of Lading, Airway Bills, or Freight Notes.
+      - question: |
+          Who must witness the signing and declaration of the customs report, and how is it formalized?
+        answer: |
+          The customs report must be signed and declared in the presence of a Proper Officer, with the date of declaration specifically indicated.
+document_outline: |
+  **Document Outline:**  
+  This document outlines the customs and cargo manifest regulations under the East African Community framework, detailing procedures for inward and outward reporting of vessels, aircraft, and vehicles. It includes sections for recording particulars such as vessel registration, cargo specifics, crew details, and required declarations by the master or agent, along with instructions for proper reporting and manifest organization.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c2-cargo-manifest.md

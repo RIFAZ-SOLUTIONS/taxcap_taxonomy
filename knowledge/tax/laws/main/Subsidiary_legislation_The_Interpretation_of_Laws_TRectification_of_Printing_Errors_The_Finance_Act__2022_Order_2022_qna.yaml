@@ -1,0 +1,85 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Supplement No. 26
+      
+      July, 2022 qh
+      
+      ## SPECIAL SUPPLEMENT
+      
+      Printed by the
+         Government Printer, Dodoma by Order of Government
+      
+      GOVERNMENT NOTICE No.
+         478(1)  published on 4/7/2022
+      
+      THE INTERPRETATION OF LAWS ACT, (CAP: 1)
+      
+      ##
+         ORDER
+      
+      (Made under section 26(3))
+      
+      THE INTERPRETATION OF LAWS (THE
+         RECTIFICATION OF PRINTING ERRORS) (THE FINANCE ACT, 2022) ORDER,
+         2022
+      
+      Citation Act No. 5 of 2022
+      
+      - 1 .  This Order may be cited as the
+         Interpretation of Laws (The Rectification of Printing Errors) (The Finance
+         2022) Order, 2022 and shall be deemed to have come into effect of the ]st of
+         July, 2022. Act, day
+      
+      Rectification of printing errors
+      
+      Dodoma,
+      
+      - 2 The
+         printing errors in
+      
+      2ps. section 36 of the Finance Act; 2022 are rectified in the Table appearing in
+         paragraph (a), by-
+      - (b) by deleting the 700.00" wherever appear in the sixth
+         column and substituting for them the words &lt;Tshs 1000.00".  they
+      - (a)
+         deleting the words  Tshs 500.00" wherever appear   in the sixth column   and
+         substituting  for them the word &lt;Nil?; and they
+      
+      ONORIUS J .  NJOLE Chief
+         Parliamentary Draftsman
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the title of the order mentioned in the document?
+        answer: |
+          The order is titled 'The Interpretation of Laws (The Rectification of Printing Errors) (The Finance Act, 2022) Order, 2022'.
+      - question: |
+          When did the order come into effect?
+        answer: |
+          The order came into effect on July 1, 2022.
+      - question: |
+          What specific section of the Finance Act, 2022 is addressed for rectification in the order?
+        answer: |
+          The order addresses section 36 of the Finance Act, 2022 for rectification.
+      - question: |
+          What changes were made regarding the amount 'Tshs 500.00' in the sixth column?
+        answer: |
+          The words 'Tshs 500.00' were deleted and substituted with 'Nil'.
+      - question: |
+          What correction was made to the value '700.00' in the sixth column?
+        answer: |
+          The value '700.00' was deleted and substituted with 'Tshs 1000.00'.
+document_outline: |
+  **Document Outline:**  
+  This document, titled "Supplement No. 26" and published as Government Notice No. 478(1) on July 4, 2022, under the Interpretation of Laws Act (CAP: 1), announces an order for the rectification of printing errors in the Finance Act, 2022. The order, effective July 1, 2022, specifies corrections to monetary values listed in section 36 of the Finance Act, replacing incorrect amounts with the appropriate values of "Nil" and "Tshs 1000.00" as required.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Subsidiary_legislation_The_Interpretation_of_Laws_TRectification_of_Printing_Errors_The_Finance_Act__2022_Order_2022.md

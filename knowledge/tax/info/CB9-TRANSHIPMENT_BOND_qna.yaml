@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Form CB9 ## EAST AFRICAN COMMUNITY CUSTOMS ## TRANSHIPMENT BOND. I /We ……………………………………………………………………………………………….…….. of…………………………………………………………………………………………..……………… and……………………………………………………………………………….………………………. of…………………………………………………………………………………………………………. hereby acknowledge that I am/ we are 2ps. bound to the Commissioner in the sum of dollars to be paid to the Commissioner for which payment I / we executors, ………………………………….. bind myself / ourselves jointly and severally and also to my / our heirs, administrators and assigns and every of them firmly by these presents. Dated this………day of…………………20….. I/We the above named have given notice of intention to tranship from the …………………………………to the ………………………………for the exportation of the following goods-……….…………………………………………..……………………………………. ……………………………………….……………………………..…………………………………….. I/We understand that the conditions of this obligation are as follows- (i) The goods 3ps. and every part thereof shall be duly transhipped from ……………………………(vessel/aircraft/vehicle) to the ……………………………… (vessel/aircraft/vehicle) and shall be exported to, and shall be landed at……………………………within ………………………(days) from the date thereof. 2ps. 1ps. hereby acknowledge that I am/ we are bound to the Commissioner in the sum of dollars to be paid to the Commissioner for which payment I / we executors, ………………………………….. bind myself / ourselves jointly and severally and also to my / our heirs, administrators and assigns and every of them firmly by these presents. Dated this………day of…………………20….. I/We the above named have given notice of intention to tranship from the …………………………………to the ………………………………for the exportation of the following goods-……….…………………………………………..……………………………………. (ii) No alteration 2ps. or diminution in quantity or quality (except such as may be accounted for to the satisfactorily of the Commissioner) shall take place in the goods or in the packages in which they have been delivered, from the time of the delivery thereof………………………………..under this obligation, until the landing thereof at that place.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the East African Community Customs Transhipment Bond form?
+        answer: |
+          The form is used to formalize a binding agreement between the transhipper and the Commissioner, ensuring that goods are transhipped and exported correctly under specified conditions.
+      - question: |
+          Who is held responsible for fulfilling the obligations outlined in the transhipment bond?
+        answer: |
+          The transhipper, along with their executors, heirs, administrators, and assigns, is held jointly and severally responsible for fulfilling the obligations and paying the specified bond sum if necessary.
+      - question: |
+          What conditions must be fulfilled regarding the transhipped goods under this bond?
+        answer: |
+          The goods must be transhipped between specified vessels, aircraft, or vehicles and exported to a designated location within a certain number of days, with no unauthorized alterations to their quantity or quality.
+      - question: |
+          What happens if the goods are altered or diminished in quantity or quality during transhipment?
+        answer: |
+          Alterations or diminutions are not permitted unless satisfactorily explained to the Commissioner. Such changes must be accounted for to ensure compliance with the bond's terms.
+      - question: |
+          What information about the goods and transportation must be included in the form?
+        answer: |
+          Details of the goods to be transhipped, the originating and receiving vessels, aircraft, or vehicles, and the export destination must be provided in the form.
+document_outline: |
+  ### Document Outline  
+  This document is a Transhipment Bond form (Form CB9) used within the East African Community Customs framework. It outlines the legal obligations and conditions for individuals or entities involved in the transshipment of goods, ensuring proper delivery, exportation, and landing at the specified destination, under penalty of a financial bond.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CB9-TRANSHIPMENT_BOND.md

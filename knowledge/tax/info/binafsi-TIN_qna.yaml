@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. iii. iv. Title: Mr/ Bwana Mrs/ Bibi Ms/ Bi First Name/ Jina la Kwanza Middle Name/ Jina la Pili 2ps. Surname/ Jina la Ukoo Signature of the Applicant/ Saini ya Mwombaji…………………………………… Date/Tarehe (DD/MM/YYYY) \_\_\_\_\_\_/\_\_\_\_\_\_/\_\_\_\_\_\_\_\_\_\_ ## For official use only/ Kwamatumiziya Ofisi tu Type of Tax Activity Code Type of Taxes Tick the appropriate box Tax Start Date DD/MM/YYYY 1 PIT 2 VAT 3 PAYE 4 CUSTOMS 5 MOTOR VEHICLE 6 EXCISE DUTY Business Activity Code * Required attachment tick appropriate/Viaombatisho muhimu, chagua kinachohusika a. National ID/Kitambulisho cha Utaifa b. Letter from Local Government Authority/Barua kutoka Serikali za Mitaa c. Voters' Card/Kadi ya kupiga kura d. Passport / Hati ya kusafiria e. 3ps. Birth Certificates/ Cheti cha kuzaliwa ## TRA Officer Employee No. Title: Mr Mrs Ms First Name 4ps. Middle Name 5ps. Surname Officer Position TRA Location/Office 6ps. Signature ……………………………………… ## INSTRUCTIONS FOR COMPLETING TIN REGISTRATION FORMS FOR INDIVIDUALS MAELEZO JINSI YA KUJAZA FOMU ZA MAOMBI YA USAJILI WA TIN KWA WATU BINAFSI - 1. Tick appropriate box. Provide TIN number in case of amended applications. 2ps. 1ps. National ID/Kitambulisho cha Utaifa b. Letter from Local Government Authority/Barua kutoka Serikali za Mitaa c. Voters' Card/Kadi ya kupiga kura d. Passport / Hati ya kusafiria e. Birth Certificates/ Cheti cha kuzaliwa ## TRA Officer Employee No. Title: Mr Mrs Ms First Name 2ps. Middle Name 3ps. Surname Officer Position TRA Location/Office 4ps. Signature ……………………………………… ## INSTRUCTIONS FOR COMPLETING TIN REGISTRATION FORMS FOR INDIVIDUALS MAELEZO JINSI YA KUJAZA FOMU ZA MAOMBI YA USAJILI WA TIN KWA WATU BINAFSI - 1. Tick appropriate box. Provide TIN number 5ps. in case of amended applications. - Weka tiki kwenye kisanduku kinachohusika.Jaza TIN kama taarifa zako zimebadilika - 2.
+    questions_and_answers:
+      - question: |
+          What is required to complete a TIN registration form for individuals?
+        answer: |
+          Applicants must tick the appropriate box, provide their TIN if the application is amended, and attach necessary documents such as a National ID, a letter from the local government authority, a voter's card, a passport, or a birth certificate.
+      - question: |
+          What are the officials required to provide on the form?
+        answer: |
+          TRA (Tax Revenue Authority) officers need to provide their employee number, title, first name, middle name, surname, officer position, TRA location/office, and their signature.
+      - question: |
+          What are the available types of taxes listed on the form?
+        answer: |
+          The types of taxes listed include PIT (Personal Income Tax), VAT (Value Added Tax), PAYE (Pay As You Earn), Customs, Motor Vehicle Tax, and Excise Duty.
+      - question: |
+          What attachments are considered necessary for the registration process?
+        answer: |
+          Necessary attachments include a National ID, a letter from the local government authority, a voter's card, a passport, or a birth certificate.
+      - question: |
+          What details are required from the applicant on the form?
+        answer: |
+          The applicant must provide their title (Mr, Mrs, Ms), first name, middle name, surname, a signature, and the date of submission in the DD/MM/YYYY format.
+  - context: |
+      1ps. 1ps. <!-- image --> ## INDIVIDUAL/MTU BINAFSI ## APPLICATION FOR TAXPAYER REGISTRATION OR CHANGE OF REGISTERED PARTICULARS MAOMBI YA USAJILI WA MLIPA KODI AU KUBADILI TAARIFA ZA USAJILI Note: Furnishing false or misleading information is punishable by law/Kumbuka: Kutoa taarifa ya uongo au isiyo sahihi ni kosa kisheria. Before filling the form, please read carefully the attached notes at the end of the form /Kabla ya kujaza fomu hii, tafadhali soma kwa makini maelekezo mwisho wa fomu hii. -  Where registered details have changed, the applicant must only fill the taxpayer TIN 2ps. and detail that have changed/Pale taarifa zinapokuwa zimebadilika,unatakiwa kujaza TIN na taarifa zilizobadilika tu. -  Use capital letter and where applicable, mark with ( √ )/Tumia Herufi Kubwa, weka alama ( √ ) inapohitajika -  Item marked with asterisk (*) are Mandatory/ Sehemu iliyowekewa alama ya nyota (*) ni lazima. 2ps. 1ps. Before filling the form, please read carefully the attached notes at the end of the form /Kabla ya kujaza fomu hii, tafadhali soma kwa makini maelekezo mwisho wa fomu hii. -  Where registered details have changed, the applicant must only fill the taxpayer TIN and detail that have changed/Pale taarifa zinapokuwa zimebadilika,unatakiwa kujaza TIN na taarifa zilizobadilika tu. ## 1: General Information/ Taarifa ya Ujumla 1. * Apply for First Application/Usajili wa mara ya Kwanza Amendment 2ps. Application (Please indicate your TIN)/ TIN Kwa maombi ya mabadiliko (Tafadhali jaza TIN) 2. *Name of Applicant/Jina la Mwombaji: Mr/ Bwana Mrs / Bibi Ms/ Bi First Name/ Jina la Kwanza 3ps. Middle Name/ Jina la Pili Surname/ Jina la Ukoo * Date of Birth/ Tarehe ya Kuzaliwa (DDMMYYYY) \_\_\_\_\_/\_\_\_\_\_\_/\_\_\_\_\_\_\_\_\_\_ 3.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the form mentioned in the context?
+        answer: |
+          The form is intended for taxpayer registration or to request changes to already registered taxpayer details.
+      - question: |
+          What are applicants required to do if their registered details have changed?
+        answer: |
+          Applicants must fill in their taxpayer TIN and only the details that have changed.
+      - question: |
+          What penalty is associated with providing false or misleading information on the form?
+        answer: |
+          Providing false or misleading information is punishable by law.
+      - question: |
+          What formatting instructions are given for completing the form?
+        answer: |
+          Applicants are instructed to use capital letters and, where applicable, mark selections with a checkmark (√).
+      - question: |
+          Which fields on the form are mandatory for applicants to complete?
+        answer: |
+          Fields marked with an asterisk (*) are mandatory to complete.
+  - context: |
+      1ps. 1ps. Box / S.L.P. Postal City / Jina la Mji 9. Contact Numbers/ Namba za mawasiliano Landline/ Namba ya Simu ya Mezani Second Landline/ Simu ya pili ya Mezani Fax number/ Nukushi E-mail address/Anwani ya barua pepe *First Mobile Phone/ Simu ya Kwanza ya Mkononi Second Mobile Phone/Simu ya Pili ya Mkononi Third Mobile Phone/ Simu ya Tatu ya Mkononi 10. * Employment Status/ Hali ya Ajira: Employee/Mwajiriwa Self-employed/Umejiajiri 2ps. Foreign Mission employee Other (Specify)/Nyingine (Eleza)\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 11. Employer Details/Taarifa za Mwajiri: Name of employer/Jina la Mwajiri P. O. Box / S.L.P. Postal City / Jina la Mji Provide TIN of Employer/Taja TIN ya mwajiri 12. If the business is a Succession of an already existing Business, Please state Previous TIN/ Kama biashara inaendeleza biashara nyingine iliopo tayari, Tafadhali Taja TIN ya zamani. 13. Have you registered your Business name with BRELA? /Je, umesajili jina lako la biashara BRELA? 2ps. 1ps. Postal City / Jina la Mji Provide TIN of Employer/Taja TIN ya mwajiri 12. If the business is a Succession of an already existing Business, Please state Previous TIN/ Kama biashara inaendeleza biashara nyingine iliopo tayari, Tafadhali Taja TIN ya zamani. 13. Have you registered your Business name with BRELA? /Je, umesajili jina lako la biashara BRELA? Yes/Ndiyo 2ps. No/Hapana If Yes, State your Business Name/ Kama ndio, Taja Jina la biashara Registration Number/Namba ya Usajili 14. Particular of Business Premises /Taarifa ya Sehemu ya Biashara For Taxpayer Landlord/ Mwenye Nyumba: Is Business's premises rented ? /Je sehemu ya biashara imekodishwa ? 3ps. 1ps. /Je, umesajili jina lako la biashara BRELA? Yes/Ndiyo No/Hapana If Yes, State your Business Name/ Kama ndio, Taja Jina la biashara Registration Number/Namba ya Usajili 14. Particular of Business Premises /Taarifa ya Sehemu ya Biashara For Taxpayer Landlord/ Mwenye Nyumba: Is Business's premises rented ?
+    questions_and_answers:
+      - question: |
+          What contact details are required for registration?
+        answer: |
+          The required contact details include landline telephone numbers, fax number, email address, and up to three mobile phone numbers.
+      - question: |
+          What employment statuses can an individual specify during registration?
+        answer: |
+          The employment statuses include Employee (Mwajiriwa), Self-employed (Umejiajiri), Foreign Mission employee, and Other (with a specified description).
+      - question: |
+          What information must be provided about the employer when registering?
+        answer: |
+          The information to be provided includes the employer's name, P.O. Box, postal city, and the employer’s TIN (Taxpayer Identification Number).
+      - question: |
+          What details must be provided if the business is a succession of an existing business?
+        answer: |
+          The applicant must state the Previous TIN of the existing business they are succeeding.
+      - question: |
+          What should individuals indicate regarding the registration of their business name with BRELA?
+        answer: |
+          Individuals must state whether they have registered their business name with BRELA. If yes, they need to provide the business name and registration number.
+document_outline: |
+  ### Document Outline:
+  
+  This document is an application form for individual taxpayer registration or updating registered particulars in Tanzania. It provides instructions for filling the form, outlines mandatory details such as personal identification, reason for registration, residential/business location, and other relevant information, while emphasizing legal accountability for furnishing accurate data.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - binafsi-TIN.md

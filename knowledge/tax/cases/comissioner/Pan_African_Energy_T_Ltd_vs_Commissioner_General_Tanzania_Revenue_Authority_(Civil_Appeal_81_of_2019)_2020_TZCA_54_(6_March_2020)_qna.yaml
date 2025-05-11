@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. According to the provisions of section 6 (1) (b) of the Income Tax Act, the chargeable income of a person for a year on income from any employment shall be, in case of a resident person, the income from employment and for a non-resident, the person's income from employment to the extent that the income has a source in the United Republic of Tanzania. (2) The obligation of an employer 2ps. to withhold income tax under subsection (1) shall not be reduced or extinguished because the employer has a right or is under obligation to deduct and withhold any other amount from the payment or because of any other law that provides that an employee's income from employment shall not be reduced or subject to attachment." [Emphasis supplied] Black's Law Dictionary Eighth Edition, Bryan A. Garner, Editor in Chief defines the word extinguish as follows: - " 1. To bring to an end; to put to an 3ps. end; 2. to terminate or cancel; 3. to put out or stifle" Having withheld the PAYE, then, in terms of section 84 (1) of the Income Tax Act, the employer as agent of Tanzania Revenue Authority must remit the withheld sum within seven days after the end of each calendar month and file with the Commissioner within 4ps. 30 days after the end of six months a statement specifying among other things, the name and address of the withholdee and income tax withheld from each payment. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What does section 6 (1) (b) of the Income Tax Act specify about chargeable income from employment for resident and non-resident persons?
+        answer: |
+          Section 6 (1) (b) states that for a resident person, the chargeable income from employment is all income from that employment, while for a non-resident, it is limited to income from employment that has a source in the United Republic of Tanzania.
+      - question: |
+          Does an employer's obligation to withhold income tax change if they are required to withhold or deduct other amounts from an employee's payment?
+        answer: |
+          No, an employer's obligation to withhold income tax is not reduced or extinguished by the requirement to withhold or deduct other amounts or by laws that prevent reducing or attaching an employee's income.
+      - question: |
+          What is the legal meaning of 'extinguish' as defined in Black's Law Dictionary, Eighth Edition?
+        answer: |
+          According to Black's Law Dictionary, 'extinguish' means to bring to an end, to terminate or cancel, or to put out or stifle.
+      - question: |
+          What is the obligation of the employer after withholding PAYE under section 84 (1) of the Income Tax Act?
+        answer: |
+          The employer must remit the withheld PAYE to the Tanzania Revenue Authority within seven days after the end of each calendar month.
+      - question: |
+          What additional reporting requirement does an employer have regarding withheld PAYE every six months?
+        answer: |
+          An employer must file a statement with the Commissioner within 30 days after the end of six months, specifying details such as the name and address of the withholdee and the income tax withheld from each payment.
+  - context: |
+      1ps. 1ps. This is further clarified in the TRA Employer's Tax Guide which provides the modality of calculating amounts to be included in calculating employment income of monthly pay. The existence of the said domestic legal instruments in Tanzania regulating the taxable income rules out the applicability of the Employer's Tax Guide in respect of United Kingdom, Kenya and South Africa. The South African Revenue Service Guide on Taxation of foreigners working in South 2ps. African 2010/11 in para 9.7 is on the employees' tax paid on behalf of an employee is to the effect that: "Certain employers contractually agree to settle an employee's tax liability whilst that employee is on secondment in a foreign country. The objective is to ensure that the seconded employee remains tax neutral and is in no worse position than if secondment had not been accepted. This practice encourages employees to accept secondment assignments in foreign countries known as tax equalization. A 3ps. taxable benefit arises if an employer pays part or full of the foreign employee's South African tax liability. 2ps. 1ps. The objective is to ensure that the seconded employee remains tax neutral and is in no worse position than if secondment had not been accepted. This practice encourages employees to accept secondment assignments in foreign countries known as tax equalization. A taxable benefit arises if an employer pays part or full of the foreign employee's South African tax liability. Should the employer choose to settle the normal tax on this benefit. 2ps. A further taxable benefit will arise. This will continue on a recurring basis until a final a normal tax liability is determined." The bolded expression is similar to what obtains in Tanzania on what amount to tax benefit under the item which falls under paragraph 3.5.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the TRA Employer's Tax Guide in Tanzania?
+        answer: |
+          The TRA Employer's Tax Guide provides the modality for calculating amounts to be included in employment income for monthly pay in Tanzania.
+      - question: |
+          Why is the Employer's Tax Guide for countries like the UK, Kenya, and South Africa not applicable in Tanzania?
+        answer: |
+          The existence of domestic legal instruments in Tanzania regulating taxable income rules out the applicability of the Employer's Tax Guide from countries such as the UK, Kenya, and South Africa.
+      - question: |
+          What is the purpose of tax equalization for employees on secondment in foreign countries according to the South African Revenue Service Guide?
+        answer: |
+          The objective of tax equalization is to ensure that seconded employees remain tax neutral, meaning they are in no worse financial position than if they had not accepted the secondment.
+      - question: |
+          What constitutes a taxable benefit under South African tax rules when an employer pays an employee's tax liability?
+        answer: |
+          A taxable benefit arises if an employer pays part or all of a foreign employee's South African tax liability, and if the employer settles the normal tax on this benefit, an additional taxable benefit arises.
+      - question: |
+          How does Tanzania's tax regulation on taxable benefits relate to South Africa's practices?
+        answer: |
+          Tanzania's tax regulation under paragraph 3.5 uses a similar concept to South Africa's framework, where a taxable benefit arises when employers cover employees' tax liabilities.
+  - context: |
+      1ps. 1ps. Discontented, the appellant appealed to the Tax Revenue Appeals Tribunal (the TRAT) faulting the TRAB for holding that the grossing up method on PAYE is tantamount to giving taxable benefits to employees. Having considered the provisions of sections 7 (1), (3) (a) to (i) and 81(1) and (2) of the Income Tax Act, the TRAT dismissed the appeal concluding at page 629 to 130 as follows: "An individual's income 2ps. from employment is the total gain or profit of that individual. Hence the relief granted by the employer to the employee was a gain to the employee, and as such gain it was a benefit which attracted tax, as it is not exempted within the meaning of section 7 (3) (a) to (i) of the Income Tax Act The employer was duty bound to withhold it within the meaning of section 81(1) and (2) of the Income Tax Act... 3ps. " Still undaunted, the appellant has appealed to the Court raising two (2) grounds of complaint namely: - 1. That the Tax Revenue Appeals Tribunal grossly erred in law by holding that the grossing up method used by the appellant for the purposes of computation of PAYE for its employees is not justifiable in law. 2ps. 1ps. Having considered the provisions of sections 7 (1), (3) (a) to (i) and 81(1) and (2) of the Income Tax Act, the TRAT dismissed the appeal concluding at page 629 to 130 as follows: "An individual's income from employment is the total gain or profit of that individual. In the present case the grossing up method of PA YE applied by the appellant provided tax benefits to the employees who would have collected a lesser take home pay, except for the employer's 2ps. sympathy by footing the tax bill. - 2.
+    questions_and_answers:
+      - question: |
+          What was the primary reason the appellant appealed to the Tax Revenue Appeals Tribunal (TRAT)?
+        answer: |
+          The appellant appealed to TRAT because they disagreed with the TRAB's decision that the grossing up method on PAYE gives taxable benefits to employees.
+      - question: |
+          Which sections of the Income Tax Act were considered by the TRAT in its decision?
+        answer: |
+          The TRAT considered sections 7(1), 7(3)(a) to (i), and 81(1) and (2) of the Income Tax Act.
+      - question: |
+          What was the TRAT’s conclusion regarding the employer’s obligation under section 81 of the Income Tax Act?
+        answer: |
+          The TRAT concluded that the employer had a duty to withhold tax on benefits provided to employees under the meaning of section 81(1) and (2) of the Income Tax Act.
+      - question: |
+          Why did the TRAT dismiss the appellant’s argument regarding the grossing up method of PAYE?
+        answer: |
+          The TRAT dismissed the argument, stating that the grossing up method provided employees with tax benefits, which constituted gains or profits and were therefore taxable under the Income Tax Act.
+      - question: |
+          What are the two grounds of complaint raised by the appellant in their subsequent appeal to the Court?
+        answer: |
+          The appellant claimed that the TRAT erred in law by holding that the grossing up method used for PAYE computation was not legally justifiable and argued that the method provided inappropriate taxable benefits to employees.
+  - context: |
+      1ps. 1ps. It was also argued that, the net of tax contracts of employment was contrary to the Income Tax Act and the net of tax amount on the salary and the appellant's obligation to deduct and withhold tax and remit it to the respondent was not waived by grossing up method which is prohibited under the provisions of section 81 (2) of the Income Tax Act. On the Employers' Tax Guides, she contended the same not to be in favour of the appellant's 2ps. case and instead it cements the respondent's position. Finally, it was the respondent's conclusion that, since the grossing up method on PAYE does not feature in the Income Tax Act, the appellant contravened the provisions of the law regulating PAYE and the appeal is not merited and it deserves to be dismissed with costs. In rejoinder the appellant's counsel reiterated the earlier submission adding that, the instruments on tax guide from Kenya 3ps. and South Africa supports the appellant's case. It was thus reiterated that the appeal be allowed. 2ps. 1ps. Finally, it was the respondent's conclusion that, since the grossing up method on PAYE does not feature in the Income Tax Act, the appellant contravened the provisions of the law regulating PAYE and the appeal is not merited and it deserves to be dismissed with costs. In rejoinder the appellant's counsel reiterated the earlier submission adding that, the instruments on tax guide from Kenya and South Africa supports the appellant's 2ps. case. It was thus reiterated that the appeal be allowed.
+    questions_and_answers:
+      - question: |
+          What was the respondent's argument regarding the grossing up method on PAYE?
+        answer: |
+          The respondent argued that the grossing up method on PAYE does not feature in the Income Tax Act, and therefore the appellant contravened the provisions of the law regulating PAYE.
+      - question: |
+          Why did the respondent argue that the net of tax contracts of employment were contrary to the Income Tax Act?
+        answer: |
+          The respondent argued that the appellant's obligation to deduct and withhold tax and remit it to the respondent was not waived by using the grossing up method, which is prohibited under section 81(2) of the Income Tax Act.
+      - question: |
+          How did the Employers' Tax Guides factor into the respondent's argument?
+        answer: |
+          The respondent contended that the Employers' Tax Guides did not support the appellant's case but instead reinforced the respondent's position.
+      - question: |
+          What was the appellant's response to the respondent’s argument regarding tax guides?
+        answer: |
+          The appellant's counsel countered that instruments on tax guides from Kenya and South Africa supported the appellant's case and reiterated that the appeal should be allowed.
+      - question: |
+          What conclusion did the respondent draw from their arguments about the appellant’s actions?
+        answer: |
+          The respondent concluded that the appellant's actions were contrary to the provisions of the Income Tax Act, making the appeal unmerited, and requested that it be dismissed with costs.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM fCORAM: MUGASHA. J.A. LEVIRA. 3.A.. KITUSI. J.A.^ ## CIVIL APPEAL NO. 81 OF 2019 PAN AFRICAN ENERGY TANZANIA LTD........................................... APPELLANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.................................................................. RESPONDENT (An appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## (Twaib, 3 .^ dated the 19th November, 2017 in Tax Appeal No. 9 of 2016 ## JUDGMENT OF THE COURT 24th February &amp; 6t h March, 2020 ## MUGASHA, J.A.: The appellant, pan african energy Tanzania ltd is 2ps. a company registered in Tanzania dealing in natural gas production and supply of gas for power generation at Ubungo Power Plant in Dar-es-salaam, it supplies natural gas to both industrial and commercial customers in Dar-es-salaam city. Also, it supplies compressed natural gas for use in motor vehicles. 2ps. 1ps. J.A.^ ## CIVIL APPEAL NO. 81 OF 2019 PAN AFRICAN ENERGY TANZANIA LTD........................................... APPELLANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.................................................................. RESPONDENT (An appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## (Twaib, 3 .^ dated the 19th November, 2017 in Tax Appeal No. 9 of 2016 ## JUDGMENT OF THE COURT 24th February &amp; 6t h March, 2020 ## MUGASHA, J.A.: Also, it supplies compressed natural gas for use in motor vehicles. Before April 2013, the respondent Tanzania Revenue Authority (TRA) conducted an audit on the appellant's tax affairs including Pay As You 2ps. Earn commonly known as PAYE and gathered that the appellant used the grossing up method in PAYE and remitted to the respondent without withholding the same from the employees' taxable income from the employment earnings.
+    questions_and_answers:
+      - question: |
+          What is the primary business of Pan African Energy Tanzania Ltd?
+        answer: |
+          Pan African Energy Tanzania Ltd is a company registered in Tanzania that deals in the production and supply of natural gas for power generation and industrial and commercial use in Dar-es-Salaam. It also supplies compressed natural gas for motor vehicles.
+      - question: |
+          What was the primary issue raised by the Tanzania Revenue Authority in their audit of the appellant?
+        answer: |
+          The Tanzania Revenue Authority (TRA) found that the appellant used the grossing-up method for Pay As You Earn (PAYE) taxes but did not withhold the amount from employees' taxable income before remitting it to the TRA.
+      - question: |
+          From which court's decision is this appeal being made?
+        answer: |
+          This appeal is being made from the judgment and decree of the Tax Revenue Appeals Tribunal at Dar es Salaam.
+      - question: |
+          On what dates was the Court of Appeal judgment delivered?
+        answer: |
+          The judgment of the Court of Appeal was delivered on 24th February and 6th March, 2020.
+      - question: |
+          What tax-related period preceded the Tanzania Revenue Authority's audit of the appellant?
+        answer: |
+          The audit conducted by the Tanzania Revenue Authority on the appellant's tax affairs took place before April 2013.
+document_outline: |
+  **Document Outline**: 
+  
+  This document outlines a legal appeal in the Court of Appeal of Tanzania involving Pan African Energy Tanzania Ltd (Appellant) and the Tanzania Revenue Authority (Respondent). The case concerns the appellant's use of the "grossing up" method for calculating Pay As You Earn (PAYE) tax, which was disallowed by the respondent, leading to disputed tax liabilities and subsequent appeals through the Tax Revenue Appeals Board (TRAB), the Tribunal (TRAT), and ultimately to the Court of Appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Pan_African_Energy_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_81_of_2019)_2020_TZCA_54_(6_March_2020).md

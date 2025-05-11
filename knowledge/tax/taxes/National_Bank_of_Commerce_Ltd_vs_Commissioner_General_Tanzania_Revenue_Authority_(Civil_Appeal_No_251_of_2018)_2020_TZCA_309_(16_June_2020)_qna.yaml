@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Before the Tribunal on the appeal, issues for determination on the subject matter in the present appeal were as framed before the Board. Consequently, relying on ITA, 2004, The Tribunal agreed with the Board as reflected at page 393 of the record of appeal having said thus: "From the foregoing, we are of the view that mere approval of impaired loan losses by the Bank of Tanzania does not qualify the same to be 2ps. allowable deductions. In determining the propriety or otherwise of the Board's decision to disallow loan losses actually written off for the year of income 2010, relying on its previous decisions on a similar matter and the decision of the Court in t u llo w Tanzania bv vs commissioner general TANZANIA REVENUE AUTHORITY, Civil Appeal No. 146 of 2015 (unreported), the Tribunal concluded that, the purposive approach was correctly invoked by the Board to interpret the ITA 2002. This is what precipitated the present appeal to the Court whereby the appellant has fronted four grounds 3ps. of complaint as follows: - 1. The Tax Revenue Appeals Tribunal erred in law by failing to correctly interpret the provisions of section 39(d) of the Income Tax Act 2004 and held that an approval of impaired loan losses by the Bank of Tanzania does not quality the same for deduction. 2ps. 1ps. Consequently, relying on ITA, 2004, The Tribunal agreed with the Board as reflected at page 393 of the record of appeal having said thus: "From the foregoing, we are of the view that mere approval of impaired loan losses by the Bank of Tanzania does not qualify the same to be allowable deductions. To qualify for ## deduction, the financial institution should meet the requirements of section 39 2ps.
+    questions_and_answers:
+      - question: |
+          What was the key issue under determination by the Tribunal in the appeal?
+        answer: |
+          The key issue was whether the mere approval of impaired loan losses by the Bank of Tanzania qualified them to be allowable deductions under the Income Tax Act (ITA), 2004.
+      - question: |
+          What was the Tribunal's decision regarding the approval of impaired loan losses?
+        answer: |
+          The Tribunal concluded that the mere approval of impaired loan losses by the Bank of Tanzania did not qualify them as allowable deductions under section 39 of the Income Tax Act 2004.
+      - question: |
+          How did the Tribunal justify its reliance on the Board's decision?
+        answer: |
+          The Tribunal justified its reliance on the Board's decision by invoking a purposive approach to interpreting the Income Tax Act 2002 and referencing previous decisions and the case of Tullow Tanzania BV vs. Commissioner General Tanzania Revenue Authority, Civil Appeal No. 146 of 2015.
+      - question: |
+          What legal provision was central to the appellant's case against the Tribunal's decision?
+        answer: |
+          The appellant's case focused on section 39(d) of the Income Tax Act 2004, arguing that the Tribunal erred in its interpretation of this provision.
+      - question: |
+          What were the financial institutions required to meet for impaired loan losses to qualify for deductions?
+        answer: |
+          To qualify for deductions, financial institutions were required to meet the requirements outlined in section 39 of the Income Tax Act 2004.
+  - context: |
+      1ps. 1ps. To back up the proposition, the case of national bank of commerce vs COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY (supra) was cited. In addition, it was contended that, the provision of bad debts claims which the appellant had sought to be deducted, had not been realized in accordance with sections 39 and 18 of the ITA and as such, did not qualify for deduction. In this regard, it was argued that, since article 138(1) 2ps. of the Constitution of the United Republic of Tanzania, 1997 (the Constitution) bars any kind of tax without any legislation, the Tribunal's holding seeking to subject to the appellant to taxation under a non-existent legislation is without the authority of the law and the Court should not condone it. 2ps. 1ps. In addition, it was contended that, the provision of bad debts claims which the appellant had sought to be deducted, had not been realized in accordance with sections 39 and 18 of the ITA and as such, did not qualify for deduction. In response, it was submitted for the respondent that, the Finance Act 2014 codified the principle enunciated in the barclays BANK VS COMMISSIONER 2ps. OF INCOME TAX, Tax Appeal No. 3 of 2011. Besides, on the same matter in the case of access bank Tanzania lim ited vs commissioner general (supra) the Court said that the Tribunal did not rely on section 25 (5) of the Finance Act, 2014 which emphasized that, the applicable procedure on the deductibility or otherwise for any loss requires presenting to the Commissioner General evidentiary proof on existence of any loss for 3ps. it to be deductible under the ITA, 2004.
+    questions_and_answers:
+      - question: |
+          What legal case was cited in support of the appellant's proposition?
+        answer: |
+          The case of National Bank of Commerce vs Commissioner General Tanzania Revenue Authority was cited in support of the appellant's proposition.
+      - question: |
+          Why did the Tribunal's holding allegedly lack the authority of the law, according to the argument presented?
+        answer: |
+          It was argued that article 138(1) of the Constitution of the United Republic of Tanzania, 1997 bars taxation without legislation, making the Tribunal's attempt to subject the appellant to taxation under a non-existent law legally problematic.
+      - question: |
+          Why did the bad debt claims not qualify for deduction under the ITA?
+        answer: |
+          The bad debt claims did not qualify for deduction because they had not been realized in accordance with sections 39 and 18 of the Income Tax Act (ITA).
+      - question: |
+          What principle was codified by the Finance Act of 2014 in relation to this case?
+        answer: |
+          The Finance Act of 2014 codified the principle enunciated in the Barclays Bank vs Commissioner of Income Tax case (Tax Appeal No. 3 of 2011), emphasizing the need for evidentiary proof to deduct losses under the ITA, 2004.
+      - question: |
+          What was the Court's position on the procedure for deducting losses in the Access Bank Tanzania Limited vs Commissioner General case?
+        answer: |
+          The Court stated that the applicable procedure for deducting losses, as emphasized by section 25(5) of the Finance Act, 2014, requires presenting evidentiary proof of the existence of a loss to the Commissioner General for it to be deductible under the ITA, 2004.
+  - context: |
+      1ps. 1ps. It is concerned with regulation of the financial institutions on among other issues, realization of debts..." We are guided by the said decisions and in addition, we add that both the BOT and the TRA are creatures of different statutes with distinct objectives and mandates. On the part of the Bank of Tanzania Act No. 1 of 1995 its long title reads inter alia as follows: "....to provide for currency Tanzania...and 2ps. shall have certain powers in relation to other Banks and financial institutions and to provide for other matters incidental to or connected with those purposes ." of Since, the objectives and mandates of each institution are quite distinct in a nutshell, it is the TRA which is mandated to impose, assess and collect tax. This is not the business of the BOT. In this regard, the appellant's argument that once BOT's approval is obtained on impairment of loan losses, the ITA, 2004 3ps. is not applicable is with respect, misconceived. 2ps. 1ps. On the part of the Bank of Tanzania Act No. 1 of 1995 its long title reads inter alia as follows: "....to provide for currency Tanzania...and shall have certain powers in relation to other Banks and financial institutions and to provide for other matters incidental to or connected with those purposes ." of Since, the objectives and mandates of each institution are quite distinct in a nutshell, it is the TRA which is mandated to impose, assess and collect tax. This 2ps. is not the business of the BOT. This is regardless of the ITA having embraced the application of the BOT standards when it comes to determining and approving impairment of loan losses or bad debt claims by the BOT.
+    questions_and_answers:
+      - question: |
+          What is one of the primary concerns addressed by the Bank of Tanzania Act No. 1 of 1995?
+        answer: |
+          The Bank of Tanzania Act No. 1 of 1995 is concerned with providing currency for Tanzania, regulating banks and financial institutions, and addressing matters connected to those purposes.
+      - question: |
+          What are the distinct mandates of the Bank of Tanzania (BOT) and the Tanzania Revenue Authority (TRA)?
+        answer: |
+          The Bank of Tanzania (BOT) focuses on regulating financial institutions and monetary matters, while the Tanzania Revenue Authority (TRA) is responsible for imposing, assessing, and collecting taxes.
+      - question: |
+          Why is the appellant’s argument about the BOT's approval of impairment of loan losses considered misconceived?
+        answer: |
+          The argument is misconceived because the approval of impairment of loan losses by the BOT does not impact the applicability of the Income Tax Act (ITA) of 2004, as tax-related matters fall under the TRA's mandate.
+      - question: |
+          Does the BOT have any authority over tax matters according to the context?
+        answer: |
+          No, the BOT does not have authority over tax matters; this is the responsibility of the TRA.
+      - question: |
+          How does the Income Tax Act (ITA) of 2004 relate to BOT standards on loan losses or bad debt claims?
+        answer: |
+          The ITA recognizes the application of BOT standards for determining and approving impairment of loan losses or bad debt claims, but tax matters remain under the TRA's jurisdiction regardless of BOT approval.
+  - context: |
+      1ps. 1ps. (ii) Such approval will not be given upon the bank or financial institution concerned presenting to the Bank its balance sheet and profit and loss account, including detailed account of the provisions made for bad and doubtful debts and for other assets and the Bank is satisfied that these provisions are realistic and adequate." ## Regulation 7 "Every bank and financial institution shall charge off or write off all loans 2ps. classified at the end of every quarterly review. The basic characteristics of loans subject to loss classification are as follows: - (c) Loans considered as absolutely uncollectible ." The said Regulations were revoked by the Banking and Financial Institutions (The Management of Risk Assets) Regulations of 2008 Government Notice No 374 of 12/2/2008. The 2008 Regulations cover the years of income 2009 and 2010 whereby Regulations 7, 19 (c) as of 12/12/2008 gave the following guidance to the financial institutions: "At every quarterly review, 3ps. every bank and financial institution shall charge off all credit accommodations and other risks assets have remained in the loss category for four consecutive quarters ." 2ps. 1ps. The basic characteristics of loans subject to loss classification are as follows: - (c) Loans considered as absolutely uncollectible ." The said Regulations were revoked by the Banking and Financial Institutions (The Management of Risk Assets) Regulations of 2008 Government Notice No 374 of 12/2/2008. Regulation 19 (c) stipulated as follows: "Credit accommodation having the following basic characteristics shall be classified as loss: (c) Credit accommodations considered as absolutely uncollectible." Besides, Regulations and 32 (1) and (2) provided: "32 (1) Every bank or financial institution shall seek 2ps. prior approval of the Bank for its proposed annual provisions for probable losses before finalization of the annual accounts.
+    questions_and_answers:
+      - question: |
+          What documents must a bank present to the Bank to obtain approval for its provisions for bad and doubtful debts?
+        answer: |
+          The bank or financial institution must present its balance sheet and profit and loss account, including a detailed account of the provisions made for bad and doubtful debts and for other assets.
+      - question: |
+          What is Regulation 7's requirement regarding loans classified as uncollectible?
+        answer: |
+          Regulation 7 states that banks and financial institutions must charge off or write off all loans classified as absolutely uncollectible at the end of every quarterly review.
+      - question: |
+          When were the original regulations regarding the management of bad loans revoked, and by what new regulations were they replaced?
+        answer: |
+          The original regulations were revoked on 12/2/2008 and replaced by the Banking and Financial Institutions (The Management of Risk Assets) Regulations of 2008, outlined in Government Notice No 374.
+      - question: |
+          What does Regulation 19(c) of the 2008 Regulations specify regarding loss classification?
+        answer: |
+          Regulation 19(c) of the 2008 Regulations specifies that credit accommodations considered absolutely uncollectible shall be classified as loss.
+      - question: |
+          What does Regulation 32(1) require banks to do regarding their annual provisions for probable losses?
+        answer: |
+          Regulation 32(1) requires every bank or financial institution to seek prior approval from the Bank for its proposed annual provisions for probable losses before finalizing its annual accounts.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: JUMA, CJ., MUGASHA, J.A., NPIKA. J.A.l CIVIL APPEAL NO. 251 OF 2018 NATIONAL BANK OF COMMERCE........................................... APPELLANT ## VERSUS COMMISSIONER GENERAL TANZANIA, REVENUE AUTHORITY......................................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Appeals Tribunal at Dar es Salaam) (Miemmas. Chairman.1 ) dated the 11th day of October, 2018 in Tax Appeal No. 28 of 2016 ## JUDGMENT OF THE COURT 8t h &amp; 16t h June, 2020 ## MUGASHA. 3.A.: The appellant, the National Bank of Commerce Limited (NBC) is a financial institution engaged in the provision of banking, financial 2ps. services and related matters. Between 2012 and 2013, the respondent, the Commissioner General of Tanzania Revenue Authority (CGTRA) conducted an audit on the appellant's tax affairs covering the years of income 2008, 2009 and 2010. Following the audit, the respondent issued to the appellant adjusted assessment for the respective years 1 and disallowed among others, impairment of loan losses and bad debt claims written off. 2ps. 1ps. 3.A.: The appellant, the National Bank of Commerce Limited (NBC) is a financial institution engaged in the provision of banking, financial services and related matters. Between 2012 and 2013, the respondent, the Commissioner General of Tanzania Revenue Authority (CGTRA) conducted an audit on the appellant's tax affairs covering the years of income 2008, 2009 and 2010. Following the audit, the respondent issued to the appellant adjusted assessment for the 2ps. respective years 1 and disallowed among others, impairment of loan losses and bad debt claims written off. The appellant unsuccessfully objected the assessment whereas the respondent maintained its stance to disallow the deduction on impugned items and demanded tax for the respective years of income. The appellant was not amused and lodged appeals Nos.
+    questions_and_answers:
+      - question: |
+          What type of institution is the National Bank of Commerce Limited (NBC) as described in the context?
+        answer: |
+          The National Bank of Commerce Limited (NBC) is a financial institution engaged in the provision of banking, financial services, and related matters.
+      - question: |
+          What years of income did the audit conducted by the Commissioner General of Tanzania Revenue Authority (CGTRA) cover?
+        answer: |
+          The audit conducted by the Commissioner General of Tanzania Revenue Authority (CGTRA) covered the years of income 2008, 2009, and 2010.
+      - question: |
+          What specific items did the Commissioner General of Tanzania Revenue Authority (CGTRA) disallow in the adjusted tax assessment for NBC?
+        answer: |
+          The Commissioner General of Tanzania Revenue Authority disallowed impairment of loan losses and bad debt claims written off.
+      - question: |
+          What action did the National Bank of Commerce take following the disallowed deductions in the tax assessment?
+        answer: |
+          The National Bank of Commerce objected to the assessment, but their objection was unsuccessful, prompting them to lodge appeals.
+      - question: |
+          When was the judgment for Civil Appeal No. 251 of 2018 delivered by the Court of Appeal of Tanzania?
+        answer: |
+          The judgment for Civil Appeal No. 251 of 2018 was delivered on the 16th of June, 2020.
+document_outline: |
+  **Document Outline:**
+  
+  The document is a judgment from the Court of Appeal of Tanzania addressing Civil Appeal No. 251 of 2018 between the National Bank of Commerce (NBC) and the Commissioner General of the Tanzania Revenue Authority (CGTRA). The case involves NBC's appeal against the disallowance of tax deductions on loan impairments and bad debt write-offs for the years 2008-2010, which were upheld by the Tax Revenue Appeals Board and Tribunal based on the Income Tax Act, 2004 and prior precedents.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - National_Bank_of_Commerce_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_251_of_2018)_2020_TZCA_309_(16_June_2020).md

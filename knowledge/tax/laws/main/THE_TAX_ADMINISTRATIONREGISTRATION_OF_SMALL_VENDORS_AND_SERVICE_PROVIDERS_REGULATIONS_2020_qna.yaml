@@ -1,0 +1,59 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (2) the Commissioner General may issue guidelines in a newspaper with a wide circulation prescribing criteria for registration of a small vendor or a service provider whose business nature is normal. - (3) A person whose business turnover is above the minimum income tax threshold provided under the First Schedule to the Income Tax Act shall not be eligible for registration under this Regulation and shall be required 2ps. to pay tax as required under the relevant tax law. - 5. Pursuant to regulation 4, the Commissioner General shall, in consultation with a local government authority or District Commissioner or Regional Commissioner as the GN. NO. 36 (Contd.) Registration Assistance by local government authority case may be, identify and recognise for registration purposes, locations where small vendors and service providers operate. - 6.-(1) The Commissioner General shall, in consultation with a local government authority, or District Commissioner or Regional Commissioner as the case may be, register small vendors and 3ps. service providers operating in a recognised location. 2ps. 1ps. NO. 36 (Contd.) Registration Assistance by local government authority case may be, identify and recognise for registration purposes, locations where small vendors and service providers operate. - 6.-(1) The Commissioner General shall, in consultation with a local government authority, or District Commissioner or Regional Commissioner as the case may be, register small vendors and service providers operating in a recognised location. - (2) The Commissioner General shall issue a registration card upon payment of registration card fee of twenty thousand shillings to 2ps. a small vendor or service provider who has been registered. - (3) A small vendor or service provider who moves to another recognised location or operates a subsidiary business undertaking in a new location, shall be required to notify the Commissioner General of such change.
+    questions_and_answers:
+      - question: |
+          What authority can issue guidelines for registering small vendors or service providers, and where must these guidelines be published?
+        answer: |
+          The Commissioner General can issue guidelines for registering small vendors or service providers, and they must be published in a newspaper with wide circulation.
+      - question: |
+          Who is ineligible for registration under this regulation, based on turnover?
+        answer: |
+          Any person whose business turnover exceeds the minimum income tax threshold specified in the First Schedule to the Income Tax Act is ineligible for registration under this regulation.
+      - question: |
+          What entities does the Commissioner General consult with to identify and recognize locations for small vendors and service providers?
+        answer: |
+          The Commissioner General consults with local government authorities, District Commissioners, or Regional Commissioners to identify and recognize locations for small vendors and service providers.
+      - question: |
+          What is required for a small vendor or service provider to obtain a registration card?
+        answer: |
+          A small vendor or service provider must pay a registration card fee of twenty thousand shillings to obtain the card after being registered.
+      - question: |
+          What must a small vendor or service provider do if they change their operating location or open a subsidiary business in a new location?
+        answer: |
+          They are required to notify the Commissioner General of the change if they move to another recognized location or open a subsidiary business in a new location.
+  - context: |
+      1ps. 1ps. GN. NO. 36 (Contd.) GOVERNMENT NOTICE NO. 36 published on 24/1/2020 ## THE TAX ADMINISTRATION ACT (CAP. 438) \_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_ (Made under sections 22A and 98) \_\_\_\_\_\_\_\_ THE TAX ADMINISTRATION (REGISTRATION OF SMALL VENDORS AND SERVICE PROVIDERS) REGULATIONS, 2020 ## PART I PRELIMINARY PROVISIONS Regulation Title - 1. Citation. - 2. Interpretation. ## PART II REGISTRATION OF SMALL VENDORS AND SERVICE PROVIDERS - 3. Small vendors and service providers' register. - 4. Eligibility for registration. - 5. Identification of small vendor localities. - 6. Registration. ## PART III GENERAL REGULATIONS - 7. Assistance by local government authority. - 8. Penalty. PART I PRELIMINARY PROVISIONS GN. NO. 36 (Contd.) Citation Interpretation Cap. 2ps. 438 Cap. 287 Cap. 2ps. 1ps. Citation Interpretation Cap. 438 Cap. 287 Cap. 288 - 1. These Regulations may be cited as the Tax Administration (Registration of Small Vendors and Service Providers) Regulations, 2020. - 2. In these Regulations, unless the context requires otherwise- - 'Act' means the Tax Administration Act; - 'the Commissioner General' has the meaning ascribed to it under the Act; 'local government authority' means a district authority as defined in the Local Government (District Authorities) Act or an urban authority as defined under the Local Government (Urban 2ps. Authorities) Act; 'recognized location' means an area identified under Regulation 5 of these Regulations to be a business area for small vendors and service providers; 'register' means the register prescribed in regulation 3 of these Regulations; and - 'small vendors and service providers' has the meaning as ascribed to it in the Act. 3ps. 1ps. 438 Cap. 287 Cap. ## PART II ## REGISTRATION OF SMALL VENDORS AND SERVICE PROVIDERS Small vendors and service providers' register - 3.
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations discussed in the document?
+        answer: |
+          The title of the regulations is 'The Tax Administration (Registration of Small Vendors and Service Providers) Regulations, 2020.'
+      - question: |
+          Under which sections of the Tax Administration Act were these regulations made?
+        answer: |
+          These regulations were made under sections 22A and 98 of the Tax Administration Act.
+      - question: |
+          What is meant by 'recognized location' according to the regulations?
+        answer: |
+          A 'recognized location' refers to an area identified under Regulation 5 as a business area for small vendors and service providers.
+      - question: |
+          Who assists with the implementation of these regulations at the local level?
+        answer: |
+          Local government authorities, defined as district or urban authorities, assist with the implementation of these regulations.
+      - question: |
+          What is the purpose of the register mentioned in Regulation 3?
+        answer: |
+          The register is a prescribed record for small vendors and service providers as outlined in Regulation 3 of these regulations.
+document_outline: |
+  ### Document Outline:
+  
+  This document outlines the Tax Administration (Registration of Small Vendors and Service Providers) Regulations, 2020, issued under the Tax Administration Act (Cap. 438). It specifies preliminary provisions, including definitions and citation, and provides detailed regulations regarding the registration process, eligibility criteria, identification of business localities, assistance by local authorities, and penalties for small vendors and service providers.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - THE_TAX_ADMINISTRATIONREGISTRATION_OF_SMALL_VENDORS_AND_SERVICE_PROVIDERS_REGULATIONS_2020.md

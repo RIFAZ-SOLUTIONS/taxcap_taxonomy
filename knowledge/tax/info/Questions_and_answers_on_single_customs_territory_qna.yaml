@@ -1,0 +1,121 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Q: Is it possible to dispose of / sell goods in any Partner State other than destination country after payment of taxes ? A: Yes. It is possible to sell goods where duties and taxes have been paid in any Partner State other than the destination country. However, the importer should notify the Commissioners of the importing and destination countries, pay taxes 2ps. in the consuming country and claim refund from the destination country where taxes were initially paid. ## Q: Will the internal borders of importing Partner States still be handling cargo clearance? A: Yes. For cargo cleared at the first point of entry, there will be reduced controls at the internal border stations. ## Q: How will the locally produced goods be treated under the SCT? - A: Goods produced in the region are not subjected to import duty when transferred to another Partner State if they meet the EAC rules of origin criteria. 2ps. 1ps. For cargo cleared at the first point of entry, there will be reduced controls at the internal border stations. ## Q: How will the locally produced goods be treated under the SCT? - A: Goods produced in the region are not subjected to import duty when transferred to another Partner State if they meet the EAC rules of origin criteria. However these goods will be subjected to domestic taxes which must be paid before the goods move from the country of origin to the destination Partner State. ## Q: Is the Electronic Cargo Tracking System free; if not 2ps. who meets the cost? - A: It is not free. The cost shall be borne by the transporter. - Q: How will the SCT address the problem of several weigh bridges?
+    questions_and_answers:
+      - question: |
+          Is it possible to sell goods in a Partner State other than the destination country after paying taxes?
+        answer: |
+          Yes, it is possible. The importer must notify the Commissioners of the importing and destination countries, pay taxes in the consuming country, and claim a refund from the destination country where taxes were initially paid.
+      - question: |
+          Will cargo still require clearance at the internal borders of Partner States?
+        answer: |
+          Yes, cargo cleared at the first point of entry will face reduced controls at internal border stations but will still require some level of clearance.
+      - question: |
+          How are locally produced goods treated under the Single Customs Territory (SCT)?
+        answer: |
+          Locally produced goods that meet EAC rules of origin criteria are not subjected to import duty when transferred to another Partner State. However, domestic taxes must be paid before the goods move from the country of origin to the destination Partner State.
+      - question: |
+          Is the Electronic Cargo Tracking System free, and who bears the cost?
+        answer: |
+          The Electronic Cargo Tracking System is not free. The cost is borne by the transporter.
+      - question: |
+          How will the SCT address the issue of multiple weighbridges?
+        answer: |
+          The context does not provide a specific answer to this question, but the SCT aims to streamline and simplify customs processes, potentially reducing the need for multiple weighbridges.
+  - context: |
+      1ps. 1ps. ## Q: What is SCT all about? - A : It is about achieving free circulation of goods in the Customs Territory in order to reduce the cost of doing business. ## Q: What are the features of SCT? A: The following are the features of the SCT - § Goods are cleared at the first point of entry; - § Customs declarations are made once at the destination country; - § Taxes are paid at the point of destination when goods are still at the first point 2ps. of entry; - § Goods are moved under a single bond from the port to destination; - § Goods are monitored by electronic cargo tracking system; - § Interconnected Customs systems; - § Minimized internal controls / checks ## Q: When is SCT going to be implemented? A: The SCT commenced on 1 st January 2014 as a pilot on the Northern Corridor. 2ps. 1ps. ## Q: What are the features of SCT? A: The SCT commenced on 1 st January 2014 as a pilot on the Northern Corridor. The pilot on the Central Corridor will commence in April 2014 and roll- out for the whole of the EAC will be on 1 July 2014. st Q: what are the benefits from the SCT? A. 3ps. 1ps. A: The SCT commenced on 1 st January 2014 as a pilot on the Northern Corridor. The pilot on the Central Corridor will commence in April 2014 and roll- out for the whole of the EAC will be on 1 July 2014. st Q: what are the benefits from the SCT? A.
+    questions_and_answers:
+      - question: |
+          What is the main goal of the SCT?
+        answer: |
+          The SCT aims to achieve the free circulation of goods within the Customs Territory to reduce the cost of doing business.
+      - question: |
+          What are the key features of the SCT?
+        answer: |
+          Key features include clearing goods at the first point of entry, making customs declarations at the destination country, paying taxes at the destination while goods are at the entry point, moving goods under a single bond, relying on electronic cargo tracking, interconnected Customs systems, and minimizing internal checks.
+      - question: |
+          When did the SCT implementation begin, and how is it being rolled out?
+        answer: |
+          The SCT started as a pilot on the Northern Corridor on January 1, 2014. The pilot for the Central Corridor commenced in April 2014, with full roll-out to the EAC planned for July 1, 2014.
+      - question: |
+          How are taxes handled under the SCT system?
+        answer: |
+          Taxes are paid at the point of destination while goods are still located at the first point of entry.
+      - question: |
+          What is used to monitor goods under the SCT system?
+        answer: |
+          Goods are monitored using an electronic cargo tracking system under the SCT system.
+  - context: |
+      1ps. 1ps. 
+      
+      A :  All  Customs  duties  will  be  paid  in  the  respective
+         destination/importing countries. 
+      
+      ## Q: Will the clearing agents be allowed
+         to operate in the Partner States under the SCT? 
+      
+      A: Yes.  A clearing agent
+         licensed by a Partner State shall be authorized to operate in another Partner
+         State under mutual recognition. 
+      
+      ## Q: Will the agents be able to access all
+         the customs systems under the SCT? 
+      
+      A: Yes.  They will all be able to access
+         the systems.  They will be trained on how to use them.
+      
+      2ps. 
+      
+      ## Q: Is  it  necessary  to  have  a  bond  guarantee  under the SCT? 
+      
+      A: 
+         There  will  be  no  bond  guarantee  for  goods  where taxes  have  been 
+         paid  at  destination.   Bond  guarantee will apply on goods meant for
+         warehousing, temporary importation, transit and on duty remission/ exemption.
+         
+      
+      Q: If a consignment is selected for Physical Examination at the Points of
+         entry, who is responsible for supervising the goods on behalf of the
+         importer? 
+      
+      A: The representatives
+      
+      3ps. at the first point of entry will be responsible for supervising the physical
+         examination of the goods.
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          Who is responsible for paying customs duties under the SCT system?
+        answer: |
+          Customs duties will be paid in the respective destination/importing countries.
+      - question: |
+          Can clearing agents operate across Partner States under the SCT?
+        answer: |
+          Yes, a clearing agent licensed by a Partner State is authorized to operate in another Partner State under mutual recognition.
+      - question: |
+          Will clearing agents have access to the customs systems under the SCT?
+        answer: |
+          Yes, clearing agents will have access to the customs systems and will be trained on how to use them.
+      - question: |
+          Is a bond guarantee required for goods under the SCT?
+        answer: |
+          No bond guarantee is required for goods where taxes have been paid at the destination. However, it applies to goods meant for warehousing, temporary importation, transit, and duty remission/exemption.
+      - question: |
+          Who supervises the physical examination of goods at the first point of entry?
+        answer: |
+          The representatives at the first point of entry are responsible for supervising the physical examination of goods on behalf of the importer.
+document_outline: |
+  **Document Outline:**
+  
+  This document provides a detailed FAQ on the East African Community (EAC) Single Customs Territory (SCT), including its definition, features, and procedures. It addresses topics such as tax regulations, goods clearance processes, treatment of locally produced goods, cargo tracking systems, responsibilities for secure transport, network reliability, and employment opportunities within the SCT framework. Additionally, it provides contact information for further inquiries.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Questions_and_answers_on_single_customs_territory.md

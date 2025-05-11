@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## (LAND DIVISION) ## AT DAR ES SALAAM ## MISC. LAND APPLICATION NO 522 OF 2021 BUSINESS PRINTERS LIMITED...... .....................................................APPLICANT ## VERSUS COMMISSIONER GENERAL OF TANZANIA REVENUE AUHORITY....... ................................... 1st RESPONDENT ATTORNEY GENERAL.......................... 2nd RESPONDENT ## MANSOOR J DATE OF RULING- 07™ OCTOBER 2021 ## RULING The applicant, Business Printers Limited, filed an application for an interim order against the 1st and 2nd respondents and all their agents, affiliates, assignees and officers in and outside the United Republic of Tanzania from selling by way of online auctioning the <!-- image --> Applicant's landed property and printing factory plus its business facilities located at Plot No. 2396/202 Lugoda Street, 2ps. Lugoda Road, Gerezani Area, Ilala District, Dar es Salaam, comprised in a Title Deed No 186063/74, and Directors personal matrimonial houses wherever they are situate, pending the filing of the intended suit. 2ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## (LAND DIVISION) ## AT DAR ES SALAAM ## MISC. The applicant filed the application under section 5 and 2 (1) and (3) of the Judicature and Application of Laws Act, Cap 358 R: E 2019, and sections 68 (c), (e), and section 95 of the Civil Procedure Act, Cap 33 R: E 2002. Section 5 of the Judicature and Application of Laws Act, read as follows: - 5. Subject to any written law to the contrary, a judge of the High Court may exercise all or any part of the jurisdiction of, and all or any 2ps. powers and authorities conferred on, the High Court. Section 2 (1), (2) and (3) of the Judicature and Application of Laws Act reads as follows: - 2.
+    questions_and_answers:
+      - question: |
+          What was the purpose of the application filed by Business Printers Limited?
+        answer: |
+          The application aimed to obtain an interim order preventing the 1st and 2nd respondents and their agents from selling the applicant's property and facilities, including their printing factory and directors' matrimonial houses, by online auction.
+      - question: |
+          What specific property was at the center of the dispute in this application?
+        answer: |
+          The property in dispute included the applicant's printing factory and business facilities located at Plot No. 2396/202, Lugoda Street, Lugoda Road, Gerezani Area, Ilala District, Dar es Salaam, as well as the directors' personal matrimonial houses.
+      - question: |
+          Under which legal provisions did Business Printers Limited file the application?
+        answer: |
+          The application was filed under section 5 and section 2 (1) and (3) of the Judicature and Application of Laws Act, Cap 358 R: E 2019, and sections 68 (c), (e), and 95 of the Civil Procedure Act, Cap 33 R: E 2002.
+      - question: |
+          What authority does section 5 of the Judicature and Application of Laws Act provide to a High Court judge?
+        answer: |
+          Section 5 allows a High Court judge to exercise any part of the jurisdiction, powers, and authorities conferred on the High Court, subject to written laws to the contrary.
+      - question: |
+          Who were the respondents to the application filed by Business Printers Limited?
+        answer: |
+          The 1st respondent was the Commissioner General of the Tanzania Revenue Authority, and the 2nd respondent was the Attorney General.
+  - context: |
+      1ps. 1ps. He said, although he did not title the application as the mareva injunction, but the application is mareva, and that the High Court under the general powers given under section 5 and 2 of JALO can entertain and issue the mareva injunction pending the filing of the suit. Mareva injunctions are therefore used to protect the plaintiff's potential right to access an effective and just remedy at the conclusion of proceedings, ensuring that court process and justice are respected. In the written laws, this kind of remedy can be obtained by an attachment order before judgement provided 2ps. for under Order XXXVI of the Civil Procedure Act, Cap 33 RE 2019. Mareva orders are legislated in the United Kingdom but not available in Tanzania Written Laws. The power to make such an order is derived from the inherent jurisdiction of the High Court, so argues Counsel Florence Tesha. 2ps. 1ps. Mareva injunctions are therefore used to protect the plaintiff's potential right to access an effective and just remedy at the conclusion of proceedings, ensuring that court process and justice are respected. In the written laws, this kind of remedy can be obtained by an attachment order before judgement provided for under Order XXXVI of the Civil Procedure Act, Cap 33 RE 2019. Mareva orders are legislated in the United Kingdom but not available in Tanzania Written Laws. To get the mareva order the applicant must show that he has a good arguable case and to prove that the 2ps. judgment is in danger of being unsatisfied in whole or in part due to the removal or disposal or dealing of the or to and the Court also maintains its discretion to issue a Mareva injunction where it would be in the interests of justice to do so.
+    questions_and_answers:
+      - question: |
+          What is the purpose of a Mareva injunction?
+        answer: |
+          A Mareva injunction is used to protect the plaintiff's potential right to an effective and just remedy at the conclusion of proceedings, ensuring that court process and justice are respected.
+      - question: |
+          Under which laws can a remedy similar to a Mareva injunction be obtained in Tanzania?
+        answer: |
+          In Tanzania, a remedy similar to a Mareva injunction can be obtained by an attachment order before judgment, provided for under Order XXXVI of the Civil Procedure Act, Cap 33 RE 2019.
+      - question: |
+          Why are Mareva orders not available in Tanzania's written laws?
+        answer: |
+          Mareva orders are not available in Tanzania's written laws because they are legislated in the United Kingdom and not specifically included in Tanzania's legal framework.
+      - question: |
+          What are the conditions required to obtain a Mareva injunction?
+        answer: |
+          To obtain a Mareva injunction, the applicant must show a good arguable case and prove that the judgment is at risk of being unsatisfied due to the removal, disposal, or dealing with the assets in question.
+      - question: |
+          What authority allows the High Court of Tanzania to issue a Mareva injunction despite it not being legislated in written laws?
+        answer: |
+          The High Court of Tanzania derives its authority to issue a Mareva injunction from its inherent jurisdiction, as argued by Counsel Florence Tesha.
+  - context: |
+      1ps. 1ps. It erroneously crowned itself with jurisdiction that it did not possess in entertaining and determining this suit, which was fundamentally a tax dispute." Thus, the claim for compensation may not have been listed in the provision but the controlling provision remains to be section 7, therefore, that, any proceedings of a civil nature arising from the respondent's administration of revenue laws ought to be determined by the Board. In the end, the Counsel for the respondent prayed for the Court to dismiss the application as the High Court lacks jurisdiction to try it. He also prayed for 2ps. the costs. Advocate Florence Tesha resisted the preliminary objection with force saying that the Counsel for the respondent had misconceived the nature of the application. That the claims they intend to file is not emanating from administration of revenue laws, but it is for rentals as the respondents have been utilizing the applicant's premises without paying rents. 2ps. 1ps. He also prayed for the costs. Advocate Florence Tesha resisted the preliminary objection with force saying that the Counsel for the respondent had misconceived the nature of the application. That the claims they intend to file is not emanating from administration of revenue laws, but it is for rentals as the respondents have been utilizing the applicant's premises without paying rents. He also said that the respondents ought to have filed the affidavits before taking the objection on jurisdiction, and counsel for the respondent cannot be heard on facts which are not on records. That the courts 2ps. cannot be guided by the mere statements from the bar.
+    questions_and_answers:
+      - question: |
+          What was the nature of the preliminary objection raised by the Counsel for the respondent?
+        answer: |
+          The Counsel for the respondent argued that the High Court lacks jurisdiction to entertain the suit, as it is fundamentally a tax dispute, which should instead be determined by the Board under section 7.
+      - question: |
+          What argument did Advocate Florence Tesha present to counter the preliminary objection?
+        answer: |
+          Advocate Florence Tesha argued that the intended claims were not related to the administration of revenue laws but were for unpaid rentals, as the respondents had been utilizing the applicant's premises without paying rent.
+      - question: |
+          Why did Advocate Florence Tesha argue that the respondents' objection on jurisdiction was procedurally flawed?
+        answer: |
+          She stated that the respondents ought to have filed affidavits before raising the objection, and that the court cannot rely on mere statements from the bar in support of the objection.
+      - question: |
+          What specific provision did the Counsel for the respondent rely on when arguing that the suit should not be heard in the High Court?
+        answer: |
+          The Counsel for the respondent argued that section 7 was the controlling provision and mandates that civil matters arising from the administration of revenue laws should be determined by the Board.
+      - question: |
+          What additional relief did both Counsel for the respondent and Advocate Florence Tesha request beyond their respective arguments?
+        answer: |
+          Both parties requested the Court to order costs in their favor in addition to their primary arguments on the jurisdiction issue.
+  - context: |
+      1ps. 1ps. The Counsel for the respondents Mr. Gallus Lupogo, State Attorney, said, section 7 of the Tax Revenue Appeals Act, Cap 408 R: E 2002 ousted the jurisdiction of the ordinary Courts, High Court in particular from entertaining and determining matters emanating from revenue laws. In the end, the Justices of Appeal at page 11 and 12 of the typed judgement had held that, "the High Court had no powers to determine a dispute of a civil nature in respect of a dispute arising from a revenue law." The Counsel for the respondent also referred this Court to the case 2ps. of Tanzania Revenue Authority vs Tango Transport Company Limited, Civil Appeal No. 84 of 2009, (unreported), the Court of Appeal sitting at Arusha. In this case Tango Transport Limited sued the TRA at the High Court for general damages, restoration of the value of its properties, interests and costs arising out of a sale by public auction the vehicles of Tango Transport which were held by TRA by a warrant of distress. 2ps. 1ps. In the end, the Justices of Appeal at page 11 and 12 of the typed judgement had held that, "the High Court had no powers to determine a dispute of a civil nature in respect of a dispute arising from a revenue law." The Counsel for the respondent also referred this Court to the case of Tanzania Revenue Authority vs Tango Transport Company Limited, Civil Appeal No. 84 of 2009, (unreported), the Court of Appeal sitting at Arusha. In deciding the matter, the Court of Appeal at page 3 of the typed proceedings had held that "a question 2ps.
+    questions_and_answers:
+      - question: |
+          What does section 7 of the Tax Revenue Appeals Act, Cap 408 R: E 2002 stipulate regarding court jurisdiction?
+        answer: |
+          Section 7 of the Tax Revenue Appeals Act, Cap 408 R: E 2002 ousts the jurisdiction of ordinary courts, including the High Court, from entertaining and determining matters arising from revenue laws.
+      - question: |
+          What was the judgement of the Justices of Appeal regarding the High Court’s powers in revenue law disputes?
+        answer: |
+          The Justices of Appeal held that the High Court had no powers to determine a dispute of a civil nature in respect of a dispute arising from a revenue law.
+      - question: |
+          What was the nature of the dispute in the case of Tanzania Revenue Authority vs Tango Transport Company Limited?
+        answer: |
+          The dispute involved Tango Transport suing the Tanzania Revenue Authority for general damages, restoration of the value of its properties, interests, and costs arising from the public auction of its vehicles held by TRA through a warrant of distress.
+      - question: |
+          What legal precedent did the Counsel for the respondent reference regarding court jurisdiction over revenue law disputes?
+        answer: |
+          The Counsel referenced the case of Tanzania Revenue Authority vs Tango Transport Company Limited, Civil Appeal No. 84 of 2009, where it was held that the High Court had no jurisdiction over such disputes.
+      - question: |
+          Where did the Court of Appeal sit when deciding the case of Tanzania Revenue Authority vs Tango Transport Company Limited, and what was its conclusion?
+        answer: |
+          The Court of Appeal sat in Arusha and concluded that the High Court lacked the power to decide civil disputes arising from revenue law matters.
+  - context: |
+      1ps. 1ps. I understand that the procedure for raising preliminary objections on points of law is that the Respondent or Defendant files a statement of defense wherein the point of law is raised or if it is an application, the Respondent shall canvass the objection in the Notice of Preliminary Objection. However, a trial without jurisdiction is a nullity and the importance of jurisdiction is the reason why it can be raised at any stage of a case, be it at the trial, on appeal to the Court of Appeal or before any steps have been taken in the suit or 2ps. application. Thus, it was correct on the part of the respondent to take up the issue of jurisdiction at the earliest stage of the proceedings before taking any other step in the proceedings, and that the Court was well within its ambit to entertain the issue of jurisdiction before embarking into the proceedings. 2ps. 1ps. It is advised that because the issue of jurisdiction is regarded as a threshold issue and a lifeline for continuing any proceedings, objection to it ought to be taken at the earliest opportunity and a decision should be reached on it before any other step in the proceedings is taken, because if there is no jurisdiction, the entire proceedings are a nullity no matter how well conducted. The Counsel for the applicant did not state any facts which are not in the records, the issue of jurisdiction has been gathered from the applicant's own pleadings and annexures. From 2ps. the annexures attached to the applicant's affidavit, the respondent took possession of the applicant's premises under the distress order. The applicant was notified by the Commissioner General of TRA under a distress warrant for payments of taxes.
+    questions_and_answers:
+      - question: |
+          What are the two ways a Respondent or Defendant can raise preliminary objections on points of law?
+        answer: |
+          A Respondent or Defendant can raise preliminary objections on points of law either by filing a statement of defense where the point of law is raised or by canvassing the objection in the Notice of Preliminary Objection if it is an application.
+      - question: |
+          Why can the issue of jurisdiction be raised at any stage of a case?
+        answer: |
+          Jurisdiction can be raised at any stage of a case because a trial without jurisdiction is considered a nullity, and jurisdiction is a critical threshold issue that must be resolved before any further steps in the proceedings.
+      - question: |
+          What is the recommended approach for objecting to jurisdiction, and why?
+        answer: |
+          Objections to jurisdiction should be raised at the earliest opportunity because jurisdiction is a threshold issue, and if the court lacks jurisdiction, the entire proceedings become a nullity regardless of how well they are conducted.
+      - question: |
+          On what basis was jurisdiction determined in this case according to the applicant's pleadings?
+        answer: |
+          Jurisdiction was determined based on the applicant's own pleadings and annexures, which showed that the respondent took possession of the applicant's premises under a distress order notified by the Commissioner General of TRA for payment of taxes.
+      - question: |
+          Why was the respondent’s decision to address the issue of jurisdiction at an early stage deemed appropriate?
+        answer: |
+          The respondent’s decision was deemed appropriate because jurisdiction is fundamental to the validity of proceedings, and addressing it early ensures the court can make a decision on this threshold issue before proceeding further.
+document_outline: |
+  **Document Outline:**  
+  This High Court of Tanzania ruling concerns a Miscellaneous Land Application filed by Business Printers Limited, which seeks an interim injunction to prevent the Tanzania Revenue Authority and Attorney General from auctioning its property, pending the filing of an intended suit. The application invokes sections of the Judicature and Application of Laws Act and the Civil Procedure Code, focusing on the High Court's jurisdiction and discretionary powers to issue orders when no specific written law provides for such relief.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Business_Printers_Limited_vs_Commissioner_General_of_Tanzania_Revenue_Authority_and_Another_(Misc_Land_Application_522_of_2021)_2021_TZHCLandD_653_(7_October_2021).md

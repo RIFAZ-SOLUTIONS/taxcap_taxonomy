@@ -1,0 +1,124 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 2ps. 3ps. 4ps. 5ps. 6ps. | | 03 | Rate of tax/Kiwango cha kodi. 7ps. 8ps. 9ps. 10ps. 11ps. 12ps. 13ps. | | 04 | VAT amount/Kiasi cha kodi kilichotozwa. 14ps. 15ps. 16ps. 17ps. 18ps. 19ps. | | 05 | Value of purchases on Capital Goods on which VAT has been deferred /Thamani ya manunuzi kwenye bidhaa za mtaji ambayo Kodi imeahirishwa. 20ps. 21ps. 22ps. 23ps. 24ps. | | 06 | Value of zero rated supplies/Thamani ya mauzo ya bidhaa/huduma zinazotozwa kodi kwa 25ps. kiwango cha asilimia sifuri. 26ps. 27ps. 28ps. 29ps. 30ps. | | 07 | Value of exempted supplies/ Thamani ya mauzo ya bidhaa/huduma zilizosamehewa VAT. 31ps. 32ps. 33ps. 34ps. 35ps. 36ps. | | 08 | Value of supplies to relieved persons/ Thamani ya mauzo kwa bidhaa/huduma zilizouzwa kwa taasisi zilizopewa nafuu maalum ya kodi. 37ps. 38ps. 39ps. 40ps. 41ps. | | 09 | Value of imported services /Thamani ya huduma kutoka nje ya nchi 42ps. 43ps. 44ps. 45ps. 46ps. 47ps. | | 10 | Rate of tax/Kiwango cha kodi. 48ps. 49ps. 50ps. 51ps. 52ps. 53ps. 54ps. | | 11 | VAT amount/Kiasi cha kodi kilichotozwa. 2ps. 1ps. 2ps. 3ps. 4ps. 5ps. 6ps. | | 08 | Value of supplies to relieved persons/ Thamani ya mauzo kwa bidhaa/huduma zilizouzwa kwa taasisi zilizopewa nafuu maalum ya kodi. 7ps. 8ps. 9ps. 10ps. 11ps. 12ps. | | 09 | Value of imported services /Thamani ya huduma kutoka nje ya nchi 13ps. 14ps. 15ps. 16ps. 17ps. 18ps. | | 10 | Rate of tax/Kiwango cha kodi. 19ps. 20ps. 21ps. 22ps. 23ps. 24ps. | | 11 | VAT amount/Kiasi cha kodi kilichotozwa. 25ps. 26ps. 27ps. 28ps. 29ps. 30ps. | | 12 | Total output (sales) (box 2+ 5+ 6+7+8+9) /Jumla ya mauzo 31ps. 32ps. 33ps. 34ps. 35ps. 36ps.
+    questions_and_answers:
+      - question: |
+          What does 'Rate of tax/Kiwango cha kodi' represent in the context?
+        answer: |
+          'Rate of tax/Kiwango cha kodi' refers to the applicable percentage rate at which Value Added Tax (VAT) is charged on taxable goods or services provided in the specified sections.
+      - question: |
+          What does the 'Value of supplies to relieved persons' mean?
+        answer: |
+          The 'Value of supplies to relieved persons' refers to the monetary worth of goods or services sold to entities or individuals granted special tax relief under particular conditions.
+      - question: |
+          How is the 'Value of zero rated supplies' defined?
+        answer: |
+          The 'Value of zero rated supplies' includes the total worth of goods or services sold that are taxed at a VAT rate of 0%, typically under special exemptions or export scenarios.
+      - question: |
+          What is included in the 'Value of purchases on Capital Goods on which VAT has been deferred'?
+        answer: |
+          This refers to the value of purchases of capital goods where the VAT has not been paid immediately but deferred for a later period, often to support businesses with cash flow.
+      - question: |
+          How is the 'Total output (sales)' calculated?
+        answer: |
+          The 'Total output (sales)' is the sum of taxable sales, including values from boxes 2, 5, 6, 7, 8, and 9, representing different types of sales and supplies.
+  - context: |
+      1ps. 1ps. Note / Tanbihi ITX240.02.B - VAT Monthly Return <!-- image --> ## TANZANIA REVENUE AUTHORITY ## VALUE ADDED TAX RETURN / RITANI YA KODI YA ONGEZEKO LA THAMANI Before filling this form please read carefully instructions provided overleaf. Kabla ya kujaza fomu hii tafadhali soma kwa uangalifu maelezo yaliyopo nyuma ya fomu Taxpayer Identification Number (TIN) / Namba ya Utambulisho VAT registration number / Namba ya usajili wa VAT This return is for the Month of / Ritani hii ni ya mwezi wa Full name of business / Jina kamili la biashara Postal address / Anuni ya posta For NIL return tick (  ) here Kwa ritani isiyo na malipo weka alama 2ps. (  ) hapa 01 ## Supplies of goods &amp; or Services / Mauzo ya bidhaa na / au huduma Value (Excluding VAT) / Thamani (bila kodi) VAT Rate / (Kiwango) VAT Amount / (Kiasi cha Kodi) Taxable supplies / Mauzo yanayotozwa VAT 02 03 04 Value of capital Goods for which VAT is deferred/Thamani ya bidhaa za mtaji ambazo Kodi yake imeahirishwa. 2ps. 1ps. Note / Tanbihi ITX240.02.B - VAT Monthly Return <!-- image --> ## TANZANIA REVENUE AUTHORITY ## VALUE ADDED TAX RETURN / RITANI YA KODI YA ONGEZEKO LA THAMANI Before filling this form please read carefully instructions provided overleaf.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the TANZANIA REVENUE AUTHORITY VAT Monthly Return form?
+        answer: |
+          The VAT Monthly Return form is used to report value-added tax (VAT) activities for a specific month, including taxable supplies, VAT rates, and amounts, as well as deferred VAT on capital goods.
+      - question: |
+          What should taxpayers do before filling out the VAT Monthly Return form?
+        answer: |
+          Taxpayers are instructed to carefully read the instructions provided on the back of the form before filling it out.
+      - question: |
+          What identification details are required to fill the VAT Monthly Return form?
+        answer: |
+          Taxpayers are required to provide their Taxpayer Identification Number (TIN), VAT registration number, and the full name and postal address of their business.
+      - question: |
+          How can a taxpayer declare a NIL return in the VAT Monthly Return form?
+        answer: |
+          To declare a NIL return, the taxpayer must tick () the designated checkbox on the form.
+      - question: |
+          What information is required in the section for taxable supplies and services?
+        answer: |
+          The form requires the value of goods and/or services supplied (excluding VAT), the applicable VAT rate, and the calculated VAT amount for taxable supplies.
+  - context: |
+      1ps. 1ps.  /Jaza tofauti kati ya kiasi katika sanduku la 12 na 25. Iwapo kiasi kilichopo
+         ndani ya sanduku la 12 ni kikubwa zaidi, tofauti hiyo ni kodi unayostahili
+         kulipa.  Endapo kiasi kilichopo ndani ya sanduku la 25 ni kikubwa kuliko kile
+         cha sanduku la 12, tofauti hiyo iwekwe katika mabano ( ) na hicho ndicho
+         kiasi unachostahili kurejeshewa katika mwezi huo.  |
+      |      28 | Enter the
+         amount of any VAT credit brought forward from previous months/Jaza marejesho
+         ya kodi yanayotokana na miezi iliyopita.          
+      
+      2ps.                                                                                 
+                           
+      
+      3ps.                                                                                 
+                           
+      
+      4ps.                                                                                 
+                           
+      
+      5ps.                                                                                 
+                           
+      
+      6ps.                                                                                 
+                           
+      
+      7ps.           |
+      |      29 | Enter the difference between the amount in boxes 25 and
+         26. This is the amount actually due for payment to TRA or to be carried
+         forward by the taxable person (if it is a credit balance) /Jaza tofauti ya
+         kiasi kilichopo katika sanduku la 25 na 26. Hiki ndicho kiasi kinachostahili
+         kulipwa TRA au kuhamishiwa mwezi unaofuata (endapo ni marejesho).            
+                  
+      
+      8ps.                                                                                 
+                           
+      
+      9ps.                                                                                 
+                           
+      
+      10ps.                                                                                
+         |
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What happens if the amount in box 12 is larger than the amount in box 25?
+        answer: |
+          The difference between the two amounts is considered the tax you are required to pay.
+      - question: |
+          How is the difference treated if the amount in box 25 is greater than the amount in box 12?
+        answer: |
+          The difference is placed in parentheses, indicating that it is the amount you are eligible to receive as a refund for that month.
+      - question: |
+          What should be entered in relation to VAT credits from previous months?
+        answer: |
+          You should enter the amount of any VAT credit brought forward from previous months in the designated section.
+      - question: |
+          What is the significance of the difference between the amounts in boxes 25 and 26?
+        answer: |
+          This difference represents the amount due for payment to TRA or the credit balance to be carried forward to the next month.
+      - question: |
+          What should you do if the difference in box 25 and box 26 is a credit balance?
+        answer: |
+          The credit balance should be carried forward to the following month.
+document_outline: |
+  **Document Outline**:  
+  The document is a VAT Monthly Return form (ITX240.02.B) from the Tanzania Revenue Authority, intended for businesses to report value-added tax (VAT) transactions for a specific month. It includes sections for providing business and taxpayer details, reporting VAT on supplies, purchases, and imports, and making a declaration, along with completion instructions and official use guidelines.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - ITX_240.02.B_-_VAT_monthly_return.md

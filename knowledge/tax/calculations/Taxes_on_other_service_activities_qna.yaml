@@ -1,0 +1,80 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Taxes on other service activities Here is a comprehensive list of taxes, levies, duties, and customs that businesses in the sector of other service activities in Tanzania might be obliged to pay. Each item includes a description, the applicable law, the rate at which it is charged, and an example of how it is calculated: ## 1. Pay As You Earn (PAYE) - o Description : Tax withheld from employee salaries. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : For an employee earning TZS 1,000,000 per month: -  2ps. Calculation: PAYE = TZS 82,500 + 25% of the amount exceeding TZS 720,000. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of businesses in the sector. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. 2ps. 1ps. - o Example Calculation : For an employee earning TZS 1,000,000 per month: -  Calculation: PAYE = TZS 82,500 + 25% of the amount exceeding TZS 720,000. ## 2. Corporate Income Tax - o Description : Tax on the taxable income of businesses in the sector. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a repair service company has a taxable income of TZS 50,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 50,000,000 = TZS 15,000,000. ## 3. Value Added Tax (VAT) - o Description : Tax 2ps. on goods and services sold by businesses in the sector. - o Law : Value Added Tax Act, 2014. - o Rate : Standard rate is 18%.
+    questions_and_answers:
+      - question: |
+          What is Pay As You Earn (PAYE) and how is it calculated for an employee earning TZS 1,000,000 per month?
+        answer: |
+          PAYE is a tax withheld from employee salaries under the Income Tax Act, 2004, with progressive rates up to 30%. For an employee earning TZS 1,000,000 per month, PAYE is calculated as TZS 82,500 plus 25% of the amount exceeding TZS 720,000.
+      - question: |
+          What is the Corporate Income Tax rate in Tanzania, and how much would a company with a taxable income of TZS 50,000,000 pay?
+        answer: |
+          The Corporate Income Tax rate in Tanzania is 30% of taxable income, as per the Income Tax Act, 2004. A company with a taxable income of TZS 50,000,000 would pay TZS 15,000,000 as Corporate Income Tax.
+      - question: |
+          Which law governs the taxation of goods and services through Value Added Tax (VAT) in Tanzania, and what is the standard VAT rate?
+        answer: |
+          The Value Added Tax (VAT) in Tanzania is governed by the Value Added Tax Act, 2014, and the standard VAT rate is 18%.
+      - question: |
+          What is the taxable base for Corporate Income Tax, and how is this tax described?
+        answer: |
+          The taxable base for Corporate Income Tax is the taxable income of businesses, and it is described as a tax levied on this income under the Income Tax Act, 2004.
+      - question: |
+          How are taxes on employee salaries regulated in Tanzania, and what is the maximum PAYE rate?
+        answer: |
+          Taxes on employee salaries in Tanzania are regulated under the Income Tax Act, 2004, with a maximum PAYE rate of 30%.
+  - context: |
+      1ps. 1ps. ## 9. Customs Duties - o Description : Duties on imported goods and equipment for the sector. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing spare parts valued at TZS 15,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 15,000,000 = TZS 1,500,000. ## 10. Excise Duty - o Description : Duty on specific goods sold by businesses in the sector. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per 2ps. item, often ad valorem. - o Example Calculation : Selling electronics at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in the sector. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. 2ps. 1ps. - o Example Calculation : Selling electronics at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. ## 11. Training Levy - o Description : Levy for skills development and training in the sector. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. - o Example Calculation : Total monthly payroll of TZS 30,000,000: -  Calculation: Training Levy = 4.5% × TZS 30,000,000 = TZS 1,350,000. ## 12. Environmental Levy - o Description : Levy to fund environmental protection measures related to activities in 2ps. the sector. - o Law : Environmental Management Act, 2004. - o Rate : Typically 0.
+    questions_and_answers:
+      - question: |
+          What is the typical range of customs duty rates under the East African Community Customs Management Act, 2004?
+        answer: |
+          The customs duty rates typically range from 0% to 25%, depending on the imported item.
+      - question: |
+          How is the excise duty calculated for goods sold under the Excise (Management and Tariff) Act, 2015?
+        answer: |
+          The excise duty is calculated by applying the specific rate, often ad valorem, to the value of goods sold. For instance, a 15% excise duty on goods worth TZS 5,000,000 results in TZS 750,000.
+      - question: |
+          What is the purpose of the Training Levy, and how is its rate determined?
+        answer: |
+          The Training Levy is meant to fund skills development and training in the sector. It is calculated at a rate of 4.5% of the total payroll.
+      - question: |
+          Under which law is the Environmental Levy established, and what is its purpose?
+        answer: |
+          The Environmental Levy is established under the Environmental Management Act, 2004, and it is used to fund environmental protection measures related to sector activities.
+      - question: |
+          How much customs duty would be charged for importing spare parts worth TZS 15,000,000 at a 10% duty rate?
+        answer: |
+          The customs duty would be TZS 1,500,000, calculated as 10% × TZS 15,000,000.
+  - context: |
+      1ps. 1ps. - o Rate : Calculated based on the specific tax or duty owed and period of noncompliance. ## 19. Development Levy - o Description : Levy for local community development related to projects in the sector. - o Law : Local Government Finance Act, 1982. - o Rate : Typically 0.3% of turnover. - o Example Calculation : Turnover for the year of TZS 100,000,000: -  Calculation: Development Levy = 0.3% × TZS 100,000,000 = TZS 300,000. ## 20. Occupational Safety and Health Fee - o Description : Fee for compliance with occupational safety and health regulations. - o Law : Occupational Safety 2ps. and Health Act, 2003. - o Rate : Varies based on the scale and nature of operations. ## 21. Public Service Fees - o Description : Fees for specific public services provided to businesses in the sector. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on service type and delivery costs. 2ps. 1ps. ## 21. Public Service Fees - o Description : Fees for specific public services provided to businesses in the sector. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on service type and delivery costs. ## 22. Dividend Tax - o Description : Tax on dividends paid to shareholders of private businesses in the sector. - o Law : Income Tax Act, 2004. - o Rate : 10% for residents, 20% for non-residents. - o Example Calculation : Paying TZS 10,000,000 in dividends to non-resident shareholders: -  Calculation: Dividend Tax = 20% × TZS 10,000,000 = TZS 2ps. 2,000,000. ## 23. Foreign Service Levy - o Description : Levy on foreign services utilized by businesses in the sector. - o Law : Income Tax Act, 2004.
+    questions_and_answers:
+      - question: |
+          What is the basis for calculating the Development Levy, and what is an example of its calculation?
+        answer: |
+          The Development Levy is calculated as 0.3% of a business's turnover. For example, if a business has a turnover of TZS 100,000,000, the levy would be 0.3% × TZS 100,000,000 = TZS 300,000.
+      - question: |
+          Under which law is the Occupational Safety and Health Fee regulated, and why is this fee required?
+        answer: |
+          The Occupational Safety and Health Fee is regulated under the Occupational Safety and Health Act, 2003. It is required to ensure compliance with occupational safety and health regulations.
+      - question: |
+          How is the rate for Public Service Fees determined, and what is their purpose?
+        answer: |
+          The rate for Public Service Fees is determined based on the type of service provided and associated delivery costs. These fees cover specific public services provided to businesses in the sector.
+      - question: |
+          What are the Dividend Tax rates for residents and non-residents, and how is it calculated for non-residents?
+        answer: |
+          The Dividend Tax rate is 10% for residents and 20% for non-residents. For example, if a company pays TZS 10,000,000 in dividends to non-resident shareholders, the tax would be 20% × TZS 10,000,000 = TZS 2,000,000.
+      - question: |
+          What is the Foreign Service Levy, and which law governs it?
+        answer: |
+          The Foreign Service Levy is a levy imposed on foreign services utilized by businesses in the sector. It is governed by the Income Tax Act, 2004.
+document_outline: |
+  This document provides a detailed overview of taxes, levies, duties, and customs applicable to businesses in the "other service activities" sector in Tanzania. Each section outlines the type of tax, relevant legislative framework, applicable rates, and examples of calculation, covering items such as Pay As You Earn (PAYE), Corporate Income Tax, Value Added Tax (VAT), and more.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_on_other_service_activities.md

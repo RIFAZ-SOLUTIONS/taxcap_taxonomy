@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR ES SALAAM CIVIL APPLICATION. NO. 389/01 OF 2017 GEITA GOLD MINING LIMITED ...••.• , •••••••••.............................•......... APPLICANT ## VERSUS ## COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY ...............•....••.......................• RESPONDENT (Appeal from the Decision of the Tax Revenue Appeals Tribunal at Dar es Salaam.) ## (Twaibu J.) 1 dated the 23rd day of February, 2017 in Tax Appeal No. 24 of 2015 ## RULING 29th March &amp; 4th April 201.9 ## KOROSSO, l.A.: The application came for hearing today, in 2ps. the presence of !'-if. Chelubini Ludovick Chuwa, learned Advocate for the respondent. Neither the applicant or his counsel were present, despite the fact that summons reveal they were duly served. The Counsel for the respondent, informed the Court that they do not have any objection to the Application and the prayers sought by the applicant. This is an application, where the applicant, Geita Gold Mining Limited seeks an order to be granted extension of time to file supplementary 1. . \_\_ - ------------ 3ps. records of appeal in Civil Appeal 1\10. 2ps. 1ps. Neither the applicant or his counsel were present, despite the fact that summons reveal they were duly served. The Counsel for the respondent, informed the Court that they do not have any objection to the Application and the prayers sought by the applicant. This is an application, where the applicant, Geita Gold Mining Limited seeks an order to be granted extension of time to file supplementary 1. . \_\_ - ------------ records of appeal in Civil Appeal 1\10. 132 of 201"1 filed in the 2ps. Court on 19/6/201"1. The appeal is against the decision of the Tax Revenue Appeats Tribunal in Tax Appeal No.
+    questions_and_answers:
+      - question: |
+          Who is the applicant in this case and who is the respondent?
+        answer: |
+          The applicant is Geita Gold Mining Limited, and the respondent is the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What order is the applicant seeking in this application?
+        answer: |
+          The applicant, Geita Gold Mining Limited, seeks an order for an extension of time to file supplementary records of appeal in Civil Appeal No. 132 of 2011.
+      - question: |
+          What was notable about the applicant's and their counsel's attendance at the hearing?
+        answer: |
+          Neither the applicant nor their counsel were present at the hearing, despite being duly served with summons.
+      - question: |
+          How did the counsel for the respondent respond to the application and the prayers sought by the applicant?
+        answer: |
+          The counsel for the respondent informed the court that they did not have any objection to the application or the prayers sought by the applicant.
+      - question: |
+          What prior decision is being appealed in this case?
+        answer: |
+          The case is an appeal against the decision of the Tax Revenue Appeals Tribunal in Tax Appeal No. 24 of 2015.
+  - context: |
+      1ps. 1ps. 
+      
+      Since there  was  no  prayer  for  costs from  the  counsel for  the
+         Respondent,  each  party to bear  own costs. 
+      
+      DATED at DAR ES SALAAM this 29
+         th  day  of  March, 2019.
+      
+      ## W. B. KOROSSO
+      
+      ## JUSTICE  OF APPEAL
+      
+      I certify
+         that this is a true co 1 y.  0, f,Che  ori,9inal. 
+      
+      A. H. MSUMI
+      
+      <!-- image
+         -->
+      
+      DEPUTY REGISTRAR COURT OF APPEAL
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the decision regarding costs in the case?
+        answer: |
+          Each party was instructed to bear their own costs, as there was no prayer for costs from the counsel for the Respondent.
+      - question: |
+          On what date was this document issued?
+        answer: |
+          The document was dated 29th March, 2019.
+      - question: |
+          Who was the Justice of Appeal responsible for this decision?
+        answer: |
+          The Justice of Appeal responsible for this decision was W. B. Korosso.
+      - question: |
+          Who certified the document as a true copy of the original?
+        answer: |
+          The document was certified as a true copy of the original by A. H. Msumi, the Deputy Registrar of the Court of Appeal.
+      - question: |
+          Where was this document dated and issued?
+        answer: |
+          The document was dated and issued in Dar es Salaam.
+document_outline: |
+  **Document Outline:**  
+  The document pertains to a ruling by the Court of Appeal of Tanzania in Civil Application No. 389/01 of 2017, where the applicant, Geita Gold Mining Limited, sought an extension of time to file supplementary records of appeal. The Court granted the application, citing good cause for the delay, and directed the applicant to file the necessary documents within 14 days, while ordering each party to bear their own costs.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Geita_Gold_Mining_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_389_of_2017)_2019_TZCA_75_(4_April_2019).md

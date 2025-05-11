@@ -1,0 +1,97 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C8
+      
+      ## EAST AFRICAN COMMUNITY
+      
+      CUSTOMS
+      
+      <!-- image -->
+      
+      ## APPLICATION TO BREAK
+         BULK PRIOR TO MAKING REPORT AND TO UNLOAD GOODS PRIOR TO ENTRY
+      
+      To The Proper
+         Officer,
+      
+      at………………..…………………………. 
+      
+      Aircraft /
+         Vessel ……………………………. 
+      
+      Rotation No:
+         ……………………….
+         
+      
+      Date…………………………………
+      
+      From
+         ………………………………. 
+      
+      I request for permission to -
+      
+      (a)
+         break bulk prior to making report of my aircraft or vessel;
+      
+      (b) unload the
+         cargo of my aircraft/vessel before such cargo has been entered.
+         
+      
+      ………………………………………………………. 
+      
+      Master
+         or Agent
+      
+      Authorised/Not Authorised* -                  .
+      
+      .            
+         ……………………………. 
+      
+      2ps.        ……………………. 
+      
+      Proper Officer
+      
+      Date
+      
+      NOTE: Permission to
+         break bulk prior to making report is not necessary in the case of a vessel of
+         two hundred and fifty tons register or more. 
+      
+      * Delete whichever is
+         inapplicable
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          Who needs to submit a request to break bulk prior to making a report?
+        answer: |
+          The Master or Agent of the aircraft or vessel must submit a request to the Proper Officer.
+      - question: |
+          What actions are being requested in the application form?
+        answer: |
+          The application requests permission to (a) break bulk prior to making a report and (b) unload cargo before the cargo has been entered.
+      - question: |
+          When is permission to break bulk prior to making a report unnecessary?
+        answer: |
+          It is unnecessary for vessels that are two hundred and fifty tons register or more.
+      - question: |
+          Who authorizes or denies the request in the provided application form?
+        answer: |
+          The Proper Officer reviews and either authorizes or denies the request.
+      - question: |
+          What information must be provided in the application form besides the request itself?
+        answer: |
+          The form requires information such as the officer's location, aircraft or vessel details, rotation number, date, and the name of the requesting Master or Agent.
+document_outline: |
+  **Document Outline:**  
+  The document is a formal application form under the East African Community Customs framework, allowing an aircraft or vessel master or agent to request permission to either break bulk prior to reporting or unload cargo prior to entry, subject to authorization by a Proper Officer. It includes fields for relevant details and notes specific exemptions for vessels over 250 tons.  
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c8-application-to-break-bulk-prior-to-making-report.md

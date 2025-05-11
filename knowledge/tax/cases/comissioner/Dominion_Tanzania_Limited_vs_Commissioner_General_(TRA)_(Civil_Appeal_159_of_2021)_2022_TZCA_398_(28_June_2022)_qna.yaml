@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. A similar position was taken in numerous cases. Mr. Mukebezi has invited the Court to rely on Pan African Energy Company Limited's case (supra) in which the Court while relying on the interpretation of section 9 (1 ) (vii) (c) of the Indian Income Tax Act had interpretated section 69 (i) (i) of the ITA 2004 to the effect that a private company had no obligation to withhold 2ps. tax if the services fees paid were for services rendered outside the country as in his view is a good law . However, we think, the position on this matter is now well settled following the decision in Tullow Tanzania BV (supra) where the Court interpreted the said provision and stated that: "It is our strong view that the word "rendered" used under section 69 (i) (i) is synonymous to words "supplied" or "delivered". In this regard, a non-resident has delivered / supplied services to a resident of the 3ps. United Republic of Tanzania. 2ps. 1ps. Mr. Mukebezi has invited the Court to rely on Pan African Energy Company Limited's case (supra) in which the Court while relying on the interpretation of section 9 (1 ) (vii) (c) of the Indian Income Tax Act had interpretated section 69 (i) (i) of the ITA 2004 to the effect that a private company had no obligation to withhold tax if the services fees paid were for services rendered 2ps. outside the country as in his view is a good law . The recipient of the service is actually the payer for such services, in which case " source of payment" cannot be any other place except where the payer resides. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What interpretation of section 69 (i) (i) of the ITA 2004 was derived from the Pan African Energy Company Limited case?
+        answer: |
+          The interpretation was that a private company had no obligation to withhold tax if the service fees paid were for services rendered outside the country.
+      - question: |
+          How did the Court in the Tullow Tanzania BV case view the term 'rendered' in section 69 (i) (i) of the ITA 2004?
+        answer: |
+          The Court interpreted the word 'rendered' to be synonymous with 'supplied' or 'delivered,' meaning that the non-resident had delivered or supplied services to a resident of Tanzania.
+      - question: |
+          Why did Mr. Mukebezi invite the Court to rely on the Pan African Energy Company Limited case?
+        answer: |
+          Mr. Mukebezi believed that the interpretation of section 9 (1)(vii)(c) of the Indian Income Tax Act, applied to section 69 (i) (i) of the ITA 2004, was good law and relevant to his case.
+      - question: |
+          What does the term 'source of payment' imply in the context of withholding taxes for services rendered?
+        answer: |
+          The term 'source of payment' implies that the payer's location determines the source, as the recipient of the service is the entity making the payment.
+      - question: |
+          How did the Tullow Tanzania BV case contribute to settling the interpretation of section 69 (i) (i) of the ITA 2004?
+        answer: |
+          The Tullow Tanzania BV case established that services are considered 'rendered' if they are delivered or supplied to a resident of Tanzania, thereby clarifying the obligation to withhold tax.
+  - context: |
+      1ps. 1ps. ( ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM ## CORAM: MKUYE. J.A.. LEVIRA. J.A. And MWAMPASHI, 3 JU CIVIL APPEAL NO. 159 OF 2021 DOMINION TANZANIA LIMITED................................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)...........................................RESPONDENT [Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam] (Hon. D.C. Kamuzora - (Vice Chairman^ dated the 2n d day of December, 2020 in Tax Appeal No. 54 of 2019 ## JUDGMENT OF THE COURT 3d &amp; 2&amp;h June, 2022 ## MKUYE, J.A,: In this appeal, the appellant Dominion Tanzania Limited, is challenging the decision and decree 2ps. of the Tax Revenue Appeals Tribunal (henceforth "the TRAT") dated 2n d December, 2020 in Tax Appeal No. 54 of 2019 which upheld the decision of the Tax Revenue Appeals Board (henceforth "the TRAB") in Tax Appeal No. 1 3 5 of 2013 dated 3r d April, 2 0 1 9 . 2ps. 1ps. J.A.. LEVIRA. J.A. And MWAMPASHI, 3 JU CIVIL APPEAL NO. 159 OF 2021 DOMINION TANZANIA LIMITED................................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)...........................................RESPONDENT [Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam] (Hon. The facts of this case can be briefly stated as follows: The appellant is a company incorporated in the United Republic of Tanzania (URT) dealing in oil and gas exploration. It operates in one offshore exploration block (Block 7) in Tanzania. Its operation involves acquisition of raw seismic data from the exploration 2ps.
+    questions_and_answers:
+      - question: |
+          Who is the appellant in the Civil Appeal No. 159 of 2021?
+        answer: |
+          The appellant in Civil Appeal No. 159 of 2021 is Dominion Tanzania Limited.
+      - question: |
+          What was the appellant Dominion Tanzania Limited challenging in this appeal?
+        answer: |
+          Dominion Tanzania Limited was challenging the decision and decree of the Tax Revenue Appeals Tribunal (TRAT) dated 2nd December 2020, which upheld the decision of the Tax Revenue Appeals Board (TRAB) in Tax Appeal No. 135 of 2013.
+      - question: |
+          What type of business is Dominion Tanzania Limited involved in?
+        answer: |
+          Dominion Tanzania Limited is involved in oil and gas exploration and operates in an offshore exploration block (Block 7) in Tanzania.
+      - question: |
+          What court delivered the judgment in the Civil Appeal No. 159 of 2021?
+        answer: |
+          The judgment in Civil Appeal No. 159 of 2021 was delivered by the Court of Appeal of Tanzania.
+      - question: |
+          Which tribunal's decision was appealed in Civil Appeal No. 159 of 2021?
+        answer: |
+          The decision of the Tax Revenue Appeals Tribunal (TRAT), dated 2nd December 2020, was appealed in Civil Appeal No. 159 of 2021.
+  - context: |
+      1ps. 1ps. Upon hearing both parties, the TRAB found in favour of the respondent holding that the payments made to a non-resident by a resident having a source in the United Republic of Tanzania (URT) was subject to withholding tax. Dissatisfied b y the TRAB's decision, the appellant appealed to TRAT but his appeal was dismissed. It went on to hold that the Finance Act 2020 did not change the 2ps. position of the law in section 6 9 (i) of the ITA 2 0 0 4 . 2ps. 1ps. Dissatisfied b y the TRAB's decision, the appellant appealed to TRAT but his appeal was dismissed. In upholding the TRAB's decision the TRAT held that irrespective of the place of rendering the services, as the payments were made by the appellant for services utilized in Tanzania then the payments m ade to non-resident had a source in URT and, therefore, are subject to withholding tax as per section 6 2ps. (1) (b), 69 (i) (i) and 8 3 (1) (b) of the Income Tax 2004 (the ITA 2004). Still undaunted, the appellant has now appealed to this Court on two grounds of appeal as follows: ' 1) That the Tax Revenue Appeals Tribunal erred in law in holding that irrespective of place of rendering services as payment in this appeal were made by the appellant for services utilized in the United Republic of Tanzania, then the payments made 3ps. by the appellant for services performed outside Tanzania by non-resident and therefore are subject to withholding tax under the provisions of section 6(1) (b), 69 (i) (i) and 83 (1) (b) of the Income Tax Act, 2004.
+    questions_and_answers:
+      - question: |
+          What was the main issue addressed by the TRAB in the case?
+        answer: |
+          The TRAB addressed whether payments made by a resident of the United Republic of Tanzania (URT) to a non-resident for services were subject to withholding tax under Tanzanian law.
+      - question: |
+          Why did the TRAT dismiss the appellant's appeal?
+        answer: |
+          The TRAT dismissed the appeal, holding that payments made by the appellant for services utilized in Tanzania, regardless of where the services were rendered, had a source in the URT and were subject to withholding tax under sections 6(1)(b), 69(i)(i), and 83(1)(b) of the Income Tax Act, 2004.
+      - question: |
+          What was the appellant’s argument regarding the applicability of withholding tax?
+        answer: |
+          The appellant argued that payments for services performed outside Tanzania by a non-resident should not be subject to withholding tax under Tanzanian law, even though the services were utilized in the URT.
+      - question: |
+          Did the Finance Act 2020 affect the interpretation of the relevant tax law in this case?
+        answer: |
+          No, the TRAT held that the Finance Act 2020 did not change the position of the law as stated in section 69(i) of the Income Tax Act, 2004.
+      - question: |
+          What sections of the Income Tax Act, 2004, were relevant to the tribunal's decision?
+        answer: |
+          The relevant sections of the Income Tax Act, 2004, were sections 6(1)(b), 69(i)(i), and 83(1)(b), which together establish the criteria under which payments sourced in Tanzania are subject to withholding tax.
+  - context: |
+      1ps. 1ps. [Emphasis added] Although in the opinion of the appellant the decision in Tullow Tanzania BV's case is bad law, on the contrary, it is our considered view that is correct position of the law to which we subscribe. We are mindful of the fact that M r. Mukebelezi also beseeched the Court to depart from the decision in Tullow Tanzania BV (supra) and adopt the decision in Pan African Energy Tanzania Limited (supra) which according to him is the right position of the law . It was advanced 2ps. in the cases of National Microfinance Bank Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 168 of 2018 and Ophir Tanzania (Block 1) Limited v. Commissioner General Tanzania Revenue Authority, Civil Appeal No. 58 of 2020 (both unreported). In the latter case, the Court adopted what was decided in Tullow Tanzania BV's case (supra) to which we equally subscribe and stated as follows: "We just as well subscribe to the reasoning of the Court in distinguishing from it the case of Pan African 3ps. Energy (supra). 2ps. 1ps. Incidentally, we note that this is not the first time when this argument is advanced to this Court in similar circumstances. It was advanced in the cases of National Microfinance Bank Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 168 of 2018 and Ophir Tanzania (Block 1) Limited v. Commissioner General Tanzania Revenue Authority, Civil Appeal No. 58 of 2020 (both unreported). That 2ps. being the position, we find no cause to embrace the appellant's invitation to us to depart from the decision in Tullow. We note that, of recent, a corresponding stance was adopted by the Court in unreported Civil Appeal No. 123 of 2018 Shell Deep Water Tanzania BV v . Commissioner General (TRA)". 3ps.
+    questions_and_answers:
+      - question: |
+          What is the court's opinion regarding the decision in Tullow Tanzania BV's case?
+        answer: |
+          The court believes that the decision in Tullow Tanzania BV's case is the correct position of the law and subscribes to it.
+      - question: |
+          What alternative legal position did Mr. Mukebelezi advocate for in this context?
+        answer: |
+          Mr. Mukebelezi advocated for the court to depart from the decision in Tullow Tanzania BV and instead adopt the position established in Pan African Energy Tanzania Limited.
+      - question: |
+          Which other cases were cited by the court to support the reasoning in Tullow Tanzania BV's case?
+        answer: |
+          The court cited National Microfinance Bank Limited v. Commissioner General, Tanzania Revenue Authority (Civil Appeal No. 168 of 2018) and Ophir Tanzania (Block 1) Limited v. Commissioner General Tanzania Revenue Authority (Civil Appeal No. 58 of 2020).
+      - question: |
+          How does the court distinguish the Tullow Tanzania BV case from the Pan African Energy Tanzania Limited case?
+        answer: |
+          The court agrees with the reasoning in Tullow Tanzania BV in distinguishing it from the Pan African Energy Tanzania Limited case, subscribing to the former's interpretation.
+      - question: |
+          What recent case did the court point to that adopted a similar stance to Tullow Tanzania BV?
+        answer: |
+          The court referred to Civil Appeal No. 123 of 2018, Shell Deep Water Tanzania BV v. Commissioner General (TRA), which adopted a similar stance to that of Tullow Tanzania BV.
+  - context: |
+      1ps. 1ps. Mr. Gugami further dismissed the appellant's attempt to m ove this Court to depart from Tullow Tanzania BV case (supra) and restore the decision of the case of in Pan African Energy (supra). He stressed that i n t e r m s of s e c t io n 6 9 ( i ) ( i ) of IT A 2 0 0 4 , payments have source in Tanzania if a non-resident transmits/delivers services in Tanzania. In 2ps. rejoinder, M r. Mukabezi contended that the position in Pan African Energy Limited (supra) was the correct position arguing that even the amendment of 2020 was in compliance with what was said in that case. H e also insisted that the law must be strictly interpreted. H e then beseeched the Court to allow the appeal with costs. We have examined the entire record of appeal, the grounds of appeal and both written and oral submissions from both sides and, we think, 3ps. the m ain issues for this Court's determination are two. 2ps. 1ps. H e also insisted that the law must be strictly interpreted. H e then beseeched the Court to allow the appeal with costs. We have examined the entire record of appeal, the grounds of appeal and both written and oral submissions from both sides and, we think, the m ain issues for this Court's determination are two. One, whether the payments made by a resident person in the URT to a non­ resident person outside the URT for services rendered 2ps.
+    questions_and_answers:
+      - question: |
+          What did Mr. Gugami argue regarding the relevance of the Tullow Tanzania BV case?
+        answer: |
+          Mr. Gugami dismissed the appellant's attempt to depart from the Tullow Tanzania BV case and stressed that, under section 69(i)(i) of the ITA 2004, payments have a source in Tanzania if a non-resident transmits or delivers services in Tanzania.
+      - question: |
+          What was Mr. Mukabezi's position on the Pan African Energy Limited case?
+        answer: |
+          Mr. Mukabezi argued that the position in the Pan African Energy Limited case was correct and that even the 2020 amendment complied with what was established in that case.
+      - question: |
+          What principle did Mr. Mukabezi emphasize when interpreting the law?
+        answer: |
+          Mr. Mukabezi emphasized that the law must be strictly interpreted.
+      - question: |
+          What did the court identify as the main issue for determination?
+        answer: |
+          The court identified the main issue as whether payments made by a resident person in the URT to a non-resident person outside the URT for services rendered fall under the relevant legal provisions.
+      - question: |
+          What actions did Mr. Mukabezi request from the court?
+        answer: |
+          Mr. Mukabezi requested the court to allow the appeal with costs.
+document_outline: |
+  **Document Outline:** 
+  
+  This is a court judgment from the Court of Appeal of Tanzania concerning Civil Appeal No. 159 of 2021. Dominion Tanzania Limited appeals a Tax Revenue Appeals Tribunal decision that upheld the imposition of withholding tax by the Commissioner General of the Tanzania Revenue Authority on payments made to a non-resident entity for services utilized in Tanzania. The case centers on whether such payments are subject to withholding tax under the Income Tax Act of 2004, with the appellant raising two grounds of appeal against the Tribunal's decision.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Dominion_Tanzania_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_159_of_2021)_2022_TZCA_398_(28_June_2022).md

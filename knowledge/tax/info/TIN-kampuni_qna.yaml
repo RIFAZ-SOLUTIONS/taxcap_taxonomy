@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## ENTITY/KAMPUNI ## APPLICATION FOR TAXPAYER REGISTRATION OR CHANGE OF REGISTERED PARTICULARS MAOMBI YA USAJILI WA MLIPAKODI AU KUBADILI TAARIFA ZA USAJILI Note: Furnishing false or misleading information is punishable by law/Kumbuka: Kutoa taarifa ya uongo au isiyo sahihi ni kosa kisheria. Before filling the form, please read carefully the attached notes at the end of the form /Kabla ya kujaza fomu hii, tafadhali soma kwa makini maelekezo mwisho wa fomu hii. -  Where registered details have changed, the applicant must only fill the taxpayer TIN and details that have changed/Pale taarifa zinapokuwa zimebadilika, unatakiwa kujaza TIN 2ps. na taarifa zilizobadilika tu. 2ps. 1ps. <!-- image --> ## ENTITY/KAMPUNI ## APPLICATION FOR TAXPAYER REGISTRATION OR CHANGE OF REGISTERED PARTICULARS MAOMBI YA USAJILI WA MLIPAKODI AU KUBADILI TAARIFA ZA USAJILI Note: Furnishing false or misleading information is punishable by law/Kumbuka: Kutoa taarifa ya uongo au isiyo sahihi ni kosa kisheria. Before filling the form, please read carefully the attached notes at the end of the form /Kabla ya kujaza fomu hii, tafadhali soma kwa makini maelekezo mwisho wa fomu hii. -  Use capital letter and where applicable, mark with ( √ )/TumiaHerufi Kubwa na weka alama ( √ ) inapohitajika -  Item marked with 2ps. asterisk (*) are Mandatory/ Sehemu iliyowekewa alama ya nyota(*) ni lazima ijazwe.. ## 1: General Information/ Taarifa ya Ujumla 1. *Apply for: First Application/Usajili wa Mara ya Kwanza Amendment Application, Please indicate your TIN/ Kwa maombi ya mabadiliko,Tafadhali jaza TIN TIN 2. *Taxpayer Category/ Aina ya Mlipakodi Government Agency/Wakala wa Serikali Club/ Klabu Cooperative Society or Association/ Ushirika 3ps. Partnership/ Ubia Limited Company/Kampuni yenye dhima ya kikomo Parastatal/Shirika la Umma Any Others, specify/Nyinginezo \_\_\_\_\_\_\_\_\_\_\_\_\_ 3.
+    questions_and_answers:
+      - question: |
+          What must an applicant do if their taxpayer registered details have changed?
+        answer: |
+          If registered details have changed, the applicant must only fill in the taxpayer TIN and the details that have changed.
+      - question: |
+          What is the consequence of providing false or misleading information in the form?
+        answer: |
+          Furnishing false or misleading information is punishable by law.
+      - question: |
+          What is the required format for completing the form?
+        answer: |
+          The form must be completed using capital letters, and where applicable, the relevant sections should be marked with a checkmark (√).
+      - question: |
+          What sections of the form are mandatory to fill out?
+        answer: |
+          Sections marked with an asterisk (*) are mandatory to fill out.
+      - question: |
+          What are some of the taxpayer categories listed in the form?
+        answer: |
+          The taxpayer categories include Government Agency, Club, Cooperative Society or Association, Partnership, Limited Company, Parastatal, and other specified categories.
+  - context: |
+      1ps. 1ps. /Je, umesajili jina la biashara yako, BRELA? /Je sehemu ya biashara imekodishwa ? Yes/ Ndiyo No/ Hapana TIN of the Landlord, if any/TIN ya Mwenye Nyumba kama ipo Name if Individual/ Jaza Jina kama ni Mtu binafsi:Title: Mr/ Bwana Mrs / Bibi 2ps. Ms/ Bi First Name/ Jina la Kwanza Middle Name/ Jina la Pili Surname/ Jina la Ukoo National ID No. if any/ Namba ya Kitambulisho cha Taifa kama kipo Name if Non-Individual/ Jaza jina kama ni la Kampuni Provide copy of lease Agreement, if the premises is rented/ Toa nakala ya mkataba, kama eneo umekodisha. 12.Taxpayer Representative/Mwakilishi wa Mlipakodi TIN ## FULL NAME /JINA KAMILI Managing Director Tax Consultant Company Secetary Advocate/Lawyer Auditor / Accountant Agent 13. *Business Commencement Date / Tarehe ya kuanza biashara (DD/MM/YYYY) \_\_\_\_\_\_/\_\_\_\_\_\_/\_\_\_\_\_\_\_\_\_\_ *No of employees/ Idadi ya wafanyakazi *Estimated Annual Turnover (TZS)/Makadirio ya mauzo Ghafi kwa mwaka (TZS) 14. * List your economic activity 3ps. (ies) / Orodhesha shughuli zako za kiuchumi. 2ps. 1ps. /Je sehemu ya biashara imekodishwa ? Yes/ Ndiyo No/ Hapana TIN of the Landlord, if any/TIN ya Mwenye Nyumba kama ipo Name if Individual/ Jaza Jina kama ni Mtu binafsi:Title: Mr/ Bwana Mrs / Bibi Ms/ Bi First Name/ Jina la Kwanza Middle Name/ Jina la 2ps. Pili Surname/ Jina la Ukoo National ID No. if any/ Namba ya Kitambulisho cha Taifa kama kipo Name if Non-Individual/ Jaza jina kama ni la Kampuni Provide copy of lease Agreement, if the premises is rented/ Toa nakala ya mkataba, kama eneo umekodisha. a) Main Economic activity with higher turnover/ Shughuli kuu ya kiuchumi yenye mauzo makubwa……………………………………………………… Code: b) Others Economic activities/ Shughuli nyingine za Kiuchumi Business Code i. ii. iii. iv. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What document is required if the business premises are rented?
+        answer: |
+          A copy of the lease agreement must be provided if the premises are rented.
+      - question: |
+          What information should be provided for an individual landlord?
+        answer: |
+          For an individual landlord, their title (Mr./Mrs./Ms.), first name, middle name, surname, and National ID number (if any) must be provided.
+      - question: |
+          What additional details must be shared about economic activities?
+        answer: |
+          The main economic activity with the highest turnover and its code must be listed, along with other economic activities and their respective business codes.
+      - question: |
+          What personal details can be required for a taxpayer representative?
+        answer: |
+          The full name of the taxpayer representative is required along with their TIN (Taxpayer Identification Number) and role, such as Managing Director, Tax Consultant, Company Secretary, Advocate/Lawyer, Auditor/Accountant, or Agent.
+      - question: |
+          What three key business details are required after registration?
+        answer: |
+          The business commencement date, the number of employees, and the estimated annual turnover (in Tanzanian Shillings) must be provided.
+  - context: |
+      1ps. 1ps. Provide TIN number in case of amended application. Weka tiki kwenye kisanduku kinachohusika.Jaza TIN kama unabadilisha taarifa zako. - 2. Tick appropriate taxpayer category [ Mandatory - ] - Weka tiki kwenye kisanduku kinachohusika [Lazima] - 3. Please fill in Taxpayer Name and all needed information [ Mandatory ] - Andika jina la mlipa kodi pamoja na taarifa zote zinazohitajika [Lazima] - 4. Indicate Residency status. - Taja uraia wako - 5. Please provide your postal address [ Mandatory ] - Andika anuani ya posta [Lazima] - 6. Please provide your physical address [ Mandatory] - Andika anuani ya sehemu ya biashara [Lazima] - 7. Please provide your 2ps. contact numbers. [ Mobile number is mandatory ] - Andika namba za simu ya mezani pamoja na simu za mkononi [Simu ya mkononi ni lazima] - 8. If the business has a registered business name, please provide details. 2ps. 1ps. - 2. Tick appropriate taxpayer category [ Mandatory - ] - Weka tiki kwenye kisanduku kinachohusika [Lazima] - 3. Please fill in Taxpayer Name and all needed information [ Mandatory ] - Andika jina la mlipa kodi pamoja na taarifa zote zinazohitajika [Lazima] - 4. Indicate Residency status. [ Mobile number is mandatory ] - Andika namba za simu ya mezani pamoja na simu za mkononi [Simu ya mkononi ni lazima] - 8. If the business has a registered business name, please provide details. - Kama jina la biasharalimesajiliwa, tafadhali onyesha - 9. If the business is a subsidiary of another company or business, please provide 2ps. name and TIN of the parent company, if any - Kama biashara ni kampuni tanzu, onyesha jina na TIN ya kampuni mama kama ipo - 10.
+    questions_and_answers:
+      - question: |
+          What information should be provided if submitting an amended application?
+        answer: |
+          The TIN number must be provided when submitting an amended application to update your information.
+      - question: |
+          What taxpayer information is categorized as mandatory in the form?
+        answer: |
+          Mandatory information includes ticking the relevant taxpayer category, providing the taxpayer's name, residency status, postal and physical addresses, and a mobile number.
+      - question: |
+          What details must businesses provide if they have a registered business name?
+        answer: |
+          Businesses with a registered business name need to provide the details of the registered name.
+      - question: |
+          What additional information is required if the business is a subsidiary?
+        answer: |
+          If the business is a subsidiary, the name and TIN of the parent company should be provided, if applicable.
+      - question: |
+          Which type of phone number is mandatory to provide in the application?
+        answer: |
+          A mobile phone number is mandatory, in addition to any landline numbers, if available.
+document_outline: |
+  ### Document Outline
+  
+  This document is a bilingual taxpayer registration form (English and Swahili) used for the initial registration or updating of taxpayer details. It provides detailed instructions on completing the form, outlines mandatory fields, and collects essential information, such as the taxpayer's category, name, residency status, physical and postal addresses, contact numbers, and business registration details.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - TIN-kampuni.md

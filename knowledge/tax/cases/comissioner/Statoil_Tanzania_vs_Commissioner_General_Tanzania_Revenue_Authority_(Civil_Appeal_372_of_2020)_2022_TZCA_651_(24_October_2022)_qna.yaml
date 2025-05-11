@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. We will next move to the second limb of the appeal which covered the fourth ground on the complaint that the appellant was prejudiced by the respondent issuing notice of confirmation of assessment without first issuing the objection determination letter. In his view, the learned counsel for the appellant argued that, failure to receive the letter of determination deprived the appellant's right to know detailed reasons for refusal and therefore prepare properly their grounds 2ps. of appeal to the Board. Record of the proceedings at page 136 bear out that, on 17th December, 2013 the respondent required the appellant to submit documents proving existence and registration of the PSA for the respondent's verification and record as required by section 143 of the ITA but quite unfortunate the appellant did not heed and in the contrary the appellant wrote a letter at page 173 of the record of proceedings in 3ps. which, instead of submitting the PSA the appellant spent considerable amount of time explaining about the history behind the existence of the appellant's company, the PSA and the gas discoveries made off the coast of Tanzania. 2ps. 1ps. In his view, the learned counsel for the appellant argued that, failure to receive the letter of determination deprived the appellant's right to know detailed reasons for refusal and therefore prepare properly their grounds of appeal to the Board. We should interpose here and observe that, the above submission by the appellant is largely in stark contrast to what transpired on the ground. Even in the appellant's letter to the Minister 2ps. responsible for finance, the appellant did not avail the PSA but rather expressed that they were ready to avail a copy of the PSA should the Minister require it.
+    questions_and_answers:
+      - question: |
+          What was the appellant's main complaint in the second limb of the appeal?
+        answer: |
+          The appellant's complaint was that they were prejudiced by the respondent issuing a notice of confirmation of assessment without first issuing the objection determination letter, which deprived them of knowing the detailed reasons for refusal.
+      - question: |
+          What did the respondent request from the appellant on December 17, 2013?
+        answer: |
+          The respondent required the appellant to submit documents proving the existence and registration of the PSA for verification and record as mandated by section 143 of the ITA.
+      - question: |
+          How did the appellant respond to the respondent's request for the PSA?
+        answer: |
+          Instead of submitting the PSA, the appellant wrote a letter explaining the history of the company's existence, the PSA, and the gas discoveries in Tanzania, but did not provide the requested PSA.
+      - question: |
+          What contradiction is noted in the appellant's submission regarding the objection determination letter?
+        answer: |
+          The appellant argued they were deprived of their right to know the reasons for refusal, but their actions, including a letter to the Minister of Finance, showed they repeatedly failed to provide a copy of the PSA.
+      - question: |
+          What stance did the appellant take in their letter to the Minister of Finance?
+        answer: |
+          In their letter to the Minister of Finance, the appellant stated they were ready to provide a copy of the PSA if the Minister required it but did not provide the document proactively.
+  - context: |
+      1ps. 1ps. Attacking article 27 (e) of the PSA which was repeatedly cited by Dr. Mwiburi, the learned State Attorney argued that normally tax is imposed by the law and equally, tax exemption is granted by the law which imposed tax in the first place. He argued further that, a PSA itself even if it was admitted in evidence cannot warrant tax exemption. He referred us to the case of Cape Brabdy Syndicate v. Inland Revenue Commissioner (1921) 2 KB 403 to 2ps. support his proposition. In reply to the fourth ground of appeal, the learned State Attorney submitted that, the complaint by the appellant was a mere afterthought since the impugned decision was determined mainly based on substantive issues having the appellant conceded that the notice of confirmation is as good as final determination. He referred us to page 233 of the record of appeal to buttress his point. 2ps. 1ps. He referred us to the case of Cape Brabdy Syndicate v. Inland Revenue Commissioner (1921) 2 KB 403 to support his proposition. In reply to the fourth ground of appeal, the learned State Attorney submitted that, the complaint by the appellant was a mere afterthought since the impugned decision was determined mainly based on substantive issues having the appellant conceded that the notice of confirmation is as good as final determination. He referred us to page 233 of the record of appeal to buttress his 2ps. point. Elaborating further, the learned State Attorney argued that, the respondent's decision to confirm the assessment was justified in law and the circumstances of the case as there was no valid objection before the respondent because essential documents for verification on whether the appellant was entitled to exemption or not were not submitted.
+    questions_and_answers:
+      - question: |
+          What argument did the State Attorney make regarding tax exemption being granted by law?
+        answer: |
+          The State Attorney argued that tax exemptions must be granted by the same law that imposed the tax and that a PSA itself, even if admitted in evidence, cannot warrant tax exemption.
+      - question: |
+          Which case was cited by the State Attorney to support his argument about tax and exemptions?
+        answer: |
+          The State Attorney referred to the case of Cape Brandy Syndicate v. Inland Revenue Commissioner (1921) 2 KB 403 to support his argument.
+      - question: |
+          Why did the State Attorney consider the appellant's complaint to be a mere afterthought?
+        answer: |
+          The State Attorney argued that the complaint was a mere afterthought because the impugned decision was determined based on substantive issues, and the appellant had already conceded that the notice of confirmation was as good as a final determination.
+      - question: |
+          What issue did the State Attorney highlight about the appellant’s documents related to tax exemption?
+        answer: |
+          The State Attorney stated that the respondent's decision to confirm the assessment was justified because the appellant failed to submit essential documents for verification on whether they were entitled to the tax exemption.
+      - question: |
+          Which part of the record of appeal was referenced by the State Attorney to support his argument regarding the final determination?
+        answer: |
+          The State Attorney referred to page 233 of the record of appeal to support his point about the notice of confirmation being as good as a final determination.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT DAR ES SALAAM ## (CORAM: MKLIYE. J.A.. KENTE. 3.A. And KIHWELO, 3.A.) ## CIVIL APPEAL NO. 372 OF 2020 STATOIL TANZANIA AS (CURRENTLY KNOWN AS EQUINOR TANZANIA AS)....... ...........APPELLANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY (TRA).................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) fKamuzora. Vice Chairperson^ dat ed the 21s t day of April, 2021 in Tax Appeal No. 27 OF 2020 ## JUDGMENT OF THE COURT 2&amp;h September &amp; 24h October, 2022 ## KIHWELO. J.A.: This is an appeal by Statoil Tanzania 2ps. AS (currently known as Equinor Tanzania AS), the appellant, against the judgment and decree of the Tax Revenue Appeals Tribunal (the Tribunal) dated the 21st April, 2021 in Tax Appeal No. 27 of 2020 which quashed and reversed the decision of the Tax Revenue Appeals Board (the Board) that found the Commissioner General, the respondent was not justified in imposing stamp duty on the Farm-Out Agreement between the appellant and ExxonMobil 3ps. which was executed outside Mainland Tanzania. 2ps. 1ps. Vice Chairperson^ dat ed the 21s t day of April, 2021 in Tax Appeal No. 27 OF 2020 ## JUDGMENT OF THE COURT 2&amp;h September &amp; 24h October, 2022 ## KIHWELO. J.A.: Aggrieved by the impugned decision the appellant has come before this Court by way of appeal. We find it crucial, at the outset, to preface the judgment with a brief historical background which appropriately describes what precipitated this appeal. The appellant is a limited liability company incorporated under the laws of Tanzania 2ps. and its principal business is exploration of oil and gas in Tanzania since 2007.
+    questions_and_answers:
+      - question: |
+          What is the name of the appellant in the Civil Appeal No. 372 of 2020?
+        answer: |
+          The appellant is Statoil Tanzania AS, which is currently known as Equinor Tanzania AS.
+      - question: |
+          Against whom was the appeal in Civil Appeal No. 372 of 2020 filed?
+        answer: |
+          The appeal was filed against the Commissioner General of the Tanzania Revenue Authority (TRA).
+      - question: |
+          What was the decision of the Tax Revenue Appeals Tribunal in Tax Appeal No. 27 of 2020?
+        answer: |
+          The Tribunal quashed and reversed the decision of the Tax Revenue Appeals Board, which had found the Commissioner General not justified in imposing stamp duty on the Farm-Out Agreement executed outside Mainland Tanzania.
+      - question: |
+          What was the principal business of the appellant, Statoil Tanzania AS, since 2007?
+        answer: |
+          The principal business of the appellant has been the exploration of oil and gas in Tanzania.
+      - question: |
+          What prompted Statoil Tanzania AS to appeal in this case?
+        answer: |
+          The appellant was aggrieved by the decision of the Tax Revenue Appeals Tribunal, which overturned the Board’s finding that the respondent was unjustified in imposing stamp duty on the Farm-Out Agreement.
+  - context: |
+      1ps. 1ps. He finally submitted that, the burden of proof was not fair on the part of the appellant, urging further the appeal to be allowed. After a careful consideration of the entire record and the rival submissions by the parties there remains only one contentious aspect that needs to be resolved and that is whether or not the Tribunal erroneously decided the appeal before it and therefore 2ps. came to the wrong conclusion warranting this Court to interfere. It is momentous to observe that parties are not at issue on whether there was a Farm-Out Agreement executed outside Mainland Tanzania which the respondent subjected it to stamp duty. The gravamen of this appeal in the first limb of the three grounds of complaint seems to lie on the issue whether the appellant was liable to pay stamp duty for the Farm-Out Agreement executed outside Mainland Tanzania and whether the 3ps. liability if at all for payment of stamp duty was due. 2ps. 1ps. It is momentous to observe that parties are not at issue on whether there was a Farm-Out Agreement executed outside Mainland Tanzania which the respondent subjected it to stamp duty. The gravamen of this appeal in the first limb of the three grounds of complaint seems to lie on the issue whether the appellant was liable to pay stamp duty for the Farm-Out Agreement executed outside Mainland Tanzania and whether the liability if at all for payment of stamp duty was due. 2ps.
+    questions_and_answers:
+      - question: |
+          What was the primary argument made by the appellant in the appeal?
+        answer: |
+          The appellant argued that the burden of proof was unfairly placed on them and urged the appeal to be allowed.
+      - question: |
+          What is the contentious issue that the Court needed to resolve?
+        answer: |
+          The main issue was whether the Tribunal erroneously decided the appeal and came to a wrong conclusion, warranting the Court's interference.
+      - question: |
+          Did the parties dispute the existence of the Farm-Out Agreement executed outside Mainland Tanzania?
+        answer: |
+          No, the parties did not dispute the existence of the Farm-Out Agreement executed outside Mainland Tanzania, which the respondent subjected to stamp duty.
+      - question: |
+          What is the first ground of complaint in the appeal?
+        answer: |
+          The first ground of complaint centers on whether the appellant was liable to pay stamp duty for the Farm-Out Agreement executed outside Mainland Tanzania and whether the liability for payment of stamp duty was due.
+      - question: |
+          What does the term 'gravamen' refer to in the context of this appeal?
+        answer: |
+          In this context, 'gravamen' refers to the central or most important aspect of the appeal, specifically the appellant's potential liability for stamp duty on the Farm-Out Agreement executed outside Mainland Tanzania.
+  - context: |
+      1ps. 1ps. The learned counsel for the appellant, finally, argued the fourth ground of appeal whose complaint was based on the fact that, the respondent issued notice of confirmation of assessment without first issuing the objection determination letter as required by the law something which the appellant's counsel argued that it prejudiced the appellant. 438 R.E. 2019 (TAA). The learned counsel, 2ps. faulted the Tribunal for not finding that the appellant was prejudiced by the respondent's conduct of issuing notice of confirmation of assessment without first issuing the objection determination in compliance with the law. Upon our prompting, the appellant contended that, failure to receive the letter of determination deprived the appellant's right to know the detailed reasons for refusal and therefore prepare reasoned grounds of appeal to the Board, and that, 3ps. failure to receive the said letter of determination prejudiced the appellant who was not properly informed on the respondent's reasons for refusal to amend the assessment. 2ps. 1ps. 438 R.E. 2019 (TAA). The learned counsel, faulted the Tribunal for not finding that the appellant was prejudiced by the respondent's conduct of issuing notice of confirmation of assessment without first issuing the objection determination in compliance with the law. In the circumstances, the learned counsel beseeched us to nullify the respondent's notice of confirmation of assessment which according to him, was issued contrary to prescribed procedures 2ps. under the law. He finally, urged that the appeal be allowed. In response, Mr. Ndayeza, learned State Attorney strongly disagreed with the counsel for the appellant and argued in response to the appeal in a pattern adopted by the appellant.
+    questions_and_answers:
+      - question: |
+          What was the fourth ground of appeal argued by the appellant's counsel?
+        answer: |
+          The fourth ground of appeal was based on the complaint that the respondent issued a notice of confirmation of assessment without first issuing the required objection determination letter, which the appellant's counsel argued prejudiced the appellant.
+      - question: |
+          How did the appellant claim they were prejudiced by the lack of an objection determination letter?
+        answer: |
+          The appellant argued that the failure to receive the objection determination letter deprived them of the right to know the detailed reasons for the assessment refusal, leaving them unable to prepare reasoned grounds of appeal.
+      - question: |
+          What specific legal violation did the appellant's counsel allege against the respondent?
+        answer: |
+          The appellant's counsel alleged that the respondent violated the law by issuing the notice of confirmation of assessment without first complying with the requirement to issue an objection determination letter as per 438 R.E. 2019 (TAA).
+      - question: |
+          What remedy did the appellant's counsel seek from the court?
+        answer: |
+          The appellant's counsel urged the court to nullify the respondent's notice of confirmation of assessment, arguing that it was issued contrary to the prescribed procedures.
+      - question: |
+          How did the respondent's counsel, Mr. Ndayeza, respond to the appellant's arguments?
+        answer: |
+          Mr. Ndayeza, the learned State Attorney, strongly disagreed with the appellant's counsel and responded to the arguments in a similar pattern as the appellant's submissions.
+document_outline: |
+  **Document Outline:**
+  
+  This document outlines a civil appeal case before the Court of Appeal of Tanzania involving Statoil Tanzania AS (now Equinor Tanzania AS) as the appellant and the Tanzania Revenue Authority (TRA) as the respondent. The case centers around a Tax Revenue Appeals Tribunal judgment concerning a disputed stamp duty demand of TZS 170,414,448.00 related to a Farm-Out Agreement executed outside Tanzania's Mainland, with the appellant contesting the Tribunal's decision, which reversed a prior ruling by the Tax Revenue Appeals Board in their favor.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Statoil_Tanzania_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_372_of_2020)_2022_TZCA_651_(24_October_2022).md

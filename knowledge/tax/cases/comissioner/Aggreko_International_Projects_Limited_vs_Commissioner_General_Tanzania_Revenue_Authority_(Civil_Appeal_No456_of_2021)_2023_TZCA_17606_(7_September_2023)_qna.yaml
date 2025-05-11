@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Arguing in support of the first set of grounds of appeal Mr. Kileo contended that, the Tribunal erred when it failed to consider section 33 (1) of the Act as well as the Organization for Economic Cooperation and Development (OECD) Transfer Pricing Guidelines for Multinational Enterprises and Tax Administrations, 2010 (the OECD Transfer Pricing Guidelines) in determining the correctness of the respondent's decision to disallow head office costs. The learned counsel further argued that, the Tribunal erred in holding that the Board correctly applied section 11 (2) of the Act. 2ps. He also challenged the Tribunal for agreeing with the respondent that the allocation of costs by AIPL to the appellant was not at arm's length which was contradictory because the requirements of arm's length allocation of costs is applicable under section 33 (1) of the Act and not section 11 (2) of the Act and further to that, the cost plus method which the Tribunal applied as a basis of disallowance instead of 3ps. the turnover method applied by the appellant is not indicated under section 11 (2) of the Act but rather is one of the transfer pricing method used to test arm's length pricing of transaction between associates in terms of paragraph 2.45 of the OECD Transfer Pricing Guidelines. 2ps. 1ps. The learned counsel further argued that, the Tribunal erred in holding that the Board correctly applied section 11 (2) of the Act. He further argued that the main challenge in this appeal is the findings of both the Board and the Tribunal that the dispute was on disallowance of head office costs incurred by AIPL in terms of section 11 (2) of the Act and not on transfer pricing under section 33 (1) of the Act. Mr.
+    questions_and_answers:
+      - question: |
+          What was the primary contention made by Mr. Kileo regarding the Tribunal's decision?
+        answer: |
+          Mr. Kileo contended that the Tribunal erred by failing to consider section 33 (1) of the Act and the OECD Transfer Pricing Guidelines in determining the correctness of the respondent's decision to disallow head office costs.
+      - question: |
+          What section of the Act did Mr. Kileo argue should apply to the disallowance of head office costs?
+        answer: |
+          Mr. Kileo argued that section 33 (1) of the Act, not section 11 (2), should apply to the issue of disallowance of head office costs.
+      - question: |
+          How did Mr. Kileo critique the Tribunal's reliance on the cost plus method?
+        answer: |
+          Mr. Kileo argued that the Tribunal's use of the cost plus method as a basis for disallowance was inappropriate because it is not prescribed under section 11 (2) of the Act and is instead used in the OECD Transfer Pricing Guidelines to test arm's length pricing.
+      - question: |
+          What contradiction did Mr. Kileo point out regarding the Tribunal’s stance on cost allocation?
+        answer: |
+          Mr. Kileo pointed out that the Tribunal agreed with the respondent that AIPL's cost allocation was not at arm's length, which he argued was contradictory because arm's length cost allocation falls under section 33 (1), not section 11 (2), of the Act.
+      - question: |
+          What was the main challenge identified in the appeal according to Mr. Kileo?
+        answer: |
+          The main challenge was the findings of both the Board and the Tribunal that the dispute centered on the disallowance of head office costs under section 11 (2) of the Act rather than on transfer pricing under section 33 (1) of the Act.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## ( CORAM: LILA. 3.A.. MASH AKA, J.A. And KIHWELO. J.A.1 ! CIVIL APPEAL NO. 456 OF 2021 ## AGGREKO INTERNATIONAL PROJECTS LIMITED............ APPELLANT ## VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY..................................... ..RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Kamuzora, Vice Chairperson^ dated the 28th day of September, 2021 in Tax Appeal No. 35 of 2020 ## JUDGMENT OF THE COURT 31st May 817 t h September, 2023 ## KIHWELO. J.A.: This appeal arose from the decision of the 2ps. Tax Revenue Appeals Tribunal (the Tribunal) dated 28.09.2021 in Tax Appeal No. 35 of 2020 which upheld the decision of the Tax Revenue Appeals Board (the Board) that found the Commissioner General (the respondent) was justified in imposing the assessed taxes. Disgruntled by the impugned decision the appellant has approached this Court by way of an appeal. 2ps. 1ps. J.A.: This appeal arose from the decision of the Tax Revenue Appeals Tribunal (the Tribunal) dated 28.09.2021 in Tax Appeal No. 35 of 2020 which upheld the decision of the Tax Revenue Appeals Board (the Board) that found the Commissioner General (the respondent) was justified in imposing the assessed taxes. Disgruntled by the impugned decision the appellant has approached this Court by way of an appeal. The abridged background facts which led to this 2ps. appeal may be appropriately described as follows; The appellant is a limited liability company incorporated under the laws of Tanzania as a branch of Aggreko International Projects Limited (AIPL), a company registered in and resident in the United Kingdom with a regional hub in Jebel Ali, Dubai. Its principal business is generation of emergence power (electricity) and its main customer in 3ps.
+    questions_and_answers:
+      - question: |
+          What is the name of the appellant in the civil appeal case mentioned?
+        answer: |
+          The appellant is Aggreko International Projects Limited.
+      - question: |
+          Who is the respondent in this case?
+        answer: |
+          The respondent is the Commissioner General, Tanzania Revenue Authority.
+      - question: |
+          What was the outcome of the Tax Revenue Appeals Tribunal's decision?
+        answer: |
+          The Tribunal upheld the decision of the Tax Revenue Appeals Board, which found that the Commissioner General was justified in imposing the assessed taxes.
+      - question: |
+          On what date was the judgment by the Tribunal in Tax Appeal No. 35 of 2020 delivered?
+        answer: |
+          The judgment by the Tribunal in Tax Appeal No. 35 of 2020 was delivered on 28th September 2021.
+      - question: |
+          What is the principal business of the appellant, Aggreko International Projects Limited?
+        answer: |
+          The appellant’s principal business is the generation of emergency power (electricity).
+  - context: |
+      1ps. 1ps. The five grounds of appeal focused on the applicability of sections 11, paragraph 3 of the Third Schedule and section 98 of the Act. We find merit in the learned Principal State Attorney's submission that, for head office costs to be deducted as expenses there has to be compliance with the requirements under section 11 (2) of the Act. 2ps. 1ps. The five grounds of appeal focused on the applicability of sections 11, paragraph 3 of the Third Schedule and section 98 of the Act. We find merit in the learned Principal State Attorney's submission that, for head office costs to be deducted as expenses there has to be compliance with the requirements under section 11 (2) of the Act. It is convenient at this stage to excerpt section 11 (2) of the Act so far as it governs calculation of income tax: ' ll- ( 2 ) Subject to this Act, for 2ps. purposes of calculating a person's income for a year o f income from any business or investment, there shall be deducted a ll expenditure incurred during the year o f i ncome, by the person wholly and exclusively in the production of income from the business or investm ent" We have excerpted the above provision which clearly demonstrate the conditions to be met in determining the correctness of the amount to be deducted as expenditure incurred during the year of income as long as the 3ps. expenditure were incurred by that person wholly and exclusively in the production of income from the business or investment. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What legal provisions were the focus of the five grounds of appeal?
+        answer: |
+          The five grounds of appeal focused on the applicability of sections 11, paragraph 3 of the Third Schedule, and section 98 of the Act.
+      - question: |
+          What requirement must be met for head office costs to be deducted as expenses?
+        answer: |
+          For head office costs to be deducted as expenses, there must be compliance with the requirements under section 11 (2) of the Act.
+      - question: |
+          What does section 11 (2) of the Act specify regarding the calculation of income tax?
+        answer: |
+          Section 11 (2) specifies that for calculating income tax, deductions can be made for expenditure incurred wholly and exclusively in the production of income from business or investment during the year of income.
+      - question: |
+          What is the primary condition for determining the correctness of deductible expenditure under section 11 (2)?
+        answer: |
+          The primary condition is that the expenditure must be incurred wholly and exclusively in the production of income from the business or investment.
+      - question: |
+          Why was section 11 (2) of the Act excerpted in the context of the appeal?
+        answer: |
+          Section 11 (2) was excerpted to demonstrate the specific conditions that need to be met for determining the correctness of the amount to be deducted as expenditure incurred during the year of income.
+  - context: |
+      1ps. 1ps. She further strongly disputed the argument that the appellant submitted studies which were conducted by an independent third party indicating that the transaction was at arm's length and contended that the respondent clearly informed the appellant that the amount claimed to have been incurred by the regional hub in Dubai and allocated to the relevant entities is not verified by an independent auditor a fact which was not disputed by 2ps. the appellant before both the Board and the Tribunal. In her considered opinion transfer pricing was not an issue even before the Board while deliberating on deductibility of the costs, it addressed the issue on cost allocation not to be at arm's length for lack of transparence for the appellant employed the wrong calculation methods of deductible expenses. The learned Principal State Attorney went further to submit that, the appellant disagreed with the respondent's bases of disallowance of the costs in that the appellant should have been charged 3ps. on the basis of cost-plus method and not on the turnover method applied by the appellant. 2ps. 1ps. Illustrating further, the learned Principal State Attorney, expressed her dismay at the appellant's conduct of raising a new dispute that was not even in its grounds of objection and unfairly condemning the Tribunal that it did not consider section 33 (1) of the Act and the OECD Transfer Pricing Guidelines while deciding that the dispute is on disallowance of head office costs allocated to the appellant for the years of income 2011 and 2012 which were incurred by AIPL in UK with the regional hub in Dubai. She further argued 2ps.
+    questions_and_answers:
+      - question: |
+          What was the main contention of the respondent regarding the appellant's cost allocation?
+        answer: |
+          The respondent contended that the cost allocation was not at arm's length due to a lack of transparency and incorrect calculation methods used by the appellant for deductible expenses.
+      - question: |
+          Why did the respondent reject the studies submitted by the appellant?
+        answer: |
+          The respondent argued that the studies were not verified by an independent auditor, and this lack of verification was not disputed by the appellant before the Board and the Tribunal.
+      - question: |
+          What cost allocation method did the respondent believe the appellant should have used?
+        answer: |
+          The respondent believed that the appellant should have used the cost-plus method rather than the turnover method applied by the appellant.
+      - question: |
+          What years of income were under dispute regarding the head office costs allocated to the appellant?
+        answer: |
+          The years of income under dispute were 2011 and 2012.
+      - question: |
+          What guidelines and section of the Act did the appellant claim were ignored in the Tribunal's decision?
+        answer: |
+          The appellant claimed that the Tribunal did not consider section 33 (1) of the Act and the OECD Transfer Pricing Guidelines when deciding the dispute.
+  - context: |
+      1ps. 1ps. He rounded of by inviting us to decide grounds four and five in favour of the appellant and finally, he urgued that the appeal be allowed with costs. In response, Ms. Andrew strongly disagreed with the counsel for the appellant and argued in response to the appeal in a pattern adopted by the appellant. The learned Principal State Attorney went further to submit that, although the appellant submitted at considerable length the applicability of section 33 (1) of the Act, it is quite unfortunate that 2ps. the appellant is misleading the Court since the dispute before the Tribunal was not on transfer pricing but rather the respondent's decision to disallow head office costs. 2ps. 1ps. In response, Ms. Andrew strongly disagreed with the counsel for the appellant and argued in response to the appeal in a pattern adopted by the appellant. Essentially, she opposed the appeal by contending that, the Tribunal did not fail to consider the provisions of section 33 (1) of the Act and the OECD Transfer Pricing Guidelines but in the contrary the Tribunal correctly considered section 33 (1) of the Act and the OECD Transfer 2ps. Pricing Guidelines in determining the correctness of the respondent's decision to disallow head office costs. She contended that, the Tribunal even sought to revisit the evidence on record and the law specifically sections 33 (1) and 11 (2) of the Act and came to the conclusion that the dispute was not on transfer pricing in terms of section 33 (1) 3ps. of the Act but rather on disallowance of head office costs allocated to the appellant for the years of income 2011 and 2012.
+    questions_and_answers:
+      - question: |
+          What was the appellant's request at the conclusion of their argument?
+        answer: |
+          The appellant asked the court to decide grounds four and five in their favor and allow the appeal with costs.
+      - question: |
+          What primary issue did Ms. Andrew argue was at the center of the dispute?
+        answer: |
+          Ms. Andrew argued that the dispute was not about transfer pricing but rather about the respondent's decision to disallow head office costs.
+      - question: |
+          What was Ms. Andrew's position regarding the Tribunal's consideration of section 33 (1) of the Act?
+        answer: |
+          Ms. Andrew contended that the Tribunal correctly considered section 33 (1) of the Act and the OECD Transfer Pricing Guidelines in determining the respondent's decision to disallow head office costs.
+      - question: |
+          How did the Tribunal address the evidence and the law in this case?
+        answer: |
+          The Tribunal revisited the evidence on record as well as the law, specifically sections 33 (1) and 11 (2) of the Act, and concluded that the dispute was about the disallowance of head office costs for the years 2011 and 2012.
+      - question: |
+          What was Ms. Andrew's response to the appellant's interpretation of section 33 (1) of the Act?
+        answer: |
+          Ms. Andrew argued that the appellant's interpretation of section 33 (1) of the Act was misleading and that the Tribunal had already correctly applied this section and the OECD Transfer Pricing Guidelines in their decision.
+document_outline: |
+  ### Document Outline  
+  This document outlines a civil appeal in the Court of Appeal of Tanzania involving Aggreko International Projects Limited (the appellant) and the Commissioner General of the Tanzania Revenue Authority (the respondent), stemming from a tax dispute. The case details the appellant's challenge to decisions by the Tax Revenue Appeals Board and Tribunal regarding tax assessments for the years 2011-2012, specifically focusing on the allocation of head office costs and depreciation allowances, culminating in the current appeal before the Court.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Aggreko_International_Projects_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No456_of_2021)_2023_TZCA_17606_(7_September_2023).md

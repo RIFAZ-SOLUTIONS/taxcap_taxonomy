@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. He contended that from January 2011 the kitchen/restaurant business had been leased to Wiilex Kabonge as evidenced by the lease agreement (Exhibit A-2) and therefore, he was the one who was required to pay the taxes arising therefrom. It was Mr. Saghan's further argument that the Tribunal also erred to disregard the said lease agreement for the reason of contravention of section 47 of the Stamp Duty Act [CAP 189 R. E. 2019]. He contended that the mere nonpayment of stamp duty tax could not invalidate the lease agreement. The learned counsel fortified his argument with the Court's 2ps. decision in Elibariki Mboya v. Amina Abeid [2000] T.L.R. 122 where it was held that failure to stamp the contract of sale was an irregularity not affecting the jurisdiction of the court and was cured by section 73 of the Civil Procedure Code [CAP 33 R.E. 2019]. On the basis of his submissions, Mr. Saghan implored us to allow this appeal with costs. 2ps. 1ps. He contended that the mere nonpayment of stamp duty tax could not invalidate the lease agreement. The learned counsel fortified his argument with the Court's decision in Elibariki Mboya v. Amina Abeid [2000] T.L.R. 122 where it was held that failure to stamp the contract of sale was an irregularity not affecting the jurisdiction of the court and was cured by section 73 of the Civil Procedure Code [CAP 33 R.E. 2019]. On the basis of his submissions, Mr. Saghan implored us to allow this appeal with costs. When prompted by the Court as to whether this appeal 2ps. has complied with the provisions of section 25 (2) of the Tax Revenue Appeals Act [CAP 408 R.E.
+    questions_and_answers:
+      - question: |
+          Who was alleged to be responsible for paying taxes for the kitchen/restaurant business from January 2011?
+        answer: |
+          Wiilex Kabonge was alleged to be responsible for paying taxes, as the kitchen/restaurant business had been leased to him according to the lease agreement (Exhibit A-2).
+      - question: |
+          Why did Mr. Saghan argue that the lease agreement should not be invalidated?
+        answer: |
+          Mr. Saghan argued that the mere nonpayment of stamp duty tax could not invalidate the lease agreement and supported this claim with the legal precedent set in Elibariki Mboya v. Amina Abeid [2000] T.L.R. 122.
+      - question: |
+          What precedent was cited to support the argument that failure to stamp a contract is a curable irregularity?
+        answer: |
+          The precedent cited was Elibariki Mboya v. Amina Abeid [2000] T.L.R. 122, where it was held that failure to stamp a contract of sale was an irregularity that did not affect the court's jurisdiction and could be remedied under section 73 of the Civil Procedure Code [CAP 33 R.E. 2019].
+      - question: |
+          What legal provision was mentioned as curing the irregularity of a non-stamped contract?
+        answer: |
+          Section 73 of the Civil Procedure Code [CAP 33 R.E. 2019] was mentioned as curing the irregularity of a non-stamped contract.
+      - question: |
+          What specific section of the Tax Revenue Appeals Act did the Court inquire about compliance with?
+        answer: |
+          The Court inquired about compliance with the provisions of section 25 (2) of the Tax Revenue Appeals Act [CAP 408 R.E.].
+  - context: |
+      1ps. 1ps. Still dissatisfied, the appellant approached the Board and lodged Income Tax Appeals No.24, 25 &amp; 26 of 2016, and VAT Appeal No. 4 of 2016 which were consolidated. Before the Board the appellant challenged the assessment on the ground that its financial statements showed each year had its own figures and that the figures covered nine (9) years from 2003 to 2012 unlike what has been stated in the respondent's assessment. She argued, for instance, that in 2009 their accounts showed the total sales of TZS. 33,363,769.00 while the respondent's computation was TZS. 111,377,748.00. Likewise, for 2ps. the year 2009 its accounts revealed that the total sales were TZS. 39,214,590.00 while the one calculated by the respondent indicated TZS. 111,377,748.00. The appellant adduced further that, he started using the ECR machine in 2003 to June 2012, and sometimes from the year 2011 to 2012, the kitchen where the machine was used, was leased to one Willex Kabonge. The lease agreement in that regard was admitted as exhibit A-2. 2ps. 1ps. 111,377,748.00. The appellant adduced further that, he started using the ECR machine in 2003 to June 2012, and sometimes from the year 2011 to 2012, the kitchen where the machine was used, was leased to one Willex Kabonge. The lease agreement in that regard was admitted as exhibit A-2. Thus, the appellant maintained that from 2011 he was not liable for the tax emanated from sales from the kitchen as it was used and controlled by someone else. Moreover, she challenged that the rental payments to Afriscan Group for the renting of the business premises, though 2ps. not paid, ought to have been deducted from expenses which were incurred during the year of income wholly and exclusively in the production of income of the appellant.
+    questions_and_answers:
+      - question: |
+          What appeals were lodged by the appellant, and how were they processed?
+        answer: |
+          The appellant lodged Income Tax Appeals No. 24, 25, and 26 of 2016, and VAT Appeal No. 4 of 2016, which were consolidated for review by the Board.
+      - question: |
+          On what basis did the appellant challenge the respondent's assessment of sales figures for 2009?
+        answer: |
+          The appellant argued that their financial statements showed total sales of TZS 33,363,769.00 and TZS 39,214,590.00 for two different accounts, whereas the respondent's computation for both showed TZS 111,377,748.00.
+      - question: |
+          What reasons did the appellant provide for disputing liability for kitchen-related taxes from 2011 to 2012?
+        answer: |
+          The appellant stated that the kitchen, where the ECR machine was used, had been leased to Willex Kabonge from 2011 to 2012, making them not liable for taxes related to sales from that kitchen.
+      - question: |
+          What evidence was provided to support the claim that the kitchen was leased during 2011 to 2012?
+        answer: |
+          The lease agreement showing that the kitchen was leased to Willex Kabonge during 2011 to 2012 was admitted as Exhibit A-2.
+      - question: |
+          What contention did the appellant make regarding rental payments to Afriscan Group?
+        answer: |
+          The appellant argued that rental payments to Afriscan Group, though unpaid, should have been deducted as expenses incurred wholly and exclusively in the production of the income for the year.
+  - context: |
+      1ps. 1ps. Regarding the second ground, the learned Senior State Attorney argued that the complaint is purely on the matters of facts as the appellant has called upon the Court to re-evaluate the entire evidence on record to determine the correctness of the figures to find out whether the appellant proved her case before the Board and the Tribunal, which is against the law. For that reason, he argued that the lease agreement was not the basis of the Tribunal's decision or even the assessment by the Board. He went on to submit that the basis of the assessment was the 2ps. ECR machine which the appellant continued to use until the audit was established. The learned counsel contended that, even if the lease agreement could have been considered, still the decision of the Board and the Tribunal would have remained the same. And further that, even if the lease agreement was stamped still the decision of the Board as well as that of the Tribunal could remain the same. 2ps. 1ps. He went on to submit that the basis of the assessment was the ECR machine which the appellant continued to use until the audit was established. The learned counsel contended that, even if the lease agreement could have been considered, still the decision of the Board and the Tribunal would have remained the same. And further that, even if the lease agreement was stamped still the decision of the Board as well as that of the Tribunal could remain the same. Regarding the issue of the competence of the appeal which was raised by the Court, it 2ps. was submitted by Mr. Maswanyia that the grounds of appeal have not raised any points of law as required under section 25 (2) of the TRAA.
+    questions_and_answers:
+      - question: |
+          What was the argument raised by the Senior State Attorney concerning the appellant's complaint?
+        answer: |
+          The Senior State Attorney argued that the appellant's complaint focused on matters of fact by asking the Court to re-evaluate the evidence to determine the correctness of figures, which is against the law.
+      - question: |
+          What did the Senior State Attorney claim was the basis of the Tribunal's decision and the Board's assessment?
+        answer: |
+          The basis of the Tribunal's decision and the Board's assessment was the ECR machine, which the appellant continued to use until an audit was conducted.
+      - question: |
+          How did the learned counsel address the significance of the lease agreement in the Tribunal's decision?
+        answer: |
+          The learned counsel stated that the lease agreement was not the basis of the Tribunal's decision or the Board's assessment and that even if it had been considered or stamped, the decisions would have remained the same.
+      - question: |
+          What issue about the competence of the appeal was raised by the Court?
+        answer: |
+          The issue raised by the Court was about the grounds of appeal not raising any points of law, as required under section 25 (2) of the TRAA.
+      - question: |
+          What conclusion did the Senior State Attorney reach regarding the impact of stamping the lease agreement on the decisions made?
+        answer: |
+          The Senior State Attorney concluded that, even if the lease agreement were stamped, the decisions of the Board and the Tribunal would not change.
+  - context: |
+      1ps. 1ps. 6th &amp; 16th June, 2022 ## KWARIKO, J.A: This appeal has been preferred against the decision of the Tax Revenue Appeals Tribunal (the Tribunal), dated 8th December, 2020 in Tax Appeal No. 65 of 2019 that upheld the decision of the Tax Revenue Appeals Board (the Board), which was decided against the appellant, in that it was held liable to pay the tax assessed by the respondent. The facts which gave rise to this appeal can be recapitulated as follows: the appellant is a dealer in various businesses namely; guest house, bar and restaurant. In the course of execution of his 2ps. duties, the ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM ## (CORAM: KWARIKO, J.A., KEREFU, J.A., And KIHWELO, J.A.) 2ps. 1ps. 6th &amp; 16th June, 2022 ## KWARIKO, J.A: This appeal has been preferred against the decision of the Tax Revenue Appeals Tribunal (the Tribunal), dated 8th December, 2020 in Tax Appeal No. 65 of 2019 that upheld the decision of the Tax Revenue Appeals Board (the Board), which was decided against the appellant, in that it was held liable to pay the tax assessed by the respondent. CIVIL APPEAL NO. 163 OF 2021 Q-BAR LIMITED..........................................................................APPELLANT ## VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY............................................ RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Mjemmas- Chairman) dated 8th December, 2020 in Tax Appeal 2ps. No. 65 of 2019 ## JUDGMENT OF THE COURT respondent was informed by the Commissioner of Domestic Revenue that the appellant was not using Electronic Fiscal Device (EFD) machine in his business. That machine is used to record sales and taxes. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What was the nature of Civil Appeal No. 163 of 2021?
+        answer: |
+          Civil Appeal No. 163 of 2021 was an appeal by Q-Bar Limited against the decision of the Tax Revenue Appeals Tribunal, which upheld the Tax Revenue Appeals Board's ruling that Q-Bar Limited was liable to pay the tax assessed by the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What is the appellant's line of business mentioned in the context?
+        answer: |
+          The appellant, Q-Bar Limited, is involved in businesses such as running a guest house, bar, and restaurant.
+      - question: |
+          What specific issue led to the appellant being held liable for tax payments?
+        answer: |
+          The appellant was held liable for tax payments because the respondent, the Commissioner General of the Tanzania Revenue Authority, found that the appellant was not using an Electronic Fiscal Device (EFD) machine to record sales and taxes, which is required for compliance.
+      - question: |
+          What is the function of the Electronic Fiscal Device (EFD) machine discussed in the case?
+        answer: |
+          The Electronic Fiscal Device (EFD) machine is used to record sales and taxes as part of compliance with tax regulations.
+      - question: |
+          What were the dates of the proceedings outlined in the context?
+        answer: |
+          The proceedings were held on the 6th and 16th of June, 2022.
+  - context: |
+      1ps. 1ps. For ease of reference, we reproduce this provision thus: "Appeal to the Court of Appeal shall be on matters involving questions of law only and the provisions of the Appellate Jurisdiction Act and the rules made thereunder shall apply mutatis mutandis to appeals from the decision of the Tribunal." Essentially, this provision entails that an appeal to this Court from a decision of the Tribunal lies on matters involving questions of law only. For instance, in the latter case where some of the appellant's grounds of appeal raised issues of facts, the Court observed thus: "I4fe are of the decided 2ps. view that this complaint raises purely factual matters which this Court has no jurisdiction to entertain. This Court is mandated to decide tax revenue matters involving points of law only as clearly provided under section 25 (2) of the Tax Revenue Appeals Act [CAP 408 R.E. 2010]." 2ps. 1ps. This is not the first time that the Court is encountered with this issue; it has been discussed in its various decisions including the cases of Atlas Copco Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 167 of 2019, Shoprite Checkers (T) Limited v. The Commissioner General TRA Civil Appeal No 307 of 2020 and Jovet Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 217 of 2019 (all unreported). Likewise, in the case of Atlas Copco Tanzania Limited cited above, the Court emphasized the need for an intended appellant to specify the points of 2ps. law which are alleged to have been wrongly decided by the Tribunal.
+    questions_and_answers:
+      - question: |
+          What is the scope of appeals to the Court of Appeal from decisions of the Tribunal as per the provided context?
+        answer: |
+          Appeals to the Court of Appeal from decisions of the Tribunal are limited to matters involving questions of law only.
+      - question: |
+          What is the Court's stance on addressing complaints that raise factual matters?
+        answer: |
+          The Court does not have jurisdiction to entertain complaints raising purely factual matters, as its mandate is restricted to points of law as outlined in section 25(2) of the Tax Revenue Appeals Act.
+      - question: |
+          Which legal provision specifies the Court’s mandate to decide tax revenue matters involving points of law?
+        answer: |
+          The mandate is specified under section 25(2) of the Tax Revenue Appeals Act [CAP 408 R.E. 2010].
+      - question: |
+          What example is given of cases where the issue of legal versus factual matters in appeals was discussed?
+        answer: |
+          Examples include Atlas Copco Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 167 of 2019, Shoprite Checkers (T) Limited v. The Commissioner General TRA, Civil Appeal No. 307 of 2020, and Jovet Tanzania Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 217 of 2019.
+      - question: |
+          What did the Court emphasize in the case of Atlas Copco Tanzania Limited regarding intended appeals?
+        answer: |
+          The Court emphasized the need for an intended appellant to specify the points of law that are alleged to have been wrongly decided by the Tribunal.
+document_outline: |
+  **Document Outline:**  
+  The document details Civil Appeal No. 163 of 2021 heard by the Court of Appeal of Tanzania, involving Q-Bar Limited (Appellant) and the Commissioner General, Tanzania Revenue Authority (Respondent). The appeal arises from a Tax Revenue Appeals Tribunal decision upholding tax assessments imposed on the appellant for undeclared sales discovered during an audit conducted for the years 2009-2011, linked to the appellant's use of an unrecognized cash register. The case addresses disputes over tax assessments, the appellant's objections, and arguments regarding discrepancies in financial records.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Qbar_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_163_of_2021)_2022_TZCA_381_(16_June_2022).md

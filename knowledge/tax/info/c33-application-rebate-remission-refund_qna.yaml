@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C.33 ## EAST AFRICAN COMMUNITY CUSTOMS ## Regulations 143 (2), 145 and 147 APPLICATION FOR A REBATE, OR REMISSION AND 2ps. REFUND . Date ……………., 20……. To the Commissioner, at ……………………………………….. Country………………………………………………. ## 1. Abandoned Goods In accordance with the provision of sections 16 of the East African Community Customs Management Act, I/We hereby abandon the under-mentioned goods which were unloaded from the *Aircraft/Vessel/vehicle …………………………………… Rotation No. ………………… and I/We apply for a *remission/refund of import duty chargeable or paid thereon. Particulars of Goods and Reasons for Abandonment …………………………………………………………………………………………………………………………… …………………………………………………………………………………………………………………………… …………………………………………………………………………………………………………………………… Entry No. and Date .…….……………………..………………………… ……………………………………… Importer or Agent ## 2. Damaged/Pillaged/Destroyed Goods In accordance with the provision of the East African Community Customs Management Act, *I/We hereby apply for a *rebate/refund of ……………………………………………..(dollars) 3ps. in respect of the under- mentioned goods which were discharged from the *Aircraft/Vessel ………………………………..…………… Rotation No ………………….………….. and were *damaged/pillaged/destroyed during the voyage, or before delivery out of Customs control. 2ps. 1ps. ## 1. Abandoned Goods In accordance with the provision of sections 16 of the East African Community Customs Management Act, I/We hereby abandon the under-mentioned goods which were unloaded from the *Aircraft/Vessel/vehicle …………………………………… Rotation No. ………………… and I/We apply for a *remission/refund of import duty chargeable or paid thereon. in respect of the under- mentioned goods which were discharged from the *Aircraft/Vessel ………………………………..…………… Rotation No ………………….………….. and were *damaged/pillaged/destroyed during the voyage, or before delivery out of Customs control. Particulars of Goods …………………………………………………………………………………………………………………………… ………………………………………………………………………………………………………………… …………………………………………………………… Entry No. and date 2ps. ……..…………………..……… ## 3. Certificate from the Insurer or Carrier in the Case of Damaged/Pillaged/Destroyed Goods *I/We hereby certify that :- (a) the above-mentioned goods are covered by insurance with the ……………………………………………… (company). (b) as a result of a survey a claim to the extent of ………………………….
+    questions_and_answers:
+      - question: |
+          What sections of the East African Community Customs Management Act are referred to for abandoning goods?
+        answer: |
+          The relevant section referred to is Section 16 of the East African Community Customs Management Act.
+      - question: |
+          What circumstances allow for the application of a rebate or refund under the document?
+        answer: |
+          A rebate or refund can be applied for if goods are abandoned, damaged, pillaged, or destroyed during transit or before delivery out of Customs control.
+      - question: |
+          What specific information must be included when applying for the abandonment of goods?
+        answer: |
+          Applicants must include particulars of the goods, the reasons for abandonment, the aircraft/vessel/vehicle details, rotation number, entry number, and date.
+      - question: |
+          What documentation is required for goods that are damaged, pillaged, or destroyed?
+        answer: |
+          A certificate is required from the insurer or carrier, certifying that the goods are insured and detailing the extent of the claim based on a survey.
+      - question: |
+          Who is the application for a rebate, remission, or refund addressed to according to the text?
+        answer: |
+          The application is addressed to the Commissioner in the respective country.
+document_outline: |
+  **Document Outline:**  
+  This document outlines the procedures and application forms for requesting a rebate, remission, or refund of import duties under specific circumstances, as per the East African Community Customs regulations. It includes details on abandoned goods, damaged/pillaged/destroyed goods, required certifications from insurers/carriers, and final approval by customs officers and the Commissioner.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c33-application-rebate-remission-refund.md

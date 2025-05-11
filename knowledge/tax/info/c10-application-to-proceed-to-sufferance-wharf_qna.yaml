@@ -1,0 +1,114 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C.10
+      
+      ## EAST AFRICAN COMMUNITY                                                 
+                                              CUSTOMS
+      
+      ## Regulation 30 and 90
+         APPLICATION TO PROCEED TO A
+      
+      2ps. SUFFERANCE WHARF OR OTHER UNAPPROVED PLACE
+      
+      To the Proper Officer               
+                                                               Rotation No.
+         ………………………. 
+      
+      Port of ……………………………     
+                   
+      
+      3ps.      Country………………….………….. 
+      
+      Permission is requested for
+         the
+         *aircraft/vessel…………………………………………………………….
+         
+      
+      to proceed to
+         …………………………………………………………………………………………………..
+      
+      at
+         ………………a.m./p.m. on the……………………………day
+         of.………………………20……   for
+      
+      the purpose of
+         loading/unloading cargo. 
+      
+      Reasons
+         ………………………………………………………………………………………………………
+      
+      ………………………………………………………………………………………………………………….
+         
+      
+      …………………………………………………………………………………………………………………
+      
+      I
+         undertake to pay all expenses including tallying, escorting and oversee the
+         said *aircraft/vessel, its stores and cargo. 
+      
+      Date …………………..
+         20……
+      
+      ...........………………………..
+      
+      Master or Agent
+      
+      The
+         above request is granted subject to the observance of the following
+         conditions in addition to those provided in the Customs
+         laws:
+      
+      ……………………………………………………………………………………………………………………
+      
+      ……………………………………………………………………………………………………………………
+      
+      ……………………………………………………………………………………………………………………
+      
+      ……………………………………………………………………………………………………………………
+      
+      ……………………………………………………………………………………………………………………
+      
+      …………………………………………………………………………………………………………………
+      
+      …………….……………..
+         
+      
+      Proper Officer                         
+      
+      4ps.   Date ………………
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is Regulation 30 and 90 related to in the context of the East African Community Customs?
+        answer: |
+          Regulation 30 and 90 pertain to the application process for an aircraft or vessel to proceed to a sufferance wharf or another unapproved place.
+      - question: |
+          What details must be included in the request to proceed to an unapproved place?
+        answer: |
+          The request must include the aircraft or vessel details, the proposed destination, the date and time, the purpose (loading/unloading cargo), reasons for the request, and an undertaking to cover all expenses related to the procedure.
+      - question: |
+          What expenses does the applicant undertake to pay when submitting the request?
+        answer: |
+          The applicant undertakes to pay all expenses, including tallying, escorting, and overseeing the aircraft or vessel, its stores, and its cargo.
+      - question: |
+          Who must approve the request to proceed to a sufferance wharf or unapproved place?
+        answer: |
+          The request must be approved by a Proper Officer, who may grant permission subject to compliance with additional conditions outlined under Customs laws.
+      - question: |
+          What conditions may be imposed when granting permission to the applicant?
+        answer: |
+          The conditions imposed are those provided in the Customs laws, as well as any additional conditions specified by the Proper Officer in the approval process.
+document_outline: |
+  **Document Outline:**  
+  The document is an official form employed under the East African Community Customs Regulations (Regulations 30 and 90) for requesting permission for an aircraft or vessel to proceed to a sufferance wharf or other unapproved location for loading/unloading cargo. It includes fields for the requester's details, proposed location, purpose, date and time, reasons for the request, a declaration of responsibility for associated costs, and conditions set by customs authorities.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c10-application-to-proceed-to-sufferance-wharf.md

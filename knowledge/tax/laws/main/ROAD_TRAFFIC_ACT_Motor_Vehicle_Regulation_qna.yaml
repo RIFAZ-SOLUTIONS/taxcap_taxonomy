@@ -1,0 +1,97 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ISSN 0856-034X
+      
+      Supplement No. 26 Ath July; 2014 SUBSIDIARY LEGISLATION
+      
+      to the
+         Gazette of the United Republic of Tanzania No. 27 Vol 95 dated 4" July;
+         2014
+      
+      Printed by the Government Printer; Dar es Salaam; by Order of
+         Government
+      
+      GOVERNMENT NOTICE No. 205 published on 4/7/2014
+      
+      THE ROAD TRAFFIC
+         ACT (CAP.168)
+      
+      ## REGULATIONS
+      
+      (Made under section 114(1)(g))
+      
+      THE ROAD
+         TRAFFIC (MOTOR VEHICLES REGISTRATION) (AMENDMENT) REGULATIONS, 2014
+      
+      1.-(1)
+         These Regulations may be cited as the Road Traffic (Motor Vehicles
+         Registration) (Amendment) Regulations; 2014 and shall be read 2001,
+         hereinafter referred to as the 'principal Regulations'
+      
+      - (2) These
+         Regulations shall come into operation on the Ist of October; 2014. day
+      - 2.
+      
+      2ps. The principal Regulations are amended in regulation 18 by \_
+      - '(2)
+         Notwithstanding subregulation (1) the registration number for motor cycle
+         shall be preceeded with leters 'MC?' following by figures and letters ranging
+         from "101AAA to 6999 ZZZ, and
+      - (a) inserting immediately after subregulation
+         (1) the following new subregulation:
+      - (b) designating subregulation (2) as
+         subregulation (3);
+      - (c inserting immediately after the words "T10O"
+         appearing as the end of paragraph (b) of subregulation (3) as designated, the
+         following words from &lt;MC 001 up to MCIOO" .
+      
+      
+      
+      2ps. 1ps. 
+      
+      Dar es Salaam; 21st June, 2014
+      
+      MATHIAS CHIKAWE, Minister for Home
+         Affairs
+      
+      Citation and commencement GN No. 177 of 2001
+      
+      Amend - ment of
+         regulation 18
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations discussed in this document?
+        answer: |
+          The regulations are titled 'The Road Traffic (Motor Vehicles Registration) (Amendment) Regulations, 2014.'
+      - question: |
+          When did these amended regulations come into effect?
+        answer: |
+          The amended regulations came into effect on the 1st of October, 2014.
+      - question: |
+          What specific change was made to the motor vehicle registration numbers for motorcycles?
+        answer: |
+          Motorcycle registration numbers must now be preceded by the letters 'MC' followed by figures and letters ranging from '101AAA' to '6999ZZZ.'
+      - question: |
+          Who authorized the publication of this subsidiary legislation?
+        answer: |
+          The subsidiary legislation was authorized by Mathias Chikawe, the Minister for Home Affairs.
+      - question: |
+          What section of the Road Traffic Act provides the authority for these regulations?
+        answer: |
+          These regulations were made under section 114(1)(g) of the Road Traffic Act (Cap.168).
+document_outline: |
+  ### Document Outline
+  
+  This document outlines the *Road Traffic (Motor Vehicles Registration) (Amendment) Regulations, 2014* issued under the Road Traffic Act (Cap. 168) of Tanzania. Published as Government Notice No. 205 on July 4, 2014, the amendments pertain to changes in motor vehicle registration, particularly for motorcycles, with the regulations taking effect on October 1, 2014.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - ROAD_TRAFFIC_ACT_Motor_Vehicle_Regulation.md

@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. This Act shall apply to Mainland Tanzania as well as to Tanzania Zanzibar. Interpretation 3. In this Act, unless the context otherwise requires- Acts Nos. ## PART II ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY Establishment of Authority Act No. 13 of 1996 s. 50 - 4 .-(1) There is established an Authority to be known as the Tanzania Revenue Authority which shall consist of the Board and all operating Departments. - (2) The Authority shall be a body corporate with perpetual 2ps. succession and a common seal and, subject to this Act- - (a) shall be capable of suing and being sued in its corporate name; - (b) may borrow money, acquire and dispose of property; and - (c) may do all other things which a body corporate may lawfully do - (3) The Authority shall be an agency of the Government and shall be under the general supervision of the Minister. - (4) The seal of the Authority shall be authenticated by the signatures 3ps. of the Commissioner General and the Secretary to the Board. 2ps. 1ps. ## PART II ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY Establishment of Authority Act No. 13 of 1996 s. 50 - 4 .-(1) There is established an Authority to be known as the Tanzania Revenue Authority which shall consist of the Board and all operating Departments. - (4) The seal of the Authority shall be authenticated by the signatures of the Commissioner General and the Secretary to the Board. - (5) In the absence of the Commissioner General, a Commissioner designated by him 2ps. for the purpose, may sign a document in his place and in the absence of the Secretary to the Board, a person performing the functions of the Secretary may sign a document in his place.
+    questions_and_answers:
+      - question: |
+          To which regions does the Act mentioned in the context apply?
+        answer: |
+          The Act applies to both Mainland Tanzania and Tanzania Zanzibar.
+      - question: |
+          What is the name of the Authority established under this Act?
+        answer: |
+          The Authority established under this Act is known as the Tanzania Revenue Authority.
+      - question: |
+          What legal characteristics does the Tanzania Revenue Authority have as a body corporate?
+        answer: |
+          The Tanzania Revenue Authority has perpetual succession, a common seal, can sue and be sued in its corporate name, borrow money, acquire and dispose of property, and perform other lawful actions of a body corporate.
+      - question: |
+          Who supervises the Tanzania Revenue Authority according to this Act?
+        answer: |
+          The Tanzania Revenue Authority is under the general supervision of the Minister.
+      - question: |
+          Who is responsible for authenticating the seal of the Authority?
+        answer: |
+          The seal of the Authority is authenticated by the signatures of the Commissioner General and the Secretary to the Board, or their designated substitutes in their absence.
+  - context: |
+      1ps. 1ps. The Tanzania Revenue Authority Act [CAP. 399 R.E 2019] ## THE UNITED REPUBLIC OF TANZANIA <!-- image --> CHAPTER 399 ## THE TANZANIA REVENUE AUTHORITY ACT [PRINCIPAL LEGISLATION] REVISED EDITION 2019 This Edition of the Tanzania Revenue Authority Act, Chapter 399 has been revised up to and including 30 th November, 2019 and is printed under the authority of section 4 of the Laws Revision Act, Chapter 4. Dodoma, 30 th November, 2019 ADELARDUS L. KILANGI Attorney General PRINTED BY THE GOVERNMENT PRINTER , DODOMA -TANZANIA 1 The Tanzania Revenue Authority 2ps. Act [CAP. 399 R.E 2019] 2 \_\_\_\_\_\_\_\_ ## CHAPTER 399 \_\_\_\_\_\_\_\_\_ ## THE TANZANIA REVENUE AUTHORITY ACT ## [PRINCIPAL LEGISLATION] ## ARRANGEMENT OF SECTIONS Section Title ## PART I ## PRELIMINARY PROVISIONS - 1. Short title. - 2. Application. - 3. Interpretation. ## PART II ## ESTABLISHMENT, POWERS AND FUNCTIONS OF THE AUTHORITY - 4. Establishment of Authority. - 5. Functions of Authority. - 5A. Consultation and coordination. - 6. Repealed. - 7. Taxpayer identification and exchange of information. - 8. Confidentiality. - 9. Role of Minister. 2ps. 1ps. - 7. Taxpayer identification and exchange of information. - 8. Confidentiality. - 9. Role of Minister. ## PART III THE BOARD AND ITS FUNCTIONS - 10. Establishment of Board. - 11. Tenure of office. - 12. Meetings of Board. ## PART IV POWERS AND OPERATIONS OF THE BOARD - 13. Powers of Board. - 14. Exemptions. - 15. Annual reports on exemptions. ## PART V ## COMMISSIONER GENERAL, OFFICERS AND STAFF - 16. Commissioner General. - 17. Deputy Commissioner General. - 18. Termination of appointment. - 19. Functions of Deputy Commissioner General. - 20. Appointment of Revenue Commissioners, other Commissioners and staff of 2ps. the Authority. - 20A. Repealed. - 21. Duties of Secretary. - 22.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Tanzania Revenue Authority Act [CAP. 399 R.E 2019]?
+        answer: |
+          The Tanzania Revenue Authority Act provides the legal framework for the establishment, powers, functions, and operations of the Tanzania Revenue Authority as revised up to November 30, 2019.
+      - question: |
+          Who authorized the printing of the revised edition of the Tanzania Revenue Authority Act?
+        answer: |
+          The revised edition of the Act was printed under the authority of section 4 of the Laws Revision Act, Chapter 4, as stated by ADELARDUS L. KILANGI, the Attorney General.
+      - question: |
+          What are some key functions of the Tanzania Revenue Authority as outlined in this Act?
+        answer: |
+          The Tanzania Revenue Authority's functions include taxpayer identification, exchange of information, confidentiality, and coordination through consultation, as specified in Part II of the Act.
+      - question: |
+          What is the purpose of the Board established by the Tanzania Revenue Authority Act?
+        answer: |
+          The Board, as established in Part III of the Act, oversees matters such as tenure of office, meeting procedures, and its functions, which include approving exemptions and providing annual reports on these exemptions.
+      - question: |
+          What role does the Commissioner General play under the Act?
+        answer: |
+          The Commissioner General is the head of the Authority and has specific responsibilities, which include overseeing officers and staff, as outlined in Part V of the Act.
+  - context: |
+      1ps. 1ps. - (2) The Commissioner General shall submit the report referred to in subsection (1) to the Board for its consideration at the next meeting of the Board and shall provide a copy of the report to the Minister and the Controller and Auditor General. [s. 27] Vesting of assets and liabilities, subsisting contracts and pending proceedings Acts Nos. 8 of 1996 s. 18; 13 of 1996 s. 51 Construction and modification of other laws Acts Nos. 8 of 1996 s. 18; 13 of 1996 s. 51 4 of 2018 s.60 ## PART VII MISCELLANEOUS PROVISIONS 32.(1) 2ps. All property, except any such property as the Minister may determine, which immediately before the commencement of this Act was vested in the Government for the use of the Revenue Departments for the purpose of giving effect to the laws set out in the First Schedule shall, on the date of commencement of this Act, and without further assurance, vest in the Authority subject to all interests, liabilities, charges, obligations and trust affecting that 3ps. property. 2ps. 1ps. 8 of 1996 s. 18; 13 of 1996 s. 51 Construction and modification of other laws Acts Nos. 8 of 1996 s. 18; 13 of 1996 s. 51 4 of 2018 s.60 ## PART VII MISCELLANEOUS PROVISIONS 32.(1) (2) Except as otherwise provided in subsection (1) in relation to property, contracts, debts, engagements and liabilities of the Government attributable to the Revenue Departments shall remain vested in the Authority and may be enforced by or against the Authority . (3) All legal proceedings and claims pending in 2ps.
+    questions_and_answers:
+      - question: |
+          What action must the Commissioner General take regarding the report mentioned in subsection (1)?
+        answer: |
+          The Commissioner General must submit the report to the Board for its consideration at the next meeting and provide copies to the Minister and the Controller and Auditor General.
+      - question: |
+          What happens to property used by the Revenue Departments before the commencement of the Act?
+        answer: |
+          All such property, except those determined by the Minister, will vest in the Authority on the date the Act commences, along with all interests, liabilities, charges, obligations, and trusts associated with it.
+      - question: |
+          What is stated about the Government's property, contracts, debts, engagements, and liabilities in subsection (2)?
+        answer: |
+          These items remain vested in the Authority and can be enforced by or against the Authority, except when subsection (1) provides otherwise.
+      - question: |
+          What is the legal status of proceedings and claims pending in relation to the Revenue Departments?
+        answer: |
+          All legal proceedings and claims that are pending in relation to the Revenue Departments may continue to be addressed by or against the Authority.
+      - question: |
+          Which Acts authorize the construction and modification of other laws mentioned in the context?
+        answer: |
+          The Acts authorizing the construction and modification of other laws include Act No. 8 of 1996, Act No. 13 of 1996, and Act No. 4 of 2018.
+  - context: |
+      1ps. 1ps. 82. - 12. The Foreign Vehicles Transit Charges Act, Cap. 84. - 13. The Gaming Act, Cap. 41. - 14. The Tax Administration Act, Cap. 438. - 15. The Road Traffic Act, Cap.168. - 16. The Railways Act, Cap. 170. - 17. Any other law authorising the Authority to administer or collect revenue. Acts Nos. 2 of 2016 s.56 4 of 2017 s.46A ## PART B - 1. The Local Government Finance Act, Cap. 290. - 2. The Oil and Gas Revenue Management Act, Cap. 328. - 3. The Rural Energy Act, Cap. 321. - 4. The Treasury Registrar (Powers and Functions) Act, Cap. 370. - 2ps. 5. The Urban Authorities (Rating) Act, Cap. 289. - 6. The Petroleum Act, Cap. 392. - 7. The Immigration Act, Cap. 54. - 8. The Tanzania Citizenship Act, Cap. 357. - 9. The Police Force and Auxiliary Services Act, Cap. 322. - 10. The Motor Vehicle Driving Schools Act, Cap. 163. - 11. The Firearms and Ammunition Control Act, Cap. 223. - 12. The Tanzania Passports and Travel Documents Act, Cap. 2ps. 1ps. 322. - 10. The Motor Vehicle Driving Schools Act, Cap. 163. - 11. The Firearms and Ammunition Control Act, Cap. 223. - 12. The Tanzania Passports and Travel Documents Act, Cap. 42. - 13. The Registration of Documents Act, Cap. 117. - 14. The Land Registration Act, Cap. 334. - 15. The Chattels Transfer Act, Cap. 210. - 16. The Unit Titles Act, Cap. 416. - 17. The Land Act, Cap. 113. - 18. The Land Survey Act, Cap. 324. - 19. The Mining Act, Cap. 123. - 20. The Explosives Act, Cap. 45. - 21. The 2ps. Electronic and Postal Communications Act, Cap. 302. - 22. The Tourism Act, Cap. 65. - 23.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Foreign Vehicles Transit Charges Act, Cap. 84?
+        answer: |
+          The Foreign Vehicles Transit Charges Act, Cap. 84, authorizes the administration of charges related to foreign vehicles using transit routes.
+      - question: |
+          What does the Tax Administration Act, Cap. 438, likely focus on?
+        answer: |
+          The Tax Administration Act, Cap. 438, focuses on procedures and regulations for managing and enforcing tax collection.
+      - question: |
+          Which act governs the management of oil and gas revenues?
+        answer: |
+          The Oil and Gas Revenue Management Act, Cap. 328, governs the management of revenues derived from oil and gas operations.
+      - question: |
+          What is the purpose of the Land Survey Act, Cap. 324?
+        answer: |
+          The Land Survey Act, Cap. 324, pertains to the surveying and mapping of land for various legal and administrative purposes.
+      - question: |
+          Which act regulates firearms and ammunition?
+        answer: |
+          The Firearms and Ammunition Control Act, Cap. 223, regulates the control and management of firearms and ammunition.
+  - context: |
+      1ps. 1ps. - (4) The Board may delegate to any member the power and authority to carry out on behalf of the Authority such functions as the Board may determine. <!-- formula-not-decoded --> 11.(1) - (2) The Minister may terminate or suspend the appointment of a member- - (a) for the member's inability to perform the functions of his office; - (b) for misbehaviour; - (c) if the member is convicted of a criminal offence involving moral turpitude and 2ps. in Meetings of Board Powers of Board Act No. 8 of 1996 s. 9 respect of which a maximum penalty exceeding six months imprisonment may be imposed; - (d) if the member, in any particular case, fails to comply with the provisions of paragraph 4 of the Second Schedule relating to the disclosure of interest; or - (e) for any other sufficient cause. [s. 10] 12.(1) The provisions of the Second Schedule shall apply to the meetings of the Board, and other matters provided for in that 3ps. Schedule and the Minister may by statutory instrument, amend the Second Schedule. 2ps. 1ps. [s. 10] 12.(1) The provisions of the Second Schedule shall apply to the meetings of the Board, and other matters provided for in that Schedule and the Minister may by statutory instrument, amend the Second Schedule. - (2) The Board may co-opt any person to participate in the deliberations, but a person so coopted shall have no right to vote. [s. 11] ## PART IV ## POWERS AND OPERATIONS OF THE BOARD 13 . In the discharge of its functions 2ps.
+    questions_and_answers:
+      - question: |
+          What authority does the Board have regarding delegation of functions?
+        answer: |
+          The Board may delegate to any member the power and authority to carry out functions on behalf of the Authority as determined by the Board.
+      - question: |
+          Under what circumstances can the Minister terminate or suspend a Board member's appointment?
+        answer: |
+          The Minister can terminate or suspend a Board member's appointment for reasons such as inability to perform their functions, misbehavior, conviction of a criminal offense involving moral turpitude with a penalty exceeding six months imprisonment, failure to disclose conflicts of interest, or any other sufficient cause.
+      - question: |
+          What provisions govern the meetings of the Board?
+        answer: |
+          The provisions of the Second Schedule govern the meetings of the Board and related matters, which may be amended by the Minister through a statutory instrument.
+      - question: |
+          What restrictions exist for individuals co-opted by the Board to participate in deliberations?
+        answer: |
+          Individuals co-opted by the Board to participate in deliberations have no right to vote.
+      - question: |
+          What is the Minister's role in amending the Second Schedule?
+        answer: |
+          The Minister has the authority to amend the Second Schedule by issuing a statutory instrument.
+document_outline: |
+  ### Document Outline: The Tanzania Revenue Authority Act (CAP. 399 R.E. 2019)
+  
+  This document outlines the Tanzania Revenue Authority Act, which establishes the Tanzania Revenue Authority (TRA) as the central body for assessing, collecting, and enforcing laws related to specified revenue in Mainland Tanzania and Zanzibar. It details the organizational structure, powers, and functions of the TRA, including provisions on governance, financial operations, exemptions, taxpayer identification, confidentiality, and penalties.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CHAPER_399-THE_TANZANIA_REVENUE_AUTHORITY_ACT_-_01.md

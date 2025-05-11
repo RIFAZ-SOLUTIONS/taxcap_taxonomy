@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. CB Form CUSTOMS Regulations ## BOND TO SECURE CUSTOMS DUTIES I/We …………………………………………………………………………….................................................... ........……...(Surety) of…………………………………………………………..............................................................……… …………………… and ……………………………………………………..................................................................…………… … (Owner/Principal) of……………………………….................................................................... ..............…………………… ……………………………… hereby acknowledge that I am/we are bound to the Commissioner in the sum of………………………………(figures) (.................................................................) dollars (in words) to be paid to the Commissioner for which payment I/We bind Myself/Ourselves jointly and severally and also to M y/Our heirs, executors, administrators and assigns and every of them firmly by these presents. Dated this…………day of…………………….................................................20….. Whereas the Commissioner by virtue of authority vested in him by the 2ps. East African Community Customs Management Act has authorised ...................... ...................................... (owner/principal) to deal in or handle or take delivery of goods under customs control without payment of customs duties and has directed that the principal shall give security for duty payable on those goods. 2ps. 1ps. of…………………………………………………………..............................................................……… …………………… and ……………………………………………………..................................................................…………… … (Owner/Principal) of……………………………….................................................................... ..............…………………… ……………………………… hereby acknowledge that I am/we are bound to the Commissioner in the sum of………………………………(figures) (.................................................................) dollars (in words) to be paid to the Commissioner for which payment I/We bind Myself/Ourselves jointly and severally and also to M y/Our heirs, executors, administrators and assigns and every of them firmly by these presents. Dated this…………day of…………………….................................................20….. I/We ............................................................................. (Owner/Principal) understand that the condition(s) of this obligation are that I/we shall (a) take delivery of goods before payment of taxes and duly render due accountability on such goods to the 2ps.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the bond mentioned in the text?
+        answer: |
+          The bond is used to secure customs duties and ensure accountability for goods taken under customs control without immediate payment of duties.
+      - question: |
+          Who are the parties involved in the bond agreement?
+        answer: |
+          The parties involved are the Surety, the Owner/Principal, and the Commissioner.
+      - question: |
+          What responsibilities does the Owner/Principal undertake in the bond agreement?
+        answer: |
+          The Owner/Principal agrees to take delivery of goods under customs control before paying taxes and to provide accountability for the goods in accordance with the conditions laid out by the Commissioner.
+      - question: |
+          What authority does the Commissioner derive their power from in this agreement?
+        answer: |
+          The Commissioner derives their authority from the East African Community Customs Management Act.
+      - question: |
+          What happens if the bond conditions are not fulfilled?
+        answer: |
+          If the bond conditions are not fulfilled, the Surety and the Owner/Principal are jointly and severally liable to pay the specified sum to the Commissioner.
+document_outline: |
+  **Document Outline:**  
+  The document is a Customs Bond form under the East African Community Customs Management Act, outlining the responsibilities of a Surety and an Owner/Principal in securing customs duties for goods under customs control. It specifies conditions for handling, safekeeping, and accountability of goods, as well as penalties for non-compliance, with signatures required from all parties involved.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CB-BOND-TO-SECURE-CUSTOMS-DUTIES.md

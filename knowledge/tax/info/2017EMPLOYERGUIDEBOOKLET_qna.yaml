@@ -1,0 +1,126 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## THE EMPLOYER'S GUIDE TO 'PAY AS YOU EARN' September, 2015 Issued by, Taxpayers Services and Education Department July 2017 ## EMPLOYER'S GUIDE TO P.A.Y.E 2ps. 1ps. <!-- image --> ## THE EMPLOYER'S GUIDE TO 'PAY AS YOU EARN' September, 2015 Issued by, Taxpayers Services and Education Department July 2017 ## EMPLOYER'S GUIDE TO P.A.Y.E CONTENTS | PART I ...............................................................................................................1 | PART I ...............................................................................................................1 | |--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------| | 1.0 PRELIMINARYINTERPRETATION.............................................................1 2ps. | 1.0 PRELIMINARYINTERPRETATION.............................................................1 3ps. | | 1.1 4ps. | PURPOSE OFEMPLOYER'S GUIDE...................................................1 5ps. | | AUTHORITY OFFICES..........................................................................1 6ps. | 7ps. | | 1.3 APPLICABILITY OF 'PAYAS YOU EARN' 8ps. | ...........................................1 9ps. | | 1.4 OBLIGATION OF THE EMPLOYER TO WITHHOLD TAX ...................2 10ps. | 11ps. 12ps. | | 1.5 OBLIGATION OF THE EMPLOYER TO WITHHOLD TAX FROM 13ps. | 1.5 OBLIGATION OF THE EMPLOYER TO WITHHOLD TAX FROM 14ps. | | SECONDARY EMPLOYMENT PAYMENTS 15ps. | .........................................3 16ps. | | 1.6 EMPLOYER'S OBLIGATION TO FILE ASTATEMENT OF TAX ..........................................................................................4 17ps. | 1.6 EMPLOYER'S OBLIGATION TO FILE ASTATEMENT OF TAX ..........................................................................................4 | | WITHHELD 18ps. | 19ps. 20ps. | | CERTIFICATE 21ps. | ......................................................................................4 22ps. | | 1.8 OBLIGATION TO MAINTAIN DOCUMENTS 23ps. | .......................................5 24ps. | | .............................................................................................................6 | .............................................................................................................6 25ps. | | PART II 2.0 DEFINITIONS OF TERMS USED 26ps. | ..............................................................6 27ps. | | 2.1 EMPLOYMENT, EMPLOYEEAND 28ps. | EMPLOYER .................................6 29ps. | | PART III ............................................................................................................7 30ps. | PART III ............................................................................................................7 | | 3.0 CALCULATION OF AMOUNTS TO BE INCLUDED IN CALCULATING EMPLOYMENT INCOME ..........................................................................7 | 3.0 CALCULATION OF AMOUNTS TO BE INCLUDED IN CALCULATING EMPLOYMENT INCOME ..........................................................................7 | | 3.1 CALCULATION OF MONTHLY PAY 31ps. 32ps. | .....................................................7 33ps. | | 3.2 LUMP-SUM PAYMENTS AND PAYMENTS RELATING TO MONTHS ORYEARS OTHER THAN MONTHS ORYEARS OF PAYMENTS .....7 | 3.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Employer's Guide to 'Pay As You Earn'?
+        answer: |
+          The guide is intended to provide employers with information on their obligations and processes related to withholding tax under the Pay As You Earn (P.A.Y.E) system.
+      - question: |
+          Who issued the Employer's Guide to 'Pay As You Earn'?
+        answer: |
+          The guide was issued by the Taxpayers Services and Education Department.
+      - question: |
+          What does Section 1.4 in the guide address?
+        answer: |
+          Section 1.4 discusses the obligation of the employer to withhold tax.
+      - question: |
+          What is covered under Section 1.8 of the guide?
+        answer: |
+          Section 1.8 outlines the employer's obligation to maintain documents related to tax withholding.
+      - question: |
+          What section provides definitions of key terms, such as 'employment,' 'employee,' and 'employer'?
+        answer: |
+          Definitions of key terms are provided in Section 2.1 of the guide.
+  - context: |
+      1ps. 1ps. Using these tables, the employer looks up the employee's monthly pay and withholds as tax the corresponding amount mentioned in the tables. ## 5.3 THE NECESSARY ADJUSTMENTS It follows, therefore, that if the monthly pay is constant throughout the year of income, the aggregate monthly tax computed under paragraph 5.2 above is the same as the annual tax computed under paragraph 5.1 above. However, if the monthly pay fluctuates or the income is earned for part of the year only it will be necessary to make adjustments. This is in order to ensure 2ps. that the aggregate amount of tax withheld during the year is equal to the employee's annual tax liability for the year (assuming the employee has no other source of assessable income). When the change in monthly pay takes place, a calculation of revised withholding amounts should immediately be made for the remaining part of the year. This revision should result in the correct total tax being paid by the end of the year. 2ps. 1ps. This is in order to ensure that the aggregate amount of tax withheld during the year is equal to the employee's annual tax liability for the year (assuming the employee has no other source of assessable income). When the change in monthly pay takes place, a calculation of revised withholding amounts should immediately be made for the remaining part of the year. This revision should result in the correct total tax being paid by the end of the year. Fluctuations or changes in monthly pay 2ps.
+    questions_and_answers:
+      - question: |
+          How does the employer use tax tables to determine the tax to withhold from an employee's monthly pay?
+        answer: |
+          The employer looks up the employee's monthly pay in the tax tables and withholds the corresponding amount specified in the tables as tax.
+      - question: |
+          What happens if an employee's monthly pay remains constant throughout the year?
+        answer: |
+          If the monthly pay remains constant, the aggregate monthly tax computed over the year will be the same as the annual tax liability.
+      - question: |
+          Why are adjustments necessary when an employee's monthly pay fluctuates or is earned for only part of the year?
+        answer: |
+          Adjustments are needed to ensure that the total tax withheld during the year equals the employee's annual tax liability, assuming the employee has no other assessable income.
+      - question: |
+          What action should be taken when an employee's monthly pay changes during the year?
+        answer: |
+          A calculation of revised withholding amounts should be made immediately for the remaining part of the year to ensure the correct total tax is paid by year-end.
+      - question: |
+          Why is it important to revise withholding amounts after a change in monthly pay?
+        answer: |
+          Revising withholding amounts ensures the total tax collected aligns with the employee's annual tax liability by the end of the year.
+  - context: |
+      1ps. 1ps. It also includes: - (i) Persons who are in receipt of pensions and other payments from former employers for past services - (ii) Persons who are in receipt of payment for prospective employment - 2.1.3 'employer' means a person who conducts, has conducted or has the prospect of conducting the employment of an individual. - 2.1.4 'full time service director' means a person at management position and is in full time service in a corporation. This amount constitutes 'monthly pay' whether or not the actual amount is payable weekly, monthly, annually or 2ps. at any other shorter or longer intervals, ## 3.2 LUMP-SUM PAYMENTS AND PAYMENTS RELATING TO MONTHS OR YEARS OTHER THAN MONTHS OR YEARS OF PAYMENTS - 3.2.1 Lump-sum payments to employees may take the form of gratuities; leave pay, compensations, bonus, commissions etc. which may cover several months of the year or the whole of a year. Lump-sum payments other than terminal payments should be included in the year of payment and be taxed on the basis of 3ps. the adjusted monthly pay for the year of income. 2ps. 1ps. This amount constitutes 'monthly pay' whether or not the actual amount is payable weekly, monthly, annually or at any other shorter or longer intervals, ## 3.2 LUMP-SUM PAYMENTS AND PAYMENTS RELATING TO MONTHS OR YEARS OTHER THAN MONTHS OR YEARS OF PAYMENTS - 3.2.1 Lump-sum payments to employees may take the form of gratuities; leave pay, compensations, bonus, commissions etc. which may cover several months of the year or the whole of a year. - 3.2.2 Employees may also receive lump-sum payments other than 2ps. terminal payments during a year that relate to other years.
+    questions_and_answers:
+      - question: |
+          What types of individuals are included under the category of persons mentioned in the context?
+        answer: |
+          The category includes persons who receive pensions or payments from former employers for past services and persons who receive payment for prospective employment.
+      - question: |
+          How is an 'employer' defined in the context?
+        answer: |
+          An employer is defined as a person who conducts, has conducted, or has the prospect of conducting the employment of an individual.
+      - question: |
+          Who qualifies as a 'full-time service director'?
+        answer: |
+          A 'full-time service director' is a person in a management position who is in full-time service within a corporation.
+      - question: |
+          What forms can lump-sum payments to employees take, as mentioned in the context?
+        answer: |
+          Lump-sum payments can take the form of gratuities, leave pay, compensations, bonuses, and commissions, which may cover several months or an entire year.
+      - question: |
+          How are lump-sum payments that relate to other years treated for tax purposes?
+        answer: |
+          Lump-sum payments other than terminal payments are included in the year of payment and are taxed based on the adjusted monthly pay for the year of income.
+  - context: |
+      1ps. 1ps. The payment relates to years 2005 to 2015, inclusive and is allocated by the employer as Sh. 2,000,000 for each of the years 2005 to 2010 and Sh.2,500,000 for 2011, and 2012 and Sh. 3,000,000 years 2013, 2014 and 2015. Allocate the terminal payment for calculating income tax of the employee. ## Solution For calculating the income of the employee the terminal payment is treated as follows: The employer has allocated the payment as follows | 2ps. Year | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------| | Amount | 2.0m | 2.0m | 2.0m | 2.0m | 2.0m | 2.0m | 2.5m | 2.5m | 3.0m | 3.0m | 3.0m | - · Under section 7(4) the income 3ps. for years 2005 to 2010 (Sh. 12.0m) is to be allocated equally over the prior six years to 2015 i.e. Sh. 2.0m for each year. 2ps. 1ps. ## Solution For calculating the income of the employee the terminal payment is treated as follows: The employer has allocated the payment as follows | Year | 2005 | 2006 | 2007 | 2008 | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | |--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------|--------| | Amount | 2.0m | 2.0m | 2.0m | 2.0m | 2.0m | 2.0m | 2.5m | 2ps. 2.5m | 3.0m | 3.0m | 3.0m | - · Under section 7(4) the income for years 2005 to 2010 (Sh. - • The allocation for calculating tax purposes is as follows | Year | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | |---------------------------|--------|--------|--------|--------|--------|--------| | Income spread back (Shs.) | 2.0m 3ps. | 2.0m | 2.0m | 2.0m | 2.0m | 2.
+    questions_and_answers:
+      - question: |
+          How are the terminal payments allocated by the employer for the years 2005 to 2010?
+        answer: |
+          The employer allocates Sh. 2,000,000 for each year from 2005 to 2010, with a total allocation of Sh. 12,000,000 for these years.
+      - question: |
+          What amounts are allocated by the employer for the years 2011, 2012, and 2013?
+        answer: |
+          The employer allocates Sh. 2,500,000 for each of the years 2011 and 2012, and Sh. 3,000,000 for the year 2013.
+      - question: |
+          How is income from years 2005 to 2010 treated for tax calculation purposes under section 7(4)?
+        answer: |
+          For tax purposes, the income of Sh. 12,000,000 from 2005 to 2010 is spread back equally over six prior years to 2015, resulting in Sh. 2,000,000 allocated to each year.
+      - question: |
+          What is the terminal payment allocation for the years 2014 and 2015?
+        answer: |
+          The employer allocates Sh. 3,000,000 for both 2014 and 2015.
+      - question: |
+          What does section 7(4) specify regarding income allocation for tax calculations?
+        answer: |
+          Section 7(4) specifies that income from years 2005 to 2010 must be allocated equally over six years leading up to 2015.
+  - context: |
+      1ps. 1ps. If it is not possible to adjust the withholding and there is an over or under payment at the end of the year, employers should correct the situation as stated under the end of the year adjustments in this guide. - (ii) When the revised withholding bears no direct proportion to the actual pay it is important to remember that the actual monthly pay and the revised monthly tax withholding are entered in the Tax Withholding 2ps. Statement at the appropriate spaces accordingly. In carrying out the monthly adjustment employers must first assume that the change in income will remain constant until the end of the year unless another change takes place, in which case, readjustment on the same principles must be done again. The Tax Withholding Statement provides a space for indicating the date when the new salary commenced. Employers are requested to mark the date(s) accordingly. End of the month adjustment will also include checking and correcting arithmetical or other errors. 2ps. 1ps. The Tax Withholding Statement provides a space for indicating the date when the new salary commenced. Employers are requested to mark the date(s) accordingly. End of the month adjustment will also include checking and correcting arithmetical or other errors. ## 5.5 END OF THE YEAR ADJUSTMENTS - 5.5.1 An individual's income tax liability is calculated on an annual basis. In general, this is done by applying the rates mentioned in the First Schedule of the Income Tax Act, 2004 to the individual's total income for the year of income. In the case of an employee, 2ps. the year of income is the calendar year. - 5.5.2 End of the year adjustments are essentially intended to deal with any over or under withholding that occurred during the year. - 5.5.
+    questions_and_answers:
+      - question: |
+          What should employers do if there is an over or underpayment at the end of the year?
+        answer: |
+          Employers should correct the situation as stated under the end of the year adjustments in the guide.
+      - question: |
+          How should monthly adjustments to tax withholding be managed when income changes?
+        answer: |
+          Employers must initially assume that the change in income will remain constant until the end of the year and adjust accordingly. If another change occurs, readjustments should be made based on the same principles.
+      - question: |
+          What information must be marked on the Tax Withholding Statement?
+        answer: |
+          The Tax Withholding Statement includes a space for indicating the date when the new salary commenced, and employers are required to mark the date(s) accordingly.
+      - question: |
+          What is the purpose of end-of-year adjustments to income tax withholding?
+        answer: |
+          End-of-year adjustments are intended to address any over or under withholding that occurred during the year.
+      - question: |
+          How is an individual's income tax liability typically calculated for a year of income?
+        answer: |
+          An individual's income tax liability is calculated annually by applying the rates from the First Schedule of the Income Tax Act, 2004, to their total income for the calendar year.
+document_outline: |
+  This document, titled "The Employer's Guide to 'Pay As You Earn'" (P.A.Y.E.), issued by the Taxpayers Services and Education Department, provides detailed guidance for employers on their obligations regarding income tax withholding and compliance with P.A.Y.E regulations. It covers topics such as the interpretation of the system, employer responsibilities for withholding and documenting taxes, filing tax statements, and maintaining compliance records.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - 2017EMPLOYERGUIDEBOOKLET.md

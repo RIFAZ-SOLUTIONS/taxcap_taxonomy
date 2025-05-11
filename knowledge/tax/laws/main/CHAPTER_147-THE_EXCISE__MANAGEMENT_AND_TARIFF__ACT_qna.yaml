@@ -1,0 +1,126 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 2ps. 3ps. 4ps. 5ps. | |--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Interpretation [EAC]. Acts Nos. 1 of 2005 14 of 2009 s.6; 15 of 2010 4 of 2013 s.10; 10 of 2015 s. 167 | 2. -(1) In this Act, except where the context otherwise requires- "aircraft" includes every description of craft used in aerial navigation; "appropriate Partner State Legislation" means any legislation of any of the partner states imposing any rate of excise duty on the manufacture in that Partner State of any excisable goods; 6ps. "approved" means approved by the Commissioner-General; 'beer" includes ale, porter, and any other description of beer and any liquor which is made or sold as a | | Cap.122 7ps. | (a) in the case of Kenya, African intoxicating liquor as defined in the African Liquor Act 8ps. 9ps. 10ps. 11ps. | | 12ps. | of Kenya; or 13ps. 14ps. 15ps. 16ps. 17ps. | | Cap.77 18ps. | (b) in the case of Tanzania, local liquor as defined in the Intoxicating Liquors Act; or 19ps. 20ps. 21ps. 22ps. | | Cap.95 23ps. | (c) in the case of Uganda, native liquor as defined in the Liquor Act of Uganda; or (d) any kind of beer which the Authority may by order exclude from the provisions of this Act; "bonded warehouse" means any warehouse licensed by the 24ps. 25ps. 26ps. | | Cap.27 27ps. | Commissioner-General under the East African Customs and Transfer Tax Management Act for the deposit of dutiable goods on which duty has not been paid and which have been entered to be warehoused; "brewer" means the holder of a valid licence to brew beer; "by authority" means by the authority of the Commissioner-General or of any officer doing his 28ps. 29ps. | Cap. 2ps. 1ps. 2ps. 3ps. 4ps. 5ps.
+    questions_and_answers:
+      - question: |
+          What does the term 'aircraft' include as defined in this Act?
+        answer: |
+          The term 'aircraft' includes every description of craft used in aerial navigation.
+      - question: |
+          What is the definition of 'appropriate Partner State Legislation' in this Act?
+        answer: |
+          'Appropriate Partner State Legislation' refers to any legislation of any partner state that imposes an excise duty rate on the manufacture of excisable goods within that state.
+      - question: |
+          How is 'beer' defined in the context of this Act?
+        answer: |
+          'Beer' includes ale, porter, any other description of beer, and any liquor made or sold as beer. It also includes specific types of liquor defined under partner states' laws.
+      - question: |
+          What is a 'bonded warehouse' as per this Act?
+        answer: |
+          A 'bonded warehouse' is any warehouse licensed by the Commissioner-General under the East African Customs and Transfer Tax Management Act for storing dutiable goods that have been entered to be warehoused but on which duty has not been paid.
+      - question: |
+          What does the term 'brewer' refer to in this legal context?
+        answer: |
+          A 'brewer' is defined as the holder of a valid licence to brew beer.
+  - context: |
+      1ps. 1ps. 0.79 per kg | | | 2710.20.00 | -Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations, containing biodiesel and other than waste oils. 2ps. 3ps. 4ps. | | | | | 39.17 | 5ps. | -Tubes, pipes and hoses, rigid: 6ps. 7ps. 8ps. | | | | | 39.17 | 3917.21.00 | -- Of polymers 9ps. of ethylene 10ps. 11ps. 12ps. | kg | | | | | 3917.22.00 | -- Of polymers of propylene 13ps. | kg | | |-------|--------------|---------------------------------------------------------------------------------------------------------------------|------|-----| | 14ps. | 3917.23.00 | -- Of polymers of vinyl chloride | kg | 15ps. | | | 3917.29.00 | -- Of other plastics 16ps. | kg | | | | | - Other tubes, pipes and hoses: 17ps. | kg | | | | 3917.31.00 | -- Flexible tubes, pipes and hoses, having a minimum burst pressure of 27.6 MPa 18ps. | kg | | | | 3917.32.00 | -- Other, not reinforced or otherwise combined with other materials, without fittings | kg | | | | 3917.33.00 | -- Other, not reinforced or otherwise combined with other materials, 19ps. with fittings | kg | | | | 3917.39.00 | -- Other 20ps. | kg | | | | 3917.40.00 | -Fittings 21ps. | kg | 22ps. | | | | Locally manufactured 23ps. | | N/A | | | | Imported 24ps. | | 10% | | 39.23 | | Articles for the conveyance or packing of goods, of plastics; stoppers, lids, caps and other closures, 25ps. of plastics. 2ps. 1ps. | | | | 39.
+    questions_and_answers:
+      - question: |
+          What is the HS code for petroleum oils and oils obtained from bituminous minerals containing biodiesel?
+        answer: |
+          The HS code for petroleum oils and oils obtained from bituminous minerals (other than crude) containing biodiesel is 2710.20.00.
+      - question: |
+          What is the minimum burst pressure requirement for flexible tubes, pipes, and hoses classified under HS code 3917.31.00?
+        answer: |
+          Flexible tubes, pipes, and hoses classified under HS code 3917.31.00 must have a minimum burst pressure of 27.6 MPa.
+      - question: |
+          How are tubes, pipes, and hoses of polymers of ethylene classified in the HS code system?
+        answer: |
+          Tubes, pipes, and hoses of polymers of ethylene are classified under HS code 3917.21.00.
+      - question: |
+          What is the import duty for locally manufactured plastic fittings listed under HS code 3917.40.00?
+        answer: |
+          The import duty for locally manufactured plastic fittings under HS code 3917.40.00 is listed as N/A.
+      - question: |
+          What is the HS code for articles such as stoppers, lids, and caps of plastics for conveyance or packing of goods?
+        answer: |
+          The HS code for stoppers, lids, caps, and other closures of plastics for the conveyance or packing of goods is 39.23.
+  - context: |
+      1ps. 1ps. 2ps. | | | | 57.04 | 5704.10.00 | - Tiles, having a maximum surface area of 0.3 m 2 3ps. | m 2 | 10% | | 57.04 | 5704.20.00 | -Tiles, having a maximum 4ps. surface area exceeding 0.3 m 2 but not exceeding 1 m 2 5ps. | m 2 | 10% | | 57.04 | 5704.90.00 | - Other 6ps. 7ps. | m 2 | 10% | | 57.05 | 5705.00.00 | Other carpets and 10% other textile floor coverings, whether or not made up. | | | 8ps. | | | | Locally manufactured 9ps. | kg | N/A | 10% | | 10ps. | | Imported 11ps. | kg | N/A | 25% | | 67.04 | 12ps. | Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included. 2ps. 1ps. 2ps. | | | | 57.04 | 5704.10.00 | - Tiles, having a maximum surface area of 0.3 m 2 3ps. | m 2 | 10% | | 57.04 | 5704.20.00 | -Tiles, having a maximum 4ps. surface area exceeding 0.3 m 2 but not exceeding 1 m 2 5ps. | m 2 | 10% | | 57.04 | 5704.90.00 | - Other 6ps. 7ps. | m 2 | 10% | | 57.05 | 5705.00.00 | Other carpets and 10% other textile floor coverings, whether or not made up. | | | | | | 8ps. | - Of synthetic textile materials : 9ps. | | | | | | 6704.11.00 | -- Complete wigs 10ps. 11ps. | | | | | | 6704.19.00 | -- Other 12ps. 13ps. | | | | | | 6704.20.00 | - Of human hair 14ps. 15ps.
+    questions_and_answers:
+      - question: |
+          What is the maximum surface area for tiles classified under 5704.10.00?
+        answer: |
+          Tiles under 5704.10.00 have a maximum surface area of 0.3 m².
+      - question: |
+          What tax rate applies to tiles with a surface area exceeding 0.3 m² but not exceeding 1 m²?
+        answer: |
+          Tiles with a surface area exceeding 0.3 m² but not exceeding 1 m² are taxed at a rate of 10%.
+      - question: |
+          What category covers wigs, false beards, and similar items under the classification 6704?
+        answer: |
+          Classification 6704 covers wigs, false beards, eyebrows, eyelashes, switches, and similar items made of human or animal hair or textile materials.
+      - question: |
+          What is the import tax rate for items under 6704.20.00, such as human hair articles?
+        answer: |
+          The import tax rate for items under 6704.20.00, such as human hair articles, is 25%.
+      - question: |
+          Which classification under 57.05 encompasses carpets and other textile floor coverings?
+        answer: |
+          Classification 57.05 (5705.00.00) covers other carpets and textile floor coverings, whether or not made up.
+  - context: |
+      1ps. 1ps. | kg | | | | | | - Smoking tobacco, whether or not containing tobacco substitutes in any proportion: 2ps. | kg | | | | 3ps. | 2403.19.00 | - Other (for example cut rag/filler) 4ps. 5ps. 6ps. | | | | |-------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|-------------------------|-----------------------| | | 7ps. | Locally produced containing domestic tobacco exceeding 75% 8ps. 9ps. 10ps. | kg | Tshs. 28,232.4 0 per kg | Tshs. | | 11ps. | | | | | - Petroleum oils and oils obtained from bituminous minerals (other than crude) and preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils 12ps. being the basic constituents of the preparations, other than those containing biodiesel and other than waste oils : | | | | | | | -- Light oils and preparations: 13ps. 14ps. 15ps. 16ps. | | | | | | 2710.12.10 | --- Motor Spirit (gasoline) regular 17ps. 18ps. 19ps. | l | Tshs. 20ps. 379.00 per litre | |------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|------------------------------| | | 2710.12.20 | --- Motor Spirit (gasoline) premium 21ps. 22ps. 23ps. | l | Tshs. 2ps. 1ps. 379.00 per litre | |------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|------------------------------| | | 2710.12.20 | --- Motor Spirit (gasoline) premium 2ps. 3ps. 4ps. | l | Tshs. 379.00 per litre | | | 2710.19.22 | ---- Illuminating Kerosene (IK) 5ps. 6ps. 7ps. | l | Tshs. 465.00 per litre | | | 2710.19.31 | ---- Gas oil (automotive, light, amber 8ps. for high speed engines) 9ps. 10ps. | l | Tshs. 255.00 per litre' | | 11ps. | 2710.19.41 | ----Residual fuel oils (marine furnace and similar fuel oils) of kinematic viscosity of 125 centistrokes 12ps. 13ps. | l | Tshs. 80 per litre | | | 2710.19.
+    questions_and_answers:
+      - question: |
+          What is the excise duty rate per kilogram for locally produced smoking tobacco containing more than 75% domestic tobacco?
+        answer: |
+          The excise duty rate for locally produced smoking tobacco containing more than 75% domestic tobacco is Tshs. 28,232.40 per kilogram.
+      - question: |
+          What is the tariff code for 'Motor Spirit (gasoline) regular,' and what is its excise duty rate per litre?
+        answer: |
+          The tariff code for 'Motor Spirit (gasoline) regular' is 2710.12.10, and its excise duty rate is Tshs. 379.00 per litre.
+      - question: |
+          Which type of petroleum product has the lowest excise duty rate, and what is the rate?
+        answer: |
+          Residual fuel oils (tariff code 2710.19.41) have the lowest excise duty rate at Tshs. 80 per litre.
+      - question: |
+          What is 'Illuminating Kerosene's' tariff code, and what is its excise duty rate per litre?
+        answer: |
+          The tariff code for 'Illuminating Kerosene' is 2710.19.22, and its excise duty rate is Tshs. 465.00 per litre.
+      - question: |
+          What is the excise duty rate for automotive gas oil (light, amber, for high-speed engines), and what is its tariff code?
+        answer: |
+          The excise duty rate for automotive gas oil (light, amber, for high-speed engines) is Tshs. 255.00 per litre, and its tariff code is 2710.19.31.
+  - context: |
+      1ps. 1ps. Repealed by Act No. 10 of 2015 s.168 Actions by or against the Commissioner General Cap. 4 s.8 100. -(1) Where any loss or damage is occasioned to any plant, excisable goods or materials, in any factory through the wilful or negligent act of an officer, then an action shall lie against the Commissioner-General or such officer in respect of such loss or damage. - (3) Where under this Act any proceedings are brought by or against the Commissioner-General in his representative capacity, costs may 2ps. be awarded to or against the Commissioner-General. - (4) Where under this Act any proceedings are brought by or against the Commissioner-General in his representative capacity and any - - (a) sums or costs are recovered by the Commissioner General, such sums or costs shall be credited to the Excise revenue; and - (b) damages or costs are ordered to be paid by the Commissioner-General, such damages or costs shall be paid out of 3ps. the moneys appropriated for the administration of the Excise and the Commissioner General shall not be personally liable. 2ps. 1ps. - (3) Where under this Act any proceedings are brought by or against the Commissioner-General in his representative capacity, costs may be awarded to or against the Commissioner-General. ## Repealed Provisions relating to proof in proceedings Ord. 3ps. 1ps. - (3) Where under this Act any proceedings are brought by or against the Commissioner-General in his representative capacity, costs may be awarded to or against the Commissioner-General. ## Repealed Provisions relating to proof in proceedings Ord. No. 15 of 1961; Act No. 3 of 1963 s.2 Cap.4 s.8 ## 101. Repealed by Act No.10 of 2015 s.168. - 102. In any proceedings under this Act- - (a) it shall not, unless it is expressly provided, be 2ps.
+    questions_and_answers:
+      - question: |
+          What actions can be taken if an officer causes loss or damage to a factory's plant, excisable goods, or materials?
+        answer: |
+          An action can be brought against the Commissioner-General or the specific officer responsible for the willful or negligent act that caused the loss or damage.
+      - question: |
+          What happens to sums or costs recovered in proceedings involving the Commissioner-General?
+        answer: |
+          Any sums or costs recovered by the Commissioner-General in such proceedings are credited to the Excise revenue.
+      - question: |
+          If damages or costs are ordered to be paid by the Commissioner-General, how are these payments handled?
+        answer: |
+          Damages or costs ordered to be paid by the Commissioner-General are paid out of funds appropriated for the administration of the Excise, ensuring the Commissioner-General is not personally liable.
+      - question: |
+          Can costs be awarded against the Commissioner-General in proceedings where they act in a representative capacity?
+        answer: |
+          Yes, costs may be awarded to or against the Commissioner-General in their representative capacity under the Act.
+      - question: |
+          How was Section 101 of the Act affected by Act No. 10 of 2015?
+        answer: |
+          Section 101 was repealed by Act No. 10 of 2015, section 168.
+document_outline: |
+  This document provides a comprehensive outline of the Excise (Management and Tariff) Act, Chapter 147, Revised Edition 2019, as legislated by the United Republic of Tanzania. It covers provisions for excise administration, the manufacture and control of excisable goods, licensing requirements, determination and computation of duties on various goods, and legal frameworks for compliance and enforcement.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CHAPTER_147-THE_EXCISE__MANAGEMENT_AND_TARIFF__ACT.md

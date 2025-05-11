@@ -1,0 +1,114 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Town
+      
+      Building Name
+      
+      7
+      
+      MAIN BUSINESS ACTIVITY
+      
+      C. 30
+      
+      ## EAST AFRICAN COMMUNITY
+                                                                                   
+         CUSTOMS
+      
+      Regulation 139 (2)
+      
+      ## DUTY DRAWBACK RATE OF YIELD NOTIFICATION
+         FORM
+      
+      1
+      
+      TIN/PIN
+      
+      2 VAT NO
+      
+      - 3 Name of Registered Business
+      -
+      
+      2ps. 4 Trading Name (If different from 3)
+      - Physical Address of Business 5
+      
+      Plot
+         No
+      
+      Street
+      
+      - 6 TYPE OF BUSINESS('X' Where Applicable)
+      
+      Limited
+         Company
+      
+      Partnership
+      
+      Sole Proprietorship
+      
+      Other Specify
+      
+      8
+      
+      Imports from
+         COMESA/SADC
+      
+      Imports from third Countries
+      
+      9
+      
+      | IMPORT ITEMS   | IMPORT ITEMS
+                    | IMPORT ITEMS   | EXPORT ITEMS   | EXPORT ITEMS            |
+         EXPORT ITEMS   | EXPORT ITEMS               
+         |
+      |----------------|-------------------------|----------------|----------------|-------------------------|----------------|-----------------------------|
+      |
+         HS CODE     
+      
+      3ps.   | Name and Specifications | Units          | HS CODE        | Name and
+         Specifications | Units          | Standard Input/Output Ratio |
+      
+      ##
+         Declaration
+      
+      I/We……………………………………………….  do
+         hereby declare that the information provided on this document is true,
+         accurate and complete. 
+      
+      Signature of Taxpayer or Authorized
+         Officer………………………………………… Date and Stamp
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the 'Duty Drawback Rate of Yield Notification Form' mentioned in the context?
+        answer: |
+          The Duty Drawback Rate of Yield Notification Form appears to be used for providing accurate information about import and export items, including their HS codes, specifications, and input/output ratios, to claim duty drawbacks under customs regulations.
+      - question: |
+          What are the possible types of business structures listed in the form?
+        answer: |
+          The possible business structures listed in the form include Limited Company, Partnership, Sole Proprietorship, and an option to specify other types of businesses.
+      - question: |
+          What sections are included for providing business tax identification details?
+        answer: |
+          The form includes sections for providing the Taxpayer Identification Number/PIN (TIN/PIN) and VAT Number of the registered business.
+      - question: |
+          What is required in the declaration at the end of the document?
+        answer: |
+          The declaration requires the signer to state that the provided information is true, accurate, and complete, and includes the signature of the taxpayer or an authorized officer along with the date and stamp.
+      - question: |
+          What import and export specifications are recorded on the form?
+        answer: |
+          The form records import and export specifications such as HS codes, names and specifications of items, units, and the Standard Input/Output Ratio for the items.
+document_outline: |
+  **Document Outline:**  
+  The document is a "Duty Drawback Rate of Yield Notification Form" under Regulation 139(2) of the East African Community Customs rules. It collects business information, including TIN/PIN, VAT number, business address, type, and trade details, and outlines import/export item specifications with HS Codes and standard input/output ratios, ending with a declaration section for accuracy verification.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c30-duty-drawback-rate-yield-notification-form.md

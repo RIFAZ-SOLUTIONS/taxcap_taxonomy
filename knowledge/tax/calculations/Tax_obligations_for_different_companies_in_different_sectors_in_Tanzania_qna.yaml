@@ -1,0 +1,121 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Tax obligations for different companies in different sectors in Tanzania ## Company Scenario: GreenHarvest Agri-Industries Ltd. Company Overview: GreenHarvest Agri-Industries Ltd. is a Tanzanian-based company operating in the agricultural sector. The company specializes in the growing of perennial crops, specifically tropical fruits such as mangoes and pineapples. In addition to fruit production, GreenHarvest also engages in mixed farming, where they raise poultry and cattle. The company operates a large farm in the Mbeya region and has a processing plant for packaging and distributing their products both locally and for export. ## Business Activities: - 1. Growing of Tropical Fruits: 2ps. Cultivation of mangoes and pineapples (Class 0122). - 2. Mixed Farming: Raising of poultry and cattle (Class 0150). - 3. Support Activities: Including post-harvest crop activities and seed processing (Classes 0163 and 0164). ## Analysis of Taxes, Levies, Duties, and Customs in Tanzania ## 1. Corporate Income Tax -  Description: Tax on the profits of the company. -  Law: Income Tax Act, 2004 -  Rate: 30% for corporations. 2ps. 1ps. - 3. Support Activities: Including post-harvest crop activities and seed processing (Classes 0163 and 0164). ## Analysis of Taxes, Levies, Duties, and Customs in Tanzania ## 1. Corporate Income Tax -  Description: Tax on the profits of the company. -  Law: Income Tax Act, 2004 -  Rate: 30% for corporations. -  Example Calculation: If GreenHarvest's annual profit is TZS 100,000,000, the corporate income tax would be TZS 30,000,000 (30% of TZS 100,000,000). ## 2. Value Added Tax (VAT) -  Description: Tax on the value added at each stage of production and distribution. -  Law: Value Added Tax Act, 2ps.
+    questions_and_answers:
+      - question: |
+          What are the main business activities of GreenHarvest Agri-Industries Ltd.?
+        answer: |
+          The main business activities of GreenHarvest Agri-Industries Ltd. include growing tropical fruits like mangoes and pineapples, mixed farming involving poultry and cattle, and support activities such as post-harvest crop processing and seed processing.
+      - question: |
+          What is the corporate income tax rate in Tanzania and which law governs it?
+        answer: |
+          The corporate income tax rate in Tanzania is 30%, and it is governed by the Income Tax Act, 2004.
+      - question: |
+          How much corporate income tax would GreenHarvest pay on an annual profit of TZS 100,000,000?
+        answer: |
+          GreenHarvest would pay TZS 30,000,000 as corporate income tax, which is calculated as 30% of TZS 100,000,000.
+      - question: |
+          In which region of Tanzania does GreenHarvest operate its farm and processing plant?
+        answer: |
+          GreenHarvest operates its farm and processing plant in the Mbeya region of Tanzania.
+      - question: |
+          What are the specific industrial classification codes for GreenHarvest’s business activities?
+        answer: |
+          GreenHarvest’s business activities have the following classification codes: cultivation of tropical fruits (Class 0122), mixed farming (Class 0150), and support activities such as post-harvest crop activities and seed processing (Classes 0163 and 0164).
+  - context: |
+      1ps. 1ps. 
+      
+      ## 8. Property Tax
+      
+      -  Description: Tax on the value of property owned by
+         the company. 
+      -  Law: Local Government Finances Act, 1982
+      -  Rate:
+         Varies by location and property value (e.g., 0.5% of assessed property
+         value). 
+      -  Example Calculation: If GreenHarvest's property is valued at
+         TZS 50,000,000, the property tax would be TZS 250,000 (0.5% of TZS
+         50,000,000). 
+      
+      ## 9. Land Rent
+      
+      -  Description: Rent for the use of land,
+         often leased from the government. 
+      -  Law: Land Act, 1999
+      -  Rate:
+         Varies by land area and usage (e.g., TZS 10,000 per hectare annually). 
+      - 
+      
+      2ps. Example Calculation: For 100 hectares of land, the annual land rent would be TZS
+         1,000,000 (100 hectares x TZS 10,000 per hectare). 
+      
+      ## 10. Environmental
+         Impact Assessment (EIA) Fee
+      
+      -  Description: Fee for conducting an
+         environmental impact assessment before starting certain activities. 
+      - 
+         Law: Environmental Management Act, 2004
+      -  Rate: Varies based on the
+         project size and scope (e.g., TZS 2,000,000 for large-scale projects).
+      
+      
+      
+      2ps. 1ps. 
+      -  Example Calculation: For 100 hectares of land, the annual land rent would
+         be TZS 1,000,000 (100 hectares x TZS 10,000 per hectare). 
+      
+      ## 10.
+         Environmental Impact Assessment (EIA) Fee
+      
+      -  Description: Fee for
+         conducting an environmental impact assessment before starting certain
+         activities. 
+      -  Law: Environmental Management Act, 2004
+      -  Rate: Varies
+         based on the project size and scope (e.g., TZS 2,000,000 for large-scale
+         projects). 
+      -  Example Calculation: If GreenHarvest needs to pay an EIA
+         fee of TZS 2,000,000 for a new processing plant, that is the total fee.
+         
+      
+      These taxes and levies reflect the regulatory framework
+      
+      2ps. that GreenHarvest Agri-Industries Ltd. would need to navigate as part of its
+         operations in Tanzania.
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the basis for calculating property tax, and which law governs it?
+        answer: |
+          Property tax is calculated based on the value of the property owned, and it is governed by the Local Government Finances Act, 1982.
+      - question: |
+          How is land rent determined, and what law regulates it?
+        answer: |
+          Land rent is determined by the land area and usage, with an example rate of TZS 10,000 per hectare annually. It is regulated by the Land Act, 1999.
+      - question: |
+          What is the purpose of the Environmental Impact Assessment (EIA) fee and which law oversees it?
+        answer: |
+          The EIA fee is charged for conducting an environmental impact assessment before initiating certain activities. It is overseen by the Environmental Management Act, 2004.
+      - question: |
+          Can you provide an example calculation for determining property tax?
+        answer: |
+          If a property is valued at TZS 50,000,000, the property tax would be TZS 250,000, calculated as 0.5% of the assessed property value.
+      - question: |
+          How much land rent would GreenHarvest need to pay annually for 100 hectares of land?
+        answer: |
+          GreenHarvest would need to pay TZS 1,000,000 annually for 100 hectares of land, calculated as 100 hectares x TZS 10,000 per hectare.
+document_outline: |
+  **Document Outline:**  
+  This document outlines the tax obligations for companies in Tanzania, with a specific focus on GreenHarvest Agri-Industries Ltd., an agricultural enterprise specializing in tropical fruit cultivation, mixed farming, and product processing. It provides a detailed analysis of applicable taxes, including Corporate Income Tax, VAT, Withholding Tax, Import and Excise Duties, PAYE, SDL, Property Tax, and Land Rent, along with relevant laws, rates, and example calculations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Tax_obligations_for_different_companies_in_different_sectors_in_Tanzania.md

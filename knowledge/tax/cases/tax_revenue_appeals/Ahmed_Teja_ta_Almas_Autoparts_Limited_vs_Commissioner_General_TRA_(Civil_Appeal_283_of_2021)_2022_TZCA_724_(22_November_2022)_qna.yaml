@@ -1,0 +1,157 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR-ES-SALAAM ## (CORAM: MUGASHA, J.A., KITUSI, J.A.. And RUMANYIKA. J.A.l ## CIVIL APPEAL NO. 283 OF 2021 AHMED TEJA T/A ALMAS AUTOPARTS LIMITED...................... . APPELLANT VERSUS COMMISSIONER GENERAL TRA ......................... .............. ....... RESPONDENT [Appeal from the Judgment and decree of the Tax Revenue Appeals Tribunal at Dar es Salaam] fKamuzora. Vice Chairperson^ dated the 15th day of March, 2021 in Tax Appeal No. 76 of 2019 ## JUDGMENT OF THE COURT 8t h &amp; 22n d November, 2022 ## KITUSI. J.A.: The appellant intends to appeal against the decision of 2ps. the respondent rejecting his objection to tax assessments. However, as he was late in doing so, he applied to the Tax Appeals Board (Board) for extension of time in terms of section 16 (5) of the Tax Revenue Appeals Act Cap 408, (the Act) citing illness as the reason for the delay. That application was dismissed, and so was 3ps. the appeal before the Tax Revenue Appeals Tribunal (Tribunal) intended to challenge the dismissal by the Board. 2ps. 1ps. The appellant intends to appeal against the decision of the respondent rejecting his objection to tax assessments. However, as he was late in doing so, he applied to the Tax Appeals Board (Board) for extension of time in terms of section 16 (5) of the Tax Revenue Appeals Act Cap 408, (the Act) citing illness as the reason for the delay. That 2ps. application was dismissed, and so was the appeal before the Tax Revenue Appeals Tribunal (Tribunal) intended to challenge the dismissal by the Board. This is an appeal against the decision of the Tribunal dismissing the appeal.
+    questions_and_answers:
+      - question: |
+          What is the title of the case being appealed in the Court of Appeal of Tanzania?
+        answer: |
+          The case is titled 'Ahmed Teja T/A Almas Autoparts Limited vs. Commissioner General TRA' in Civil Appeal No. 283 of 2021.
+      - question: |
+          What was the reason the appellant gave for being late in filing the objection to the tax assessments?
+        answer: |
+          The appellant cited illness as the reason for the delay in filing the objection to the tax assessments.
+      - question: |
+          Which legal provision did the appellant rely on to seek an extension of time for filing the objection to tax assessments?
+        answer: |
+          The appellant relied on section 16(5) of the Tax Revenue Appeals Act Cap 408 to seek an extension of time.
+      - question: |
+          What were the outcomes of the appellant's application and subsequent appeal prior to reaching the Court of Appeal?
+        answer: |
+          The appellant's application for an extension of time was dismissed by the Tax Appeals Board, and the subsequent appeal to the Tax Revenue Appeals Tribunal was also dismissed.
+      - question: |
+          What is the primary purpose of the current appeal before the Court of Appeal of Tanzania?
+        answer: |
+          The current appeal challenges the decision of the Tax Revenue Appeals Tribunal, which had dismissed the appellant's appeal regarding the rejection of his application for an extension of time.
+  - context: |
+      1ps. 1ps. The respondent's counsel argued that this point was not raised before the Board for it to determine. Citing section 16 (4) of the Act, he argued that the Tribunal could not have decided on a point that was not decided upon by the Board. We find the appellant's argument that he became aware of the rejection on 18th 2ps. December, 2017 to be self-defeating, because before the Board, the affidavit taken in support of the application only cited the illness of 8th December 2017 as the reason for the delay. We need not remind the appellant that affidavits, which are statements made on oath, are the basis upon which applications are decided. Any statement not raised in affidavit is always disregarded as a 3ps. mere statement from the bar. 2ps. 1ps. We find the appellant's argument that he became aware of the rejection on 18th December, 2017 to be self-defeating, because before the Board, the affidavit taken in support of the application only cited the illness of 8th December 2017 as the reason for the delay. We need not remind the appellant that affidavits, which are statements made on oath, are the basis 2ps. upon which applications are decided. Any statement not raised in affidavit is always disregarded as a mere statement from the bar. We reiterate what we stated in Richard Mchau v. Shabir F. Abdulhussein Civil Application No. 87 of 2008 (unreported), that:- "It is our considered view that if the applicant was served out o f time, he would not have failed to raise such an alarm in the affidavit Having 3ps.
+    questions_and_answers:
+      - question: |
+          What was the primary argument made by the respondent's counsel regarding the point raised before the Tribunal?
+        answer: |
+          The respondent's counsel argued that the point had not been raised before the Board for it to determine, and therefore, under section 16 (4) of the Act, the Tribunal could not decide on a matter not addressed by the Board.
+      - question: |
+          Why was the appellant's claim of becoming aware of the rejection on 18th December 2017 considered self-defeating?
+        answer: |
+          The claim was considered self-defeating because, before the Board, the only reason stated in the affidavit for the delay was an illness on 8th December 2017, and new claims outside the affidavit are disregarded.
+      - question: |
+          What role do affidavits play in deciding applications according to the text?
+        answer: |
+          Affidavits, being statements made under oath, form the basis upon which applications are decided, and any point not included in an affidavit is treated as a mere statement from the bar.
+      - question: |
+          What precedent was cited to support the importance of raising issues in affidavits?
+        answer: |
+          The precedent cited was Richard Mchau v. Shabir F. Abdulhussein Civil Application No. 87 of 2008, which emphasized that issues not raised in affidavits cannot be considered.
+      - question: |
+          What might have been expected of the applicant if they were served out of time, according to the cited precedent?
+        answer: |
+          According to the precedent, it was expected that the applicant would have raised an alarm in the affidavit if they had been served out of time.
+  - context: |
+      1ps. 1ps. He too did not have an additional oral address. As we intimated earlier, the same issue is being presented for our determination again. First, in order to put matters in their proper perspectives, we ask whether the Tribunal really stated what is being alleged in the first ground of appeal that '! sickness could hardly be a cause for his delay... "\N\Xh respect, the learned Vice Chairperson of the Tribunal did 2ps. not say anything of that sort. Rather the Board, having found that by the time the appellant fell ill he was already out of time, it observed that:-"... the applicant's sickness o f 8th December, 2017 could hardly be a cause for his delay. It is to be noted that section 16 (5) of the Act is clear that extension of time may be granted on ground of 3ps. illness, therefore the Board would not have stated what it is alleged in ground 1 above. 2ps. 1ps. sickness could hardly be a cause for his delay... "\N\Xh respect, the learned Vice Chairperson of the Tribunal did not say anything of that sort. Rather the Board, having found that by the time the appellant fell ill he was already out of time, it observed that:-"... the applicant's sickness o f 8th December, 2017 could hardly be a cause for his delay. However, we cannot fault the findings of the Board and 2ps. that of the Tribunal that the alleged illness of 8th December, 2017 was irrelevant in accounting for the delay counted from 31s t August, 2017 because we agree with their finding that long before the appellant was taken ill, he was time barred in appealing. For that reason, the first ground of appeal has no merit and must be dismissed.
+    questions_and_answers:
+      - question: |
+          What is the main issue presented for determination in the context?
+        answer: |
+          The main issue presented for determination is whether the Tribunal stated that sickness 'could hardly be a cause for his delay,' as alleged in the first ground of appeal.
+      - question: |
+          What was the finding of the Board regarding the appellant's sickness on 8th December, 2017?
+        answer: |
+          The Board found that the appellant's sickness on 8th December, 2017 could not be a cause for his delay because he was already out of time before falling ill.
+      - question: |
+          Why did the Tribunal dismiss the relevance of the appellant's illness in accounting for his delay?
+        answer: |
+          The Tribunal dismissed the relevance of the appellant's illness because he was already time-barred in appealing as of 31st August, 2017, well before the illness occurred.
+      - question: |
+          What does section 16 (5) of the Act state regarding extensions of time?
+        answer: |
+          Section 16 (5) of the Act states that an extension of time may be granted on the grounds of illness.
+      - question: |
+          What conclusion did the Tribunal reach regarding the first ground of appeal?
+        answer: |
+          The Tribunal concluded that the first ground of appeal had no merit and dismissed it because the alleged illness was irrelevant to the delay in question.
+  - context: |
+      1ps. 1ps.   He  further  submitted  that  the  decision  by the  respondent was according 
+         to tax  laws,  and  failure  by the  appellant to  challenge  it  within  the
+          time  prescribed  by  law  cannot  be  said  to constitute denial of the
+         right to be heard. 
+      
+      With respect, we do not go along with the appellant on
+         this point.   In Golden  Globe  International  Services  Ltd  &amp;  Another 
+         v. Millicom 
+      
+      2ps. Tanzania  N.V  &amp;  4  Others, Civil  Application  No  441/01  of 2018 
+         (unreported),  we  adopted  the  following  statement  made  by  the High
+         Court in Afriscan Group (T) Limited v. Said Msangi, Commercial Case No. 87 of
+         2013 (unreported)
+      
+      'The right to be heard  ju st like other rights,  must be
+         exercised within the confines o f  the taw so as to avoid further breach o f 
+         justice"
+      
+      We  reiterate  that  position  and  we  dismiss  ground
+      
+      3ps.  2  for  being misconceived and  lacking  merit.   Consequently, for the reasons
+         we have shown, this appeal is dismissed with costs. 
+      
+      It is so ordered.
+      
+      
+      
+      2ps. 1ps.   Consequently, for the reasons we have shown, this appeal is dismissed with
+         costs. 
+      
+      It is so ordered. 
+      
+      DATED at DAR ES SALAAM this 18th  day of
+         November, 2022.
+      
+      ## S.  E. A.  MUGASHA JUSTICE OF APPEAL
+      
+      ## I.  P.  KITUSI
+         JUSTICE OF APPEAL
+      
+      ## S.  M.  RUMANYIKA JUSTICE OF APPEAL
+      
+      The  Judgment 
+         delivered  this  22n d   day  of  November,  2022  in  the presence of Mr.
+         Andrew Francis, learned State Attorney for the Respondent and  in the absence
+         of the Appellant,  is hereby
+      
+      2ps. certified as a true copw  nf fho n" rtinal
+      
+      <!-- image -->
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the core argument made by the appellant regarding the decision by the respondent?
+        answer: |
+          The appellant argued that the decision by the respondent constituted a denial of the right to be heard because it was not challenged within the time prescribed by law.
+      - question: |
+          What legal precedent was cited to counter the appellant’s argument?
+        answer: |
+          The court referenced Golden Globe International Services Ltd & Another v. Millicom Tanzania N.V & 4 Others (Civil Application No. 441/01 of 2018) and Afriscan Group (T) Limited v. Said Msangi (Commercial Case No. 87 of 2013) to state that the right to be heard must be exercised within the limits set by the law.
+      - question: |
+          What position did the court reiterate from Afriscan Group (T) Limited v. Said Msangi?
+        answer: |
+          The court reiterated that the right to be heard, like other rights, must be exercised within the confines of the law to avoid further breach of justice.
+      - question: |
+          What was the outcome of the appeal?
+        answer: |
+          The court dismissed the appeal for lacking merit and ordered that it be dismissed with costs.
+      - question: |
+          Who were the justices presiding over the case, and when was the judgment delivered?
+        answer: |
+          The justices presiding over the case were S. E. A. Mugasha, I. P. Kitusi, and S. M. Rumanyika. The judgment was delivered on November 22, 2022.
+document_outline: |
+  **Document Outline:**  
+  The document is a judgment from the Court of Appeal of Tanzania concerning a civil appeal (No. 283 of 2021) filed by Ahmed Teja against the Commissioner General of the Tanzania Revenue Authority (TRA). The appeal challenges the Tax Revenue Appeals Tribunal's decision to uphold the dismissal of an extension of time application by the Tax Appeals Board, primarily focusing on whether the lower bodies erred in their findings that the appellant's illness could not justify his delay in filing an objection to the respondent's tax assessments.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Ahmed_Teja_ta_Almas_Autoparts_Limited_vs_Commissioner_General_TRA_(Civil_Appeal_283_of_2021)_2022_TZCA_724_(22_November_2022).md

@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. fifty ## PART III BRANCH AND HEADQUATER PERSONS, AND OECD APPLICATION - 8. For the purposes of these Regulations- - (a) a branch shall be deemed to be a separate and distinct person referred to as - (c) referred to as the ~branch person from the person in respect of whom it is a branch referred to as the ~headquarters person a branch person and headquarters person shall be deemed to be associates; and a branch person and headquarter person are located where their activities are located. Branch person and headquarter person Application of OECD/ UN documents | GN No. 27 (contd ) PART IV INTRA 2ps. GROUP SERVICES, INTANGIBLE PROPERTY AND INTRA GROUP 3ps. | GN No. 27 (contd ) PART IV INTRA GROUP SERVICES, INTANGIBLE PROPERTY AND 4ps. INTRA GROUP 5ps. | |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | FINANCING 10.-(1)A person in a controlled transaction shall, apply the methods in accordance with regulation 5 to determine 6ps. the arm's length transfer for intra group services in applying any of the method and shall demonstrate that- price | Intra group services and 7ps. 8ps. | | (a) the intra group services have been rendered and the provision 9ps. of Intangible Property such services has conferred an economic benefit or commercial value to the business; (b) and the charge for the intra group service is justifiable and at arm length. 2ps. 1ps. - 9.
+    questions_and_answers:
+      - question: |
+          What is a 'branch' considered in the context of these regulations?
+        answer: |
+          A branch is deemed to be a separate and distinct person referred to as the 'branch person,' distinct from the 'headquarters person' with whom it is associated.
+      - question: |
+          How are the locations of branch and headquarters persons determined?
+        answer: |
+          The location of a branch person and headquarters person is determined by where their respective activities are carried out.
+      - question: |
+          What does the regulation say about the relationship between a branch person and a headquarters person?
+        answer: |
+          A branch person and a headquarters person are deemed to be associates under the regulations.
+      - question: |
+          What guidelines are applied to controlled transactions for intra-group services?
+        answer: |
+          Methods outlined in regulation 5 are applied to determine arm's length pricing for intra-group services, ensuring services render economic benefits or commercial value and that charges are justifiable and at arm's length.
+      - question: |
+          What is required to justify charges for intra-group services?
+        answer: |
+          It must be demonstrated that the intra-group services confer an economic benefit or commercial value to the business and that the charges are justifiable and at arm's length.
+  - context: |
+      1ps. 1ps. 27 (contd.) Arrangement in the circumstances of the case, he may decide to enter into Advance Pricing Arrangement or to reject the request. an - Where the Commissioner agrees to enter into an Advance Pricing Arrangement with person; he may- - (b) reject the proposal; or - (a) accept the person S proposal under sub regulation (2)(b); - modify the proposal; - (5) Subject to the provision of sub-regulation (4), the commissioner shall notify the applicant. - (6) The Commissioner may enter into an Advance Pricing Arrangement with the person either alone or together with the competent authorities of the country or countries 2ps. of the person's associate Or associates identified under sub regulation (2)( c) - (7) Where the Commissioner approves proposal under sub regulation (4) (a) or modifies it under sub regulation (4)(c), he shall enter into an advance pricing arrangement that will provide confirmation to the person that no transfer pricing adjustment will be made under regulation 4(2) to controlled transactions covered by the agreement where the transactions are consistent with the terms of the agreement. 2ps. 1ps. Arrangement in the circumstances of the case, he may decide to enter into Advance Pricing Arrangement or to reject the request. an - Where the Commissioner agrees to enter into an Advance Pricing Arrangement with person; he may- - (b) reject the proposal; or - (a) accept the person S proposal under sub regulation (2)(b); - modify the proposal; - (5) Subject to the provision of sub-regulation (4), the commissioner shall notify the applicant. - (8) An Advance Pricing Arrangement entered into under sub regulation(7) shall apply to the controlled transactions specified in the agreement that are entered into on or after the date 2ps.
+    questions_and_answers:
+      - question: |
+          What are the options available to the Commissioner when deciding on an Advance Pricing Arrangement proposal?
+        answer: |
+          The Commissioner may accept the proposal, reject the proposal, or modify the proposal under sub-regulation (2)(b).
+      - question: |
+          What happens when the Commissioner approves or modifies an Advance Pricing Arrangement proposal?
+        answer: |
+          If the Commissioner approves or modifies a proposal, he shall enter into an Advance Pricing Arrangement that ensures no transfer pricing adjustment will be made to the controlled transactions covered by the agreement, provided they are consistent with the terms.
+      - question: |
+          Can the Commissioner enter into an Advance Pricing Arrangement with authorities from other countries?
+        answer: |
+          Yes, the Commissioner may enter into an Advance Pricing Arrangement either alone or together with competent authorities of the country or countries of the person's associate or associates.
+      - question: |
+          What is the condition for the Commissioner to notify the applicant regarding their Advance Pricing Arrangement proposal?
+        answer: |
+          The Commissioner must notify the applicant subject to the provisions of sub-regulation (4).
+      - question: |
+          To which transactions does an Advance Pricing Arrangement apply?
+        answer: |
+          An Advance Pricing Arrangement applies to the controlled transactions specified in the agreement that are entered into on or after the agreement's effective date.
+  - context: |
+      1ps. 1ps. price | (2) For the purposes of sub regulation (1 ), the arm's length for such sale or license shall be determined by applying the comparable uncontrolled price method or in the case where the property is highly valuable or unique; the residual profit split method. price | | (3) Notwithstanding sub regulation (2), the Commissioner may allow the application of other methods if the method provides the highest degree of comparability between transactions. 2ps. | | (4) Where the legal ownership of the intangible property is not vested 3ps. 4ps. | (4) Where the legal ownership of the intangible property is not vested 5ps. 6ps. | | with the person that has developed that property; such person shall receive a/ arm length consideration for the development of such property. 7ps. 8ps. | with the person that has developed that property; such person shall receive a/ arm length consideration for the development of such property. 2ps. 1ps. | (3) Notwithstanding sub regulation (2), the Commissioner may allow the application of other methods if 2ps. the method provides the highest degree of comparability between transactions. | | (4) Where the legal ownership 3ps. of the intangible property is not vested 4ps. 5ps. | (4) Where the legal ownership of the intangible property is not vested 6ps. 7ps. | | with the person that has developed that property; such person shall receive a/ arm length consideration for the development of such property. 8ps. | - (5) Where a person who is not the owner of a trade mark or trade name undertakes marketing activities and bears marketing costs of such trade mark or trade name in excess ofthose of a comparable independent person; the person shall be entitled to an arm 's 9ps.
+    questions_and_answers:
+      - question: |
+          What are the two methods mentioned for determining the arm's length price of a sale or license?
+        answer: |
+          The two methods mentioned are the comparable uncontrolled price method and the residual profit split method for highly valuable or unique properties.
+      - question: |
+          Under what condition can the Commissioner allow methods other than those specified in sub regulation (2)?
+        answer: |
+          The Commissioner may allow the application of other methods if the method provides the highest degree of comparability between transactions.
+      - question: |
+          What should happen when the legal ownership of intangible property is not vested with the person who developed it?
+        answer: |
+          The person who developed the intangible property should receive an arm’s length consideration for its development.
+      - question: |
+          When does a person undertaking marketing activities for a trade mark or trade name become entitled to arm’s length consideration?
+        answer: |
+          A person becomes entitled to arm’s length consideration if they undertake marketing activities and bear marketing costs in excess of those of a comparable independent person.
+      - question: |
+          What is the criterion for determining whether the residual profit split method should be used?
+        answer: |
+          The residual profit split method should be used when the property in question is highly valuable or unique.
+  - context: |
+      1ps. 1ps. means the comparable uncontrolled price method, the resale method and the cost plus method; price - 'transactional net margin method? means a method whereby the division of profit and loss that a person achieves in a controlled transaction is compared with the division of profit and loss that would be achieved when participating in a comparable uncontrolled transaction; and uncontrolled transaction means a transaction between persons who are not the profit split method and the associates. | Income Tax (Transfer Pricing) 2ps. 3ps. 4ps. 5ps. 6ps. 7ps. 8ps. 9ps. 10ps. 11ps. 12ps. 13ps. 14ps. 15ps. 16ps. 17ps. 18ps. | Income Tax (Transfer Pricing) | |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------| | PART II 19ps. 20ps. 21ps. 22ps. 23ps. 24ps. 25ps. 26ps. 27ps. 28ps. 29ps. 30ps. 31ps. 32ps. 33ps. 34ps. 35ps. | PART II | | THE ARM's LENGTH PRINCIPLE, TRANSFER PRICING METHODS , COMPARABILITY FACTORS AND DOCUMENTATIONS 36ps. 37ps. 38ps. 39ps. 40ps. 41ps. 42ps. 43ps. 44ps. 45ps. 46ps. 47ps. 48ps. 49ps. 50ps. 51ps. | 52ps. | | 4.-(1) Where a person has entered into a transaction or: a series of transactions to which these Regulations apply, such person shall determine the income and expenditures resulting from the transaction in a manner that is consistent with the arm's length principle. 2ps. 1ps. means a method whereby the division of profit and loss that a person achieves in a controlled transaction is compared with the division of profit and loss that would be achieved when participating in a comparable uncontrolled transaction; and uncontrolled transaction means a transaction between persons who are not the profit split method and the associates. (2) Where a person fails to comply with sub regulation (1), the Commissioner may; make the necessary adjustllfents to ensure that the income and expenditures resulting from the transaction are consistent with the arm's length principle.
+    questions_and_answers:
+      - question: |
+          What is the meaning of '1ps.' as defined in the context?
+        answer: |
+          '1ps.' refers to the comparable uncontrolled price method, the resale method, and the cost-plus method, which are different approaches for determining transfer pricing based on comparable transactions.
+      - question: |
+          What is the transactional net margin method?
+        answer: |
+          The transactional net margin method compares the division of profits and losses in a controlled transaction with what would be achieved in a comparable uncontrolled transaction.
+      - question: |
+          What is an uncontrolled transaction?
+        answer: |
+          An uncontrolled transaction is a transaction between persons who are not associates or related parties.
+      - question: |
+          What is required under the arm's length principle for income and expenditures?
+        answer: |
+          Under the arm's length principle, a person must determine the income and expenditures from a transaction in a manner consistent with what independent parties would agree upon in a similar transaction.
+      - question: |
+          What happens if a person fails to follow the arm's length principle in determining income and expenditures?
+        answer: |
+          If a person fails to comply, the Commissioner has the authority to make necessary adjustments to ensure that the income and expenditures align with the arm's length principle.
+  - context: |
+      1ps. 1ps. ## Supplement No. 5 7t February; 2014 ## SUBSIDIARY LEGISLATION to the Gazette of the United Republic of Tanzania No. 6 Vol. 95 dated 7" February 2014 Printed by the Government Printer Dar es Salaam; by Order of Government GOVERNMENT NoTICE No. 27 pubhshed on 07/02/2014 ## THE INCOME TAX (TRANSFER PRICING) REGULATIONS, 2014 ARRANGEMENT OF REGULATIONS ## PART [ PRELIMINARY ## Regulation Title - 1 Citation . - 2 Application. - 3 \_ Interpretation. ## PART II PROvIsIons RELATING TO METHODS , COMPARABILITY, CONSISTENCY WITH ARM's LENGTH PRINCIPLE AND DOCUMENTATIONS - 4. Arm 's length methods. price - 6 Consistency with arm length principle. - 5. Comparability factors and 2ps. analysis. - 7. Documentations . ## PART [II BRANCI AND HEADQUATER PERSONS AND APPLICATION OF - 8. Branch person and Headquarter person. - 9. Application of QECD/UN documents . ## PART IV [NTRA GRoup SERVICES , INTANGIBLE PROPERTY AND [NTRA GROUP FINANCING - 10. Intra group services. - 11 . Intangible property. ## PART V ADvANCE PRICING ARRANGEMENTS AND CoRRESPONDING ADJUSTMENTS - 13. Corresponding adjustments. - 12. Advance Pricing Arrangements. 2ps. 1ps. Intangible property. ## PART V ADvANCE PRICING ARRANGEMENTS AND CoRRESPONDING ADJUSTMENTS - 13. Corresponding adjustments. - 12. Advance Pricing Arrangements. ## PART VI GENERAL - 14. Adjustments by the Commissioner: - 16. Revocation: - 15. Power of the Commissioner to make Guidelines. GN No. 27 (contd ) Citation Applica tion Interpretation 332 Cap. ## THE INCOME TAX ACT (CAP: 332) ## REGULATIONS (Made under section 33 and 129) ## THE INCOME TAX (TRANSFER PRICING) REGULATIONS, 2014 ## PART I PRELIMINARY PROVISIONS - 1. These Regulations may be cited as the Income Tax Transfer Pricing Regulations, 2014 and shall come into operation on the date of publication.
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations published in Government Notice No. 27 on February 7, 2014?
+        answer: |
+          The title of the regulations is 'The Income Tax (Transfer Pricing) Regulations, 2014.'
+      - question: |
+          Under which sections of the Income Tax Act were these regulations made?
+        answer: |
+          The regulations were made under sections 33 and 129 of the Income Tax Act (Cap: 332).
+      - question: |
+          What is the purpose of Part II of the regulations?
+        answer: |
+          Part II of the regulations addresses methods, comparability, consistency with the arm's length principle, and documentation related to transfer pricing.
+      - question: |
+          What topics are covered under Part IV of the Transfer Pricing Regulations, 2014?
+        answer: |
+          Part IV covers intra-group services, intangible property, and intra-group financing.
+      - question: |
+          When do the Income Tax (Transfer Pricing) Regulations, 2014 come into operation?
+        answer: |
+          The regulations come into operation on the date of their publication, which is February 7, 2014.
+document_outline: |
+  **Document Outline:**  
+  
+  This document outlines the "Income Tax (Transfer Pricing) Regulations, 2014," published in the United Republic of Tanzania's Gazette on February 7, 2014, under Government Notice No. 27. It provides a detailed framework for determining arm's length pricing in controlled transactions, including regulations on methods, comparability, intra-group services, intangible property, documentation, and adjustments in accordance with the Income Tax Act provisions, offering guidance for tax compliance and transfer pricing practices.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - THE_INCOME_TAX_TRANSFER_PRICING_REGULATIONS_2014.md

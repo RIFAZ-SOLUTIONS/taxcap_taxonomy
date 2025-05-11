@@ -1,0 +1,165 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Form CB8
+      
+      ## EAST AFRICAN COMMUNITY                                             
+                                            CUSTOMS
+      
+      TRANSIT BOND. 
+      
+      I /We
+         ………………………………………………………………………………………………………
+      
+      of……………………………………………………………………………………………..……………
+      
+      and……………………………………………………………………………………….……………….
+         
+      
+      of………………………………………………………………………………………………………….
+         
+      
+      hereby acknowledge that I am/ we are bound to
+      
+      2ps. the Commissioner in the sum
+         of
+      
+      …………………………………………
+      
+      dollars to be paid to
+         the Commissioner for which payment
+      
+      I  /  we  bind  myself  /  ourselves 
+         jointly  and  severally  and  also  to  my  /  our  heirs,  executors,
+         administrators and assigns and every of them firmly by these presents.
+         
+      
+      Dated this………day of…………………20…..
+      
+      I/We the
+      
+      above
+         named
+      
+      has
+      
+      /
+      
+      have entered
+      
+      the following
+      
+      goods in
+      
+      transit
+         from……………………………to………………………….-
+      
+      ……………………………………………….……………………………………..…………………
+      
+      ……………………………………….………………………………………(description
+         of goods)
+      
+      I/We understand that a condition of this obligation is that within
+         the period allowed by the law, the goods and every part thereof shall be
+         exported and proof of exportation
+      
+      3ps. satisfactorily given to the Commissioner shall be produced within that period
+         and, further, in any case in which the Commissioner requires it, prove
+         satisfactorily to the Commissioner as to the landing of goods at the port of
+         destination as may be required within the period allowed by the law.
+      
+      
+      
+      2ps. 1ps. 
+         
+      
+      of………………………………………………………………………………………………………….
+         
+      
+      hereby acknowledge that I am/ we are bound to the Commissioner in the sum
+         of
+      
+      …………………………………………
+      
+      dollars to be paid to
+         the Commissioner for which payment
+      
+      I  /  we  bind  myself  /  ourselves 
+         jointly  and  severally  and  also  to  my  /  our  heirs,  executors,
+         administrators and assigns and every of them firmly by these presents. 
+      
+      That
+         I/we further understand that the fulfilment of this condition shall discharge
+         this obligation, but  that  this  obligation  shall  be  and  remain 
+      
+      2ps. in  force  in  the  event  of  non-fulfilment  of  this condition. 
+      
+      Signed
+         sealed and delivered by
+      
+      the above named……………………………
+      
+      in
+         the presence of
+         ……………………………(name)
+      
+      ………………………………………………….(designation)
+         
+      
+      of…………………………………………….. ...(address)
+         
+      
+      Signed sealed and delivered by
+      
+      the above
+         named……………………………
+      
+      in the presence of
+         ……………………………(name)
+      
+      ………………………………………………….(designation)
+         
+      
+      of……………………………………………..  
+         (address)
+      
+      Approved:
+      
+      …………………………. 
+      
+      Commissioner
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Transit Bond in the context of the East African Community customs process?
+        answer: |
+          The Transit Bond serves as a financial guarantee to ensure that goods in transit are exported and proof of their exportation or landing at the destination port is provided within the legally allowed time.
+      - question: |
+          Who is obligated to pay the bond amount and under what conditions is it discharged?
+        answer: |
+          The signatory or signatories to the bond are obligated to pay the bond amount to the Commissioner. The obligation is discharged upon providing satisfactory proof of exportation or landing of goods within the allowed period as specified by law.
+      - question: |
+          What legal responsibility does the signatory take under the Transit Bond?
+        answer: |
+          The signatory binds themselves, their heirs, executors, administrators, and assigns to jointly and severally pay the bond amount to the Commissioner if the obligation is not fulfilled.
+      - question: |
+          What must the signatory provide to prove compliance with the bond conditions?
+        answer: |
+          The signatory must provide satisfactory proof of exportation and, if required, evidence of the landing of goods at the port of destination within the legally allowed time.
+      - question: |
+          What happens to the Transit Bond obligation in the event of non-fulfillment of the condition?
+        answer: |
+          If the condition is not fulfilled, the Transit Bond obligation remains in force, and the bond amount may be claimed by the Commissioner.
+document_outline: |
+  **Document Outline:**  
+  The document, Form CB8, serves as a Customs Transit Bond under the East African Community framework. It binds the signatory to ensure the exportation of specified goods within a legally defined period, requiring proof of exportation or landing at the destination, with financial liability in the event of non-compliance.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CB8-TRANSIT_BOND.md

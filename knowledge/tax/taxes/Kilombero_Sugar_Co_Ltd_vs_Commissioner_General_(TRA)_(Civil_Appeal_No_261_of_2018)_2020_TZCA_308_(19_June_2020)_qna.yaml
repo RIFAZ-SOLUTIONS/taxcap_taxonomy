@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Thus, it lodged two appeals in the Board - Appeal No. 74 of 2015 for the year 2011 and Appeal No. 75 of 2015 for the year 2012. The Board consolidated the appeals and and determined them as one appeal vide its judgment of 1s t July, 2016. Although the consolidated appeal was partly allowed, the appellant was still aggrieved, hence its appeal to the Tribunal. Secondly, that findings on whether the appellant submitted six out 2ps. of ten invoices were not backed by any evidence. Thirdly, that the disallowance alluded to earlier was based on wrong construction of sections 33 and 34 of the Income Tax Act, 2004. Fourthly, that the Board erroneously ordered the appellant to pay withholding tax on management fees paid to Zambia Sugar Limited ("ZSL"). Fifthly, that the Board misread the evidence on record and misconstrued the objection proceedings procedure under section 13 of 3ps. the Tax Revenue Appeals Act, Cap. 408 RE 2010 ("the TRAA") when determining an issue on unreconciled Value Added Tax ("VAT") amount of TZS. 2ps. 1ps. Thirdly, that the disallowance alluded to earlier was based on wrong construction of sections 33 and 34 of the Income Tax Act, 2004. Fourthly, that the Board erroneously ordered the appellant to pay withholding tax on management fees paid to Zambia Sugar Limited ("ZSL"). Fifthly, that the Board misread the evidence on record and misconstrued the objection proceedings procedure under section 13 of the Tax Revenue Appeals Act, Cap. 2ps. 408 RE 2010 ("the TRAA") when determining an issue on unreconciled Value Added Tax ("VAT") amount of TZS. 709,874,107.00. And finally, that documents availed by the appellant to the respondent during objection proceedings should have formed the basis for reducing the above unreconciled VAT amount to TZS. 52,149,791.00.
+    questions_and_answers:
+      - question: |
+          What appeals did the appellant lodge and for which years?
+        answer: |
+          The appellant lodged Appeal No. 74 of 2015 for the year 2011 and Appeal No. 75 of 2015 for the year 2012 to the Board.
+      - question: |
+          How did the Board handle the two appeals lodged by the appellant?
+        answer: |
+          The Board consolidated the two appeals and determined them as one appeal through its judgment on 1st July, 2016.
+      - question: |
+          What was one issue the appellant raised regarding the Board's findings on submitted invoices?
+        answer: |
+          The appellant argued that the Board's findings on whether six out of ten invoices were submitted were not backed by any evidence.
+      - question: |
+          What specific sections of the Income Tax Act, 2004 were claimed to have been misinterpreted in the disallowance?
+        answer: |
+          The appellant claimed that the disallowance was based on a wrong construction of sections 33 and 34 of the Income Tax Act, 2004.
+      - question: |
+          What objection did the appellant raise regarding the unreconciled VAT amount?
+        answer: |
+          The appellant argued that documents it provided during objection proceedings should have reduced the unreconciled VAT amount from TZS. 709,874,107.00 to TZS. 52,149,791.00.
+  - context: |
+      1ps. 1ps. We wish to let its conclusion, at page 1,300 of the record, speak for itself: "The trial Board was therefore correct in its decision to rely on Exhibit R-l and aii other Exhibits A -l to A-12 and also to make reference to ten (10) invoices which were to come from the ten (10) sampled entries identified by the respondent's auditors and requested to be availed for verification. "[Emphasis added] In consequence, we find the second ground of appeal 2ps. lacking in merit. We dismiss it. In respect of the third ground, it is contended that the Tribunal misinterpreted section 13 of the TRAA on the procedures for handling objection proceedings when it held at 1,301 of the record that: " From the foregoing if the appellant was not comfortable with Exhibit R-l he should have produced what he considered to be the correct sample of items/invoices requested by the ## respondent's auditors instead 3ps. of complaining that Exhibit R-l is a mere internal document which came up in the WSD as Annexure TRA-2." 2ps. 1ps. "[Emphasis added] In consequence, we find the second ground of appeal lacking in merit. We dismiss it. It is submitted for the appellant that before the Board, the appellant produced all documents that had been subject of the objection proceedings (that is, Exhibits A-l, A-2, A-9, A-10, A - ll and A-12) but Exhibit R-l was not one of the documents. The latter document only surfaced during the proceedings before the 2ps. Board well after the objection proceedings had been concluded.
+    questions_and_answers:
+      - question: |
+          What was the conclusion of the trial board regarding Exhibit R-1 and other exhibits?
+        answer: |
+          The trial board concluded that it was correct to rely on Exhibit R-1, Exhibits A-1 to A-12, and ten invoices from sampled entries identified by the respondent's auditors for verification.
+      - question: |
+          Why was the second ground of appeal dismissed?
+        answer: |
+          The second ground of appeal was dismissed because it was found lacking in merit, as stated explicitly in the conclusion of the decision.
+      - question: |
+          What issue did the Tribunal address in relation to section 13 of the TRAA?
+        answer: |
+          The Tribunal addressed the misinterpretation of procedures for handling objection proceedings, specifically noting that the appellant failed to produce an alternative set of correct sample items/invoices instead of challenging Exhibit R-1.
+      - question: |
+          What was the appellant’s argument about Exhibit R-1 in relation to the objection proceedings?
+        answer: |
+          The appellant argued that Exhibit R-1 was not part of the documents produced during the objection proceedings and only surfaced after those proceedings, during the Board hearings.
+      - question: |
+          Which exhibits did the appellant claim were produced during the objection proceedings?
+        answer: |
+          The appellant claimed that Exhibits A-1, A-2, A-9, A-10, A-11, and A-12 were produced during the objection proceedings.
+  - context: |
+      1ps. 1ps. Learned counsel argued further that during objection proceedings, the appellant submitted all necessary documents in terms of section 13 of the TRAA. However, neither the Board nor the Tribunal bothered to refer to the aforesaid sequenced documents. The appellant, he added, was denied by the respondent an opportunity to be heard on the documents by giving required clarification. He then complained that the assessments were issued without any reasons 2ps. being assigned, which was a breach of the duty for any public body to give reasons for its decisions. Learned counsel insisted that the respondent ought to have given reasons to justify its assessments. Replying, Mr. Mashiba contended that the appeal was misconceived in that it was wholly based on matters of fact contrary to section 25 (2) of the TRAA. He further argued that the appellant failed to produce evidence on the arm's length transactions between it and 3ps. its associates. As regards Exhibit R-l, he argued that the Tribunal rightly concluded that its contents were proved because the appellant did not controvert its veracity before the Board. 2ps. 1ps. Replying, Mr. Mashiba contended that the appeal was misconceived in that it was wholly based on matters of fact contrary to section 25 (2) of the TRAA. He further argued that the appellant failed to produce evidence on the arm's length transactions between it and its associates. As regards Exhibit R-l, he argued that the Tribunal rightly concluded that its contents were proved because the appellant did not controvert its veracity before the Board. Mr. Gugami 2ps. took over from Mr. Mashiba, maintaining that the second to the sixth grounds of appeal raise no point of law but matters of fact. He urged us to disregard them all. Mr.
+    questions_and_answers:
+      - question: |
+          What issue did the appellant raise regarding the handling of documents by the Board and Tribunal?
+        answer: |
+          The appellant argued that the Board and Tribunal failed to refer to the sequenced documents submitted during the objection proceedings as required by section 13 of the TRAA.
+      - question: |
+          What complaint did the appellant make about the respondent's actions during the proceedings?
+        answer: |
+          The appellant complained that the respondent denied them an opportunity to be heard on the submitted documents and failed to provide reasons for the assessments, breaching the duty to justify decisions.
+      - question: |
+          What was Mr. Mashiba's argument regarding the nature of the appeal?
+        answer: |
+          Mr. Mashiba argued that the appeal was misconceived because it was based entirely on matters of fact, which is contrary to section 25 (2) of the TRAA.
+      - question: |
+          What evidence did the appellant allegedly fail to provide, according to Mr. Mashiba?
+        answer: |
+          Mr. Mashiba contended that the appellant failed to produce evidence on arm's length transactions between itself and its associates.
+      - question: |
+          What was the Tribunal's conclusion regarding Exhibit R-1, and why?
+        answer: |
+          The Tribunal concluded that the contents of Exhibit R-1 were proven because the appellant did not challenge the document's accuracy or authenticity before the Board.
+  - context: |
+      1ps. 1ps. In Bulyanhulu Gold Mine Limited v. Commissioner General, Tanzania Revenue Authority, Consolidated Civil Appeals No. 89 and 90 of 2015 where we confronted an akin situation, we held that: 'We agree with the Tribunal that this was a question of fact in terms of section 28(2)(b) of the Tax Revenue Appeals Act ; the burden of proof was on the appellant to prove that the said equipment was used wholly and exclusively for purposes of mining operations. This being a question 2ps. of fact it ends there. This is so, because under section 25(2) of the Tax Revenue Appeals Act (CAP 408 RE 2002) appeals to this Court lie only on matters involving questions of law. So, we find that the fifth ground is devoid of substance and we dismiss / £ . "[Emphasis added] In consequence, we hold that the third ground of appeal lacks merit. We dismiss it. 2ps. 1ps. This is so, because under section 25(2) of the Tax Revenue Appeals Act (CAP 408 RE 2002) appeals to this Court lie only on matters involving questions of law. So, we find that the fifth ground is devoid of substance and we dismiss / £ . "[Emphasis added] In consequence, we hold that the third ground of appeal lacks merit. We dismiss it. The essence of the fourth ground of appeal is the 2ps. grievance that in applying the provisions of sections 33 and 35 of the Income Tax Act, 2004 while disallowing 15% of the costs of invoices, the Tribunal erred by relying only on documents of the respondent issued at the earlier stages of the objection proceedings and not considering documents supplied by the appellant at a later stage of the proceedings as per section 13 of the TRAA.
+    questions_and_answers:
+      - question: |
+          What was the key issue related to the equipment in the case of Bulyanhulu Gold Mine Limited v. Commissioner General, Tanzania Revenue Authority?
+        answer: |
+          The key issue was whether the equipment was used wholly and exclusively for mining operations, as required under section 28(2)(b) of the Tax Revenue Appeals Act.
+      - question: |
+          What does section 25(2) of the Tax Revenue Appeals Act specify about appeals to the Court?
+        answer: |
+          Section 25(2) specifies that appeals to the Court are permitted only on matters involving questions of law, not questions of fact.
+      - question: |
+          Why was the fifth ground of appeal dismissed by the Court?
+        answer: |
+          The fifth ground of appeal was dismissed because it involved a question of fact, which the Court cannot review under section 25(2) of the Tax Revenue Appeals Act.
+      - question: |
+          What was the contention in the fourth ground of appeal regarding the Income Tax Act, 2004 provisions?
+        answer: |
+          The contention was that the Tribunal erred in applying sections 33 and 35 of the Income Tax Act, 2004 by relying on earlier documents issued by the respondent and failing to consider evidence provided later by the appellant, as allowed under section 13 of the TRAA.
+      - question: |
+          What was the final ruling on the third ground of appeal in the case?
+        answer: |
+          The third ground of appeal was dismissed as it was found to lack merit.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT DODOMA ( ## CORAM: JUMA. C.J.. MUGASHA. 3.A., And NDIKA, J.A.) CIVIL APPEAL NO. 261 OF 2018 KILOMBERO SUGAR COMPANY LTD...........................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)..........................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, J. - Chairman) dated the 25th day of October, 2018 in Tax Appeal No. 19 of 2016 ## JUDGMENT OF THE COURT 8th &amp; 19th June, 2020 ## NDIKA. 2ps. 1ps. 3.A., And NDIKA, J.A.) CIVIL APPEAL NO. 261 OF 2018 KILOMBERO SUGAR COMPANY LTD...........................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)..........................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas, J. - Chairman) dated the 25th day of October, 2018 in Tax Appeal No. 19 of 2016 ## JUDGMENT OF THE COURT 8th &amp; 19th June, 2020 ## NDIKA. J.A.: On appeal is the judgment and decree of the Tax Revenue Appeals Tribunal ("the Tribunal") dated 25t h October, 2018 in Tax Appeal 2ps. No. 19 of 2016. The said judgment substantially affirmed the decision of the Tax Revenue Appeals Board ("the Board") dated 1s t July, 2016 in Consolidated Income Tax Appeals No. 74 and 75 of 2015. The brief background to this appeal is as follows: The Commissioner General, Tanzania Revenue Authority ("the respondent") conducted an audit on the tax affairs of Kilombero Sugar Company Limited ("the appellant") for the years of income of 2011 and 2012. 3ps. The respondent came up with an audit report dated 13t h February, 2013 accompanied by assessments for both years of income (Exhibits A-5 and A-6). 3ps. 1ps. CIVIL APPEAL NO. 261 OF 2018 KILOMBERO SUGAR COMPANY LTD...........................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)..........................................
+    questions_and_answers:
+      - question: |
+          What is the case title and appeal number in this court proceeding?
+        answer: |
+          The case is titled 'Kilombero Sugar Company Ltd. versus Commissioner General (TRA)' and is listed as Civil Appeal No. 261 of 2018.
+      - question: |
+          Who conducted the audit of Kilombero Sugar Company Ltd’s tax affairs, and for which years was the audit conducted?
+        answer: |
+          The audit was conducted by the Commissioner General of the Tanzania Revenue Authority for the income years 2011 and 2012.
+      - question: |
+          What was the outcome of the decision made by the Tax Revenue Appeals Tribunal on 25th October 2018?
+        answer: |
+          The Tax Revenue Appeals Tribunal substantially affirmed the decision of the Tax Revenue Appeals Board from 1st July 2016 in Consolidated Income Tax Appeals No. 74 and 75 of 2015.
+      - question: |
+          What document accompanied the audit report issued on 13th February 2013?
+        answer: |
+          The audit report was accompanied by assessments for the years of income 2011 and 2012, marked as Exhibits A-5 and A-6.
+      - question: |
+          Who presided as the chairman of the Tax Revenue Appeals Tribunal in this case?
+        answer: |
+          The chairman of the Tax Revenue Appeals Tribunal was Miemmas, J.
+document_outline: |
+  **Document Outline:**
+  
+  The document outlines the proceedings of a civil appeal case, "Kilombero Sugar Company Ltd vs Commissioner General (TRA)," heard before the Court of Appeal of Tanzania at Dodoma. It details the appellant's grievances against tax assessments for the years 2011 and 2012, their subsequent appeals through the Tax Revenue Appeals Board and Tribunal, and the appellant's grounds for further appeal before the Court of Appeal following partial rulings against them.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Kilombero_Sugar_Co_Ltd_vs_Commissioner_General_(TRA)_(Civil_Appeal_No_261_of_2018)_2020_TZCA_308_(19_June_2020).md

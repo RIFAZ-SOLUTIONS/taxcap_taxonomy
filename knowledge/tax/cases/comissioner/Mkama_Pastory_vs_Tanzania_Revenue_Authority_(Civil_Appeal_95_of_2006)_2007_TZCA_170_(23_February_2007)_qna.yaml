@@ -1,0 +1,105 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. It appears to us that since the obligation on the appellant under Rule 90 (1) of the Rules is contingent upon the respondent complying with the requirement under Rule 79 (1) (a) of the Rules, and since the respondent does not appear to have complied with that rule, the obligation on the appellant to serve both the memorandum of appeal and the record of appeal on the respondent within the 2ps. period stipulated under Rule 90 (1) of the Rules does not arise. We, therefore, dismiss that ground of objection. The decision against which the appeal is sought was pronounced by the High Court on 10t h March, 2005 but the extracted order was signed by the judge who gave the ruling on 19t h December, 2005. The dating and signing of the extracted order appears under the following words - "Given under my hand and the Seal of 3ps. the Court this 19t h day of December, 2005." Obviously, the date differs from the date the ruling of the court was given. 2ps. 1ps. We now wish to consider ground (3) in the Supplementary Notice of Preliminary Objection. The decision against which the appeal is sought was pronounced by the High Court on 10t h March, 2005 but the extracted order was signed by the judge who gave the ruling on 19t h December, 2005. The dating and signing of the extracted order appears under the following words - "Given under my hand and the Seal of the Court this 2ps. 19t h day of December, 2005." Order 20 Rule 7 of the Civil Procedure Act, Cap.
+    questions_and_answers:
+      - question: |
+          What condition must the respondent fulfill for the appellant’s obligation under Rule 90 (1) to arise?
+        answer: |
+          The obligation on the appellant under Rule 90 (1) is contingent upon the respondent complying with Rule 79 (1) (a) of the Rules.
+      - question: |
+          Why was the appellant not required to serve the memorandum and record of appeal within the stipulated period?
+        answer: |
+          The appellant was not required to serve the documents because the respondent did not comply with Rule 79 (1) (a), which is a precondition for the appellant’s obligation under Rule 90 (1).
+      - question: |
+          What are the key dates mentioned regarding the High Court decision and the extracted order?
+        answer: |
+          The High Court decision was pronounced on 10th March 2005, while the extracted order was signed on 19th December 2005.
+      - question: |
+          What discrepancy is highlighted in the dating and signing of the extracted order?
+        answer: |
+          The extracted order was dated 19th December 2005, which differs from the date of the court’s ruling on 10th March 2005.
+      - question: |
+          Under what legal provision is the review of dating and signing of orders being considered?
+        answer: |
+          The review of the dating and signing of orders is being considered under Order 20 Rule 7 of the Civil Procedure Act, Cap.
+  - context: |
+      1ps. 1ps. ## ( CORAM: ## IN THE COURT OF APPEAL OF TANZANIA AT MWANZA LUBUVA. J.A., MROSO. J.A.. And RUTAKANGWA. 3.A.) CIVIL APPEAL NO. 95 OF 2006 MKAMA PASTORY.............................................. APPELLANT ## VERSUS TANZANIA REVENUE AUTHORITY...................RESPONDENT (Appeal from the Ruling of the High Court of Tanzania at Mwanza) ## (Mchome, 3.} dated the 10t h day of March, 2005 in HC Civil Case No. 10 of 2001 ## REASONS FOR THE COURT DECISION ## MROSO. J.A.: When we heard this appeal on 12t h February, 2007 we sustained a preliminary objection by the respondent and struck it out with costs. 2ps. We now give our reasons. In a ruling of the High Court at Mwanza (Mchome, J.) dated 10t h March, 2005 the respondent succeeded in a preliminary objection it had raised and, as a result, the appellant's plaint before the High Court was struck out for failure to disclose a cause of action. The appellant was aggrieved by the ruling and appealed against it to this Court. 2ps. 1ps. We now give our reasons. In a ruling of the High Court at Mwanza (Mchome, J.) dated 10t h March, 2005 the respondent succeeded in a preliminary objection it had raised and, as a result, the appellant's plaint before the High Court was struck out for failure to disclose a cause of action. The appellant was aggrieved by the ruling and appealed against it to this Court. Before the appeal could be called on for hearing counsel for the respondent, Mr. Teemba, raised two 2ps. grounds of preliminary objection against the appeal in a notice which was duly filed nineteen days prior to the hearing date. The notice was followed by a supplementary notice of preliminary objection containing two additional grounds, making a total of four points of preliminary objection.
+    questions_and_answers:
+      - question: |
+          What case is being discussed in this civil appeal?
+        answer: |
+          The case being discussed is Civil Appeal No. 95 of 2006, between Mkama Pastory (Appellant) and the Tanzania Revenue Authority (Respondent).
+      - question: |
+          What was the outcome of the appeal heard on 12th February 2007?
+        answer: |
+          The appeal was struck out with costs because the preliminary objection raised by the respondent was sustained.
+      - question: |
+          What was the ruling of the High Court of Tanzania on 10th March 2005?
+        answer: |
+          The High Court of Tanzania struck out the appellant's plaint due to its failure to disclose a cause of action, following a preliminary objection raised by the respondent.
+      - question: |
+          How many preliminary objections were raised by the respondent before the appeal hearing?
+        answer: |
+          The respondent raised a total of four preliminary objections: two in the initial notice filed 19 days before the hearing, and two additional grounds in a supplementary notice.
+      - question: |
+          Who represented the respondent during the appeal, and what action did they take?
+        answer: |
+          The respondent was represented by counsel Mr. Teemba, who raised the preliminary objections against the appeal.
+  - context: |
+      1ps. 1ps. He did not proceed to argue against the second ground of objection. We intend to dispose of ground (2) of the grounds of preliminary objection. Rule 90 (1) of the Court of Appeal Rules, 1979 (the Rules) provides as under:- "90 (1) The appellant shall, before or within seven days after lodging the memorandum of appeal and the record of appeal in the appropriate registry, serve copies of them on each respondent who has complied with the requirements of 2ps. Rule 79." It is apparent that the appellant lodged his memorandum of appeal in the Court registry on 22n d March, 2006 and the record of appeal on 13t h July, 2006. He was, therefore, required to serve on the respondent both the copy of the memorandum of appeal and of the record of appeal within seven days of the lodging of those documents if the respondent had complied with Rule 79 of the Rules. It will be recalled that Mr. Teemba informed the Court that the 3ps. respondent was not so served within the stipulated period. 2ps. 1ps. Rule 90 (1) of the Court of Appeal Rules, 1979 (the Rules) provides as under:- "90 (1) The appellant shall, before or within seven days after lodging the memorandum of appeal and the record of appeal in the appropriate registry, serve copies of them on each respondent who has complied with the requirements of Rule 79." It will be recalled that Mr. Teemba informed the Court that the respondent was not so served within the stipulated 2ps. period. It was served on 13t h July, 2006 which was some 113 days after the memorandum of appeal was lodged in the Registry, which would appear to be well beyond seven days.
+    questions_and_answers:
+      - question: |
+          What does Rule 90(1) of the Court of Appeal Rules, 1979 state?
+        answer: |
+          Rule 90(1) states that the appellant must serve copies of the memorandum of appeal and the record of appeal on each respondent who has complied with Rule 79, within seven days of lodging these documents in the registry.
+      - question: |
+          When did the appellant lodge the memorandum of appeal and the record of appeal?
+        answer: |
+          The appellant lodged the memorandum of appeal on March 22, 2006, and the record of appeal on July 13, 2006.
+      - question: |
+          What was the stipulated period for serving these documents to the respondent according to Rule 90(1)?
+        answer: |
+          The appellant was required to serve both the memorandum of appeal and the record of appeal on the respondent within seven days of lodging them.
+      - question: |
+          Was the respondent served within the stipulated time, and if not, how late was the service?
+        answer: |
+          No, the respondent was not served within the stipulated seven days. The service occurred on July 13, 2006, which was 113 days after the memorandum of appeal was lodged, far exceeding the seven-day limit.
+      - question: |
+          What key issue did Mr. Teemba highlight in the court?
+        answer: |
+          Mr. Teemba informed the court that the respondent was not served with the required documents within the stipulated seven-day period required by Rule 90(1).
+  - context: |
+      1ps. 1ps. The question now is, what would be the legal status of an appeal which is accompanied by an extracted order which does not bear the date when the ruling was pronounced? We have not been able to find from the available resources judicial pronouncements specifically on orders. Mulla on The Code of Civil Procedure, Fifteenth Edition at page 1524 commenting on rule 7 of Order 20 2ps. which is rendered substantially like rule 7 of Order 20 of the Act underscored the importance of the date of a decree. He said:- "Under this rule, the decree comes into existence on the date of the judgment, though it is signed later. Decree comes into existence as soon as the judgment is pronounced and not on the day it is signed and sealed later. For the purpose of 3ps. appeal, time runs from the date of pronouncement of the judgment." We think that is the correct position in law. We also think that, again, on a parity of reasoning, the same should be the case with extracted orders mutatis mutandis. 2ps. 1ps. For the purpose of appeal, time runs from the date of pronouncement of the judgment." We think that is the correct position in law. We also think that, again, on a parity of reasoning, the same should be the case with extracted orders mutatis mutandis. The date of a decree, and by extension of an order, is important not only in reckoning time for appeal but also for purposes 2ps. of period of limitation in the case of an application to set aside an exparte decree or order. Furthermore, the right to execute a decree or order accrues from the date it is pronounced, not on the day it is signed.
+    questions_and_answers:
+      - question: |
+          What issue arises with an appeal accompanied by an extracted order lacking the date of the ruling's pronouncement?
+        answer: |
+          The legal status of such an appeal is uncertain, as there are no specific judicial pronouncements addressing orders without dates of pronouncement.
+      - question: |
+          According to Mulla's commentary on rule 7 of Order 20 in The Code of Civil Procedure, when does a decree come into existence?
+        answer: |
+          A decree comes into existence on the date the judgment is pronounced, though it may be signed and sealed on a later date.
+      - question: |
+          How does the date of a decree or order affect the time for filing an appeal?
+        answer: |
+          For appeals, time starts running from the date of pronouncement of the judgment or order, not from the date it is signed.
+      - question: |
+          What period-related legal considerations depend on the date of pronouncement of a decree or order?
+        answer: |
+          The date of pronouncement is crucial for determining the period of limitation for appeals, applications to set aside ex parte decrees or orders, and the accrual of the right to execute a decree or order.
+      - question: |
+          What reasoning applies to extracted orders regarding the importance of the date of pronouncement?
+        answer: |
+          By parity of reasoning, the same principle that applies to decrees—the importance of the date of pronouncement for determining legal timelines—applies mutatis mutandis to extracted orders.
+document_outline: |
+  **Document Outline:**  
+  
+  This document is a legal ruling from the Court of Appeal of Tanzania at Mwanza concerning Civil Appeal No. 95 of 2006, in which the appellant, Mkama Pastory, appealed against a preliminary objection ruling that struck out his plaint for failure to disclose a cause of action. The document outlines the reasons for the Court's decision to uphold the respondent's objections and dismiss the appeal as incompetent, citing procedural lapses under Rule 90(1) of the Tanzania Court of Appeal Rules, 1979, and Order XX Rule 7 of the Civil Procedure Code.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Mkama_Pastory_vs_Tanzania_Revenue_Authority_(Civil_Appeal_95_of_2006)_2007_TZCA_170_(23_February_2007).md

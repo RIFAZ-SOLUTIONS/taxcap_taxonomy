@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The Tribunal emphasized that, the appellant as a recipient of imported services was required to comply with the mandatory provisions of Regulations 5 and 6 (1) of the Value Added Tax (Imported Services) Regulations, 2001 (the Regulations). That, it was mandatory for the appellant as a taxable person to submit to the respondent VAT returns in respect of the imported services in an accounting period concerning her business as provided under section 26 (1) of the Act. Undeterred, the appellant preferred 2ps. this current appeal on the following three grounds: - - (1) That, the Tax Revenue Appeals Tribunal erred in law in interpretating the provisions o f section 26 (1) o f the Value Added Tax Act, 1997 read together with Regulations 5 and 6 (1) o f the Value Added Tax Regulations, 2001 wrongly upheld that the appellant was required to submit to the respondent a return in respect 3ps. o f the imported services; - (2) That, the Tax Revenue Appeals Tribunal erred in law when holding that section 26 (1) of the VAT Act, 1997 provide as to the effect o f failure or omission o f the recipient o f service to record in VAT account for services received; and - (3) The Tax Revenue Appeals Tribunal erred in law in concluding that for the appellant to enjoy the reliefs provided under section 11 o f the Value Added 4ps. Tax Act, 1997 it must first have accounted for the imported services under section 26 of the Value Added Tax Act, 1997. To support their arguments for and against the appeal, the parties filed their respective written submissions in accordance with Rule 106 (1) and (7) of the Court of Appeal Rules, 2009. In her written submission, the appellant formulated three 5ps.
+    questions_and_answers:
+      - question: |
+          What specific provisions of the Value Added Tax (Imported Services) Regulations, 2001 were emphasized by the Tribunal as mandatory for the appellant?
+        answer: |
+          The Tribunal emphasized that the appellant was required to comply with Regulations 5 and 6 (1) of the Value Added Tax (Imported Services) Regulations, 2001.
+      - question: |
+          According to the Tribunal, what was the appellant’s obligation under section 26 (1) of the Value Added Tax Act, 1997?
+        answer: |
+          Under section 26 (1) of the Act, the appellant was obligated to submit VAT returns to the respondent for imported services within an accounting period concerning her business.
+      - question: |
+          What were the three grounds of appeal raised by the appellant?
+        answer: |
+          The appellant argued that the Tribunal erred in law by: (1) misinterpreting section 26 (1) of the VAT Act, 1997 in conjunction with Regulations 5 and 6 (1) of the VAT Regulations, 2001; (2) holding that section 26 (1) addresses the failure to record services in a VAT account; and (3) concluding that relief under section 11 required compliance with section 26.
+      - question: |
+          What were the procedural rules followed for filing written submissions in this appeal?
+        answer: |
+          The parties filed their written submissions in accordance with Rule 106 (1) and (7) of the Court of Appeal Rules, 2009.
+      - question: |
+          What was the Tribunal’s conclusion regarding the appellant’s eligibility for reliefs under section 11 of the Value Added Tax Act, 1997?
+        answer: |
+          The Tribunal concluded that for the appellant to enjoy reliefs under section 11 of the VAT Act, 1997, it must first have accounted for the imported services under section 26 of the same Act.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ( ## CORAM: MWAMBEGELE. J.A.. KEREFU. J.A. AND MAIGE. J.A.^ CIVIL APPEAL NO. 391 OF 2020 ETABLISSMENTS MAUREL &amp; PROM........................................ APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) f Haii, Vice Chairperson.^ Dated the 6th day of August, 2020 in Tax Appeal No. 4 of 2019 ## JUDGMENT OF THE COURT 25th October &amp; 2nd November, 2021 ## KEREFU, J.A.: The appellant, Etablissments Maurel &amp; Prom, has lodged this appeal challenging the 2ps. decision of the Tax Revenue Appeals Tribunal (the Tribunal) dated 6th August, 2020 in Tax Appeal No. 4 of 2019 which dismissed her appeal against the decision of the Tax Revenue Appeals Board (the Board) dated 19th December, 2018 which was decided in favour of the respondent, the Commissioner General Tanzania Revenue Authority (the TRA). Most of the facts forming the background 3ps. of the appeal as obtained from the record are, fortunately, not in dispute. 2ps. 1ps. J.A.^ CIVIL APPEAL NO. 391 OF 2020 ETABLISSMENTS MAUREL &amp; PROM........................................ APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) f Haii, Vice Chairperson.^ Dated the 6th day of August, 2020 in Tax Appeal No. 4 of 2019 ## JUDGMENT OF THE COURT 25th October &amp; 2nd November, 2021 ## KEREFU, J.A.: Most of the facts forming the background of the appeal as obtained from the record are, fortunately, not in dispute. 2ps. They go thus: The appellant is a Tanzania registered branch of Etablissments Maurel &amp; Prom which is an entity incorporated and registered in France conducting exploration activities of oil and gas in Tanzania.
+    questions_and_answers:
+      - question: |
+          Who is the appellant in Civil Appeal No. 391 of 2020?
+        answer: |
+          The appellant in Civil Appeal No. 391 of 2020 is Etablissments Maurel & Prom, a Tanzania-registered branch of a French entity conducting oil and gas exploration in Tanzania.
+      - question: |
+          What is the name of the respondent in this appeal?
+        answer: |
+          The respondent in this appeal is the Commissioner General of the Tanzania Revenue Authority (TRA).
+      - question: |
+          What decision is the appellant challenging in this case?
+        answer: |
+          The appellant, Etablissments Maurel & Prom, is challenging the decision of the Tax Revenue Appeals Tribunal dated 6th August, 2020, which upheld a prior decision of the Tax Revenue Appeals Board dated 19th December, 2018, decided in favor of the TRA.
+      - question: |
+          On what dates were the judgments for this case delivered by the Court of Appeal?
+        answer: |
+          The judgments for this case were delivered on 25th October and 2nd November, 2021.
+      - question: |
+          What is the nature of the appellant's activities in Tanzania?
+        answer: |
+          The appellant conducts exploration activities of oil and gas in Tanzania.
+  - context: |
+      1ps. 1ps. On the strength of his arguments, Mr. Kisongo urged us to dismiss the appeal with costs for lack of merit. Mr. Mukebezi had nothing useful in rejoinder submission except reiterating what he submitted earlier and insisted his previous prayer that the appeal be allowed with costs. As intimated above, it is not in dispute that the appellant is a Tanzania registered branch of Etablissments Maurel &amp; Prom, an entity incorporated 2ps. and registered in France conducting exploration activities of oil and gas in Tanzania, thus a taxable person and a registered tax payer. It is also not in dispute that under Article 12 (1) (a) of the PSA, the appellant is relieved from payment of tax subject to the procedures and conditions to be issues by the Minister of Finance. 2ps. 1ps. Having carefully considered the rival submissions made by the counsel for the parties in support and against the appeal, we find that the main issue for our consideration under the first and second issues is whether the Tribunal erred in holding that the appellant, a taxable person and a recipient of imported services who is exempted under Article 12 (1) (a) of the PSA 2ps. was under any obligation to file VAT returns on the imported services. It is common ground that the appellant received services from its head office in France but she did not include the same in his VAT returns for the years of income 2010 and 2011, the fact which prompted the respondent to issue an assessment for additional VAT at the tune of TZS 6,662,076,100.56. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What did Mr. Kisongo urge the court to do regarding the appeal?
+        answer: |
+          Mr. Kisongo urged the court to dismiss the appeal with costs, arguing it lacked merit.
+      - question: |
+          What exemption does Article 12 (1) (a) of the PSA grant to the appellant?
+        answer: |
+          Article 12 (1) (a) of the PSA relieves the appellant from payment of tax, subject to the procedures and conditions issued by the Minister of Finance.
+      - question: |
+          What specific issue did the court consider regarding VAT returns on imported services?
+        answer: |
+          The court considered whether the Tribunal erred in holding that the appellant, as a taxable person exempted under Article 12 (1) (a) of the PSA, was obligated to file VAT returns on imported services.
+      - question: |
+          What action by the appellant led to the respondent issuing an additional VAT assessment?
+        answer: |
+          The appellant did not include services received from its head office in France in its VAT returns for the years 2010 and 2011, prompting the respondent to issue an additional VAT assessment.
+      - question: |
+          What was the amount of the additional VAT assessment issued to the appellant?
+        answer: |
+          The additional VAT assessment issued to the appellant was TZS 6,662,076,100.56.
+  - context: |
+      1ps. 1ps. In its legislative purpose and its plain statutory wording, section 43(l)(b) is intended to vest in the Commissioner General the discretion to raise an assessment o f any tax due and interest payable where in his judgment a taxable person has failed to pay any o f the tax payable by him on account of his, inter alia, failure to make any return required under the Act." It is our further view 2ps. that, given the settled position of the law in this matter, section 26 (1) of the Act contains no ambiguity or uncertainty to warrant its interpretation in favour of the appellant. As such, we do not subscribe to Mr. Mukebezi's understanding of the said provision. We are also mindful of the fact that in his submission, Mr. Mukebezi tried to distinguish facts of this appeal with those obtained in Mbeya Cement 3ps. Company Limited (supra). 2ps. 1ps. It is our further view that, given the settled position of the law in this matter, section 26 (1) of the Act contains no ambiguity or uncertainty to warrant its interpretation in favour of the appellant. As such, we do not subscribe to Mr. Mukebezi's understanding of the said provision. We are also mindful of the fact that in his submission, Mr. Mukebezi tried to distinguish facts 2ps. of this appeal with those obtained in Mbeya Cement Company Limited (supra). Having scrutinized the facts in the two cases, we again find the submission of Mr. Mukebezi to be misconceived as in both cases the appellants who are taxable persons lodged improper tax returns without including imported services contrary to the law. With profound respect, we hold the firm view that the invitation extended to us by Mr. Mukebezi to 3ps.
+    questions_and_answers:
+      - question: |
+          What discretion is granted to the Commissioner General under section 43(l)(b)?
+        answer: |
+          Section 43(l)(b) gives the Commissioner General the discretion to raise an assessment of any tax due and interest payable if a taxable person has failed to pay tax due, including failure to make required returns under the Act.
+      - question: |
+          Why is section 26(1) not interpreted in favor of the appellant, according to the text?
+        answer: |
+          Section 26(1) is not interpreted in favor of the appellant because it is deemed to have no ambiguity or uncertainty, as per the settled position of the law.
+      - question: |
+          What was Mr. Mukebezi's argument regarding the comparison to the Mbeya Cement Company Limited case?
+        answer: |
+          Mr. Mukebezi argued that the facts of the current appeal were distinct from those in the Mbeya Cement Company Limited case; however, this argument was rejected as both cases involved appellants lodging improper tax returns by excluding imported services contrary to the law.
+      - question: |
+          Why was Mr. Mukebezi’s submission deemed misconceived by the decision-makers?
+        answer: |
+          His submission was deemed misconceived because the facts in both cases showed a similar issue where taxable persons filed improper tax returns that excluded imported services, making his distinction invalid.
+      - question: |
+          What was the overall conclusion about Mr. Mukebezi’s understanding of the legal provisions?
+        answer: |
+          The overall conclusion was that Mr. Mukebezi’s understanding of the legal provisions, including his interpretation of section 26(1) and his comparison of the cases, was not accepted by the decision-makers due to their firm view of the settled legal position.
+  - context: |
+      1ps. 1ps. In addition, the obligation to account for the tax on imported services is prescribed under Regulations 5 and 6 (1), (a) and (b) of the Regulations that: - ## "Regulation 5 The recipient of the services must account for the tax on imported service when - - (a) the services is performed or completed; - (b) the invoices for the service is issued; - (c) any payment for the service made, whichever is earlier. Regulation 6 2ps. (1) The recipient of the services shall record the V A T account - - (a) the tax due on imported services as output tax in the period in which the services are imported; and - (b) a claim for the accounted tax as input tax in accordance with normal rule." [Emphasis added]. 2ps. 1ps. In addition, the obligation to account for the tax on imported services is prescribed under Regulations 5 and 6 (1), (a) and (b) of the Regulations that: - ## "Regulation 5 The recipient of the services must account for the tax on imported service when - - (a) the services is performed or completed; - (b) the invoices for the service is issued; - (c) any payment for the service made, whichever is earlier. Admittedly, the 2ps. Court in Mbeya Cement Company Limited (supra) when considered an akin situation on the assessment of additional VAT issued by the Commissioner to the appellant who, like in this appeal, filed improper VAT returns which did not include the imported services, it made a thorough discussion on the interpretation and applicability of the above cited provisions and extensively stated as follows: - "On a dose and combined reading of section 3ps.
+    questions_and_answers:
+      - question: |
+          What are the conditions under which a recipient must account for tax on imported services, according to Regulation 5?
+        answer: |
+          Under Regulation 5, a recipient must account for the tax on imported services when the service is performed or completed, an invoice for the service is issued, or any payment is made for the service, whichever occurs earliest.
+      - question: |
+          How should a recipient record VAT on imported services under Regulation 6?
+        answer: |
+          Under Regulation 6, the recipient must record the tax due on imported services as output tax in the period in which the services are imported and may claim the accounted tax as input tax according to normal rules.
+      - question: |
+          What issue did the Court address in the Mbeya Cement Company Limited case?
+        answer: |
+          The Court addressed the issue of additional VAT assessments issued by the Commissioner due to improper VAT returns that excluded imported services, focusing on the interpretation and applicability of the related regulations.
+      - question: |
+          What does Regulation 6 emphasize about claiming input tax for imported services?
+        answer: |
+          Regulation 6 emphasizes that the recipient can claim the accounted tax as input tax following the normal rules for such claims.
+      - question: |
+          What approach did the Court take in interpreting the cited provisions in the Mbeya Cement Company Limited case?
+        answer: |
+          The Court conducted a thorough discussion and interpretation of the provisions by closely and comprehensively reading the applicable regulations.
+document_outline: |
+  **Document Outline:**  
+  The document outlines a civil appeal (Civil Appeal No. 391 of 2020) before the Court of Appeal of Tanzania, concerning a dispute between Etablissements Maurel & Prom (the appellant) and the Tanzania Revenue Authority (TRA, the respondent) over a VAT tax liability of TZS 6.6 billion imposed on imported services for the years 2010 and 2011. The appellant challenges decisions by the Tax Revenue Appeals Board and Tribunal, arguing that, under a Production Sharing Agreement and the Value Added Tax Act, 1997, it is exempt from VAT, while the respondent contends the exemption was invalid due to non-compliance with prescribed procedures.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Etablissments_Maurel_Prom_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_391_of_2020)_2021_TZCA_629_(2_November_2021).md

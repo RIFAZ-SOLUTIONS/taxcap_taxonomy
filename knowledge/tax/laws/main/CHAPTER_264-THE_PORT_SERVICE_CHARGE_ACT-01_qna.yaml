@@ -1,0 +1,81 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The Port Service Charge Act [CAP. 264 R.E 2019] ## THE UNITED REPUBLIC OF TANZANIA <!-- image --> ## CHAPTER 264 ## THE PORT SERVICE CHARGE ACT [ PRINCIPAL LEGISLATION] REVISED EDITION 2019 This Edition of the Port Service Charge Act, Chapter 264 has been revised up to and including 30 th November, 2019 and is printed under the authority of section 4 of the Laws Revision Act, Chapter 4. Dodoma, 30 th November, 2019 ADELARDUS L. KILANGI Attorney General PRINTED BY THE GOVERNMENT PRINTER , DAR ES SALAAM - TANZANIA 1 The Port Service Charge Act [CAP. 264 R.E 2019] 2 \_\_\_\_\_\_ ## 2ps. CHAPTER 264 \_\_\_\_\_\_\_\_ ## THE PORT SERVICE CHARGE ACT ## [PRINCIPAL LEGISLATION] ## ARRANGEMENT OF SECTIONS | Section | Title | |-----------|------------------------------------| | 1. | Short title. | | 2. | Interpretation. 3ps. | | 3. | Imposition of port service charge. | | 4. | Exemptions from charge. | | 5. | Power to make further exemptions. | | 6. | Appointment of agents. | | 7. 4ps. | Collection and payment of charge. 2ps. 1ps. | | 5. | Power to make further exemptions. | | 6. | Appointment of agents. | | 7. | Collection and payment of charge. | | 8. | Issue of receipts. 2ps. | | 9. | Power of restraint or removal. | | 10. | Repealed. | | 10A. | Repealed. | | 11. 3ps. | Repealed. | | 12. | Regulations. | The Port Service Charge Act [CAP. 264 R.E 2019] 2 \_\_\_\_\_\_ ## CHAPTER 264 \_\_\_\_\_\_\_ ## THE PORT SERVICE CHARGE ACT ## An Act to impose a charge upon passengers embarking on ships at ports. 1 July, 1973 [G.N. NO.117 of 1975] st Acts Nos. 4ps.
+    questions_and_answers:
+      - question: |
+          What is the title and purpose of the Port Service Charge Act (CAP. 264)?
+        answer: |
+          The title of the legislation is 'The Port Service Charge Act,' and its purpose is to impose a charge on passengers embarking on ships at ports.
+      - question: |
+          When was the most recent revised edition of the Port Service Charge Act published?
+        answer: |
+          The most recent revised edition of the Port Service Charge Act was published on 30th November 2019.
+      - question: |
+          Under which law is the revision of the Port Service Charge Act authorized?
+        answer: |
+          The revision of the Port Service Charge Act is authorized under section 4 of the Laws Revision Act, Chapter 4.
+      - question: |
+          What sections of the Port Service Charge Act outline exemptions and the power to make further exemptions?
+        answer: |
+          Sections 4 and 5 of the Port Service Charge Act outline exemptions and the power to make further exemptions, respectively.
+      - question: |
+          What is the role of Section 7 in the Port Service Charge Act?
+        answer: |
+          Section 7 of the Port Service Charge Act outlines the procedures for the collection and payment of the port service charge.
+  - context: |
+      1ps. 1ps. - 4 .-(1) There shall be exempt from liability to pay the charge- - (a) any child under the age of two years; - (b) any passenger embarking at a port at which he is in transit; and - (c) any passenger embarking on a ferry which plies at a distance of up to three kilometres from the port. - 5 .-(1) The Minister may, by order published in the Gazette , exempt any class of persons from the liability of the charge. - (2) An exemption under this section may 2ps. be granted generally or in respect of any particular embarkation. - 6.(1) The Minister may appoint any public officer or any other person to be the agent for the collection of the charge. Collection and payment of charge Acts Nos. 2ps. 1ps. - 6.(1) The Minister may appoint any public officer or any other person to be the agent for the collection of the charge. Collection and payment of charge Acts Nos. 25 of 1997 s.36 8 of 1998 s.50 15 of 2003 s 43 10 of 2015 s.142 8 of 2019 s.11 Issue of receipts - (2) Every ship owner or shipping agent shall be deemed to be a collecting agent appointed under subsection (1) for the port at which he operates. - 7. -(1) Every agent shall collect the charge upon the 2ps. purchase of a ticket for ship travel through a port to any destination within or outside the United Republic. - (2) The amount collected by way of charge shall be remitted to the Commissioner General of the Tanzania Revenue Authority on or before the last working day of the month following the month in which the collections were made. 3ps. 1ps. 25 of 1997 s.36 8 of 1998 s.
+    questions_and_answers:
+      - question: |
+          Who is exempt from liability to pay the charge according to the document?
+        answer: |
+          Children under the age of two years, passengers in transit at a port, and passengers on ferries operating within three kilometers of the port are exempt.
+      - question: |
+          What power does the Minister have regarding exemptions from the charge?
+        answer: |
+          The Minister may, by order published in the Gazette, exempt any class of persons from liability to pay the charge, either generally or for specific embarkations.
+      - question: |
+          Who can the Minister appoint as an agent for the collection of charges?
+        answer: |
+          The Minister may appoint any public officer or any other person as an agent for the collection of the charges, and all ship owners or shipping agents are automatically deemed collecting agents for the port at which they operate.
+      - question: |
+          When must the collected charges be remitted to the Commissioner General of the Tanzania Revenue Authority?
+        answer: |
+          Charges must be remitted on or before the last working day of the month following the month in which the collections were made.
+      - question: |
+          What is the responsibility of an agent regarding the charge collection process?
+        answer: |
+          Agents must collect the charge at the time a ticket is purchased for ship travel and ensure the collected amounts are remitted to the Tanzania Revenue Authority within the specified timeframe.
+  - context: |
+      1ps. 1ps. - (4) Upon filing the monthly return under subsection (3), the agent shall disclose the amount collected and other particulars as the Commissioner General may require.'; and - (5) Any agent who fails to collect a charge as required by subsection (1) shall be required to remit to the Commissioner General the amount that would have been collected from the passenger. Power of restraint or removal Cap.4 s. 8 Repealed Repealed Repealed Regulations - 9. Where any person liable to pay the charge refuses or neglects to pay the 2ps. same, the collection agent or any police officer may- - (a) restrain that person from embarking on a ship; or - (b) if that person has embarked upon a ship, require him to leave the ship, and if the person fails to do so within a reasonable time, remove him from the ship, and in restraining or removing that person, the agent or police officer may use any force which may be reasonably necessary in the circumstances. - 10. Repealed by Act No.10 of 2015 s.143. - 10A . 2ps. 1ps. - 8. -Every collection agent who collects the charge from a person liable to pay the same, shall- - (a) where that person is in possession of a ticket for the journey on which he is embarking, issue and attach to the portion of the ticket which is to be retained by the passenger, a receipt in the prescribed form; and - (b) in any other case, issue a receipt in the prescribed form. - 10. Repealed by Act No.10 of 2015 s.143. - 10A . Repealed by Act No.10 of 2015 s.143. - 11. 2ps. Repealed by Act No.10 of 2015 s.143. - 12 .
+    questions_and_answers:
+      - question: |
+          What are the responsibilities of an agent when filing a monthly return under subsection (3)?
+        answer: |
+          The agent must disclose the amount collected and any other particulars required by the Commissioner General when filing the monthly return.
+      - question: |
+          What action must an agent take if they fail to collect a charge as required by subsection (1)?
+        answer: |
+          The agent is required to remit to the Commissioner General the amount that should have been collected from the passenger.
+      - question: |
+          Under what conditions can a collection agent or police officer restrain or remove a person from a ship?
+        answer: |
+          A person can be restrained from embarking or removed from a ship if they refuse or neglect to pay the required charge.
+      - question: |
+          What documentation must a collection agent provide when collecting a charge from a liable person in possession of a ticket?
+        answer: |
+          The agent must issue a receipt in the prescribed form and attach it to the portion of the ticket retained by the passenger.
+      - question: |
+          What legal changes are referenced in the context regarding certain subsections or sections being repealed?
+        answer: |
+          Sections 10, 10A, and 11 were repealed by Act No.10 of 2015, under section 143.
+document_outline: |
+  ### Document Outline: The Port Service Charge Act  
+  This document provides the revised 2019 edition of Tanzania's Port Service Charge Act, which governs the imposition, collection, and management of charges on passengers embarking on ships at ports within Mainland Tanzania. It includes provisions for exemptions, appointment of agents, regulations, and penalties related to the charge.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - CHAPTER_264-THE_PORT_SERVICE_CHARGE_ACT-01.md

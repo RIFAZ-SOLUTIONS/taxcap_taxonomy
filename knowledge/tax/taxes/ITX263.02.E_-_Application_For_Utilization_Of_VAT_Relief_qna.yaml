@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. 2ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. Box ................................................... 2ps. **VRN:** . **APPLICATION FOR UTILIZATION OF VAT RELIEF GRANTED TO EXPLORERS AND PROSPECTORS OF MINERALS, GAS OR OIL, AND TO INVESTOR LICENSED UNDER** **THE EXPORT PROCESSING ZONES ACT OR SPECIAL ECONOMIC ZONES ACT** **PART A** : (To be completed by applicant) The (name of the Organisation)......................................................................................................... is applying for VAT relief on supplies of goods/services as detailed below: | Details of the goods/services | Details of the goods/services | Value exclusive of VAT (in shs.) | VAT Amount | Supplier | |----------------------------------|----------------------------------|------------------------------------|--------------|------------| | Description 3ps. | Quantity | | | | | 4ps. | | 5ps. | | | | | | 6ps. | | | | | 7ps. | | | | | 8ps. | | | 9ps. | | | | | 10ps. | | | **NB:** *In case the space provided above is not sufficient please attach the list of additional items in the same format/ for motor vehicle give the following details for each vehicle or attach the detailed Schedule of all vehicles applied for. 3ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. Make....................................................... 2ps. Engine No............................................... Chassis No........................................................... Type......................................................... Cubic Capacity....................................... Tare weight...................................... Year of Manufacture............................................ Propulsion Petrol/Diesel/Other...................................................................... The goods/services are going to be used by the (Name of the project or undertaking) ....................................................................................................................................................... ...................................................................................................................................................................
+    questions_and_answers:
+      - question: |
+          What is the purpose of the ITX263.02.E form issued by the Tanzania Revenue Authority?
+        answer: |
+          The ITX263.02.E form is used to apply for VAT relief on supplies of goods and services for explorers and prospectors of minerals, gas, or oil, as well as investors licensed under the Export Processing Zones Act or Special Economic Zones Act.
+      - question: |
+          Who is required to complete Part A of the form?
+        answer: |
+          Part A of the form must be completed by the applicant, specifying details about their organization and the goods or services for which they are applying for VAT relief.
+      - question: |
+          What specific details about motor vehicles must be provided when applying for VAT relief?
+        answer: |
+          For motor vehicles, details such as make, engine number, chassis number, type, cubic capacity, tare weight, year of manufacture, and type of propulsion (Petrol/Diesel/Other) must be provided.
+      - question: |
+          What should the applicant do if there is insufficient space to list all goods and services in the provided area?
+        answer: |
+          If there is insufficient space, the applicant should attach a list of additional items in the same format or provide a detailed schedule for all motor vehicles applied for.
+      - question: |
+          Who should the completed VAT relief application form be submitted to?
+        answer: |
+          The completed form should be submitted to the Regional Manager of the Tanzania Revenue Authority.
+document_outline: |
+  **Document Outline:**  
+  The document is an official application form (ITX263.02.E) issued by the Tanzania Revenue Authority for claiming VAT relief under Regulation 33. It is designed for explorers, prospectors of minerals, gas, or oil, or investors operating under the Export Processing Zones Act or Special Economic Zones Act, explicitly detailing the goods/services for which relief is sought and their intended usage in eligible projects.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - ITX263.02.E_-_Application_For_Utilization_Of_VAT_Relief.md

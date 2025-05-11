@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 28 &amp; 30 May,2012 ## KILEO. J. A.: On 11.01.1991 the respondent's boat which was then plying for hire between Kisumu Port in Kenya and Musoma Port in Tanzania was impounded by the marine police as it was found to be conveying contraband goods. After impounding the said boat the police kept it at its officer's mess in Musoma. Meanwhile the Customs and Sales Tax Department were notified by the police that the boat had been impounded. A notice of seizure 2ps. was issued to one Ramadhani Ramso who was the ## IN THE COURT OF APPEAL OF TANZANIA AT MWANZA ## (CORAM: RUTAKANGWA, J.A.. KILEO, J.A.. And ORIYO, JJU ## CIVIL APPEAL NO. 126 OF 2011 ## BETWEEN TANZANIA REVENUE AUTHORITY.......................................APPELLANT AND DAWSON ISHENGOMA.......................................................... RESPONDENT (Appeal from the Judgment of the High Court of Tanzania at Mwanza) ## (Rwakibarila, J.^ dated the 11th day of February, 2011 in Civil Case No 74 of 1999 ## JUDGMENT OF THE COURT captain of the boat. 2ps. 1ps. After impounding the said boat the police kept it at its officer's mess in Musoma. Meanwhile the Customs and Sales Tax Department were notified by the police that the boat had been impounded. Following the notice of seizure the respondent claimed for release of the boat and the Commissioner of Customs and Sales Tax decided to release the boat but the respondent was required to pay Tshs. 40,000/= fine before the boat was released as 2ps. it had carried contraband goods. The letter to the respondent requiring him to pay the fine was written on 13.06. 1991. The fine was paid on 13.08.1991. Immediately after the payment of the fine, the Regional Customs and Sales Tax Officer (RCSTO) of Mara region instructed the Mara Regional Police Commander (vide letter dated 14.08.
+    questions_and_answers:
+      - question: |
+          Why was the respondent's boat impounded by the marine police on 11.01.1991?
+        answer: |
+          The boat was impounded because it was found to be conveying contraband goods while operating between Kisumu Port in Kenya and Musoma Port in Tanzania.
+      - question: |
+          What action did the Customs and Sales Tax Department take after being notified about the impounded boat?
+        answer: |
+          The Customs and Sales Tax Department issued a notice of seizure to Ramadhani Ramso, who was the captain of the boat.
+      - question: |
+          What condition was placed on the respondent for the release of the impounded boat?
+        answer: |
+          The respondent was required to pay a fine of Tshs. 40,000/= before the boat could be released.
+      - question: |
+          When was the fine for the release of the boat paid, and what occurred immediately after the payment?
+        answer: |
+          The fine was paid on 13.08.1991, and immediately after payment, the Regional Customs and Sales Tax Officer instructed the Mara Regional Police Commander to take further action.
+      - question: |
+          Who was identified as the captain of the impounded boat, according to the notice of seizure?
+        answer: |
+          The captain of the boat was identified as Ramadhani Ramso.
+  - context: |
+      1ps. 1ps. It is on record that the marine police were asked to release the vessel soon after the respondent had paid the fine. The letter which was written to the marine police is dated 14.08.1991. The letter was copied to the respondent. We agree with the learned counsel for the appellant and indeed we are settled in our minds that 14.08.1991 is the date that the cause of action arose. From 2ps. 14.08.1991 till 30.12.1999 when the suit was filed is over 8 years. The suit was late by 5 years. The learned trial judge ought to have dismissed the suit for having been filed outside the time limited by law. Even if, for the sake of academic argument we were to assume that the suit was founded on contract, the cause of action would have accrued from 3ps. the date that the RCSTO undertook to repair the vessel which must have been in August 1991 when the respondent found his vessel to have been in a dilapidated state. Counting from August 1991 to December 1999 is a period of over 8 years. 2ps. 1ps. The learned trial judge ought to have dismissed the suit for having been filed outside the time limited by law. Even if, for the sake of academic argument we were to assume that the suit was founded on contract, the cause of action would have accrued from the date that the RCSTO undertook to repair the vessel which must have been in August 1991 when the respondent found his 2ps. vessel to have been in a dilapidated state. Suits founded on contract have to be filed within 6 years as per item 7 of the Schedule to the Law of Limitation Act.
+    questions_and_answers:
+      - question: |
+          What date is considered the cause of action arising in this case?
+        answer: |
+          The cause of action is considered to have arisen on 14.08.1991.
+      - question: |
+          How much time elapsed between the cause of action date and the date the suit was filed?
+        answer: |
+          Over 8 years elapsed between 14.08.1991 and 30.12.1999.
+      - question: |
+          What is the time limit for filing suits founded on contracts according to the Law of Limitation Act?
+        answer: |
+          The time limit for filing suits founded on contracts is 6 years, as per item 7 of the Schedule to the Law of Limitation Act.
+      - question: |
+          What action did the RCSTO allegedly undertake in August 1991?
+        answer: |
+          The RCSTO allegedly undertook to repair the vessel in August 1991.
+      - question: |
+          Why did the learned trial judge err, according to the appellant's counsel?
+        answer: |
+          The learned trial judge erred because the suit was filed outside the time limited by law, as it was filed more than 8 years after the cause of action arose.
+  - context: |
+      1ps. 1ps. The second point of objection was based on period of limitation. The appellants preferred the following six grounds of appeal: - 1. That the trial judge misinterpreted the provisions of section 32 of the Tanzania Revenue Authority Act, Cap 399 R. E 2002 and erroneously held that the appellant was answerable to the respondent's claim. - 2. That the trial court erred in law in entertaining and hearing the suit while the same was time barred. - 3. That 2ps. the trial court erred in law and in fact in holding that the appellant's agents continued to detain the respondent's marine vessel unlawfully after the respondent had paid the necessary fine. - 4. That the trial court erred in law and in fact in holding that the respondent's marine vessel was lost while in the custody of the appellant's agents. - 5. That the trial court erred in law and in fact in awarding 3ps. compensation of Tshs. 14,000,000/, for loss of the respondents marine vessel, special damages of Tshs. 92,700,000/= for loss of business income and general damages shs. 2ps. 1ps. - 5. That the trial court erred in law and in fact in awarding compensation of Tshs. 14,000,000/, for loss of the respondents marine vessel, special damages of Tshs. 92,700,000/= for loss of business income and general damages shs. 10,000,000/= while no loss was sustained by the respondent. - 6. That the trial court erred in law and in fact in awarding interests and costs. Mr. Salvatory Switi, learned counsel appeared on behalf 2ps. of the appellant Authority. The respondent was represented by Mr. Vedastus Laurean, learned advocate. Both sides had filed elaborate written submissions prior to the hearing of the appeal for which we are thankful.
+    questions_and_answers:
+      - question: |
+          What was one of the main objections raised by the appellants in the case?
+        answer: |
+          One of the main objections was the period of limitation, suggesting that the trial court erred in hearing a suit that was alleged to be time-barred.
+      - question: |
+          What specific section of Tanzanian law did the appellants argue was misinterpreted by the trial judge?
+        answer: |
+          The appellants argued that the trial judge misinterpreted the provisions of section 32 of the Tanzania Revenue Authority Act, Cap 399 R.E 2002.
+      - question: |
+          What were the key claims made by the trial court that the appellants disputed?
+        answer: |
+          The appellants disputed claims that their agents unlawfully detained the respondent's marine vessel after a fine was paid, that the marine vessel was lost while in their custody, and that the respondent sustained losses warranting compensation.
+      - question: |
+          What amount was awarded by the trial court for loss of the respondent's marine vessel?
+        answer: |
+          The trial court awarded Tshs. 14,000,000/= for the loss of the respondent's marine vessel.
+      - question: |
+          Who represented the appellant and respondent during the appeal hearing?
+        answer: |
+          The appellant was represented by Mr. Salvatory Switi, and the respondent was represented by Mr. Vedastus Laurean, both learned advocates.
+document_outline: |
+  **Document Outline:**
+  
+  This document details the judgment of the Court of Appeal of Tanzania in Civil Appeal No. 126 of 2011 between the Tanzania Revenue Authority (Appellant) and Dawson Ishengoma (Respondent). It addresses disputes related to the seizure, handling, and condition of a respondent’s boat impounded for carrying contraband goods, legal arguments concerning liability, statute of limitations, damages awarded by the High Court, and specific grounds of appeal raised by the appellant.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Tanzania_Revenue_Authority_vs_Dawson_Ishengoma_(Civil_Appeal_No_126_of_2011)_2012_TZCA_254_(29_May_2012).md

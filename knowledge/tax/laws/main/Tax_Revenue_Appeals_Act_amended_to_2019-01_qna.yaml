@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Any person who is aggrieved by the decision of the Tribunal may preferred an appeal to the Court of Appeal. - (2) Appeal to the Court of Appeal shall lie on matters involving questions of law only and the provisions of the Appellate Jurisdiction Act and the rules made thereunder shall apply mutatis mutandis to appeals from the decision of the Tribunal. - 26.(1) The Tribunal may 2ps. issue an order to award costs as it considers appropriate to any party to the proceedings to be paid by the other party within such period as the Tribunal or the Board may determine. - (2) The Registrar or the Secretary shall, in addition to the functions conferred upon him under the Act, assess bill of costs in relation 3ps. to any costs which maybe payable in respect of which proceedings have been conducted by the Tribunal or the Board. - (3) An appeal against the decision of the Registrar or the Secretary regarding taxation of costs shall be heard by the Chairman or Vice-Chairman. ## PART VI OFFENCES AND PENALTIES 27.(1) 2ps. 1ps. - (2) The Registrar or the Secretary shall, in addition to the functions conferred upon him under the Act, assess bill of costs in relation to any costs which maybe payable in respect of which proceedings have been conducted by the Tribunal or the Board. - (3) An appeal against the decision of the Registrar or the Secretary regarding taxation of costs shall be heard by the Chairman 2ps. or Vice-Chairman. ## PART VI OFFENCES AND PENALTIES 27.
+    questions_and_answers:
+      - question: |
+          What type of matters can be appealed to the Court of Appeal from the Tribunal?
+        answer: |
+          Appeals to the Court of Appeal can only be made on matters involving questions of law.
+      - question: |
+          What legal framework governs appeals to the Court of Appeal from the Tribunal?
+        answer: |
+          The provisions of the Appellate Jurisdiction Act and the rules made under it apply to appeals from the Tribunal's decisions.
+      - question: |
+          What authority does the Tribunal have regarding costs in legal proceedings?
+        answer: |
+          The Tribunal can issue an order to award costs to any party, to be paid by the other party within a period determined by the Tribunal or the Board.
+      - question: |
+          Who assesses the bill of costs in proceedings conducted by the Tribunal or the Board?
+        answer: |
+          The Registrar or the Secretary is responsible for assessing the bill of costs.
+      - question: |
+          Who hears appeals on decisions regarding taxation of costs by the Registrar or the Secretary?
+        answer: |
+          Appeals regarding taxation of costs are heard by the Chairman or Vice-Chairman.
+  - context: |
+      1ps. 1ps. 33 Procedure on - other decision by the Commissioner General in accordance with subsection (1) is served on the appellant; and - (b) the appeal is lodged with the Board within forty-five days following the date on which the notice of final determination of assessment of tax or any other decision by the Commissioner General in accordance with subsection (1) is served on the appellant. - (6) Where an objector prefers 2ps. an appeal to the Board or to the Tribunal, any tax deposited pursuant to section 12(3) section 51(5) of the Tax Administration Act shall continue to remain deposited with Commissioner General pending the final determination of the appeal by the Board or, as the case may be, the Tribunal. power17.(1) 2ps. 1ps. - (5) The Board or Tribunal, may extend the limit of time set under subsection (3) or subsection (4) of this section if it is satisfied that the failure by a party to give notice of appeal, lodge an appeal or to effect service to the opposite party was occasioned by absence from the United Republic, sickness or other reasonable cause, subject to such terms and conditions as to costs as it may consider just and appropriate. power17.(1) The Board and the Tribunal shall 2ps. respectively have the - (a) to take evidence on oath; - (b) to resolve any complaint or appeal by mediation, conciliation or arbitration; - (c) to issue warrants of arrest for failure to comply with summons; - (d) to order payment of costs in relation to any matter referred to the Board or the 3ps. Tribunal; - (e) to dismiss any matter before it; - (f) to adjourn the hearing of any proceedings before it. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the time limit within which an appeal must be lodged with the Board following the service of the final determination of tax assessment or other decision by the Commissioner General?
+        answer: |
+          The appeal must be lodged with the Board within forty-five days from the date on which the notice of final determination of tax assessment or any other decision by the Commissioner General is served on the appellant.
+      - question: |
+          What happens to the tax deposited pursuant to section 12(3) or section 51(5) of the Tax Administration Act when an appeal is lodged with the Board or Tribunal?
+        answer: |
+          The tax deposited remains with the Commissioner General pending the final determination of the appeal by the Board or the Tribunal.
+      - question: |
+          Under what circumstances can the Board or Tribunal extend the time limit for giving notice of appeal, lodging an appeal, or serving notice to the opposite party?
+        answer: |
+          The Board or Tribunal can extend the time limit if the failure to meet the deadline was caused by absence from the United Republic, sickness, or another reasonable cause, subject to terms and conditions as to costs it considers just.
+      - question: |
+          What judicial powers does the Board or Tribunal have when resolving complaints or appeals?
+        answer: |
+          The Board or Tribunal can take evidence under oath, resolve issues through mediation, conciliation, or arbitration, issue warrants of arrest for failure to comply with summons, order payment of costs, dismiss matters, and adjourn proceedings.
+      - question: |
+          What actions can the Board or Tribunal take if a party fails to comply with summons during appeal proceedings?
+        answer: |
+          The Board or Tribunal can issue warrants of arrest for failure to comply with summons.
+  - context: |
+      1ps. 1ps. Section Title - 1. Short title. - 2. Application. - 3. Interpretation. ## PART II ## ESTABLISHMENT OF THE TAX REVENUE APPEALS BOARD AND THE TAX REVENUE APPEALS TRIBUNAL - 4. Establishment and composition of the Board. - 5. Tenure of office of Chairman etc., and members. - 6. 2ps. Secretary of the Board. - 7. Jurisdiction of the Board. - 7A Appeal against tax assessment - 8. Establishment and composition of the Tribunal. - 9. Tenure of office of Chairman, etc., and members. - 10. Registrar of the Tribunal. - 11. Jurisdiction of the Tribunal. ## PART III ## OBJECTION TO TAX ASSESSMENT - 3ps. 12. Notice of objection to assessment. refer section 51 of TAA,2014 - 13. Powers of the Commissioner-General on receipt of notice of objection. refer to section - 52 of TAA, 2014 - 14. Application of appeal procedure to other decisions, etc., of Commissioner-General. not - refered to TAA, 2014 - 15. Finality of assessment. ## PART IV APPEALS GENERALLY - 16. Right of appeal to the Board and to the Tribunal. 2ps. 1ps. refer to section - 52 of TAA, 2014 - 14. Application of appeal procedure to other decisions, etc., of Commissioner-General. not - refered to TAA, 2014 - 15. Finality of assessment. ## PART IV APPEALS GENERALLY - 16. Right of appeal to the Board and to the Tribunal. ## CHAPTER 408 ## THE TAX REVENUE APPEALS ACT [PRINCIPAL LEGISLATION] ## ARRANGEMENT OF SECTIONS ## PART I PRELIMINARY PROVISIONS | 17. | Powers of the Board and the Tribunal. 2ps. | |-------|-------------------------------------------------------------------------| | | PART V 3ps. | | | PROCEEDINGS OF THE BOARD AND TRIBUNAL | | 18. | Procedure on hearing. 4ps. | | 19. | Appeals affecting two or more persons. | | 20.
+    questions_and_answers:
+      - question: |
+          What is the purpose of PART II in the Tax Revenue Appeals Act?
+        answer: |
+          PART II focuses on the establishment and composition of the Tax Revenue Appeals Board and the Tribunal, specifying details such as their tenure, jurisdiction, and administrative roles like the Secretary and Registrar.
+      - question: |
+          What is specified about objections to tax assessments in PART III?
+        answer: |
+          PART III outlines the procedure for objections to tax assessments, including the requirement to issue a notice of objection (section 12) and the powers of the Commissioner-General in response (section 13), with references to sections 51 and 52 of the TAA, 2014.
+      - question: |
+          What is the significance of section 16 in PART IV?
+        answer: |
+          Section 16 establishes the right of appeal to both the Tax Revenue Appeals Board and the Tribunal, providing a framework for individuals or entities to contest tax-related decisions.
+      - question: |
+          What does PART V address regarding the proceedings of the Board and Tribunal?
+        answer: |
+          PART V outlines procedural aspects of hearings (section 18), addresses appeals involving two or more persons (section 19), and provides guidelines for the conduct of proceedings.
+      - question: |
+          What are some roles explicitly mentioned in the Tax Revenue Appeals Act for the Board and Tribunal?
+        answer: |
+          The Act specifies roles such as the Chairman and members (sections 5 and 9), Secretary of the Board (section 6), and Registrar of the Tribunal (section 10), detailing their tenure and responsibilities.
+  - context: |
+      1ps. 1ps. The Board shall not entertain any appeal arising from assessment of tax unless section 12 of this Act Part VII of the Tax Administration Act is complied with. - 8.(1) There is established a Tribunal to be known as the Tax Revenue Appeals Tribunal. - (2) The Tribunal shall consist of - - (a) a Chairman who shall be appointed by the President after consultation with the Chief Justice; - (b) two Vice-Chairmen 2ps. who shall be appointed by the President, one of whom shall be from Tanzania Zanzibar; - (c) four other members who shall be appointed by the Minister; - (3) A person may be appointed to be - - (a) Chairman if he is a judge of the High Court; - (b) member of the Tribunal if he has knowledge of, 3ps. and experience in, taxation, commercial or financial matters. - (4) Where any appointment relates to a person from Tanzania Zanzibar, the appointing authority shall consult the President of Zanzibar. - 9.(1) 2ps. 1ps. - (4) Where any appointment relates to a person from Tanzania Zanzibar, the appointing authority shall consult the President of Zanzibar. - 9.(1) Subject to subsection (2), the office of Chairman, ViceChairman or member of the Tribunal shall become vacant upon the occurrence of any one of the following events - - (a) resignation; - (b) in relation to a member other than 2ps.
+    questions_and_answers:
+      - question: |
+          What condition must be met for the Board to consider an appeal regarding tax assessment?
+        answer: |
+          The Board will not entertain any appeal related to tax assessment unless Section 12 of Part VII of the Tax Administration Act is complied with.
+      - question: |
+          Who is responsible for appointing the Chairman of the Tax Revenue Appeals Tribunal?
+        answer: |
+          The Chairman of the Tax Revenue Appeals Tribunal is appointed by the President after consulting with the Chief Justice.
+      - question: |
+          What qualifications are required for a person to be appointed as Chairman of the Tribunal?
+        answer: |
+          To be appointed as Chairman, a person must be a judge of the High Court.
+      - question: |
+          What must the appointing authority do when appointing a Tribunal member from Tanzania Zanzibar?
+        answer: |
+          When appointing a Tribunal member from Tanzania Zanzibar, the appointing authority must consult the President of Zanzibar.
+      - question: |
+          What events can lead to a vacancy in the office of Chairman, Vice-Chairman, or member of the Tribunal?
+        answer: |
+          A vacancy can occur due to resignation or other unspecified conditions in relation to members other than those specified in the context.
+  - context: |
+      1ps. 1ps. - 15.(1) - (2) Nothing in this section shall prevent the CommissionerGeneral from making any additional assessment which does not involve re-opening of any matter that has been determined on an appeal or an assessment. - (3) When any fraud or any gross or wilful neglect has been committed by or on behalf of any person in connection with or in relation to any tax, duty or levy the Commissioner-General may make an additional assessment on that person notwithstanding that 2ps. it involves re-opening a matter which has been determined on such appeal. ## PART IV APPEALS GENERALLY 16 .-(1) Any person who is aggrieved by the final determination by the Commissioner General of the assessment of tax or a decision referred to under section 14 of this Act may appeal to the Board. (1) Any person who is aggrieved by an objection decision of the Commissioner General made under the Tax Administration Act may appeal to the Board. 2ps. 1ps. - (3) When any fraud or any gross or wilful neglect has been committed by or on behalf of any person in connection with or in relation to any tax, duty or levy the Commissioner-General may make an additional assessment on that person notwithstanding that it involves re-opening a matter which has been determined on such appeal. (1) Any person who is aggrieved by an objection decision of the Commissioner General made under the Tax Administration Act may appeal to the Board. (2) Notwithstanding the provisions of 2ps.
+    questions_and_answers:
+      - question: |
+          What does the Commissioner-General have the authority to do without reopening matters determined on appeal or assessment?
+        answer: |
+          The Commissioner-General can make additional assessments as long as they do not involve reopening matters that have already been determined on an appeal or assessment.
+      - question: |
+          Under what circumstances can the Commissioner-General reopen matters that have been determined on an appeal?
+        answer: |
+          The Commissioner-General can reopen matters if any fraud, gross, or willful neglect has been committed in connection with tax, duty, or levy.
+      - question: |
+          To which body may a person appeal if aggrieved by a final determination made by the Commissioner-General?
+        answer: |
+          A person may appeal to the Board if they are aggrieved by the final determination of the Commissioner-General regarding an assessment of tax or a decision under section 14 of the Act.
+      - question: |
+          What type of decision by the Commissioner-General can a person appeal under the Tax Administration Act?
+        answer: |
+          A person may appeal an objection decision made by the Commissioner-General under the Tax Administration Act.
+      - question: |
+          What action can the Commissioner-General take in cases of fraud or significant negligence related to taxes or duties?
+        answer: |
+          The Commissioner-General may make an additional assessment on the person involved, even if it involves reopening a matter previously determined on appeal.
+document_outline: |
+  **Document Outline:**  
+  The document outlines the provisions of the **Tax Revenue Appeals Act (Chapter 408)**, focusing on the establishment, jurisdiction, and functioning of the Tax Revenue Appeals Board and Tribunal. It includes sections on the appeals process, objection to tax assessments, procedural rules, offences and penalties, financial and administrative provisions, as well as general and transitional regulations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Tax_Revenue_Appeals_Act_amended_to_2019-01.md

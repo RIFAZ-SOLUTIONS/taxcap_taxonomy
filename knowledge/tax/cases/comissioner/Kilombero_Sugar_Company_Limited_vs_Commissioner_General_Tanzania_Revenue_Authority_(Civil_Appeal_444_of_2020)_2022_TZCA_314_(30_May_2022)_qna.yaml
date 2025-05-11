@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Indeed, had there been any objection through the said letter, the respondent could not have admitted it without the appellant complying with the mandatory requirements under section 51 of TAA. That means that the respondent could not have made an objection decision capable of being appealed from in terms of section 16(1) of the TRAA. Contrary to the learned advocate, we do not think 2ps. he is correct in submitting as he did that the Court took a narrow approach in excluding other decisions and omissions from the realm of appellable decisions. We say so mindful of section 53 (1) of TAA relied upon by the learned advocate vesting right of appeal to an aggrieved tax payer subjects such right to the provisions of the TRAA. Section 16 (1) of TRAA as amended by section 110 of TAA provides: "Any person who is aggrieved by an objection decision 3ps. of the Commissioner ## General made under the Tax Administration Act may appeal to the Board". As we stated in R v . 2ps. 1ps. We say so mindful of section 53 (1) of TAA relied upon by the learned advocate vesting right of appeal to an aggrieved tax payer subjects such right to the provisions of the TRAA. Section 16 (1) of TRAA as amended by section 110 of TAA provides: "Any person who is aggrieved by an objection decision of the Commissioner ## General made under the Tax Administration Act may appeal to the Board". As we stated in R v . Mwesige Geofrey &amp; Another, Criminal Appeal 2ps. No. 355 of 2014 (unreported): "... when the words of a statute are unambiguous, "judicial inquiry is complete".
+    questions_and_answers:
+      - question: |
+          What mandatory requirements must the appellant comply with under section 51 of the TAA?
+        answer: |
+          The appellant must comply with the mandatory requirements under section 51 of the TAA for the respondent to admit any objection or make an objection decision capable of being appealed.
+      - question: |
+          What right does section 53(1) of the TAA grant to a taxpayer?
+        answer: |
+          Section 53(1) of the TAA grants an aggrieved taxpayer the right to appeal, but this right is subject to the provisions outlined in the TRAA.
+      - question: |
+          According to section 16(1) of the TRAA, who has the right to appeal to the Board?
+        answer: |
+          Any person aggrieved by an objection decision of the Commissioner General made under the Tax Administration Act has the right to appeal to the Board.
+      - question: |
+          How does section 110 of the TAA amend section 16(1) of the TRAA?
+        answer: |
+          Section 110 of the TAA amends section 16(1) of the TRAA to specify that appeals to the Board are based on objection decisions made by the Commissioner General under the Tax Administration Act.
+      - question: |
+          What principle regarding statutory interpretation is highlighted in R v. Mwesige Geoffrey & Another?
+        answer: |
+          The principle highlighted is that when the words of a statute are unambiguous, 'judicial inquiry is complete,' implying no further interpretation is necessary.
+  - context: |
+      1ps. 1ps. From the contentions in that appeal, the Board framed one main issue for its determination, that is to say; whether the respondent's decision demanding payment from the appellant without lodging an application for execution was lawful. Although the respondent's reply to the statement of appeal did not raise any issue touching on the jurisdiction of the Board, such an issue arose as an alternative argument in the respondent's written submissions in reply. Nevertheless, the Board took the view that it 2ps. had jurisdiction to determine the appeal under the Tax Administration Act, 2015 (the TAA) considering that section 7 of TRAA vests in it sole jurisdiction in all proceedings of a civil nature in disputes arising from revenue laws administered by Tanzania Revenue Authority (TRA). Regarding the merit of the appeal, the Board sustained the respondent's argument that the demand for payment of the tax due dated 11/05/2017 from 3ps. the respondent was made in the exercise of his statutory powers of administering the TAA the legality of which was being challenged by the appellant. 2ps. 1ps. It was argued for the respondent that the Board had no jurisdiction to entertain a fresh appeal from the execution of the Tribunal's decree and if the appellant had any issue with the execution of decree, it was open to her to challenge it before the Tribunal itself rather than the Board in as much as the Board had no power to execute the former's decrees. It held that it was legally proper for the respondent to demand payment of the tax 2ps. due without recourse to the Tribunal by way of an application for execution. The Board relied on the decision of the Tribunal in Tullow Tanzania BV v. Commissioner General, TRA, Tax Appeal No.
+    questions_and_answers:
+      - question: |
+          What main issue did the Board focus on for its determination in the appeal?
+        answer: |
+          The main issue was whether the respondent's decision to demand payment from the appellant without lodging an application for execution was lawful.
+      - question: |
+          What argument did the respondent present concerning the Board's jurisdiction?
+        answer: |
+          The respondent argued alternatively in their written submissions that the Board lacked jurisdiction to entertain the appeal as it involved the execution of a Tribunal's decree, which should be challenged before the Tribunal itself.
+      - question: |
+          What was the Board's reasoning for asserting its jurisdiction over the appeal?
+        answer: |
+          The Board concluded it had jurisdiction under the Tax Administration Act, 2015, especially section 7, which grants it sole jurisdiction in civil disputes arising from revenue laws administered by the Tanzania Revenue Authority (TRA).
+      - question: |
+          Why did the Board sustain the respondent's argument regarding the demand for payment dated 11/05/2017?
+        answer: |
+          The Board sustained the argument because the demand was made under the respondent's statutory powers to administer the Tax Administration Act, 2015, and the legality of this exercise of statutory power was at the core of the challenge.
+      - question: |
+          What precedent did the Board rely on to support its decision regarding the respondent’s statutory authority?
+        answer: |
+          The Board relied on the decision in Tullow Tanzania BV v. Commissioner General, TRA, Tax Appeal No., which affirmed the respondent's power to demand payment of tax due without requiring an application for execution through the Tribunal.
+  - context: |
+      1ps. 1ps. The learned advocate implored us to desist from taking the same approach we took in Pan Africa Energy I and Commissioner General TRA v. Barrick Gold PLC, Civil Appeal No. 1 1 of 2020 (unreported) on what constitutes a decision and instead, we should determine the existence of a decision having regard to the functions of the respondent. He concluded his submissions on this issue by urging the Court to overrule the objection and proceed with the 2ps. hearing of the appeal on merit. In rejoinder, Mr. Kisongo contended that the appellant's letter dated 24/02/2017 was not an objection recognized by the law neither did it comply with the conditions for lodging of objections with the Commissioner General, amongst others, a deposit of 1/3 of the disputed tax pursuant to section 15 (1) TRAA. As to whether it was 3ps. any other decision envisaged by section 53 (1) of TAA, the learned Principal State Attorney drew the Court's attention to Pan Africa Energy I &amp; II on the jurisdiction of the Board to entertain appeals from objection decisions of the respondent. 2ps. 1ps. He concluded his submissions on this issue by urging the Court to overrule the objection and proceed with the hearing of the appeal on merit. In rejoinder, Mr. Kisongo contended that the appellant's letter dated 24/02/2017 was not an objection recognized by the law neither did it comply with the conditions for lodging of objections with the Commissioner General, amongst others, a deposit of 2ps. 1/3 of the disputed tax pursuant to section 15 (1) TRAA.
+    questions_and_answers:
+      - question: |
+          What was the learned advocate's main argument regarding the determination of a 'decision'?
+        answer: |
+          The learned advocate argued that the determination of a 'decision' should be based on the functions of the respondent, rather than following the same approach used in Pan Africa Energy I and Commissioner General TRA v. Barrick Gold PLC.
+      - question: |
+          What request did the learned advocate make to the Court?
+        answer: |
+          The learned advocate requested the Court to overrule the objection and proceed with the hearing of the appeal on its merits.
+      - question: |
+          What was Mr. Kisongo's contention regarding the appellant's letter dated 24/02/2017?
+        answer: |
+          Mr. Kisongo contended that the letter was not an objection recognized by the law and did not comply with the legal conditions, including the requirement to deposit 1/3 of the disputed tax pursuant to section 15 (1) of TRAA.
+      - question: |
+          Which past cases were referenced in the learned advocate's argument?
+        answer: |
+          The past cases referenced were Pan Africa Energy I and Commissioner General TRA v. Barrick Gold PLC, Civil Appeal No. 11 of 2020.
+      - question: |
+          What issue did the learned Principal State Attorney highlight regarding the jurisdiction of the Board?
+        answer: |
+          The learned Principal State Attorney referred to Pan Africa Energy I & II to argue about the Board's jurisdiction to handle appeals arising from objection decisions made by the respondent.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## ( CORAM: LILA, J. A.. MWANDAMBO. J.A. And KAIRO. JJU ## CIVIL APPEAL NO. 444 OF 2020 KILOMBERO SUGAR COMPANY LIMITED.............................. APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......................................RESPONDENT (Appeal from the judgment and decree of the Tax Revenue Appeals Tribunal at Dar es salaam (Hon. H.A. Haji, Vice Chairperson, Dr. S. Mzenzi and Ms. V. Mandari, Tribunal Members) dated the 16t h day of September, 2020 in Tax Appeal No. 35 of 2019 ## JUDGMENT OF THE COURT 10t h &amp; 30t h May, 2022 ## MWANDAMBO. J.A.: Before us in 2ps. this appeal is a decision of the Tax Revenue Appeals Tribunal (the Tribunal) on appeal from the decision of the Tax Revenue Appeals Board (the Board). 2ps. 1ps. JJU ## CIVIL APPEAL NO. 444 OF 2020 KILOMBERO SUGAR COMPANY LIMITED.............................. APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......................................RESPONDENT (Appeal from the judgment and decree of the Tax Revenue Appeals Tribunal at Dar es salaam (Hon. H.A. Haji, Vice Chairperson, Dr. S. Mzenzi and Ms. V. Mandari, Tribunal Members) dated the 16t h day of September, 2020 in Tax Appeal No. 35 of 2019 ## JUDGMENT OF THE COURT 10t h &amp; 30t h May, 2022 ## MWANDAMBO. The Tribunal dismissed an appeal preferred before it by the appellant challenging the respondent's demand 2ps. for payment of tax due post an unsuccessful challenge of final assessment of tax by the Tribunal in Tax Appeal No. 32 of 2013. The brief facts giving rise to this appeal are as follows: In the year 2013, the appellant filed three appeals before the Board challenging the respondent's final tax assessments for three consecutive years of income involving an amount of TZS 340,795,245.00 as the total tax due. 3ps.
+    questions_and_answers:
+      - question: |
+          What was the Civil Appeal number for the case between Kilombero Sugar Company Limited and the Commissioner General of Tanzania Revenue Authority?
+        answer: |
+          The Civil Appeal number was 444 of 2020.
+      - question: |
+          Which legal body issued the judgment that is being appealed in this case?
+        answer: |
+          The judgment being appealed was issued by the Tax Revenue Appeals Tribunal.
+      - question: |
+          What was the amount of tax due in the respondent's final tax assessments challenged by the appellant?
+        answer: |
+          The amount of tax due in the final tax assessments was TZS 340,795,245.00.
+      - question: |
+          Who were the Tribunal members mentioned in the judgment?
+        answer: |
+          The Tribunal members were Hon. H.A. Haji (Vice Chairperson), Dr. S. Mzenzi, and Ms. V. Mandari.
+      - question: |
+          What was the appellant's initial challenge in Tax Appeal No. 32 of 2013 about?
+        answer: |
+          The appellant's initial challenge in Tax Appeal No. 32 of 2013 was against the respondent's final assessment of tax.
+  - context: |
+      1ps. 1ps. Amidst the steps to institute a fresh appeal, on 15/02/2017, the respondent sent a letter to the appellant demanding payment of TZS 226,937,033 ostensibly the total tax due following the decision of the Tribunal. The respondent made the demand in view of the fact that the appellant had not yet reinstituted her appeal after the striking out of Civil Appeal 2ps. No. 5B of 2015. According to the respondent, since there was no any pending appeal to the Court any more, the tax involved was due and payable to him. On 11/05/2017, the respondent demanded immediate payment of the tax due reminding the appellant that in terms of section 24 (3) of the Tax Revenue Appeals Act, 2000 [ Cap. 408], henceforth the TRAA, the decision of the Tribunal crystallised into an 3ps. enforceable decree as if it was a decree issued by a court of law. Besides, the respondent maintained that, in terms of section 24 (4) of the same Act, even if there was any appeal, it could not operate as a bar to the execution of the Tribunal's decree. 2ps. 1ps. On 11/05/2017, the respondent demanded immediate payment of the tax due reminding the appellant that in terms of section 24 (3) of the Tax Revenue Appeals Act, 2000 [ Cap. 408], henceforth the TRAA, the decision of the Tribunal crystallised into an enforceable decree as if it was a decree issued by a court of law. Believing that the aforesaid demand constituted an apellable decision, the 2ps. appellant filed before the Board Tax Appeal No. 67 of 2017.
+    questions_and_answers:
+      - question: |
+          What amount of tax did the respondent demand from the appellant on 15/02/2017?
+        answer: |
+          The respondent demanded a payment of TZS 226,937,033 on 15/02/2017.
+      - question: |
+          Why did the respondent believe that the tax was due and payable to him on 15/02/2017?
+        answer: |
+          The respondent believed the tax was due because the appellant had not reinstituted her appeal after the striking out of Civil Appeal No. 5B of 2015, leaving no pending appeal in court.
+      - question: |
+          What did the respondent state about the Tribunal's decision in terms of section 24(3) of the Tax Revenue Appeals Act, 2000?
+        answer: |
+          The respondent stated that, under section 24(3) of the Tax Revenue Appeals Act, 2000, the Tribunal's decision crystallized into an enforceable decree as if it were issued by a court of law.
+      - question: |
+          According to section 24(4) of the Tax Revenue Appeals Act, what was the implication for the execution of the Tribunal's decree even if an appeal was filed?
+        answer: |
+          Section 24(4) of the Tax Revenue Appeals Act states that the filing of an appeal would not bar the execution of the Tribunal's decree.
+      - question: |
+          What action did the appellant take in response to the respondent's demand on 11/05/2017?
+        answer: |
+          Believing the demand constituted an appealable decision, the appellant filed Tax Appeal No. 67 of 2017 before the Board.
+document_outline: |
+  **Document Outline:**  
+  The document pertains to Civil Appeal No. 444 of 2020 before the Court of Appeal of Tanzania, involving Kilombero Sugar Company Limited (Appellant) and the Commissioner General of the Tanzania Revenue Authority (Respondent). The appeal challenges the Tax Revenue Appeals Tribunal's decision, which upheld the respondent's demand for tax payment after prior legal proceedings over disputed tax assessments spanning multiple years. It also addresses the procedural issues surrounding execution of the tribunal's decision and the appellant's efforts to reinstate a fresh appeal following earlier setbacks.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_444_of_2020)_2022_TZCA_314_(30_May_2022).md

@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Supplement No. 30 ## SUBSIDIARY LEGISLATION 32 vol 94 dated 9t August, 2013 244 published on 09/8/2013 'THE EXCISE (MANAGEMENT AND TARIFF) ACT (CAP.147) ## REGULATIONS THE FILMS AND MUSIC PRODUCTS (TAX STAMPS) REGULATIONS, 2013 Reguution Title PRELIMINARY PROVISIONS - 1 . Citation. - 2. Application: - 3 Interpretation. PART [I REGISTRATION OF PERSON ENGAGED IN FILM AND MUSIC - Registration. 2013 G N No. 244 (contd ## PART III TYPES OF STAMPS ISSUED - 5 Types of stamps. - 6 Procurement of Tax Stamps . - 7 ## PART IV REQUIREMENT TO AFFIX TAX STAMP - 8 Affixation of Tax Stamps. - 9 Time for affixation of Tax Stamps. - 10. Record keeping: G.N No. 2ps. 244 (contd) ## PART V TAX EXEMPTION - 11 Tax exemption. - 12. Authorization of Tax exemption. - 13 . Accounting for Stamps. - Submission of monthly reconciliation statement. - 15. Computation of duty . - 16. Evidence of payment of duty . ## PART VI GENERAL PROVISIONS - 17. Audit. - 18. Power to inspect. - 19. Force Majeure. - 20. Offences. 2ps. 1ps. - 18. Power to inspect. - 19. Force Majeure. - 20. Offences. - 21 Penalty for non Affixation of Tax Stamps. - 22 Additional Penalties. - 23 Mode of collecting. - 24. Tax Stamps. - 25 . Transitional provision. ## SCHEDULE G.N. No. 244 (contd) ## THE EXCISE (MANAGEMENT AND TARIFF) ACT (CAP.147) ## REGULATIONS 'Made under section ]22) ## THE FILMS AND MUSIC PRODUCTS (TAX STAMPS) REGULATIONS, 2013 ## PART I PRELIMINARY PROVISIONS Citation These Regulations may be cited as the Films and Music (Tax stamps Regulations; 2013 and shall be deemed to have come into force on the first day of January, 2013. Application 2 The provisions 2ps.
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations described in the context?
+        answer: |
+          The regulations are titled 'THE FILMS AND MUSIC PRODUCTS (TAX STAMPS) REGULATIONS, 2013'.
+      - question: |
+          When did the Films and Music Products (Tax Stamps) Regulations, 2013 come into force?
+        answer: |
+          The regulations came into force on January 1, 2013.
+      - question: |
+          What is the purpose of Part IV of the regulations?
+        answer: |
+          Part IV outlines the requirements for affixing tax stamps, including the time of affixation, record keeping, and other related provisions.
+      - question: |
+          What provision is made for tax exemptions in the regulations?
+        answer: |
+          Tax exemptions are addressed in Part V of the regulations, which specifies the authorization process and accounting requirements for tax exemptions.
+      - question: |
+          What penalties are detailed in the regulations for failing to affix tax stamps?
+        answer: |
+          Part VI of the regulations includes penalties for non-affixation of tax stamps, additional penalties, and offenses related to compliance.
+  - context: |
+      1ps. 1ps. Any - (3) person who is engaged in the business or intends to engage in the business as an artist, producer, and distributor of local films and, music products shall register by completing form B which is provided in the First Schedule to these Regulations. Any PART III TYPES OF STAMPS ISSUED G.N No. 244 (contd ) Types of stamps - (2) Subject to sub-regulation (1); different types of Tax Stamps shall be deternined according to the specific - 5.-(1) The design and specification of the stamps; shall be as may be determined by the Authority and may be changed 2ps. at any time depending on the supply of the stamps required; - (a) imported film stamps shall be green in colour; - (c) local film stamps shall be pantone violet in colour; - (b) imported music stamps shall be blue in colour; - (d) local music stamps shall be pink in colour . - (3) Notwithstanding the provisions of sub-regulation (2) the Authority may determine different types of tax stamps for packages of any audio visual package as and when the need so arises. 2ps. 1ps. Any - (3) person who is engaged in the business or intends to engage in the business as an artist, producer, and distributor of local films and, music products shall register by completing form B which is provided in the First Schedule to these Regulations. - The procurement of stamps shal] be the responsibility of the Authority. - 7. Subject to the provisions of regulation 5, the following procedure shall apply to the supply and distribution of tax stamps- - (a) for a} products imporcd into the country, the importer shall indent from; and pay 2ps.
+    questions_and_answers:
+      - question: |
+          What is required for individuals engaged in the production and distribution of local films and music products?
+        answer: |
+          They must register by completing form B, as provided in the First Schedule to the Regulations.
+      - question: |
+          What are the four color classifications for tax stamps based on the type of product?
+        answer: |
+          Imported film stamps are green, local film stamps are pantone violet, imported music stamps are blue, and local music stamps are pink.
+      - question: |
+          Who determines the design and specifications of tax stamps?
+        answer: |
+          The design and specifications of tax stamps are determined by the Authority and may be changed based on supply requirements.
+      - question: |
+          Can the Authority modify the types of tax stamps issued for audiovisual packages?
+        answer: |
+          Yes, the Authority may determine different types of tax stamps for audiovisual packages as needed.
+      - question: |
+          Who is responsible for the procurement of tax stamps?
+        answer: |
+          The procurement of tax stamps is the responsibility of the Authority.
+  - context: |
+      1ps. 1ps. - 9 The author producer Or together with their respective distributors shall be required to affix tax stamps to the products before distributing them to the local market or exporting the same. - 10.-(1) The Approved person shall notify the Authority of the quantities of tax stamp supplied to a foreign manufacturer foreign of films and music products. supplier or - (3) TThe Authority shall maintain record of tax stamps received from the Approved Person. - (2) Registered Importer of Films and Music products shall maintain a monthly basis of tax stamps received; tax stamps affixed and stock 2ps. balance on hand. ## PART V TAX EXEMPTION - 11. The following films and music products shall be exempt from the requirement of tax stamps: - (b) audio-visual devices containing religious sermons for a particular purpose. - (a) imported products in transit to a foreign destination; G.N No. 244 (conld Authorizatio exemption - (2 Products that cannot be properly accounted for or for which authorizaion 15 not obiained, shall not be exempted. 2ps. 1ps. - (2) Registered Importer of Films and Music products shall maintain a monthly basis of tax stamps received; tax stamps affixed and stock balance on hand. ## PART V TAX EXEMPTION - 11. The following films and music products shall be exempt from the requirement of tax stamps: - (b) audio-visual devices containing religious sermons for a particular purpose. - 12.-(1) Subject to the provisions of Regulation 11 the exemptions shall apply in cases where the Authorized Officer is satisfied that proper administrative procedures 10 control the quantities being allocated for exemption have been complied with. 3ps. 1ps. ## PART V TAX EXEMPTION - 11.
+    questions_and_answers:
+      - question: |
+          What is required of producers or distributors of films and music products before distributing them to the local market or exporting?
+        answer: |
+          Producers or distributors must affix tax stamps to their products before distributing them locally or exporting them.
+      - question: |
+          What information must an Approved Person report to the Authority regarding tax stamps?
+        answer: |
+          An Approved Person must notify the Authority of the quantities of tax stamps supplied to a foreign manufacturer or supplier of films and music products.
+      - question: |
+          What actions must a Registered Importer of Films and Music products perform regarding tax stamps on a monthly basis?
+        answer: |
+          A Registered Importer must maintain records of tax stamps received, affixed, and the stock balance on hand each month.
+      - question: |
+          What types of films and music products are exempt from the requirement of tax stamps?
+        answer: |
+          Exempt products include audio-visual devices containing religious sermons for a particular purpose and imported products in transit to a foreign destination.
+      - question: |
+          Under what circumstances shall tax exemption for films and music products be granted?
+        answer: |
+          Tax exemption is granted if the Authorized Officer is satisfied that proper administrative procedures to control the quantities allocated for exemption are being followed.
+  - context: |
+      1ps. 1ps. duty , ## PART VI GENERAL PROVISIONS 17. The Authority may carry out random audit of the operation of stamps reconciliation procedure and calculation of duty payment. - 18. authorized officer may inspect any premises for the purpose of ensuring the compliance with the requirements of tax stamps. - (2) The suspension of the applicability of these Regulations by the Commissioner under sub regulation (1) shall be published in the local newspaper, widely circulating in the country . - 20.-(1) dealer of films and music Products whoAny - (b) fails t0 submit monthly tax stamp reconciliation statement within 2ps. the prescribed period; - (a) any other documents; - (c) fails to affix tax stamps in a secure manner; - (d) makes an overprint or defaces the tax stamp affixed; - (e) submits an incorrect Or incomplete tax stamp reconciliation statement; or - (f) fails to account for tax stamps for any reason. commits an offence and is liable on conviction; a penalty as prescribed under the Act. 2ps. 1ps. Any - 19.-(1) In the event of circumstances arising which stop or limit the availability of tax stamps; the A uthority Commissioner shall provide guidance on how to deal with such a situation as he deems fit and reasonable before the films and music products are released into the local market. commits an offence and is liable on conviction; a penalty as prescribed under the Act. G N No. 244 (conld ) - (2) person who obstructs hinders any Authorised officer in the exercise of his duties under these Regulations or aid or abate any person 2ps. in contravention of these Regulazions is guilty of an offence and upon conviction is liable to a penalty as prescribed under the Act.
+    questions_and_answers:
+      - question: |
+          What authority is responsible for carrying out random audits of the operation of stamps and duty payment procedures?
+        answer: |
+          The Authority is responsible for carrying out random audits of the operation of stamps reconciliation procedures and the calculation of duty payment.
+      - question: |
+          What powers does an authorized officer have regarding compliance with tax stamp requirements?
+        answer: |
+          An authorized officer may inspect any premises to ensure compliance with the requirements of tax stamps.
+      - question: |
+          What happens if circumstances limit the availability of tax stamps?
+        answer: |
+          If circumstances limit the availability of tax stamps, the Commissioner of the Authority will provide guidance on how to handle the situation before the films and music products are released into the local market.
+      - question: |
+          What are some offenses related to tax stamp compliance by dealers of films and music products?
+        answer: |
+          Offenses include failing to submit a monthly tax stamp reconciliation statement, failing to affix tax stamps securely, overprinting or defacing tax stamps, submitting incorrect or incomplete reconciliation statements, and failing to account for tax stamps.
+      - question: |
+          What is the consequence of obstructing an authorized officer in their duties under these Regulations?
+        answer: |
+          A person who obstructs or hinders an authorized officer in carrying out their duties is guilty of an offense and is liable upon conviction to a penalty as prescribed under the Act.
+  - context: |
+      1ps. 1ps. Any - (2) Where any registered dealer or business person is found in possession or selling films and music products that have not been affixed with tax stamps; in accordance with Regulation 8, shall on conviction to a fine amounting to twice of the value of the product Or to imprisonment for a term not less than three years or both such fine and imprisonment. - 22.-(1 ) For avoidance of doubt- - (b) any movable instrument or anything used in the commission ofthe offence shall be forfeited. Transitional 24. music and film product supplied the 2ps. provision market t0 the date on which these Regulations comes into effect; shall remain in the market three months from the AlI to date of publication of these Regulations. 2ps. 1ps. - 22.-(1 ) For avoidance of doubt- - (b) any movable instrument or anything used in the commission ofthe offence shall be forfeited. Transitional 24. music and film product supplied the provision market t0 the date on which these Regulations comes into effect; shall remain in the market three months from the AlI to date of publication of these Regulations. prior ## FIRST SCHEDULE ## FORMS (Made under regulation 4) Form A <!-- image --> ## REGULATION 2013 OF EILMS\_AND MUSIC PRODUCIS Part A: To be completed by the Applicant: 1.0 Name of Taxable Person Imponerlexporter) 2.0 Name of Business 3.0 TIN: Registration Number 4.0 FILM CENSORSHIP PERMIT NO. CLASS OF THE 2ps. FILM FILM LICENCE NUMBER: 4.1 FILM CENSORSHIP PERMIT NO. CLASS OF THE FILM FILM LICENCE NUMBER: 5.0 Postal Address PO Box City/Town/Country 6.0 Telephone: Fax: E-mail: 7.0 Name of Foreign supplier: - 8.0 Address of supplier ## The Films and Music Products (Tax Stamps) Regulations: 2013 (ìN No 244 {conid ) P.o. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What are the penalties for dealers or business people found in possession or selling films and music products without tax stamps?
+        answer: |
+          According to Regulation 8, upon conviction, offenders are subject to a fine amounting to twice the value of the product, imprisonment for a term not less than three years, or both such fine and imprisonment.
+      - question: |
+          What happens to items used in the commission of the offence mentioned in this regulation?
+        answer: |
+          Any movable instrument or thing used in the commission of the offence shall be forfeited, as stated in Section 22(1)(b).
+      - question: |
+          What is the transitional provision regarding music and film products supplied before these regulations came into effect?
+        answer: |
+          Music and film products supplied to the market prior to the regulations coming into effect are allowed to remain in the market for three months from the date of publication of the regulations.
+      - question: |
+          What information must be provided by an applicant on Form A under the 2013 Regulations?
+        answer: |
+          The applicant must provide details such as the name of the taxable person (importer/exporter), name of business, TIN/registration number, film censorship permit number, film class, film license number, postal address, telephone, fax, e-mail, and the name and address of the foreign supplier.
+      - question: |
+          What regulation governs the use of tax stamps for films and music products?
+        answer: |
+          The use of tax stamps for films and music products is governed by 'The Films and Music Products (Tax Stamps) Regulations: 2013.'
+document_outline: |
+  **Document Outline:**
+  
+  This document, titled "The Films and Music Products (Tax Stamps) Regulations, 2013," outlines a subsidiary legislation under the Excise (Management and Tariff) Act (Cap. 147). It provides comprehensive regulations for the registration, procurement, affixation, exemptions, and administration of tax stamps on films and music products in Tanzania, including detailed provisions on compliance, penalties, and transitional measures.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - The_excise_(Management_and_Tariff)_Act.md

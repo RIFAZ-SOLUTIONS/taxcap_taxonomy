@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Having heard the learned rival submissions, we agree with Dr. Kibuta that this appeal involves three issues worth our consideration and determination. The learned counsel for the appellant consolidated the first two issues and, in our determination, we propose to do the same. Under the same provision the term royalty is defined to mean:- ' Royalty" means any payment made by the lessee under a lease of an intangible asset and includes payments for - - a) the use of, or 2ps. the right to use, a copyrightpatent\ design, mode, plan, secret formula or process or trademark; - b) the supply of know-how including information concerning industrial, commercial or scientific equipment or experience; - c) the use of, or right to use, a cinematography film, videotape, sound recording or any other like medium; - d) the use of, or right to use, industrial, commercial or scientific equipment; - e) the supply of assistance ancillary to a matter referred to in paragraphs (a) to 3ps. (d); or - f) a total or partial forbearance with respect to a matter referred to in paragraphs (a) to (e)." 2ps. 1ps. The learned counsel for the appellant consolidated the first two issues and, in our determination, we propose to do the same. We think it is also pertinent for us to just as well reproduce sections 6 (1) (b), 69 (i) (i) and 83 (1) (b) of the ITA 2004. For a start, section 6 (1) (b) stipulates:- "6 (1) Subject to the provisions of subsection (2), the chargeable income of 2ps. a person for a year of income from any employment, business or investment shall be:- (a) ........
+    questions_and_answers:
+      - question: |
+          What are the three issues mentioned in the appeal, and how are they addressed?
+        answer: |
+          The appeal involves three issues. The learned counsel for the appellant consolidated the first two issues, and the court also proposed to resolve them together in its determination.
+      - question: |
+          How is 'royalty' defined under the referenced provision?
+        answer: |
+          'Royalty' is defined as any payment made by the lessee under a lease of an intangible asset, which includes payments for the use or right to use copyrights, patents, trademarks, know-how, cinematography films, industrial equipment, and ancillary assistance related to these matters.
+      - question: |
+          What specific examples are included in the definition of royalty under the provision?
+        answer: |
+          Examples include the use or right to use copyrights, patents, designs, secret formulas, know-how, cinematography films, industrial equipment, or the provision of ancillary assistance to these items.
+      - question: |
+          Which sections of the ITA 2004 are referenced for the determination?
+        answer: |
+          Sections 6 (1) (b), 69 (i) (i), and 83 (1) (b) of the ITA 2004 are cited as relevant provisions for the determination of the issues in the appeal.
+      - question: |
+          What does section 6 (1) (b) of the ITA 2004 specify about chargeable income?
+        answer: |
+          Section 6 (1) (b) of the ITA 2004 states that the chargeable income of a person for a year of income from employment, business, or investment is subject to the provisions of subsection (2).
+  - context: |
+      1ps. 1ps. In the upshot, in a judgment that was handed down on the 17t h February, 2011 the appellants appeal was allowed with an order that each party should bear her own costs. The respondent was discontented, whereupon she instituted an Income Tax Appeal No. 7 of 2011 in the Tax Revenue Appeals Tribunal (the Tribunal). At the height of its deliberations, 2ps. the Tribunal took the following position - "...it is the Tribunal's respectful view that the Agreement between the Respondent and Neptune Software PLC was a lease agreement; that the payment made pursuant thereto was a royalty; that the services rendered to the Respondent by the suppliers irrespective of their location were performed on an asset in Tanzania and that the said payment have a source in Tanzania ." Consequently, the 3ps. tribunal allowed the respondent's appeal and, in fine, the decision of the Board was overturned. 2ps. 1ps. At the height of its deliberations, the Tribunal took the following position - "...it is the Tribunal's respectful view that the Agreement between the Respondent and Neptune Software PLC was a lease agreement; that the payment made pursuant thereto was a royalty; that the services rendered to the Respondent by the suppliers irrespective of their location were performed on an asset in Tanzania and that the said 2ps. payment have a source in Tanzania .
+    questions_and_answers:
+      - question: |
+          What decision did the Tribunal make regarding the appeal by the respondent in Income Tax Appeal No. 7 of 2011?
+        answer: |
+          The Tribunal allowed the respondent's appeal and overturned the decision of the Board, concluding that the Agreement with Neptune Software PLC was a lease agreement, the payment was a royalty, and the services provided were performed on an asset in Tanzania with the payment having a source in Tanzania.
+      - question: |
+          What was the original judgment regarding the appellants' appeal handed down on February 17th, 2011?
+        answer: |
+          The appellants' appeal was allowed, with an order that each party should bear her own costs.
+      - question: |
+          Why was the respondent discontent with the original judgment and what action did she take?
+        answer: |
+          The respondent was discontent with the original judgment and subsequently instituted Income Tax Appeal No. 7 of 2011 in the Tax Revenue Appeals Tribunal.
+      - question: |
+          What was the Tribunal’s position regarding the nature of the agreement between the Respondent and Neptune Software PLC?
+        answer: |
+          The Tribunal determined that the agreement was a lease agreement and that the payment made pursuant to it constituted a royalty.
+      - question: |
+          How did the Tribunal address the question of service location and payment source in the case?
+        answer: |
+          The Tribunal concluded that the services rendered to the Respondent by the suppliers, regardless of their location, were performed on an asset in Tanzania, and that the related payments were sourced in Tanzania.
+  - context: |
+      1ps. 1ps. 3r d June &amp; 1s t July, 2019 ## MUSSA. J.A.: The appellant is a licensed Bank with a wide network operating through 133 branches in the country. Of recent, the Bank has gone through major restructuring programmes including the automation of its banking systems which entailed the purchase of various items of computer software as well as technical support services. To facilitate the undertakings, on the 2ps. 30t h April, 2003 the appellant entered into an ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## fCORAM: MUSSA, 3. A.. MWAMBEGELE. J. A. And LEVIRA, J. A.T ## CIVIL APPEAL NO. 168 OF 2018 NATIONAL MICROFINANCE BANK LIMITED....................................APPELLANT VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY................................................ RESPONDENT ## (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam.) ## fTwaib. J.^ dated the 20th day of February, 2012 in Tax Appeal No. 7 of 2011 ## JUDGMENT OF THE COURT agreement with a foreign 3ps. company, namely, Neptune Software PLC of Carolyin House, 22 - 26 Dingwall Road, Croydon, surrey, United Kingdom. 2ps. 1ps. And LEVIRA, J. A.T ## CIVIL APPEAL NO. 168 OF 2018 NATIONAL MICROFINANCE BANK LIMITED....................................APPELLANT VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY................................................ RESPONDENT ## (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam.) ## fTwaib. J.^ dated the 20th day of February, 2012 in Tax Appeal No. 7 of 2011 ## JUDGMENT OF THE COURT agreement with a foreign company, namely, Neptune Software PLC of Carolyin House, 22 - 26 Dingwall Road, Croydon, surrey, United Kingdom. In the agreement which 2ps.
+    questions_and_answers:
+      - question: |
+          What is the primary business of the appellant in this case?
+        answer: |
+          The appellant, National Microfinance Bank Limited, is a licensed bank operating through 133 branches across the country.
+      - question: |
+          What major initiative has the appellant recently undertaken?
+        answer: |
+          The appellant undertook major restructuring programmes, which included automating its banking systems and purchasing various items of computer software and technical support services.
+      - question: |
+          What is the name and location of the foreign company involved in the agreement with the appellant?
+        answer: |
+          The foreign company is Neptune Software PLC, located at Carolyin House, 22 - 26 Dingwall Road, Croydon, Surrey, United Kingdom.
+      - question: |
+          What was the purpose of the agreement made on April 30, 2003, between the appellant and Neptune Software PLC?
+        answer: |
+          The agreement facilitated the purchase of computer software and technical support services necessary for automating the appellant’s banking systems.
+      - question: |
+          What is the case name and its appeal reference number?
+        answer: |
+          The case is National Microfinance Bank Limited vs. Commissioner General, Tanzania Revenue Authority, with the appeal reference number Civil Appeal No. 168 of 2018.
+  - context: |
+      1ps. 1ps. The terms of the agreement, he said, are categorically clear in that the same was a purchase agreement. The learned counsel for the appellant contended that the recitals in the agreement clearly state the intention of the parties being to purchase/acquire the software from Neptune which words leave no speculation that the transaction was not a lease. In her written submissions, the appellant contended that 2ps. a lease evisages a cenario where a person uses an asset belonging to another person or a licence to use it temporarily. On the contrary, she further submitted, clause 29 of the SLA makes provision to the effect that " the agreement shall continue until terminated in accordance with the provisions of the agreement". To that extent, 3ps. she concluded, there was continuity and permanence in the terms of the agreement. The appellant's payments, she added, represented the purchase price of the software which is a copyrighted article and, for that matter, such payments did not constitute a royalty. 2ps. 1ps. On the contrary, she further submitted, clause 29 of the SLA makes provision to the effect that " the agreement shall continue until terminated in accordance with the provisions of the agreement". To that extent, she concluded, there was continuity and permanence in the terms of the agreement. The appellant's payments, she added, represented the purchase price of the software which is a copyrighted article and, for that matter, 2ps. such payments did not constitute a royalty. To bolster her submissions, in this regard, the appellant referred the Court to several Indian decision which are apparently unreported - viz Civil Appeal No. 2582 of 1998 Tata Consultancy Services vs The State of Andra Pradesh; Motorola Inc. Ersson Radio vs Deputy C. I.
+    questions_and_answers:
+      - question: |
+          What was the crux of the argument made by the appellant's counsel regarding the nature of the agreement?
+        answer: |
+          The appellant's counsel argued that the agreement was a purchase agreement, as the recitals explicitly stated the intention to purchase or acquire the software, leaving no speculation that the transaction was a lease.
+      - question: |
+          How does the appellant define a lease, and how does it differ from the purchase agreement in this case?
+        answer: |
+          The appellant defines a lease as a scenario where a person temporarily uses an asset or license belonging to another person. In contrast, the agreement in this case had continuity and permanence, as it continued until terminated per its provisions.
+      - question: |
+          What argument did the appellant make regarding the payments for the software?
+        answer: |
+          The appellant stated that the payments represented the purchase price for a copyrighted article (the software) and did not constitute a royalty.
+      - question: |
+          What specific clause of the SLA was cited to demonstrate the permanence of the agreement?
+        answer: |
+          Clause 29 of the SLA was cited, which states that 'the agreement shall continue until terminated in accordance with the provisions of the agreement.'
+      - question: |
+          What judicial precedents did the appellant refer to in support of her argument?
+        answer: |
+          The appellant referred to several Indian decisions, including Civil Appeal No. 2582 of 1998 (Tata Consultancy Services vs The State of Andhra Pradesh) and Motorola Inc. Ersson Radio vs Deputy C.I.
+  - context: |
+      1ps. 1ps. In our consideration and determination of the issues involved in this appeal, we shall throughout have in mind the foregoing extracted provisions. As we have already intimated, the first two issues seek to fault the Tribunal for holding that the agreement between Neptune and the appellant was a lease and that the same constituted a royalty. For her part the appellant (licensee) acknowledged as follows in article 2.2:- "2.2 The licensee 2ps. hereby accepts to be licensed under the terms and conditions set forth herein the right to use on a non-exclusive and nontransferrable basis the software for its own internal use only ." To us, it is clearly discernible from the foregoing article of the SLA that what was transferred to the appellants is only a licence to use the software which was to be supplied 3ps. by Neptune under certain terms and conditions. 2ps. 1ps. For her part the appellant (licensee) acknowledged as follows in article 2.2:- "2.2 The licensee hereby accepts to be licensed under the terms and conditions set forth herein the right to use on a non-exclusive and nontransferrable basis the software for its own internal use only ." To us, it is clearly discernible from the foregoing article of the SLA that what was transferred to the appellants 2ps. is only a licence to use the software which was to be supplied by Neptune under certain terms and conditions. To that extent, on a proper construction, we do not entertain a flicker of doubt that the SLA constituted a lease within the definition of the term under section 3 of the ITA, 2004. Likewise, we are just as well fully satisfied that the payment of the licence fees was a consideration for the right 3ps.
+    questions_and_answers:
+      - question: |
+          What were the first two issues being disputed in the appeal?
+        answer: |
+          The first two issues sought to fault the Tribunal for holding that the agreement between Neptune and the appellant was a lease and that it constituted a royalty.
+      - question: |
+          What rights were granted to the appellant under article 2.2 of the SLA?
+        answer: |
+          Under article 2.2 of the SLA, the appellant was granted a non-exclusive, non-transferable license to use the software for its own internal use only.
+      - question: |
+          What was clearly discernible about the agreement from article 2.2 of the SLA?
+        answer: |
+          It was discernible that the agreement transferred only a license to use the software, which Neptune had to supply under specific terms and conditions.
+      - question: |
+          Why did the Tribunal conclude that the SLA constituted a lease?
+        answer: |
+          The Tribunal concluded that the SLA constituted a lease based on the definition of the term under section 3 of the ITA, 2004.
+      - question: |
+          What was the payment of the license fee determined to be consideration for?
+        answer: |
+          The payment of the license fee was determined to be consideration for the right to use the software as outlined in the SLA.
+document_outline: |
+  **Document Outline:**
+  
+  The document details a legal dispute between the appellant, National Microfinance Bank Limited, and the respondent, the Commissioner General of the Tanzania Revenue Authority, concerning withholding tax obligations on payments made for a software license agreement and related IT services. It recounts the contractual arrangements, tax audit findings, and subsequent appeals, including the bank's assertion that such payments do not constitute royalties and are therefore exempt from withholding tax under the relevant legal framework.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - National_Microfinance_Bank_T_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_168_of_2018)_2019_TZCA_182_(1_July_2019).md

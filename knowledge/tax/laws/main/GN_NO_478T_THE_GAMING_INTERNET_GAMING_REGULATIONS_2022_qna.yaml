@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (12) The licensee shall, after investigation, be issued with a certificate of suitability set out in the First Schedule of the Gaming Regulations upon payment of one million shillings. - 6 . | | Application for service provider licence | 7. Applicant for a service provider licence shall furnish the following information- (a) certificate of registration; (b) company profile; (c) product or service certification documents; and (d) certified copy of licence issued in foreign jurisdiction where the applicant 2ps. conducts or provides similar service. 3ps. 4ps. 5ps. | | Application for key person licence GN. No. 385 of 2003 | 8 .-(1) Application for key person licence shall be submitted to the Board in an appropriate form in duplicate as specified in the Gaming Regulations. (2) An application made under this regulation shall be accompanied by- (a) letter from the Applicant or licensee 6ps. addressed to the Board on the following: (i) proposed position of the person; (ii) duties and responsibilities assigned on the position offered; (iii) qualifications possessed; and 7ps. 8ps. | | GN NO. 478T(Contd) | GN NO. 478T(Contd) 9ps. 10ps. 11ps. 12ps. | |----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | GN. 2ps. 1ps. 2ps. 3ps. 4ps. | | Application for key person licence GN. No. 385 of 2003 | 8 .-(1) Application for key person licence shall be submitted to the Board in an appropriate form in duplicate as specified in the Gaming Regulations. No. 385 of 2003 | (b) application fee for key person licence prescribed in the Gaming Regulations; (c) a duly completed personal 5ps.
+    questions_and_answers:
+      - question: |
+          What is required for a licensee to be issued a certificate of suitability under the First Schedule of the Gaming Regulations?
+        answer: |
+          The licensee must complete an investigation and pay one million shillings to be issued a certificate of suitability under the First Schedule of the Gaming Regulations.
+      - question: |
+          What documents must an applicant for a service provider licence submit?
+        answer: |
+          An applicant for a service provider licence must submit a certificate of registration, a company profile, product or service certification documents, and a certified copy of the licence issued in a foreign jurisdiction where the applicant provides a similar service.
+      - question: |
+          In what format must an application for a key person licence be submitted to the Board?
+        answer: |
+          An application for a key person licence must be submitted in duplicate using the appropriate form specified in the Gaming Regulations.
+      - question: |
+          What details must accompany a letter submitted as part of a key person licence application?
+        answer: |
+          The letter must detail the proposed position of the person, the duties and responsibilities assigned, and the qualifications possessed by the applicant.
+      - question: |
+          What additional requirement is specified for the key person licence application beyond the letter from the applicant or licensee?
+        answer: |
+          The key person licence application must also be accompanied by the prescribed application fee and a duly completed personal form as outlined in the Gaming Regulations.
+  - context: |
+      1ps. 1ps. 41) \_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_ (Made under section 85) \_\_\_\_\_\_\_\_\_\_ THE GAMING (INTERNET GAMING) REGULATIONS, 2022 ## PART I ## PRELIMINARY PROVISIONS - 1 .-(1) These Regulations may be cited as the Gaming (Internet Gaming) Regulations, 2022. - (2) These Regulations shall apply in respect of internet gaming activities licensed under the Act. - 2 . 41 GN NO. 478T(Contd) internet, or any other kind of electronic or other technology facilitating communication; 'nominated account' means an account nominated by a player, held with 2ps. a bank or financial institution for the movement of funds in relation with internet gaming, and which shall not involve cash transactions; 'player account' means an account against which the licensee has a right to debit the amount of a bet or wager; 'problem gaming' means persistent and recurrent involvement in gaming activity that may result but not limited to psychological distress, functional impairment, detrimental to himself or family. ## PART II ## CONDITIONS FOR LICENSING - 3 . 2ps. 1ps. ## PART II ## CONDITIONS FOR LICENSING - 3 . In considering whether a person is suitable for purposes of issuing any licence pursuant to the Act and these Regulations, no person shall be issued with a gaming licence unless that person- - (a) has never been denied a gaming licence by this or other jurisdiction; - (b) has never had a gaming licence suspended or revoked in this or other jurisdiction; - (c) has never withdrawn 2ps.
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations discussed in the context?
+        answer: |
+          The title of the regulations is 'The Gaming (Internet Gaming) Regulations, 2022'.
+      - question: |
+          To what activities do these regulations apply?
+        answer: |
+          These regulations apply to internet gaming activities licensed under the Act.
+      - question: |
+          What is a 'nominated account' as defined in the regulations?
+        answer: |
+          A 'nominated account' is an account nominated by a player, held with a bank or financial institution for the movement of funds in relation to internet gaming, and it cannot involve cash transactions.
+      - question: |
+          What does 'problem gaming' refer to in these regulations?
+        answer: |
+          'Problem gaming' refers to persistent and recurrent involvement in gaming activity that may result in psychological distress, functional impairment, and detriment to the individual or their family.
+      - question: |
+          What are the conditions for a person to be issued a gaming license under these regulations?
+        answer: |
+          A person must not have been denied a gaming license, had a gaming license suspended or revoked, or withdrawn a gaming license application in this or other jurisdictions.
+  - context: |
+      1ps. 1ps. - (5) Where the licensee is unaware of the whereabouts of the player, the licensee shall pay the Monetary and non-monetary prize Unclaimed non-monetary prize | GN NO. 478T(Contd) | GN NO. 478T(Contd) 2ps. 3ps. 4ps. 5ps. 6ps. 7ps. 8ps. 9ps. | |--------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | | balance into an account established and maintained by the Board. 10ps. 11ps. 12ps. 13ps. 14ps. 15ps. 16ps. 17ps. | | Claim of unpaid prize | 22 .-(1) Where a claim for a prize is made to a licensee within ninety days after the end of the gaming activity, the licensee shall resolve the claim. Where a prize is not claimed within three years after the end of the gaming activity, the entitlement shall be extinguished and the prize shall be forfeited to the Board. 18ps. 19ps. 20ps. 21ps. 22ps. 23ps. 24ps. | | Withholding of prizes | 24 .-(1) A licensee may withhold a prize in the game where it has a reason to believe that- (a) winning was affected by an illegal or irregularity conduct; or (b) a player has, by a dishonest or unlawful act affecting the conduct or playing of a game, obtained a benefit for himself or another person. 2ps. 1ps. 2ps. 3ps. 4ps. 5ps. 6ps. 7ps. | | Forfeiture of unclaimed prizes | 23 . Where a prize is not claimed within three years after the end of the gaming activity, the entitlement shall be extinguished and the prize shall be forfeited to the Board. (2) A licensee who has withheld a prize referred to under subregulation (1) shall- 8ps. (a) inform the Board of circumstances of the incident; or (b) not conduct a further gaming activity if the recurrence of the conduct referred under subregulation (1) is likely to occur.
+    questions_and_answers:
+      - question: |
+          What happens if a licensee cannot locate a player to provide their prize?
+        answer: |
+          If the licensee is unaware of the whereabouts of the player, the monetary and non-monetary prize is paid into an account established and maintained by the Board.
+      - question: |
+          What is the time frame within which a player can claim a prize from a gaming activity?
+        answer: |
+          A player can claim a prize within ninety days after the end of the gaming activity. If the prize is not claimed within three years, the entitlement is extinguished, and the prize is forfeited to the Board.
+      - question: |
+          Under what circumstances can a licensee withhold a prize from a winning player?
+        answer: |
+          A licensee may withhold a prize if they have reason to believe the winning was affected by illegal or irregular conduct, or if the player obtained the benefit through dishonest or unlawful acts.
+      - question: |
+          What must a licensee do if they choose to withhold a prize due to irregularities?
+        answer: |
+          The licensee must inform the Board of the circumstances of the incident and refrain from conducting further gaming activities if the irregularities are likely to recur.
+      - question: |
+          What happens to a prize if it is not claimed within three years after the end of the gaming activity?
+        answer: |
+          If a prize is not claimed within three years, the entitlement is extinguished, and the prize is forfeited to the Board.
+  - context: |
+      1ps. 1ps. - (4) Subject to subregulation (2), where the primary server is hosted outside Mainland Tanzania, the financial control system shall be within Mainland Tanzania. - (5) A licensee shall ensure that issues associated with location, building facilities, building safety and security, disaster recovery and internal procedures within the hosting environment are properly addressed. 2ps. 3ps. 4ps. | | | (d) 5ps. disaster recovery- | (d) disaster recovery- 6ps. 7ps. 8ps. | | | (i) | its capability; 9ps. 10ps. 11ps. | | | (ii) 12ps. | business continuity plan; 13ps. 14ps. 15ps. | | | (e) on (i) | internal procedures- entry regulations and controls for staff and visitors; 16ps. 17ps. 18ps. | | | (ii) | maintenance of access registers or log book; 19ps. 20ps. 21ps. | | | (iii) | handling of 22ps. alarm notifications both 23ps. 24ps. | | 25ps. | | technical and security; 26ps. 27ps. 28ps. | | | (iv) | authorization of contractors; 29ps. 30ps. 31ps. | | 32ps. | (v) | emergency requests for access; 33ps. 34ps. 35ps. | | | (vi) | normal standard security or inspection checks; 36ps. 37ps. 38ps. | | | (vii) 39ps. | all time operation or out of hours procedure; 40ps. 41ps. 42ps. | | | (viii) | presence of key person or availability of call out list; 43ps. 44ps. 45ps. | | | (ix) | emergency procedures which includes evacuation and fire procedures; 46ps. 47ps. 48ps. | ## GN NO. 478T(Contd) - (x) personal information, clearance and training. 2ps. 1ps. - (5) A licensee shall ensure that issues associated with location, building facilities, building safety and security, disaster recovery and internal procedures within the hosting environment are properly addressed.
+    questions_and_answers:
+      - question: |
+          What is the requirement for financial control systems if the primary server is hosted outside Mainland Tanzania?
+        answer: |
+          The financial control system must be located within Mainland Tanzania if the primary server is hosted outside Mainland Tanzania, as per subregulation (2).
+      - question: |
+          What responsibilities does a licensee have regarding the hosting environment?
+        answer: |
+          A licensee must ensure that issues related to location, building facilities, safety and security, disaster recovery, and internal procedures are properly addressed within the hosting environment.
+      - question: |
+          What key aspects are included in disaster recovery planning according to the context?
+        answer: |
+          Disaster recovery planning includes ensuring the hosting environment's capability to handle disasters, as well as having business continuity plans in place.
+      - question: |
+          What internal procedures must be implemented regarding staff and visitor access?
+        answer: |
+          Internal procedures must include entry regulations, maintenance of access registers or logbooks, and handling of alarm notifications related to both technical and security issues.
+      - question: |
+          What are the requirements for emergency and security measures within the hosting environment?
+        answer: |
+          Requirements include authorization of contractors, handling emergency access requests, performing security or inspection checks, maintaining out-of-hours procedures, having a call-out list or a key person available, and implementing emergency procedures such as fire and evacuation protocols.
+  - context: |
+      1ps. 1ps. Gaming (Internet Gaming) GN NO. 478T(Contd) THE UNITED REPUBLIC OF TANZANIA Supplement No. 25 1 st July, 2022 ## SPECIAL SUPPLEMENT to the Special Gazette of the United Republic of Tanzania No.25. Vol.103 dated 1 st July, 2022 Printed by the Government Printer, Dodoma by Order of Government GOVERNMENT NOTICE NO. 478T published on 01/07/2022 THE GAMING ACT, (CAP. 41) \_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_ (Made under section 85) \_\_\_\_\_\_\_\_\_\_ ## THE GAMING (INTERNET GAMING) REGULATIONS, 2022 ARRANGEMENT OF REGULATIONS Regulation Title ## PART I PRELIMINARY PROVISIONS - 1. Citation and application. - 2. Interpretation. ## PART II ## CONDITIONS FOR LICENSING - 3. Qualifications in respect of issuance of gaming licence. GN NO. 478T(Contd) ## PART III ## 2ps. LICENSING - 4. Application for internet gaming licence. - 5. Investigations and investigation costs. - 6. Conditions attached to licence. - 7. Application for service provider licence. - 8. Application for key person licence. ## PART IV ## OPERATIONS - 9. Hosting of servers. - 10. Obligation of service provider. - 11. Contingency plans. - 12. Administration center. - 13. Player identification. 2ps. 1ps. - 11. Contingency plans. - 12. Administration center. - 13. Player identification. - 14. Player registration. - 15. Refusal to register. - 16. Participation account. - 17. Use of player account by licensee. - 18. Control of player's account. - 19. Aborted or miscarried games. ## PART V PRIZES - 20. Monetary and non-monetary prize - 21. Unclaimed non-monetary prize. - 22. Claim of unpaid prize. - 23. Forfeiture of unclaimed prizes. - 24. Withholding of prizes. - 25. Prizes to be displayed. ## PART VI CONTROL SYSTEMS - 26. Establishment of control systems. ## Gaming (Internet Gaming) ## GN NO. 478T(Contd) - 27. Standards, 2ps. specification and guidelines. - 28. Approval of control systems.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Gaming (Internet Gaming) Regulations, 2022 in Tanzania?
+        answer: |
+          The regulations provide a legal framework for internet gaming under the Gaming Act (CAP. 41) in Tanzania, including licensing conditions, operational guidelines, control systems, and prize management.
+      - question: |
+          What are the three types of licenses mentioned in the regulations?
+        answer: |
+          The three licenses mentioned are the internet gaming license, the service provider license, and the key person license.
+      - question: |
+          What is required under Regulation 9 concerning the hosting of servers?
+        answer: |
+          Regulation 9 requires that internet gaming servers must be hosted as per the specific operational guidelines provided, ensuring compliance with the regulations.
+      - question: |
+          How are unclaimed prizes addressed in the regulations?
+        answer: |
+          The regulations include specific provisions for unclaimed prizes, such as procedures for forfeiture of prizes, claims for unpaid prizes, and the display of prizes.
+      - question: |
+          What is the role of control systems under Part VI of the regulations?
+        answer: |
+          Control systems are essential for ensuring compliance, with provisions for establishing, standardizing, and gaining approval for systems to ensure responsible operation of internet gaming.
+document_outline: |
+  **Document Outline:**  
+  This document, issued as a Special Supplement to the Gazette of the United Republic of Tanzania dated 1st July 2022, outlines the comprehensive **Gaming (Internet Gaming) Regulations, 2022** under the Gaming Act (Cap. 41). It provides a detailed framework across 12 parts, covering licensing, operations, control systems, player protection, responsible gaming, accounting, reporting procedures, and general provisions to regulate internet gaming activities in Tanzania.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - GN_NO_478T_THE_GAMING_INTERNET_GAMING_REGULATIONS_2022.md

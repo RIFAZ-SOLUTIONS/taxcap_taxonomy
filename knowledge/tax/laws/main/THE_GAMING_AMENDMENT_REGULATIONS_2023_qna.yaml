@@ -1,0 +1,36 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. GOVERNMENT NOTICE NO. 448J published on 30/6/2023 THE GAMING ACT, (CAP. 81) \_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_ (Made under section 85) \_\_\_\_\_\_\_ ## THE GAMING (AMENDMENT) REGULATIONS, 2023 Citation GN. No. 385 of 2003 Gaming (Amendment) Regulations, 2023, and shall be read as one with the Gaming Regulations, 2003, hereinafter referred to as the 'principal - 1. These Regulations may be cited as the Regulations'. Commencement - 2 . 2ps. 1ps. 81) \_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_ (Made under section 85) \_\_\_\_\_\_\_ ## THE GAMING (AMENDMENT) REGULATIONS, 2023 Citation GN. No. 385 of 2003 Gaming (Amendment) Regulations, 2023, and shall be read as one with the Gaming Regulations, 2003, hereinafter referred to as the 'principal - 1. These Regulations may be cited as the Regulations'. Commencement - 2 . These Regulations shall come into operation on 1 st July, 2023. Amendment of regulations 67B Amendment of First Schedule - 3. The principal Regulations are amended in regulation 67B by deleting sub regulation (3) and substituting for 2ps. it the following: - '(3) The holder of forty machine site licence shall be authorized to place and operate slot machines and not more than two table games in the approved premises.' - 4. The principal Regulations are amended in the First Schedule- - (a) by deleting item 32; - (b) in item 4, by deleting the figures '10,000' appearing in the fifth column and substituting for them the figures '30,000'; - (c) by renumbering item 33, 34, 3ps. 35, 36, 37, 38, 39, 40, 41 and 42 as item 32, 33, 34, 35, 36, 37, 38, 39, 40 and 41 respectively; and - (d) adding immediately after item 41 as amended the following new items: | No. | Type of License 4ps.
+    questions_and_answers:
+      - question: |
+          What is the title of the legal document discussed in the context?
+        answer: |
+          The document is titled 'THE GAMING (AMENDMENT) REGULATIONS, 2023'.
+      - question: |
+          When do the Gaming (Amendment) Regulations, 2023 come into operation?
+        answer: |
+          The regulations come into operation on 1st July, 2023.
+      - question: |
+          What significant change is made to regulation 67B in the principal regulations?
+        answer: |
+          Regulation 67B is amended to authorize holders of a forty-machine site license to operate slot machines and not more than two table games in approved premises.
+      - question: |
+          What modification is made to the First Schedule in relation to item 32?
+        answer: |
+          Item 32 is deleted from the First Schedule.
+      - question: |
+          How does the amendment modify the figures in item 4 of the First Schedule?
+        answer: |
+          The figures '10,000' are deleted and substituted with '30,000' in item 4 of the First Schedule.
+document_outline: |
+  ### Document Outline:
+  
+  This document outlines the Gaming (Amendment) Regulations, 2023, issued under Tanzania’s Gaming Act, which updates existing regulations to introduce rule changes effective from July 1, 2023. Key amendments include adjustments to regulation 67B on authorized gaming operations, modifications to the fee structure in the First Schedule, and the addition of new license categories for slot machines in various establishments.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - THE_GAMING_AMENDMENT_REGULATIONS_2023.md

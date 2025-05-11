@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Most unfortunately, this decision was not brought to the attention of the Court by the learned counsel for the parties at the hearing of the instant appeal, though the same counsel for the appellant acted for NMB. Apparently, in NMB {supra) reference was also made to the decision of the Court in Shell Deep Water Tanzania Bv {supra). That being the position' , we find no cause to embrace the appellant's 2ps. invitation to us to depart from the decision in Tullow. We note that, of recent, a corresponding stance was adopted by the Court in the unreported Civil Appeal No. 123 of 2018 Shell Deep Water Tanzania Bv. v. Commissioner General (TRA)." Similarly, in the instant appeal, having regard to factual setting in the record of appeal on the dispute between the parties and the settled position of the law on the interpretation 3ps. of the respective provisions of the ITA stated above, we reaffirm the holding that the decision in Pan African Energy Tanzania Limited {supra) was correctly distinguished in Tullow Tanzania Bv {supra). 2ps. 1ps. We note that, of recent, a corresponding stance was adopted by the Court in the unreported Civil Appeal No. 123 of 2018 Shell Deep Water Tanzania Bv. v. Commissioner General (TRA)." In the circumstances, we respectfully decline the invitation of the appellant's counsel to hold that the decision in Pan African Energy Tanzania Limited {supra) applies to the circumstances of the instant appeal. We do not also 2ps. think that the interpretation of the respective words proposed by the appellant's counsel as described in the referred dictionaries can apply in the circumstances of this appeal in view of the decision in Tullow Tanzania Bv {supra).
+    questions_and_answers:
+      - question: |
+          Which court case decision did the appellant's counsel invite the Court to depart from?
+        answer: |
+          The appellant's counsel invited the Court to depart from the decision in Tullow Tanzania Bv (supra).
+      - question: |
+          What earlier court decision was correctly distinguished in the Tullow Tanzania Bv case?
+        answer: |
+          The decision in Pan African Energy Tanzania Limited (supra) was correctly distinguished in the Tullow Tanzania Bv case.
+      - question: |
+          What unreported case was noted by the Court as having recently adopted a similar stance?
+        answer: |
+          The unreported Civil Appeal No. 123 of 2018 Shell Deep Water Tanzania Bv. v. Commissioner General (TRA) was noted as having recently adopted a similar stance.
+      - question: |
+          Why did the Court decline to apply the decision in Pan African Energy Tanzania Limited to the instant appeal?
+        answer: |
+          The Court declined because it determined that the circumstances of the instant appeal were different and did not warrant the application of the decision in Pan African Energy Tanzania Limited.
+      - question: |
+          Why did the Court reject the appellant's counsel's proposed interpretation of certain words based on dictionaries?
+        answer: |
+          The Court rejected the proposed interpretation because it found that the decision in Tullow Tanzania Bv (supra) rendered such interpretations inapplicable to the circumstances of the instant appeal.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ( CORAM: WAMBALI. J.A.. MWANDAMBO. 3.A. And MASHAKA. J.A.^ CIVIL APPEAL NO. 58 OF 2020 OPHIR TANZANIA (BLOCK 1) LIMITED........... ......................... APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas. Chairman^ Dated the 1s t day of November, 2019 in Tax Appeal No. 43 of 2018 ## JUDGMENT OF THE COURT 29th June &amp; 6t h August, 2021 ## WAMBALI, J.A.: 2ps. 1ps. 3.A. And MASHAKA. J.A.^ CIVIL APPEAL NO. 58 OF 2020 OPHIR TANZANIA (BLOCK 1) LIMITED........... ......................... APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.......................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemmas. Chairman^ Dated the 1s t day of November, 2019 in Tax Appeal No. 43 of 2018 ## JUDGMENT OF THE COURT 29th June &amp; 6t h August, 2021 ## WAMBALI, J.A.: This appeal emanates from the decision of the Tax Revenue Appeals Tribunal (the TRAT) delivered on 1 s t 2ps. November, 2019 in Tax Appeal No.43 of 2018. The impugned decision confirmed the decision of the Tax Revenue Appeals Board (The TRAB) in Tax Appeal No. 104 of 2014 in respect of withholding tax on payment made by the appellant for services rendered offshore by non-residents in the years 2010 - 2012. The dispute between the parties emanated from the audit which was conducted by the respondent, the Commissioner General, Tanzania Revenue Authority (the CG-TRA) 3ps. in March 2014 on the appellant covering the years of income 2010 - 2013.
+    questions_and_answers:
+      - question: |
+          What is the case title and appellate court for Civil Appeal No. 58 of 2020?
+        answer: |
+          The case is titled 'Ophir Tanzania (Block 1) Limited versus Commissioner General Tanzania Revenue Authority,' and it was heard in the Court of Appeal of Tanzania at Dar es Salaam.
+      - question: |
+          Which tribunal issued the initial decision that led to the appeal in Civil Appeal No. 58 of 2020?
+        answer: |
+          The initial decision was issued by the Tax Revenue Appeals Tribunal (TRAT) in Tax Appeal No. 43 of 2018.
+      - question: |
+          What was the subject of the dispute between Ophir Tanzania (Block 1) Limited and the Commissioner General of the Tanzania Revenue Authority?
+        answer: |
+          The dispute concerned withholding tax on payments made by Ophir Tanzania for services rendered offshore by non-residents during the years 2010 to 2012.
+      - question: |
+          What was the conclusion of the Tax Revenue Appeals Tribunal's decision in 2019?
+        answer: |
+          The Tax Revenue Appeals Tribunal confirmed the prior decision made by the Tax Revenue Appeals Board (TRAB) in Tax Appeal No. 104 of 2014.
+      - question: |
+          When was the audit conducted that gave rise to the dispute between the parties?
+        answer: |
+          The audit was conducted in March 2014 and covered the income years 2010 to 2013.
+  - context: |
+      1ps. 1ps. While the Indian Act talks of the source of income, on the other hand section 69 (i) (i) talks of source of payment The case of Pan African Energy (supra) is therefore distinguishable as it relied on the interpretation of section 9(1) (vii) c) of the Indian Income Tax Act to arrive at a finding that the said provision, as it was, was in parimateria with section 69(i) (ii) of the Act." Particularly, in the latter decision, 2ps. the Court expressed its concurrence with the decision in Tullow Tanzania Bv {supra) when it stated thus: - "We firmly subscribe to the position held by this Court as expounded in Tullow Tanzania Bv case (supra) a position also adopted in Shell Deep Water Tanzania Bv (supra) on the issue o f"the source" and "services rendered" and also where it was stated that as the recipient of the service is the actual payer for such service, the "source payment" has 3ps. to be where the payer resides." 2ps. 1ps. We have deliberately extensively reproduced the reasoning and holding of the Court in Tullow Tanzania Bv {supra) in order to appreciate the substance of the position of the law as expounded concerning the interpretation of the complained of respective provisions of the ITA. It is thus not surprising, in our view that, as the dispute between the parties was on the interpretation of the complained of provisions, 2ps. the decision of the TRAT, the subject of this appeal was greatly and correctly influenced by the decision of the Court in Tullow Tanzania Bv {supra).
+    questions_and_answers:
+      - question: |
+          What is the distinction made between the 'source of income' and 'source of payment' in the context of the Indian Act and Section 69(i)(i)?
+        answer: |
+          The Indian Act focuses on the 'source of income,' while Section 69(i)(i) emphasizes the 'source of payment,' highlighting a difference in interpretation regarding the origins or basis of taxable income or payments.
+      - question: |
+          Why was the Pan African Energy case considered distinguishable in the text?
+        answer: |
+          The Pan African Energy case was considered distinguishable because it relied on the interpretation of Section 9(1)(vii)(c) of the Indian Income Tax Act, which was not directly analogous to Section 69(i)(ii) of the Act under discussion.
+      - question: |
+          What position did the Court affirm regarding 'source payment' in the Tullow Tanzania Bv case?
+        answer: |
+          The Court affirmed that the 'source payment' is determined by the residence of the payer, as the service recipient, who pays for the service, defines the source of the payment.
+      - question: |
+          How did the Tullow Tanzania Bv decision influence the case under discussion?
+        answer: |
+          The Tullow Tanzania Bv decision significantly influenced the case, as its reasoning and interpretation of the relevant provisions of the ITA were extensively reproduced and adopted as a basis for judgment.
+      - question: |
+          What other cases were referred to in support of the reasoning on 'source' and 'services rendered'?
+        answer: |
+          Apart from Tullow Tanzania Bv, the Court also referred to the Shell Deep Water Tanzania Bv case to support the reasoning regarding 'source' and 'services rendered.'
+  - context: |
+      1ps. 1ps. Secondly, the place of performance of the services or place of rendering of services is not a determinant factor of the source of payment of service fees. Thirdly, the appellant had obligation to withhold tax for payments made to its non­ residents service providers or suppliers in respect of service rendered to its non-resident service providers or suppliers outside Tanzania but utilized in Tanzania. It is worth pointing out that at the hearing, the appellant's 2ps. counsel argued the appeal generally much as, essentially, the epicenter of the complaints in both grounds of appeal rest on the alleged wrong interpretation by the TRAT of the provisions of section 69 (i) (ii) read together with sections 6 (1) (b) and 83 (1) (b) of the Income Tax Act, (the ITA) which resulted in the alleged erroneous finding with regard to payment of withholding tax. 2ps. 1ps. Thirdly, the appellant had obligation to withhold tax for payments made to its non­ residents service providers or suppliers in respect of service rendered to its non-resident service providers or suppliers outside Tanzania but utilized in Tanzania. During the hearing of the appeal, the appellant was duly represented by a consortium of learned advocates, namely; Mr. Wilson Kamugisha Mukebezi, Mr. Alan Kileo, Ms. Emma Lyamuya and Ms. Catherine Mokiri, all from B &amp; 2ps. E Ako Law in Dar es Salaam. Submitting in support of the grounds of appeal, M r. Mukebezi strongly and spiritedly criticized the holding of the TRAT on the interpretation of the respective alluded to provisions of the ITA. Particularly, he described the TRAT's interpretation as utterly misconceived on the ground that it focused on the place where the recipient resides and where the services are consumed contrary to the intended meaning 3ps.
+    questions_and_answers:
+      - question: |
+          What is stated about the place of performance as a determinant factor for the source of payment of service fees?
+        answer: |
+          The place of performance of the services or rendering of services is not a determinant factor for the source of payment of service fees.
+      - question: |
+          What obligation did the appellant have regarding withholding tax for non-resident service providers or suppliers?
+        answer: |
+          The appellant was obligated to withhold tax for payments made to its non-resident service providers or suppliers for services rendered outside Tanzania but utilized in Tanzania.
+      - question: |
+          What provisions of the Income Tax Act (ITA) were at the center of the appeal regarding withholding tax?
+        answer: |
+          The provisions in question were section 69(i)(ii), read together with sections 6(1)(b) and 83(1)(b) of the Income Tax Act (ITA).
+      - question: |
+          How did the appellant’s counsel critique the interpretation of the relevant ITA provisions by the TRAT?
+        answer: |
+          The appellant’s counsel argued that the TRAT's interpretation was utterly misconceived, as it focused on the recipient’s residence and where the services were consumed, contrary to the intended meaning of the provisions.
+      - question: |
+          Who represented the appellant during the hearing of the appeal?
+        answer: |
+          The appellant was represented by a consortium of advocates, including Mr. Wilson Kamugisha Mukebezi, Mr. Alan Kileo, Ms. Emma Lyamuya, and Ms. Catherine Mokiri from B&E Ako Law in Dar es Salaam.
+  - context: |
+      1ps. 1ps. In the premises, relying on those definitions, he submitted that the phrase "rendering services in the United Republic of Tanzania will plainly mean to render service inside or within Tanzania whereas "rendering services to a resident of Tanzania", will plainly mean to render service directed to or to which the destination is Tanzania. In his submission, therefore, the two words do not mean the same thing. Moreover, in his view, 2ps. the reliance by the Court on its decision in Barrick Gold PLC (supra) was equally wrong because there was no tax avoidance scheme to influence the Court to observe that there was a modern approach in interpretation of tax statutes. In essence, he emphasized that in Tullow Tanzania Bv (supra), the main issue which the Court had to consider and determine was whether the appellant was 3ps. required to withhold tax for payments it made to its non-resident consultants for the services rendered off shore as far as section 69(i) (ii) of the ITA is concerned. 2ps. 1ps. Fourthly, the reliance by the Court on the decision of BP Tanzania Limited {supra) was plainly wrong because in that appeal, the Court dealt with the interpretation of the provisions of section 69 (e), while in Tuliow Tanzania Bv {supra) the decision revolved on the interpretation of section 69 (i) (ii) of the ITA which provisions have different objectives. In the end, pressing reliance on the decision of the 2ps. Court in Pan African Energy Tanzania Limited (supra) he urged us to allow the appeal with costs. On the adversary side, the attendance of the respondent was duly expressed by the presence of Ms. Gloria Achimpota, learned Senior State Attorney assisted by Mr. Noa Tito, M r. Harold Gugami and M r. Marcel Busegano, all learned State Attorneys.
+    questions_and_answers:
+      - question: |
+          What is the distinction made between 'rendering services in the United Republic of Tanzania' and 'rendering services to a resident of Tanzania'?
+        answer: |
+          'Rendering services in the United Republic of Tanzania' refers to providing services inside or within Tanzania, while 'rendering services to a resident of Tanzania' refers to services directed to or intended for a resident, regardless of where the services are executed.
+      - question: |
+          Why was the Court’s reliance on the Barrick Gold PLC decision criticized?
+        answer: |
+          The Court’s reliance on Barrick Gold PLC was criticized because there was no tax avoidance scheme involved in the case, meaning the modern approach to interpreting tax statutes was inapplicable to the matter at hand.
+      - question: |
+          What central issue did the Court consider in Tullow Tanzania Bv's case?
+        answer: |
+          The central issue in Tullow Tanzania Bv's case was whether the appellant was required to withhold tax for payments made to non-resident consultants for services rendered offshore, as per section 69(i)(ii) of the ITA.
+      - question: |
+          What was the claimed error regarding the Court's reliance on BP Tanzania Limited's decision?
+        answer: |
+          The claimed error was that the Court relied on BP Tanzania Limited’s decision, which dealt with interpreting section 69(e) of the ITA, while the Tullow Tanzania Bv case revolved around section 69(i)(ii)—two provisions with distinct objectives.
+      - question: |
+          Who were the representatives for the respondent in the case?
+        answer: |
+          The respondent was represented by Ms. Gloria Achimpota, a Senior State Attorney, assisted by Mr. Noa Tito, Mr. Harold Gugami, and Mr. Marcel Busegano, all of whom are learned State Attorneys.
+document_outline: |
+  ### Document Outline:
+  This document outlines a civil appeal in the Court of Appeal of Tanzania involving Ophir Tanzania (Block 1) Limited as the appellant and the Commissioner General of the Tanzania Revenue Authority (TRA) as the respondent. The case arises from a tax dispute related to withholding tax on payments for services rendered offshore by non-residents between 2010 and 2012, with the appellant challenging prior rulings by the Tax Revenue Appeals Board (TRAB) and Tribunal (TRAT). The core issues revolve around whether payments for services rendered outside Tanzania but utilized domestically are subject to withholding tax under the Income Tax Act, 2004.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Ophir_Tanzania_(block_1)_Limited_vs_Commissioner_Genera_Tanzania_Revenue_Authority_(Civil_Appeal_58_of_2020)_2021_TZCA_350_(6_August_2021).md

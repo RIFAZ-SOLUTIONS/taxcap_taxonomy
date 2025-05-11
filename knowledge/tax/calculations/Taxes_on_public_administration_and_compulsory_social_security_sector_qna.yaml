@@ -1,0 +1,81 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## 10. Road User Charges - o Description : Charges for use of government vehicles on public roads. - o Law : Road Traffic Act, 1973. - o Rate : Annual fees based on vehicle type and use. ## 11. License Fees - o Description : Fees for operating licenses for government activities. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on the type and scope of the license. ## 12. Environmental Levy - o Description : Levy to fund environmental protection measures related to government operations. - o Law : Environmental Management Act, 2004. - o Rate 2ps. : Typically 0.3% to 1% of gross procurement or operational spending. - o Example Calculation : Annual procurement spending of TZS 1,000,000,000 with a 0.5% environmental levy: -  Calculation: Environmental Levy = 0.5% × TZS 1,000,000,000 = TZS 5,000,000. ## 13. Excise Duty - o Description : Duty on specific goods purchased by government entities. 2ps. 1ps. - o Law : Environmental Management Act, 2004. - o Rate : Typically 0.3% to 1% of gross procurement or operational spending. - o Example Calculation : Annual procurement spending of TZS 1,000,000,000 with a 0.5% environmental levy: -  Calculation: Environmental Levy = 0.5% × TZS 1,000,000,000 = TZS 5,000,000. ## 13. Excise Duty - o Description : Duty on specific goods purchased by government entities. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per item, often ad valorem. - o Example Calculation : Purchasing fuel for government vehicles valued at TZS 50,000,000 with a 2ps. 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 50,000,000 = TZS 7,500,000. ## 14.
+    questions_and_answers:
+      - question: |
+          What is the purpose of Road User Charges, and under which law are they imposed?
+        answer: |
+          Road User Charges are fees for using government vehicles on public roads, imposed under the Road Traffic Act, 1973.
+      - question: |
+          How are license fees determined for government activities?
+        answer: |
+          License fees are based on the type and scope of the license, as specified by various sector-specific laws and regulations.
+      - question: |
+          What is the typical range for the Environmental Levy rate, and what law governs it?
+        answer: |
+          The Environmental Levy rate typically ranges from 0.3% to 1% of gross procurement or operational spending and is governed by the Environmental Management Act, 2004.
+      - question: |
+          Provide an example calculation of the Environmental Levy for procurement spending.
+        answer: |
+          For annual procurement spending of TZS 1,000,000,000 with a 0.5% levy: Environmental Levy = 0.5% × TZS 1,000,000,000 = TZS 5,000,000.
+      - question: |
+          What law governs Excise Duty on goods purchased by government entities, and how is the rate applied?
+        answer: |
+          Excise Duty is governed by the Excise (Management and Tariff) Act, 2015, and is applied at specific rates per item, often ad valorem.
+  - context: |
+      1ps. 1ps. ## Taxes on public administration and compulsory social security sector Here's a list of 30 taxes, levies, duties, and customs applicable to businesses in the public administration and compulsory social security sector in Tanzania, including descriptions, applicable laws, rates, and calculation examples: ## 1. Pay As You Earn (PAYE) - o Description : Tax withheld from employee salaries. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : Total monthly payroll of TZS 50,000,000: -  Calculation: PAYE calculated based on progressive tax brackets. ## 2. Corporate Income Tax - o Description : Tax 2ps. on the taxable income of public administration entities. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a government agency has taxable income of TZS 500,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 500,000,000 = TZS 150,000,000. ## 3. Property Tax - o Description : Tax on government-owned buildings and facilities. 2ps. 1ps. - o Law : Income Tax Act, 2004. - o Rate : 30% of taxable income. - o Example Calculation : If a government agency has taxable income of TZS 500,000,000: -  Calculation: Corporate Income Tax = 30% × TZS 500,000,000 = TZS 150,000,000. ## 3. Property Tax - o Description : Tax on government-owned buildings and facilities. - o Law : Local Government Finance Act, 1982. - o Rate : Local government rates based on property values. - o Example Calculation : Calculated based on the assessed value of buildings and facilities. ## 4. Customs Duties - o Description : Duties on imported 2ps. goods and equipment. - o Law : East African Community Customs Management Act, 2004.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Pay As You Earn (PAYE) tax, and under which law is it governed?
+        answer: |
+          PAYE is a tax withheld from employee salaries and is governed by the Income Tax Act, 2004.
+      - question: |
+          What is the rate of the Corporate Income Tax, and how is it calculated for taxable income?
+        answer: |
+          The Corporate Income Tax rate is 30% of taxable income. For example, if the taxable income is TZS 500,000,000, the tax would be 30% × 500,000,000 = TZS 150,000,000.
+      - question: |
+          Which law governs Property Tax in Tanzania, and how are the rates determined?
+        answer: |
+          Property Tax is governed by the Local Government Finance Act, 1982, and its rates are determined based on the assessed value of government-owned buildings and facilities.
+      - question: |
+          What is the legal framework for Customs Duties in Tanzania, and what do these duties apply to?
+        answer: |
+          Customs Duties in Tanzania are governed by the East African Community Customs Management Act, 2004, and they apply to imported goods and equipment.
+      - question: |
+          What is the maximum rate applied to PAYE taxation in Tanzania, and how is it structured?
+        answer: |
+          The maximum PAYE tax rate is 30%, and it is structured using progressive tax brackets.
+  - context: |
+      1ps. 1ps. - o Rate : Negotiated fees based on the scale and nature of operations. ## 21. Penalties and Interest - o Description : Charges for late payment or non-compliance with tax and regulatory obligations. - o Law : Various tax laws (Income Tax Act, VAT Act, etc.). - o Rate : Calculated based on the specific tax or duty owed and period of noncompliance. ## 22. Development Levy - o Description : Levy for local community development related to government projects. - o Law : Local Government Finance Act, 1982. - o Rate : Typically 0.3% of turnover. - o Example Calculation : 2ps. Turnover for the year of TZS 500,000,000: -  Calculation: Development Levy = 0.3% × TZS 500,000,000 = TZS 1,500,000. ## 23. Health and Safety Levy - o Description : Levy for health and safety measures related to government operations. - o Law : Occupational Health and Safety Act, 2003. - o Rate : Typically 0.3% of payroll. 2ps. 1ps. - o Example Calculation : Turnover for the year of TZS 500,000,000: -  Calculation: Development Levy = 0.3% × TZS 500,000,000 = TZS 1,500,000. ## 23. Health and Safety Levy - o Description : Levy for health and safety measures related to government operations. - o Law : Occupational Health and Safety Act, 2003. - o Rate : Typically 0.3% of payroll. - o Example Calculation : Total monthly payroll of TZS 50,000,000: -  Calculation: Health and Safety Levy = 0.3% × TZS 50,000,000 = TZS 150,000. ## 24. Special License Fees - o Description : Fees for acquiring special licenses related to 2ps. government operations. - o Law : Various sector-specific laws and regulations. - o Rate : Based on the scale and nature of operations, negotiated fees. ## 25.
+    questions_and_answers:
+      - question: |
+          What factors determine the rate for negotiated fees in 'Special License Fees'?
+        answer: |
+          The rate for Special License Fees is determined based on the scale and nature of operations and is subject to negotiation.
+      - question: |
+          How is the Development Levy rate calculated, and what is an example of its application?
+        answer: |
+          The Development Levy is typically 0.3% of turnover. For example, for a turnover of TZS 500,000,000, the levy is calculated as 0.3% × TZS 500,000,000 = TZS 1,500,000.
+      - question: |
+          What law governs penalties and interest for non-compliance with tax obligations?
+        answer: |
+          Penalties and interest for non-compliance with tax obligations are governed by various tax laws, such as the Income Tax Act and VAT Act.
+      - question: |
+          What is the basis for calculating the Health and Safety Levy, and provide an example?
+        answer: |
+          The Health and Safety Levy is typically 0.3% of the payroll. For example, with a total monthly payroll of TZS 50,000,000, the levy amounts to 0.3% × TZS 50,000,000 = TZS 150,000.
+      - question: |
+          Which law mandates the collection of the Development Levy, and what is its purpose?
+        answer: |
+          The Development Levy is mandated by the Local Government Finance Act, 1982, and is intended to fund local community development related to government projects.
+document_outline: |
+  **Document Outline:**  
+  This document provides an extensive list of 30 taxes, levies, duties, and customs applicable to businesses in Tanzania's public administration and compulsory social security sector. Each tax is detailed with its description, applicable legislation, tax rate, and illustrative calculation examples to guide compliance and financial planning.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_on_public_administration_and_compulsory_social_security_sector.md

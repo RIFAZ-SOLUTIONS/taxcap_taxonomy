@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C26 CUSTOMS Regulation 104 (160 and 148 (2) ## APPLICATION FOR REFUND OF DEPOSIT/CANCELLATION OF BOND Port of …………..……………. Country ……………………………….. *Voucher No / Bond security No. ……………….………… CLAIMANT: Name and Address ………………………………………………………………………………………………………..… Entry No / No. of Description of goods Quantity Value (USD) Amount deposited Amount : Date packages (a) of bond or (b) allocated against general bond. ## DETAILS OF RE-EXPORTATION OR PERFORMANCE OF UNDERTAKING | Entry No / Date | No. of packages | Description of goods | Quantity | Value (USD) | Place and Date of re-exportation or performance of undertaking | |-------------------|-------------------|------------------------|------------|---------------|------------------------------------------------------------------| | 2ps. | | | Total | | 3ps. | I hereby certify that the above particulars are correct, that the goods have been correctly dealt with, in the period of ……………………….. Months allowed by the Proper Officer. ## EAST AFRICAN COMMUNITY C26 CUSTOMS * I claim a refund of USD. ………………………………paid by me vide Receipt No……………… date …………………. * I request cancellation 4ps. of the amount of USD ………..…………………given under Bond security No. ……………..…dated……………...... Place ……………………………………………… Date ……………………………………………… ……………………………………….…. 2ps. 1ps. ## EAST AFRICAN COMMUNITY C26 CUSTOMS * I claim a refund of USD. ………………………………paid by me vide Receipt No……………… date …………………. * I request cancellation of the amount of USD ………..…………………given under Bond security No. ……………..…dated……………...... Place ……………………………………………… Date ……………………………………………… ……………………………………….…. Owner or Agent ## For Official Use Only (a) Refund of USD ……………………………………………………………………….. Authorized. ……………………………….. Checked and endorsed on entry Refund Officer Date …………………..………………. Received this ……… Day ………..Month……….. Year ………The sum of USD (in figures)……………......................………………. (in words ) Dollars …………………………. ………………………………………………………………….in payment of the claim above. Date …………………………………………. 2ps. ………………………………………………... Signature of Authorized receiver (b) Check and noted on entry. Adjustment of security made on line No………….….in Bond Allocation Register No. ………………....… …………………………………… 3ps. …………………………………………….
+    questions_and_answers:
+      - question: |
+          What is the purpose of the C26 Customs Regulation 104 application form?
+        answer: |
+          The form is used to apply for a refund of a deposit, cancellation of a bond, or adjustment of bond security related to goods that have been re-exported or where specific undertakings have been fulfilled.
+      - question: |
+          What information about goods must be included in the application form?
+        answer: |
+          The application must include details such as entry number, number of packages, description of goods, quantity, value in USD, and the amount deposited or allocated against the bond.
+      - question: |
+          What certification is required from the applicant regarding the goods mentioned in the form?
+        answer: |
+          The applicant must certify that the particulars provided are correct and that the goods have been dealt with appropriately within the authorized period specified by the Proper Officer.
+      - question: |
+          What details are required for a refund claim submission?
+        answer: |
+          To claim a refund, the applicant must specify the amount of USD being claimed, the Receipt Number, and the date associated with the payment.
+      - question: |
+          What steps must be completed for the approval of a refund or bond cancellation under this process?
+        answer: |
+          The refund or bond cancellation must be authorized and checked by a Refund Officer, documented in the Bond Allocation Register, and signed off by an Authorized Receiver, who confirms receipt of the payment in figures and words.
+document_outline: |
+  **Document Outline:**  
+  The document is a C26 Customs form used for applications related to refunds of deposits and cancellations of bonds under East African Community Customs regulations. It includes sections to detail the claimant's information, descriptions of goods, re-exportation or fulfillment of obligations, and certifications by officials for approval and processing.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c26-application-refund-deposit-or-cancellation-of-bond.md

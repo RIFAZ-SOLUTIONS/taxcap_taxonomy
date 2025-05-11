@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - 2. The benefits of this article shall extend only for such period of time as may be reasonably or customarily required to complete the education or training undertaken, but in no event shall any individual have the benefits of this article for more than three consecutive years from the date of his first arrival in the first mentioned Contracting State. - 2. This article shall not apply to income from research if such research is undertaken primarily for the private benefit of a specific person or persons. - 3. For the purposes of this article and article 22, an 2ps. individual shall be deemed to be a resident of a Contracting State if he is resident: - n the case of India, in the "previous years", and (i) i - (ii) in the case of Tanzania, in the "year of income" in which he visits the other Contracting State or in the immediately preceding "previous year" or "year of income" -- as the case may be. 2ps. 1ps. - 2. This article shall not apply to income from research if such research is undertaken primarily for the private benefit of a specific person or persons. - 4. For the purposes of paragraph 1, "approved educational institution", means an institution which has been approved in this regard by the competent authority of the concerned Contracting State. ## Article 24 ## Income not expressly mentioned [Compare: OECD Model | UN Model] Items of income of a resident of a Contracting State which are not expressly mentioned in the foregoing articles of this Agreement in respect of which he is subject to tax in 2ps. that State shall be taxable only in that State.
+    questions_and_answers:
+      - question: |
+          What is the maximum period during which an individual can benefit from the provisions of this article?
+        answer: |
+          The benefits of this article are limited to the time reasonably required to complete education or training, but cannot exceed three consecutive years from the individual's first arrival in the specified Contracting State.
+      - question: |
+          Under what circumstances does this article not apply to income from research?
+        answer: |
+          This article does not apply to income from research if the research is undertaken primarily for the private benefit of a specific person or persons.
+      - question: |
+          How is residency determined for the purpose of this article and Article 22?
+        answer: |
+          Residency is determined based on whether the individual is a resident of a Contracting State: in the case of India, during the 'previous year,' and in the case of Tanzania, during the 'year of income' of the visit or the immediately preceding 'previous year' or 'year of income.'
+      - question: |
+          What constitutes an 'approved educational institution' under this article?
+        answer: |
+          An 'approved educational institution' is one that has been approved by the competent authority of the concerned Contracting State.
+      - question: |
+          How are items of income not expressly mentioned in the articles of this Agreement treated under Article 24?
+        answer: |
+          Items of income of a resident of a Contracting State that are not expressly mentioned in the articles of this Agreement are taxable only in that State, provided the individual is subject to tax in that State.
+  - context: |
+      1ps. 1ps. - (b) <!-- image --> Status: In Force Conclusion Date: 5 September 1979. Entry into Force: 16 October 1981. Effective Date: 1 January 1982 (see Article 30). Note: An exchange of notes signed on 15 February and 3 July 1980 entered into force and became effective as of the same dates as the treaty. The Exchange of notes is incorporated into the main text of the treaty. ## AGREEMENT BETWEEN THE GOVERNMENT OF THE REPUBLIC OF INDIA AND THE GOVERNMENT OF THE UNITED REPUBLIC OF TANZANIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME ## Chapter I Scope of the 2ps. Agreement Article 1 Personal scope [Compare: OECD Model | UN Model] This Agreement shall apply to persons who are residents of one or both of the Contracting States. 2ps. 1ps. Note: An exchange of notes signed on 15 February and 3 July 1980 entered into force and became effective as of the same dates as the treaty. The Exchange of notes is incorporated into the main text of the treaty. Article 2 ## Taxes covered [Compare: OECD Model | UN Model] - 1. The taxes to which this Agreement shall apply are: - n the case of India: (a) i - he income-tax including any surcharge thereon imposed under the Income-tax Act, (1) t 1961 (43 of 1961); - (2) the surtax imposed under the Companies (Profits) Surtax Act, 1964 (7 of 1964) (hereinafter referred to 2ps. as "Indian tax"); - in the case of Tanzania: - he income-tax and any other tax deemed to be an income-tax under the Income-tax Act, (1) t 1973 (hereinafter referred to as "Tanzania tax"). 3ps. 1ps. The Exchange of notes is incorporated into the main text of the treaty.
+    questions_and_answers:
+      - question: |
+          What is the title of the agreement mentioned in the text?
+        answer: |
+          The title of the agreement is 'Agreement Between the Government of the Republic of India and the Government of the United Republic of Tanzania for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income.'
+      - question: |
+          What is the effective date of the treaty?
+        answer: |
+          The treaty became effective on 1 January 1982, as per Article 30.
+      - question: |
+          Which taxes are covered by the agreement in the case of India?
+        answer: |
+          The taxes covered in the case of India are the income-tax, including any surcharge thereon imposed under the Income-tax Act, 1961, and the surtax imposed under the Companies (Profits) Surtax Act, 1964.
+      - question: |
+          What is the main scope of the agreement as described in Article 1?
+        answer: |
+          The agreement applies to persons who are residents of one or both of the contracting states, namely India and Tanzania.
+      - question: |
+          What additional document was incorporated into the main text of the treaty, and when was it signed?
+        answer: |
+          An exchange of notes, which was signed on 15 February and 3 July 1980, was incorporated into the main text of the treaty and became effective on the same dates as the treaty.
+  - context: |
+      1ps. 1ps. - 4. The provisions of paragraphs 1 and 2 shall not apply if the recipient of the management or professional fees, being a resident of a Contracting State, carries on business in the other Contracting State in which the management or professional fees arise, through a permanent establishment situated therein, or performs in that other State professional services from a fixed base situated therein, and the right or property in respect of which the management or professional fees are paid, is effectively connected with such permanent establishment or fixed base. Where, however, the person paying the management or professional fees, 2ps. whether he is a resident of that State or not, has in a Contracting State a permanent establishment in connection with which the liability to pay the management or professional fees was incurred and such management or professional fees are borne by such permanent establishment, then such management or professional fees shall be deemed to arise in the Contracting State in which the permanent establishment is situated. 2ps. 1ps. In such a case, the provisions of article 7 or article 16, as the case may be, shall apply. - 5. Management or professional fees shall be deemed to arise in a Contracting State when the payer is that Contracting State itself, a political sub-division, a local authority or a resident of that State. - 6. Where, owing to a special relationship between the payer and the recipient or between both of them and some other person, the amount of the management or professional fees paid having regard to the services for which it is paid, exceeds the amount 2ps.
+    questions_and_answers:
+      - question: |
+          Under what conditions do the provisions of paragraphs 1 and 2 not apply to management or professional fees?
+        answer: |
+          The provisions do not apply if the recipient of the fees, as a resident of a Contracting State, carries on business in the other Contracting State through a permanent establishment or a fixed base, and if the fees are effectively connected to that establishment or base.
+      - question: |
+          When are management or professional fees deemed to arise in a particular Contracting State?
+        answer: |
+          Fees are deemed to arise in a Contracting State when the payer is that Contracting State itself, a political subdivision, a local authority, or a resident of that State.
+      - question: |
+          What determines whether article 7 or article 16 applies in certain cases regarding management or professional fees?
+        answer: |
+          Article 7 or article 16 applies if the fees are effectively connected to a payer's permanent establishment or fixed base in the Contracting State where the fees arise.
+      - question: |
+          What happens if the payer has a permanent establishment in a Contracting State connected with the liability to pay management or professional fees?
+        answer: |
+          In such cases, the fees are deemed to arise in the Contracting State where the permanent establishment is situated, regardless of whether the payer is a resident of that State.
+      - question: |
+          How does a special relationship between the payer and the recipient affect the amount of management or professional fees paid?
+        answer: |
+          If there is a special relationship, and the amount paid exceeds what is reasonable for the services rendered, the excess may not be regarded as management or professional fees under this context.
+  - context: |
+      1ps. 1ps. - 5. In the determination of the profits of a permanent establishment, there shall be allowed as deductions, expenses which are incurred for the purposes of the business of the permanent establishment including executive and general administrative expenses so incurred, whether in the State in which the permanent establishment is situated or elsewhere, but this does not include any expenses which, under the law of that State, would not be allowed to be deducted by an enterprise of that State. - 8. The term "business profits" means income derived by an enterprise from the carrying on of business; but does 2ps. not include income in the form of rents, royalties (including rents or royalties in respect of cinematographic films or video tapes for television), fees for technical services, management charges, or remuneration or fees for providing services of technical or other personnel, interest, dividends, capital gains, remuneration for labour or personal (including professional) services or income from the operation of ships or aircraft. 2ps. 1ps. - 6. No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise. - 7. For the purposes of the preceding paragraphs, the profits to be attributed to the permanent establishment shall be determined by the same method year by year unless there is good and sufficient reason to the contrary. ## Article 8 ## Air transport ## [Compare: OECD Model | UN Model] - 1. Profits derived by an enterprise of a Contracting State from the operation of aircraft in international traffic shall be taxable only in 2ps. the Contracting State in which the place of effective management of the enterprise is situated. - 2.
+    questions_and_answers:
+      - question: |
+          What types of expenses are allowed as deductions when determining the profits of a permanent establishment?
+        answer: |
+          Expenses incurred for the purposes of the business of the permanent establishment, including executive and general administrative expenses, are allowed as deductions, regardless of whether they are incurred in the State where the permanent establishment is situated or elsewhere, provided they would be deductible under the law of that State.
+      - question: |
+          What income is excluded from the definition of 'business profits'?
+        answer: |
+          The definition of 'business profits' excludes income such as rents, royalties, fees for technical services, management charges, remuneration or fees for technical or other personnel, interest, dividends, capital gains, remuneration for labor or personal services, and income from the operation of ships or aircraft.
+      - question: |
+          Can profits be attributed to a permanent establishment solely based on the purchase of goods or merchandise for the enterprise?
+        answer: |
+          No, profits cannot be attributed to a permanent establishment solely because it purchases goods or merchandise for the enterprise.
+      - question: |
+          Under what condition must the method for determining profits of a permanent establishment remain consistent year by year?
+        answer: |
+          The method for determining profits must remain consistent year by year unless there is good and sufficient reason to change it.
+      - question: |
+          Where are profits from the operation of aircraft in international traffic taxable under Article 8?
+        answer: |
+          Profits from the operation of aircraft in international traffic are taxable only in the Contracting State where the place of effective management of the enterprise is situated.
+  - context: |
+      1ps. 1ps. ## Article 5 ## Permanent establishment ## [Compare: OECD Model | UN Model] - 1. For the purpose of this Agreement, the term "permanent establishment" means a fixed place of business in which the business of the enterprise is wholly or partly carried on. - 4. A person acting in a Contracting State for or on behalf of an enterprise of the other Contracting State -- other than an agent of an independent status to whom the provisions of paragraph 5 apply -- shall be deemed to be a permanent establishment of that enterprise in the first-mentioned State if: - (i) he has and 2ps. habitually exercises in that State, an authority to conclude contracts for or on behalf of the enterprise, unless his activities are limited to the purchase of goods or merchandise for the enterprise; or - (ii) he habitually maintains in the first-mentioned Contracting State a stock of goods or merchandise belonging to that enterprise from which he regularly fulfills orders on behalf of the enterprise. 2ps. 1ps. - 5. An enterprise of a Contracting State shall not be deemed to have a permanent establishment in the other Contracting State merely because it carries on business in that other State through a broker, general commission agent or any other agent of an independent status, where such persons are acting in the ordinary course of their business. However, when the activities of such an agent are devoted wholly or almost wholly on behalf of that enterprise, he would not be considered an agent of an independent status within the meaning of this paragraph. - 6. The fact that a 2ps.
+    questions_and_answers:
+      - question: |
+          What is the definition of a 'permanent establishment' according to Article 5?
+        answer: |
+          A 'permanent establishment' is defined as a fixed place of business where the business of the enterprise is wholly or partly carried on.
+      - question: |
+          Under what circumstances would a person acting on behalf of an enterprise be deemed a permanent establishment?
+        answer: |
+          A person acting on behalf of an enterprise is deemed a permanent establishment if they habitually conclude contracts on its behalf or maintain a stock of goods in a state from which they regularly fulfill orders for the enterprise.
+      - question: |
+          What limitation applies to an agent’s authority to prevent them from being considered a permanent establishment?
+        answer: |
+          An agent's activities are not considered a permanent establishment if their authority is limited to the purchase of goods or merchandise for the enterprise.
+      - question: |
+          When would a broker or commission agent not be considered independent under Article 5?
+        answer: |
+          A broker or commission agent would not be considered independent if their activities are wholly or almost wholly devoted to the enterprise they represent.
+      - question: |
+          How does Article 5 address agents acting in the ordinary course of their business?
+        answer: |
+          According to Article 5, an enterprise is not deemed to have a permanent establishment merely because it conducts business through an independent agent acting in the ordinary course of their business.
+document_outline: |
+  **Document Outline:**  
+  The document is a treaty between the Governments of India and Tanzania aimed at avoiding double taxation and preventing fiscal evasion concerning income taxes. It establishes the scope, applicable taxes, definitions, and other provisions, incorporating an exchange of notes as part of the main text, with details aligned to international standards like the OECD and UN Models.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - India.md

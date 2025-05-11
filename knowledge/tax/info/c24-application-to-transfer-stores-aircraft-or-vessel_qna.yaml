@@ -1,0 +1,104 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C 24
+      
+      EAST AFRICAN COMMUNITY                                                    
+                                                    
+      
+      2ps.                                       CUSTOMS
+      
+      Regulation 96
+      
+      ## APPLICATION TO
+         SHIP STORES
+      
+      To the Proper Officer,
+      
+      For Official Use
+      
+      Port of
+         …………………….. Country ………………………
+      
+      Form No.
+         …………………. 
+      
+      I request permission to ship the under mentioned
+         stores on the aircraft/vessel
+         ……………………..
+      
+      ……………………………………………………………..
+         bound for ………………………………………
+      
+      Crew (Officers)
+         ………………………………………….. (Seamen)
+         ………………………………………
+      
+      Passengers
+         ……………………………………………………………………………………………………
+      
+      Probable
+         duration of voyage
+         ……………………………………………………………………..….
+          days. 
+      
+      HS CODE
+      
+      Net Quantity (State Units)
+      
+      Description of Goods
+      
+      Value in
+         dollars
+      
+      …………………………………………………
+      
+      Date
+         ……………………., 20……
+      
+      Master
+      
+      *APPROVED/NOT
+         APPROVED
+      
+      ………………………………………………….      
+      
+      3ps.                              Date ………………………, 20……
+      
+      Proper
+         Officer
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What is the purpose of Regulation 96 under the East African Community Customs framework?
+        answer: |
+          Regulation 96 is used to apply for permission to ship stores (goods) on an aircraft or vessel, specifying details such as the voyage, crew, passengers, and the type of goods involved.
+      - question: |
+          What information is required about the aircraft or vessel in the application form?
+        answer: |
+          The application requires the name of the aircraft or vessel and its destination, along with details about crew members (officers and seamen) and passengers.
+      - question: |
+          What specific details about the stores being shipped must be provided in the application?
+        answer: |
+          Applicants must specify the HS Code, net quantity (in units), a description of the goods, and their value in dollars.
+      - question: |
+          Who approves or denies the application to ship stores, and how is this indicated on the form?
+        answer: |
+          The Proper Officer is responsible for approving or not approving the application, with their decision indicated under 'APPROVED/NOT APPROVED' on the form.
+      - question: |
+          What additional details about the voyage need to be included in the form?
+        answer: |
+          Applicants must state the probable duration of the voyage in days and provide the date of the application.
+document_outline: |
+  **Document Outline:**  
+  The document is a regulatory form under the East African Community Customs framework (Regulation 96) titled "Application to Ship Stores," used to request official permission for loading specific goods (ship stores) onto an aircraft or vessel. It includes fields for voyage details, crew, passengers, duration, and goods specifications (e.g., HS code, quantity, description, value), and concludes with an approval section by the proper customs officer.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c24-application-to-transfer-stores-aircraft-or-vessel.md

@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. C 32 ## EAST AFRICAN COMMUNITY CUSTOMS Regulation 136 (2) TEMPORARY EXPORTATION/ IMPORTATION OF ROAD VEHICLES WITHIN EAC AND 2ps. TEMPORARY IMPORTATION FROM COMESA, SADC AND COUNTRIES WITH BILATERAL ARRANGEMENTS WITH THE PARTNER STATES ## DECLARATION OF IMPORTATION I……………………………………….. hereby declare that I am the *owner/duly authorised agent of ………………………………….……. who is the owner, of the vehicle(s) described hereunder and that *I / he / she normally reside(s) in the ……………………………..... ( State Country ) and intend(s) to make only a temporary stay in the Community, and I undertake to pay the import duty charged on 3ps. the imported vehicle(s) if the ownership of the vehicle(s) be transferred to another person, or if the said vehicle(s) is/are not exported within fourteen days or within such further period not exceeding three months as the Proper Officer may allow. It is my present intention to re-export the vehicle(s) through the Customs Frontier Port at ……………………………………………………………….on or about (date) …………………………… Dated this ………… day of ……………, 20…………….Signed ……………………….………………… Owner or Agent ……………………………………… Log book No……………………………………… Registration No …………………………………. Country of registration…………………………... Make………………………………….…………… Model ……………………………………….……. 2ps. 1ps. who is the owner, of the vehicle(s) described hereunder and that *I / he / she normally reside(s) in the ……………………………..... ( State Country ) and intend(s) to make only a temporary stay in the Community, and I undertake to pay the import duty charged on the imported vehicle(s) if the ownership of the vehicle(s) be transferred to another person, or if the said vehicle(s) is/are not exported within fourteen days or within such further period not exceeding three months as the 2ps. Proper Officer may allow. Engine No. ………………………………………. Chassis No. ……………………………………... Engine Capacity ………………………….…cc Colour……………………………………………. Seating Capacity ………….……………………. Petrol/Diesel ………………….…………………. Port of Importation ……………………….……… - 1. See overleaf for Customs endorsement - 2.
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of Regulation 136 (2) within the East African Community Customs framework?
+        answer: |
+          Regulation 136 (2) governs the temporary exportation and importation of road vehicles within the East African Community (EAC), setting rules for limited stays and obligations, such as payment of import duties if the vehicle's ownership changes or if it is not re-exported within the stipulated time.
+      - question: |
+          What is the time limit for re-exporting a temporarily imported vehicle within the East African Community, and are there any extensions allowed?
+        answer: |
+          The vehicle must be re-exported within fourteen days, but a Proper Officer can allow an extension not exceeding three months.
+      - question: |
+          What are the conditions under which import duty must be paid for a temporarily imported vehicle in the EAC?
+        answer: |
+          Import duty must be paid if the vehicle's ownership is transferred to another person or if the vehicle is not exported within the specified time period.
+      - question: |
+          What details about the vehicle must be included in the Declaration of Importation form?
+        answer: |
+          The form requires details such as the vehicle's log book number, registration number, country of registration, make, model, engine number, chassis number, engine capacity, color, seating capacity, fuel type (petrol/diesel), and the port of importation.
+      - question: |
+          What is the responsibility of the declarant regarding the temporary importation of a vehicle?
+        answer: |
+          The declarant must confirm ownership or authorization as an agent, declare the vehicle is for temporary stay, undertake to pay import duties if conditions are not met, and provide the intended port and date of re-exportation.
+document_outline: |
+  **Document Outline:**  
+  The document is a customs regulation form (C 32) under Regulation 136 (2) of the East African Community (EAC), detailing the process and declarations required for the temporary exportation or importation of road vehicles within the EAC, COMESA, SADC, or countries with bilateral agreements. It includes sections for the vehicle owner's declaration, vehicle details, and customs officer endorsements for tracking the vehicle's movement across various ports of entry and exit.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - c32-temporary-exportation-importation-road-vehicles-within-eac-and-temporary-importaion-from-comesa-sadc.md

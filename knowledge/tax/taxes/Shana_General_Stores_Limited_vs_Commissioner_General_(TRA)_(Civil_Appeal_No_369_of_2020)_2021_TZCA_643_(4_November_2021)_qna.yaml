@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. In the premises, we hold that the Tribunal slipped into error in following and applying Pan African Energy I to the instant matter wholesale. The foregoing finding takes us to consider whether the Board had jurisdiction to hear and determine the appeals under the law as it was at the material time. - (4) The Commissioner General may, upon being satisfied that there exist good reasons warranting reduction or waiver 2ps. of tax payable in accordance with the requirement of subsection (3), direct that a lesser amount be paid or waive the required tax deposit. - (5) On receipt of the notice of objection, the Commissioner General shall - - (a) admit the notice of objection to assessment of tax; or - (b) refuse to admit the notice of objection to assessment of tax. 2ps. 1ps. - (4) The Commissioner General may, upon being satisfied that there exist good reasons warranting reduction or waiver of tax payable in accordance with the requirement of subsection (3), direct that a lesser amount be paid or waive the required tax deposit. - (5) On receipt of the notice of objection, the Commissioner General shall - - (a) admit the notice of objection to assessment of tax; or - (b) refuse to admit the notice of objection 2ps. to assessment of tax.
+    questions_and_answers:
+      - question: |
+          What was the Tribunal's error in applying Pan African Energy I?
+        answer: |
+          The Tribunal erred by applying Pan African Energy I wholesale to the current matter without proper consideration of its specific details.
+      - question: |
+          What was the primary question considered regarding the Board's jurisdiction?
+        answer: |
+          The primary question was whether the Board had jurisdiction to hear and determine the appeals under the law as it stood at the relevant time.
+      - question: |
+          Under what conditions can the Commissioner General reduce or waive tax payable?
+        answer: |
+          The Commissioner General can reduce or waive tax payable if satisfied that there are good reasons warranting such an action, in accordance with the requirements of subsection (3).
+      - question: |
+          What are the possible actions the Commissioner General can take upon receiving a notice of objection?
+        answer: |
+          Upon receiving a notice of objection, the Commissioner General can either admit the notice of objection to the assessment of tax or refuse to admit it.
+      - question: |
+          What is required for the Commissioner General to direct a waiver or reduction in tax deposit?
+        answer: |
+          The Commissioner General must determine that there are valid reasons justifying the reduction or waiver, as stipulated in subsection (3).
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## fCORAM: NDIKA. J.A.. MWANDAMBO. J.A.. And KAIRO, J.A.) CIVIL APPEAL NO. 369 OF 2020 SHANA GENERAL STORES LIMITED .................................................APPELLANT ## VERSUS COMMISSIONER GENERAL (TRA)..................................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (H.A. Haii - Vice Chairperson) dated the 13th day of August, 2020 in Tax Appeal No. 13 of 2019 ## JUDGMENT OF THE COURT 22n d October &amp; 4th November, 2021 ## NDIKA, J.A.: On appeal is the decision of the Tax Revenue Appeals Tribunal ("the Tribunal") dated 13t 2ps. h August, 2020 in Tax Appeal No. 13 of 2019 holding that the Tax Revenue Appeals Board ("the Board") had no jurisdiction to determine an appeal against a refusal of waiver or reduction of tax deposit by the respondent, the Commissioner General, Tanzania Revenue Authority. The background to the appeal is, briefly, as follows: the appellant, Shana General Stores Limited, is a company incorporated in Tanzania engaged in wholesale and retail trade. 2ps. 1ps. J.A.. And KAIRO, J.A.) The background to the appeal is, briefly, as follows: the appellant, Shana General Stores Limited, is a company incorporated in Tanzania engaged in wholesale and retail trade. The respondent conducted a tax audit on the appellant for the years 2011 through 2013, which climaxed with the issuance of eleven assessments dated 5t h March, 2015 demanding a total of TZS. 2,757,169,591.00 in taxes. Disputing some of the assessments, 2ps. the appellant lodged seven notices of objection (Exhibit A-8) challenging the assessed taxes totalling TZS. 2,392,863,987.30. In terms of section 12 (3) of the Tax Revenue Appeals Act, Cap. 408 R.E. 2010 ("the TRAA"), which was subsequently repealed by section 108 of the Tax Administration Act, 2015 (now Cap.
+    questions_and_answers:
+      - question: |
+          What is the primary focus of Civil Appeal No. 369 of 2020 at the Court of Appeal of Tanzania?
+        answer: |
+          The appeal focuses on the decision of the Tax Revenue Appeals Tribunal that the Tax Revenue Appeals Board had no jurisdiction to determine an appeal against the refusal of a tax deposit waiver or reduction by the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What is the business activity of the appellant, Shana General Stores Limited?
+        answer: |
+          Shana General Stores Limited is a company incorporated in Tanzania that engages in wholesale and retail trade.
+      - question: |
+          What was the outcome of the tax audit conducted on Shana General Stores Limited for the years 2011 through 2013?
+        answer: |
+          The tax audit resulted in eleven tax assessments issued on March 5, 2015, demanding a total of TZS 2,757,169,591.00 in taxes.
+      - question: |
+          How did Shana General Stores Limited respond to the tax assessments issued by the Tanzania Revenue Authority?
+        answer: |
+          The company disputed some of the assessments and lodged seven notices of objection, challenging assessed taxes totaling TZS 2,392,863,987.30.
+      - question: |
+          What legislation governed the jurisdictional issue discussed in the appeal?
+        answer: |
+          The jurisdictional issue was governed by section 12(3) of the Tax Revenue Appeals Act, Cap. 408 R.E. 2010, which was later repealed by section 108 of the Tax Administration Act, 2015.
+  - context: |
+      1ps. 1ps. However, he did not cite any authority to support his submission. That aside, he contended that the old section 16 (1) of the TRAA did not allow an appeal against a refusal of waiver or reduction of tax deposit because such a decision did not constitute a "final determination" by the respondent. Specifically on the latter decision, he contended that it did not deal with an appeal against refusal of waiver but that it was only relevant to the state of the law prior to the 2ps. promulgation of the TAA in 2015 following which an appeal in terms of section 16 (1) of the TRAA is restricted to objection decisions only. In a brief rejoinder, Mr. Axwesso submitted that the respondent's refusal of a waiver or reduction of the payable tax deposit is a final determination, hence appealable in terms of the old 3ps. section 16 (1) of the TRAA and that the TAA had no retrospective effect to deny the appellant the said right of appeal. 2ps. 1ps. Specifically on the latter decision, he contended that it did not deal with an appeal against refusal of waiver but that it was only relevant to the state of the law prior to the promulgation of the TAA in 2015 following which an appeal in terms of section 16 (1) of the TRAA is restricted to objection decisions only. He maintained that the two cases his learned friend sought to distinguish from 2ps. the instant case aptly supported the contention that the Board had requisite jurisdiction in terms of section 7 of the TRAA to entertain and adjudicate disputes of a civil nature relating to the tax laws administered by the respondent the matter at hand being one such dispute.
+    questions_and_answers:
+      - question: |
+          What argument did the speaker make about the old section 16 (1) of the TRAA regarding appeals?
+        answer: |
+          The speaker argued that the old section 16 (1) of the TRAA did not allow appeals against refusals of waiver or reduction of a tax deposit because such decisions were not considered a 'final determination' by the respondent.
+      - question: |
+          What stance did Mr. Axwesso take regarding the respondent's refusal of a waiver?
+        answer: |
+          Mr. Axwesso argued that the respondent's refusal of a waiver or reduction of the payable tax deposit is a final determination and therefore appealable under the old section 16 (1) of the TRAA.
+      - question: |
+          How did the speaker claim the 2015 promulgation of the TAA affected appeals under section 16 (1) of the TRAA?
+        answer: |
+          The speaker contended that after the promulgation of the TAA in 2015, appeals under section 16 (1) of the TRAA became restricted to objection decisions only.
+      - question: |
+          What distinction was made about the legal state prior to the introduction of the TAA in 2015?
+        answer: |
+          It was argued that the old section 16 (1) of the TRAA applied only to the legal state prior to the TAA's promulgation and did not allow appeals related to refusal of waivers.
+      - question: |
+          What jurisdiction did the speaker claim the Board had under section 7 of the TRAA?
+        answer: |
+          The speaker claimed that, under section 7 of the TRAA, the Board had jurisdiction to entertain and adjudicate disputes of a civil nature pertaining to tax laws administered by the respondent, including the current case.
+  - context: |
+      1ps. 1ps. - (3) Where the Commissioner General (a) proposes to amend the assessment in accordance with the objection and any further evidence; or (b) proposes to refuse to amend the objection, he shall serve the objector with a notice setting out the reasons for the proposal. - (4) Upon receipt of the notice pursuant to subsection (3), the objector shah ' within thirty days make submission in writing to the Commissioner General on his agreement or disagreement with the proposed amended assessment or the 2ps. proposed refusal. - (5) The Commissioner General may, after the receipt of the submissions by the objector made pursuant to subsection (4) - - (a) determine the objection in the light of the proposed amended assessment or proposed refusal and any submission made by the objector; or - (b) determine the objection partially in accordance with the submission by the objector; or - (c) determine the objection in accordance with the proposed amendment or proposed refusal. 2ps. 1ps. - (3) Where the Commissioner General (a) proposes to amend the assessment in accordance with the objection and any further evidence; or (b) proposes to refuse to amend the objection, he shall serve the objector with a notice setting out the reasons for the proposal. - (4) Upon receipt of the notice pursuant to subsection (3), the objector shah ' within thirty days make submission in writing to the Commissioner General on his agreement or disagreement with the proposed amended assessment or the 2ps. proposed refusal.
+    questions_and_answers:
+      - question: |
+          What must the Commissioner General do if they propose to amend the assessment or refuse to amend the objection?
+        answer: |
+          The Commissioner General must serve the objector with a notice outlining the reasons for the proposed amendment or refusal.
+      - question: |
+          What action is the objector required to take upon receiving a notice from the Commissioner General under subsection (3)?
+        answer: |
+          The objector must, within thirty days, make a written submission to the Commissioner General indicating their agreement or disagreement with the proposed amended assessment or refusal.
+      - question: |
+          What options does the Commissioner General have after receiving the objector’s written submissions?
+        answer: |
+          The Commissioner General can either determine the objection based on the proposed amendment or refusal and the objector’s submission, partially determine the objection in line with the objector’s submission, or fully determine the objection in accordance with the proposed amendment or refusal.
+      - question: |
+          How long does the objector have to respond to the Commissioner General’s notice regarding a proposed amendment or refusal?
+        answer: |
+          The objector has thirty days from the receipt of the notice to make their written submission.
+      - question: |
+          What should the Commissioner General include in the notice served to the objector regarding a proposed amendment or refusal?
+        answer: |
+          The notice must include the reasons for the proposed amendment to the assessment or the refusal to amend the objection.
+  - context: |
+      1ps. 1ps. That position was recently cemented by the Court in Pan African Energy II referred to by both parties. It is undoubted that the appellant's appeals to the Board, lodged on 21s t April, 2015, predated the TAA, which came into force on 1 s t August, 2015 vide Government Notice No. 304 of 2015. However, as indicated earlier, the learned counsel disagreed on whether the said decision had any bearing on the present dispute. In 2ps. seeking to ascertain the intention behind the legislation the Courts are guided by certain rules of construction. 2ps. 1ps. It is undoubted that the appellant's appeals to the Board, lodged on 21s t April, 2015, predated the TAA, which came into force on 1 s t August, 2015 vide Government Notice No. 304 of 2015. However, as indicated earlier, the learned counsel disagreed on whether the said decision had any bearing on the present dispute. In seeking to ascertain the intention behind the legislation the Courts are guided by certain rules of construction. 2ps. One of these rules is that if the legislation affects substantive rights it will not be construed to have retrospective operation unless a dear intention to that effect is manifested; whereas if it affects procedure only, prima facie it operates retrospectively unless there is good reason to the contrary : But in the last resort it is the intention behind the legislation which has to be ascertained and a rule of construction is only one of the factors 3ps. to which regard must be had in order to ascertain that intention. 3ps. 1ps. In seeking to ascertain the intention behind the legislation the Courts are guided by certain rules of construction. "[Emphasis added] See also the Director of Public Prosecutions v.
+    questions_and_answers:
+      - question: |
+          What is the significance of the Pan African Energy II case in the context of this dispute?
+        answer: |
+          The Pan African Energy II case was referenced by both parties, and its position was recently cemented by the Court. However, there is disagreement among counsel on whether it has any bearing on the present dispute.
+      - question: |
+          When did the appellant lodge their appeals to the Board, and how does this timeline relate to the TAA coming into force?
+        answer: |
+          The appellant lodged their appeals to the Board on 21st April, 2015, which predates the TAA coming into force on 1st August, 2015, as noted in Government Notice No. 304 of 2015.
+      - question: |
+          What general principle governs the courts' interpretation of whether legislation applies retrospectively?
+        answer: |
+          The courts generally hold that legislation affecting substantive rights is not construed to have retrospective operation unless a clear intention to that effect is shown, while legislation affecting procedure only typically operates retrospectively unless there is good reason otherwise.
+      - question: |
+          What is the primary factor in determining the application of a piece of legislation according to the courts?
+        answer: |
+          The primary factor is the intention behind the legislation, with rules of construction serving as one of the factors used to ascertain that intention.
+      - question: |
+          What is the role of rules of construction in interpreting legislation, as mentioned in the text?
+        answer: |
+          Rules of construction guide courts in ascertaining legislative intent, particularly whether a law affects substantive rights or procedures and whether it should apply retrospectively.
+document_outline: |
+  ### Document Outline:
+  
+  This document records the proceedings of Civil Appeal No. 369 of 2020 in the Court of Appeal of Tanzania at Dodoma, where Shana General Stores Limited challenges a decision by the Tax Revenue Appeals Tribunal. The appeal concerns whether the Tax Revenue Appeals Board had jurisdiction to entertain an appeal against the refusal by the Commissioner General (TRA) to grant a waiver of tax deposit obligations, with the judgment addressing legal interpretations and procedural grounds in light of relevant statutory provisions and judicial precedents like the *Pan African Energy Tanzania Limited* case.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Shana_General_Stores_Limited_vs_Commissioner_General_(TRA)_(Civil_Appeal_No_369_of_2020)_2021_TZCA_643_(4_November_2021).md

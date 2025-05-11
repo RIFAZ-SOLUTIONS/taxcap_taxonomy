@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. GN. NO. 714 (Contd.) GOVERNMENT NOTICE No. 714 Published On. 8/10/2021 ## THE VALUE ADDED TAX ACT (CAP 148) \_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_ (Made under section 94) \_\_\_\_\_\_\_\_ THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2021 Citation and commencement GN. No. 225 of 2015 - 1.-(1) These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations, 2021 and shall be read together with the Value Added Tax (General) Regulations, 2015 hereinafter referred to as 'principal Regulations'. - (2) These Regulations 2ps. shall be deemed to have come into operation on the 1 st day of July, 2021. - 2. The principal Regulations are amended by deleting regulations 36A and substituting for it the following new Regulations- 'Procedures for goods transferred to Mainland Tanzania - 36A-(1). Subject to section 3(4) of the Act, the goods transferred from Tanzania Zanzibar to Mainland Tanzania shall be cleared through ports of entry in Mainland Tanzania and charged value added tax equal to the difference between the value 3ps. added tax rate applicable in Mainland Tanzania and that of Tanzania Zanzibar. 2ps. 1ps. No. 225 of 2015 - 1.-(1) These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations, 2021 and shall be read together with the Value Added Tax (General) Regulations, 2015 hereinafter referred to as 'principal Regulations'. - (2) These Regulations shall be deemed to have come into operation on the 1 st day of July, 2021. - 2. The principal Regulations are amended by deleting regulations 2ps. 36A and substituting for it the following new Regulations- 'Procedures for goods transferred to Mainland Tanzania - 36A-(1). - (2) For purposes of this regulation 'transfer' means transfer of goods from Tanzania Zanzibar to Mainland Tanzania.'. Amendment of regulations 36A GN. NO. 714 (Contd.
+    questions_and_answers:
+      - question: |
+          What is the title of the Government Notice No. 714 published on 8/10/2021?
+        answer: |
+          The title is 'THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2021'.
+      - question: |
+          Under which section of the Value Added Tax Act is the amendment made?
+        answer: |
+          The amendment is made under section 94 of the Value Added Tax Act (CAP 148).
+      - question: |
+          When did the amended regulations come into operation?
+        answer: |
+          The amended regulations came into operation on the 1st day of July, 2021.
+      - question: |
+          What is the procedure for goods transferred from Tanzania Zanzibar to Mainland Tanzania according to the amended regulations?
+        answer: |
+          Goods transferred from Tanzania Zanzibar to Mainland Tanzania must be cleared through ports of entry in Mainland Tanzania and are charged value added tax equal to the difference between the VAT rate in Mainland Tanzania and that of Tanzania Zanzibar.
+      - question: |
+          How is the term 'transfer' defined according to the new regulation 36A?
+        answer: |
+          The term 'transfer' refers to the transfer of goods from Tanzania Zanzibar to Mainland Tanzania.
+document_outline: |
+  ### Document Outline:
+  This document, published as Government Notice No. 714 on October 8, 2021, outlines amendments to the **Value Added Tax (General) Regulations, 2015** under the Value Added Tax Act (Cap. 148). It specifies revised procedures for VAT application on goods transferred from Zanzibar to Mainland Tanzania, introduces a new refund application form for VAT on goods sold to registered persons in Zanzibar, and provides associated compliance requirements and supporting documentation guidelines.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - THE_VALUE_ADDED_TAX_(GENERAL)_(AMENDMENT)_REGULATIONS,_2021.md

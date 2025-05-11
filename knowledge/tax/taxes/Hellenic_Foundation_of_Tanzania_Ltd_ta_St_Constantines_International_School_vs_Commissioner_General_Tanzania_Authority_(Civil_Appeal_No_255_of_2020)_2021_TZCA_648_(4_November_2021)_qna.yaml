@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## r CO RAM: NPIKA, J.A.. MWANPAMBO, J.A., And KAIRO. ## 3. A . ) CIVIL APPEAL NO. 255 OF 2020 THE HELLENIC FOUNDATION OF TANZANIA LTD t/a ST. CONSTANTINE'S INTERNATIONAL SCHOOL.....................APPELLANT ## VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.............................................. RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Arusha,) ## (Kamuzora, Vice Chairperson^ dated the 28th day of January, 2020 in Tax Appeal No. 17 of 2019 ## JUDGMENT OF THE COURT 18t h October &amp; 4t h November. 2021 ## KAIRO, J.A.: This is 2ps. an appeal against the judgment and decree of the Tax Revenue Appeals Tribunal (the Tribunal) dated the 28t h day of January, 2020 in Tax Appeal No. 17 of 2019. The factual background culminating to this appeal is as follows:- The appellant is a corporate body engaged in providing education to the public. It owns and operates nursery, primary and secondary schools in the name of St. Constantine's International School in Arusha. 2ps. 1ps. 2021 ## KAIRO, J.A.: This is an appeal against the judgment and decree of the Tax Revenue Appeals Tribunal (the Tribunal) dated the 28t h day of January, 2020 in Tax Appeal No. 17 of 2019. The factual background culminating to this appeal is as follows:- The appellant is a corporate body engaged in providing education to the public. It owns and operates nursery, primary and secondary schools in the name of St. Constantine's International School in 2ps. Arusha. On 20t h June, 2017, the respondent served the appellant with a letter indicating that it had defaulted in the payment of Skills and Development Levy (hereinafter SDL) for years of income 2013 through 2017.
+    questions_and_answers:
+      - question: |
+          Who is the appellant in Civil Appeal No. 255 of 2020?
+        answer: |
+          The appellant is The Hellenic Foundation of Tanzania Ltd, trading as St. Constantine's International School.
+      - question: |
+          What was the main issue in the appeal filed by the appellant in this case?
+        answer: |
+          The main issue was the appellant's alleged default in paying the Skills and Development Levy (SDL) for the years of income 2013 through 2017, as indicated in a letter from the Commissioner General, Tanzania Revenue Authority.
+      - question: |
+          What type of service does the appellant provide to the public?
+        answer: |
+          The appellant is a corporate body that provides education to the public, operating nursery, primary, and secondary schools under the name St. Constantine's International School in Arusha.
+      - question: |
+          Which judicial body made the original judgment that the appellant challenged in this appeal?
+        answer: |
+          The original judgment being challenged was made by the Tax Revenue Appeals Tribunal in Arusha.
+      - question: |
+          When were the judgment and decree being appealed issued by the Tax Revenue Appeals Tribunal?
+        answer: |
+          The judgment and decree being appealed were issued on the 28th day of January, 2020.
+  - context: |
+      1ps. 1ps. In his brief rejoinder, Mr. Chuwa repeated what he had submitted in chief and prayed the Court to allow the appeal with costs. Having examined the competing arguments on the 2n d and 3r d grounds, the issue for our determination is whether the Tribunal was correct in upholding the Board's finding that the appellant was liable to pay SDL as assessed by the respondent. It is trite that 2ps. the chargeability of SDL regime is governed by the VETA Act. Section 14 (1) the VETA Act provides: "14.-(1) Subject to the provisions of this Part, there shall be charged, levied and payable to the Commissioner at the end of every month, from every employer who has in his employment four or more employees, a levy to be known as the skills and development levy." However, the Act exempts some organizations from payment of SDL including a charitable organization under 3ps. the provisions of section 1 9 (1) of the VETA Act which stipulates: "19(1). 2ps. 1ps. It is trite that the chargeability of SDL regime is governed by the VETA Act. Section 14 (1) the VETA Act provides: "14.-(1) Subject to the provisions of this Part, there shall be charged, levied and payable to the Commissioner at the end of every month, from every employer who has in his employment four or more employees, a levy to be known as the skills and development levy." The provision of section 14 shall not apply to: ## (f) Charitable organizations, The term charitable 2ps. organization has been defined under section 19 (2) of VETA Act as hereunder: - "19(2).
+    questions_and_answers:
+      - question: |
+          What issue was the Court tasked with determining in the context provided?
+        answer: |
+          The Court had to determine whether the Tribunal was correct in upholding the Board's finding that the appellant was liable to pay the skills and development levy (SDL) as assessed by the respondent.
+      - question: |
+          What governs the chargeability of the SDL regime according to the context?
+        answer: |
+          The chargeability of the SDL regime is governed by the VETA Act.
+      - question: |
+          What is the primary requirement for an employer to be liable to pay the skills and development levy under Section 14(1) of the VETA Act?
+        answer: |
+          An employer becomes liable to pay the skills and development levy if they have four or more employees in their employment at the end of every month.
+      - question: |
+          Which organizations are exempted from paying the skills and development levy under Section 19(1) of the VETA Act?
+        answer: |
+          Charitable organizations are exempted from paying the skills and development levy under Section 19(1) of the VETA Act.
+      - question: |
+          How is a 'charitable organization' defined according to the VETA Act?
+        answer: |
+          The definition of a 'charitable organization' is provided under Section 19(2) of the VETA Act.
+  - context: |
+      1ps. 1ps. The Board also found that, the respondent had conducted due diligence on the status of the appellant and satisfied that the appellant's entity did not qualify as an exempted charitable organization under the provisions of section 19 (2) of the Vocational Education and Training Act, Cap. 82 R.E. 2006 [as amended by the Finance Act, 2014] (the VETA Act). - 2. That the Honourable Tribunal erred in law in 2ps. holding that the appellant is liable for the payment of Skills and Development Levy on the basis of an assumption that the respondent had conducted due diligence without any proof and without any pleading on that regard by the respondent. - 3. That having held that there is no any procedure for conducting due diligence on the status of the appellant in respect of chargeabiiity of SDL, and having held that there was no proof that due diligence was conducted by the respondent, the Honourable Tribunal erred in law by holding that 3ps. the appellant is liable to pay SDL without dear provision of the law. 2ps. 1ps. The appellant was further aggrieved and lodged an appeal before the Tax Appeals Tribunal (the Tribunal) which sustained the Board's decision, hence this appeal on three grounds of appeal as follows: - - 1. That the Honourable Tribunal erred in both law and fact by holding that the appellant is not a charitable organization in terms of section 19 (2) of the Vocational Education and Training Act, Cap.82 R.E. 2006 as amended by the Finance Act, 2014 regardless of an admission by the respondent in 2ps. the pleadings to the contrary. When the appeal was called on for hearing, the appellant was represented by Mr. Edward Peter Chuwa, learned counsel while the respondent had the services of Messrs.
+    questions_and_answers:
+      - question: |
+          What was the appellant disputing regarding their status under the Vocational Education and Training Act?
+        answer: |
+          The appellant disputed the claim that they did not qualify as an exempted charitable organization under section 19 (2) of the Vocational Education and Training Act, Cap. 82 R.E. 2006, as amended by the Finance Act, 2014.
+      - question: |
+          On what basis did the appellant argue that they should not be liable for the Skills and Development Levy (SDL)?
+        answer: |
+          The appellant argued that their liability for SDL was based on an assumption that the respondent had conducted due diligence, despite a lack of proof or pleadings on that matter by the respondent.
+      - question: |
+          What were the grounds for the appellant's appeal before the Tribunal?
+        answer: |
+          The appellant raised three grounds, including the Tribunal's alleged error in law and fact for denying their charitable organization status, the claim that due diligence was not proven, and the lack of clear legal provisions for holding them liable for SDL.
+      - question: |
+          What did the Tribunal decide regarding the procedure for conducting due diligence on the appellant's status?
+        answer: |
+          The Tribunal found that there was no procedural basis for conducting due diligence on the appellant's status in relation to their liability for SDL.
+      - question: |
+          Who represented the appellant and the respondent during the appeal hearing?
+        answer: |
+          The appellant was represented by Mr. Edward Peter Chuwa, while the respondent was represented by Messrs.
+  - context: |
+      1ps. 1ps. He also contended that neither the Board nor the Tribunal considered exhibit Al; a certificate of registration of the appellant and exhibit A2; a letter from the Ministry of Education and Vocational Training addressed to the Permanent Secretary, Ministry of Finance dated 26t h March, 2014. Had they done so, he argued, 2ps. they would not have reached wrong decisions as they did. He elaborated that, the legal provisions which creates tax liability have to be strictly adhered and should there be any ambiguity or uncertainty, the same has to be interpreted in favour of the taxpayer. He referred us to the cases of North 3ps. Mara Gold Mine Limited vs. Commissioner General (TRA), Civil Appeal No. 78 of 2015 and Bulyanhulu Gold Mine Ltd vs. Commissioner General (TRA), Consolidated Civil Appeals Nos. 89 &amp; 90 of 2015 (both unreported) to bolster his argument. Mr. Chuwa concluded by urging the Court to allow the appeal with costs. In rebuttal, Mr. Gugami refuted the appellant's argument that the respondent did not address the legal points in his submission 4ps. before the Board. 2ps. 1ps. 89 &amp; 90 of 2015 (both unreported) to bolster his argument. Mr. Chuwa concluded by urging the Court to allow the appeal with costs. In rebuttal, Mr. Gugami refuted the appellant's argument that the respondent did not address the legal points in his submission before the Board. He elaborated that the respondent thoroughly submitted before the Board on the applicability of the VETA Act as well as section 1 1 of the Tax Administration 2ps. Act, 2015 while addressing the legal points raised by the appellant. He also refuted the appellant's submission that the respondent did not conduct due diligence.
+    questions_and_answers:
+      - question: |
+          What exhibits did the appellant claim were not considered by the Board and the Tribunal?
+        answer: |
+          The appellant claimed that the Board and the Tribunal did not consider exhibit A1 (a certificate of registration of the appellant) and exhibit A2 (a letter from the Ministry of Education and Vocational Training dated 26th March, 2014).
+      - question: |
+          What argument did the appellant make regarding the interpretation of legal provisions creating tax liability?
+        answer: |
+          The appellant argued that legal provisions creating tax liability must be strictly adhered to and that any ambiguity or uncertainty should be interpreted in favor of the taxpayer.
+      - question: |
+          What cases did the appellant cite to support their argument about interpreting tax laws?
+        answer: |
+          The appellant cited the cases of North Mara Gold Mine Limited vs. Commissioner General (TRA), Civil Appeal No. 78 of 2015, and Bulyanhulu Gold Mine Ltd vs. Commissioner General (TRA), Consolidated Civil Appeals Nos. 89 & 90 of 2015.
+      - question: |
+          What was Mr. Gugami's response to the appellant's claim about addressing legal points?
+        answer: |
+          Mr. Gugami refuted the appellant's claim by stating that the respondent had thoroughly addressed the legal points, including the applicability of the VETA Act and Section 11 of the Tax Administration Act, 2015, in their submissions before the Board.
+      - question: |
+          How did Mr. Gugami respond to the appellant's claim about due diligence?
+        answer: |
+          Mr. Gugami refuted the appellant's claim by arguing that the respondent had conducted due diligence in the matter.
+  - context: |
+      1ps. 1ps. In elaboration, Mr. Gugami stated that, the word "noted" was an evasive answer which means that the respondent neither admitted nor disputed the asserted facts. Alternatively, even if he did, his admission did not supersede the requirement of section 19 (2) of the VETA Act. We are mindful of the principle that parties are bound by their own pleadings as reiterated in many cases including, Pauline Samson Ndawavya (supra). 2ps. However, in the appeal at hand we do not agree that by noting the appellant's averments in the statements of appeal, the respondent admitted that the appellant was exempted from paying SDL We think that by noting the contents of the aforesaid paragraphs, the respondent did not dispute the appellant's assertions that it was a registered international school providing nursery, primary and 3ps. secondary education; that the appellant was a registered charitable organization; and that its business was for the public good. 2ps. 1ps. Alternatively, even if he did, his admission did not supersede the requirement of section 19 (2) of the VETA Act. We are mindful of the principle that parties are bound by their own pleadings as reiterated in many cases including, Pauline Samson Ndawavya (supra). However, we note that in paragraph 7 of its replies to the statements of appeal, at pages 145 through 148 of the 2ps. record of appeal, the respondent pleaded that the appellant was liable to pay SDL. This averment crucially negated any impression that the respondent admitted the claimed exemption from SDL. That said, we find no merit in the 1 s t ground of appeal and we dismiss it. As for the 2n d and 3ps. 3r d grounds of appeal, M r.
+    questions_and_answers:
+      - question: |
+          What is the meaning of the word 'noted' as described by Mr. Gugami?
+        answer: |
+          According to Mr. Gugami, the word 'noted' is an evasive answer that neither admits nor disputes the asserted facts, and even if it does, it does not override the requirements of section 19 (2) of the VETA Act.
+      - question: |
+          What legal principle is reiterated in cases such as Pauline Samson Ndawavya?
+        answer: |
+          The legal principle reiterated is that parties are bound by their own pleadings.
+      - question: |
+          Did the respondent admit that the appellant was exempted from paying SDL?
+        answer: |
+          No, the respondent did not admit that the appellant was exempted from paying SDL and argued in paragraph 7 of its replies that the appellant was liable to pay SDL.
+      - question: |
+          What assertions made by the appellant were not disputed by the respondent?
+        answer: |
+          The respondent did not dispute the appellant's assertions that it was a registered international school providing nursery, primary, and secondary education, that it was a registered charitable organization, and that its business was for the public good.
+      - question: |
+          What was the outcome of the first ground of appeal?
+        answer: |
+          The first ground of appeal was found to have no merit and was dismissed.
+document_outline: |
+  **Document Outline:**  
+  This document is a judgment from the Court of Appeal of Tanzania involving Civil Appeal No. 255 of 2020, where the Hellenic Foundation of Tanzania Ltd, operating as St. Constantine's International School, appeals against the Tanzania Revenue Authority (TRA). The case revolves around the imposition of the Skills and Development Levy (SDL) and whether the appellant qualifies as a charitable organization and is thus exempt from SDL payments under Tanzanian law.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Hellenic_Foundation_of_Tanzania_Ltd_ta_St_Constantines_International_School_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_No_255_of_2020)_2021_TZCA_648_(4_November_2021).md

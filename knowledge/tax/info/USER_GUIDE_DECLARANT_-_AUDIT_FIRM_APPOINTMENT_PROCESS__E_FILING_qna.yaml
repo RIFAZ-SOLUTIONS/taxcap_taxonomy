@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Audit firm information will be shown as below. For Cancellation click a ' Revoke ' button. Figure 33: Audit Firm Information <!-- image --> ## 4.2 Part A: Appointment of an Audit Firm for Individual Business This is the menu that directs an individual business to appoint an audit firm whose auditors are going to certify the tax returns on his/her behalf. ## STEP 01: : Individual conducting business with the liability of filing Return on Income ## User Action : - a) Go to the official TRA website then click ' Taxpayer Portal ' button Figure 34:Taxpayer Portal Link <!-- image --> ## b) 2ps. Taxpayer portal page will appear, proceed to click ' Login ' button <!-- image --> <!-- image --> <!-- image --> Figure 35:Home Page <!-- image --> - c) A login page will appear, enter correct TIN and Password and proceed to click ' Login ' button Figure 36: Login Page <!-- image --> ## d) Upon logging in, click on ' My Account ' button at the top of the portal screen Figure 37:Login into the System <!-- image --> - e) Click ' Audit Firm ' menu then a list of audit firm will appear as shown below, proceed to click the blue colored ' Appoint Audit Firm 3ps. ' button. 2ps. 1ps. For Cancellation click a ' Revoke ' button. Figure 33: Audit Firm Information <!-- image --> ## 4.2 Part A: Appointment of an Audit Firm for Individual Business This is the menu that directs an individual business to appoint an audit firm whose auditors are going to certify the tax returns on his/her behalf. <!-- image --> - f) Enter an Audit Firm TIN proceed with the selection of resource name (e.g. Efiling Application...
+    questions_and_answers:
+      - question: |
+          What is the purpose of the 'Appointment of an Audit Firm for Individual Business' menu?
+        answer: |
+          The menu directs an individual business to appoint an audit firm whose auditors will certify the tax returns on their behalf.
+      - question: |
+          What steps must a user follow to log in to the Taxpayer Portal?
+        answer: |
+          The user must visit the official TRA website, click the 'Taxpayer Portal' button, click 'Login' on the portal page, then enter their TIN and password on the login page.
+      - question: |
+          What should a user do after logging into the Taxpayer Portal to appoint an audit firm?
+        answer: |
+          After logging in, the user must click 'My Account,' then click the 'Audit Firm' menu, and finally click the blue 'Appoint Audit Firm' button.
+      - question: |
+          How can a user cancel their appointment with an audit firm?
+        answer: |
+          The user can cancel their appointment by clicking the 'Revoke' button.
+      - question: |
+          What information does a user need to provide to appoint an audit firm?
+        answer: |
+          The user must enter the Audit Firm's TIN and proceed with selecting the resource name (e.g., Efiling Application).
+  - context: |
+      1ps. 1ps. Figure 5:Login into the System <!-- image --> Figure 6:View My Account <!-- image --> - c) Click ' Entities ' button then the page showing a list of entities will appear as shown below, proceed to click the blue colored ' Action ' button on the right side of the entity of your choice. ## STEP 05: User : Director of the entity ## Action : - a) Click on the ' View' button. - b) Click ' Users ' tab then proceed to click the blue colored ' New User ' button Figure 8: View Entities Information <!-- image --> Figure 9: Add User Tab <!-- image 2ps. --> - c) Proceed to enter the new user TIN, information of the new user will appear as below - d) Assign the new user with respective access such as 'Entity Admin', 'Declarant' or 'PAYE declarant' by clicking the box next to each option then click the blue colored 'add user' button Figure 10:Add User TIN <!-- image --> NOTE : PAYE Declarant will be able to view and manage Company Payroll details. 2ps. 1ps. Figure 7:Entities <!-- image --> ## 3. Appointment of Declarant/User ## 3.1 Part A: Appointment of Declarant/User This is a tab in Entities menu in which an entity admin can add or edit users who are going to perform tasks on behalf of the entity. ## STEP 05: User : Director of the entity ## Action : - a) Click on the ' View' button. It is therefore extremely important to appoint the appropriate individual for confidentiality reason. <!-- image --> ## e) The new user addition request will be submitted pending the user's acceptance. Figure 12:Pending User Acceptance <!-- image --> ## 3.2 Part B: 2ps.
+    questions_and_answers:
+      - question: |
+          What actions should be taken after clicking the 'Entities' button?
+        answer: |
+          After clicking the 'Entities' button, a page showing a list of entities will appear. You must then click the blue 'Action' button on the right side of the entity of your choice.
+      - question: |
+          What steps must a Director follow to add a new user to the system?
+        answer: |
+          The Director must click 'View,' then select the 'Users' tab and click the blue 'New User' button. Next, enter the new user's TIN, assign respective access roles like 'Entity Admin,' 'Declarant,' or 'PAYE Declarant,' and click the 'add user' button.
+      - question: |
+          What responsibilities does a PAYE Declarant have in the system?
+        answer: |
+          A PAYE Declarant has the responsibility to view and manage Company Payroll details.
+      - question: |
+          What is the purpose of the 'Appointment of Declarant/User' tab under the Entities menu?
+        answer: |
+          The 'Appointment of Declarant/User' tab allows the entity admin to add or edit users who will perform tasks on behalf of the entity.
+      - question: |
+          What happens after a new user is added to the system?
+        answer: |
+          After a new user is added, the addition request is submitted and will remain pending until the user accepts it.
+  - context: |
+      1ps. 1ps. <!-- image --> IsO 9001:2015 Certified Enhanced Domestic Revenue System USER GUIDE FOR APPOINTMENT OF DECLARANT, AUDITOR AND AUDIT FIRM Version 2.0 ## Table of Contents | 1. | Task Summary................................................................................................................................... 1 | |------|-----------------------------------------------------------------------------------------------------------------------------------------------------| | 2 | Getting Started.................................................................................................................................. 2 | | 2.1 | Part A: Register as A Director/Entity Admin (Existing User) .............................................................. 2 | | 3 | Appointment of Declarant/User ....................................................................................................... 7 2ps. | | 3.1 | Part A: Appointment of Declarant/User ........................................................................................... 7 | | 3.2 | Part B: Acceptance of Appointment by a Declarant ........................................................................ 10 | | 4 | Appointment of Audit Firm on Behalf of an Entity ......................................................................... 15 3ps. | | 4.1 | Part A: Appointment of an Audit Firm for an Entity ......................................................................... 15 | | 4.2 | Part A: Appointment of an Audit Firm for Individual Business .......................................................... 22 | | 4.3 | Part A: Acceptance by an Audit Firm ............................................................................................ 27 4ps. | | 5 | Appointment of Auditor.................................................................................................................. 29 | | 5.1 | Part A: Appointment of Auditors ................................................................................................... 29 | | 6 | Role Description.............................................................................................................................. 31 | | 7 | Support Point Of Contact................................................................................................................ 32 | ## 1. Task Summary This User Manual (UM) provides the information necessary for Taxpayer/Director/Entity Admin to effectively use the 5ps. Taxpayer portal to appoint/add declarant and Audit Firm to their Companies/Entities in order to perform their relevant tasks. 2ps. 1ps. ## 2. Getting Started ## 2.1 Part A: Register as A Director/Entity Admin (Existing User) This is a process of which an entity admin, a director or an existing user able to register and perform tasks on behalf of him/herself or of the entity.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the User Manual described in the document?
+        answer: |
+          The User Manual provides information for Taxpayers, Directors, and Entity Admins to effectively use the Taxpayer portal to appoint or add declarants and audit firms to their companies or entities to perform relevant tasks.
+      - question: |
+          What specific steps are outlined in Section 2.1 of the User Guide?
+        answer: |
+          Section 2.1 describes the process for registering as a Director or Entity Admin, allowing users to perform tasks either for themselves or on behalf of their entities.
+      - question: |
+          What is Section 3 of the User Guide focused on?
+        answer: |
+          Section 3 focuses on the Appointment of Declarants or Users, including the steps for appointing them and the process for declarants to accept their appointments.
+      - question: |
+          How does the guide address the appointment of audit firms?
+        answer: |
+          The guide addresses the appointment of audit firms in Section 4, specifying the steps to appoint an audit firm for an entity or individual business and the process for acceptance by the audit firm.
+      - question: |
+          What additional support is provided in the User Manual for users who encounter issues?
+        answer: |
+          Section 7 of the User Manual provides a Support Point of Contact for users to seek help with issues they encounter while using the system.
+  - context: |
+      1ps. 1ps. Figure 14:Login Page <!-- image --> Figure 15:Submit OTP <!-- image --> - c) A one-time password (OTP) will be generated and sent to the newly added user's phone number that was updated in TRA information (Confirm with nearest TRA Office). Figure 21:Confirm User Added <!-- image --> ## 4. Appointment of Audit Firm on Behalf of an Entity ## 4.1 Part A: Appointment of an Audit Firm for an Entity This is the menu that directs an entity admin or a director to appoint an audit firm whose auditors are going to certify the tax returns on the behalf of entity. 2ps. 1ps. - c) A notification will pop up, choose either 'NO' or 'YES' Figure 19:Invitation Acceptance <!-- image --> <!-- image --> Figure 20:Confirmation <!-- image --> ## STEP 06: ## User : Director of the entity ## Action : - a) Log in the e-filling account using TIN and password created then confirm if the new user is successfully added - b) The Director may proceed to edit user information or delete the respective user by clicking on a pen or bin signs respectively. ## STEP 01: User : Director, Administrator of the entity whose TIN is attached to the Entity TIN Action : ## a) Go to the official 2ps. TRA website then click ' Taxpayer Portal ' button ortal Figure 22:Taxpayer Portal Link <!-- image --> ## b) Taxpayer portal page will appear, proceed to click ' Login ' button <!-- image --> <!-- image --> Figure 23:Home Page <!-- image --> - c) A login page will appear, enter correct TIN and Password and proceed to click ' Login ' button Figure 24: Login Page <!
+    questions_and_answers:
+      - question: |
+          What action is required after a one-time password (OTP) is received for a newly added user?
+        answer: |
+          The OTP is sent to the newly added user’s phone number provided during the update in TRA information and must be confirmed with the nearest TRA Office.
+      - question: |
+          What is the purpose of the 'Appointment of an Audit Firm for an Entity' menu?
+        answer: |
+          The menu allows an entity admin or director to appoint an audit firm whose auditors will certify the entity's tax returns.
+      - question: |
+          What can a director do after logging into the e-filing account using their TIN and password?
+        answer: |
+          The director can confirm if the newly added user is successfully added, and they can also edit user information or delete the user by clicking on the pen or bin icons, respectively.
+      - question: |
+          How does a user access the Taxpayer Portal from the TRA website?
+        answer: |
+          The user needs to visit the TRA website, click the 'Taxpayer Portal' button on the homepage, and proceed to the login page by clicking the 'Login' button.
+      - question: |
+          What login credentials are required to access the Taxpayer Portal?
+        answer: |
+          Users must enter their correct TIN and password on the login page to access the Taxpayer Portal.
+  - context: |
+      1ps. 1ps. - b) Click ' Yes ' to confirm the acceptance decision. Figure 41:Individual T/A Audit Firm Page <!-- image --> Figure 42:Confirm Acceptance <!-- image --> ## 5. Appointment of Auditor ## 5.1 Part A: Appointment of Auditors This Tab allows only an audit firm entity admin to add auditors who are going to certify tax returns for the clients of the firm. proceed to click ' Auditors ' Tab then click blue colored ' Appoint Auditor ' button. - b) Enter Auditor TIN and proceed to click ' Add Auditor ' button. Figure 43:Auditors Tab <!-- image --> Figure 44:Add Auditor <!-- image --> ## 2ps. c) Then click ' Appoint ' button on the confirmation dialog box. Figure 45:Appoint Confirmation <!-- image --> ## d) The list of auditors will appear as shown below with a status of 'Active'. Figure 46: Auditors Information <!-- image --> ## 6. Role Description - a) Director/Entity Admin - a person who is registered as a company/entity owner that can add/appoint other users in the company profile to operate on behalf. 2ps. 1ps. Figure 43:Auditors Tab <!-- image --> Figure 44:Add Auditor <!-- image --> ## c) Then click ' Appoint ' button on the confirmation dialog box. Figure 45:Appoint Confirmation <!-- image --> ## d) The list of auditors will appear as shown below with a status of 'Active'. Figure 46: Auditors Information <!-- image --> ## 6. Role Description - a) Director/Entity Admin - a person who is registered as a company/entity owner that can add/appoint other users in the company profile to operate on behalf. - b) Declarant/User - a person who is appointed by Company/entity's Director/Entity Admin to perform tasks on behalf of a company/entity such 2ps. as file return etc.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the 'Auditors' Tab in the Appointment of Auditors process?
+        answer: |
+          The 'Auditors' Tab allows an audit firm entity admin to add auditors who will certify tax returns for the firm's clients by clicking the blue 'Appoint Auditor' button.
+      - question: |
+          What steps must be completed to add an auditor using the Appointment of Auditors process?
+        answer: |
+          To add an auditor, the entity admin must click the 'Auditors' Tab, enter the Auditor TIN, click the 'Add Auditor' button, and confirm the action by clicking the 'Appoint' button on the confirmation dialog box.
+      - question: |
+          What happens after successfully appointing an auditor in the system?
+        answer: |
+          After successfully appointing an auditor, the list of auditors will display, showing their status as 'Active'.
+      - question: |
+          What is the role of a Director/Entity Admin in the system?
+        answer: |
+          A Director/Entity Admin is the person registered as the company or entity owner who can add or appoint other users to operate on behalf of the company or entity.
+      - question: |
+          What permissions does a Declarant/User have in the system?
+        answer: |
+          A Declarant/User is appointed by the Director/Entity Admin and is authorized to perform tasks for the company or entity, such as filing tax returns.
+document_outline: |
+  **Document Outline:**  
+  This user guide, titled *"Enhanced Domestic Revenue System – User Guide for Appointment of Declarant, Auditor, and Audit Firm (Version 2.0),"* provides step-by-step instructions for taxpayers, directors, and entity administrators to utilize the Taxpayer Portal to register, appoint, and manage declarants, auditors, and audit firms for their companies or entities. It includes detailed procedures for roles, appointment processes, and contact points for support, aiming to streamline compliance and task execution.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - USER_GUIDE_DECLARANT_-_AUDIT_FIRM_APPOINTMENT_PROCESS__E_FILING.md

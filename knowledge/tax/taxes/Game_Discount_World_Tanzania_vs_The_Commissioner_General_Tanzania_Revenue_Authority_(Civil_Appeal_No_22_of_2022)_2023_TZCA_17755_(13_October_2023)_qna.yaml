@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. He said, according to the evidence on record, Jonathan Bastow (AW2) testified on how the arrangement was structured. He elaborated that, when the respondent's Tax Audit Department carried out an audit of the books of accounts, it did not request the cost for running the center from South Africa. In the circumstances, he argued, the appellant discharged her burden of proof contrary to 2ps. the observation made by the Board and Tribunal on that issue and thus she cannot be faulted. He argued further that, it was equally wrong for the Tribunal to address the warehousing costs in terms of their recovery and calculation, the split of Head office costs recoveries and the warehousing costs, the appellant's trial balance and the new 3ps. method for charging warehousing costs to claim that these costs were undeclared and that foreign transport costs (loading, unloading and handling) should be included in the dutiable customs value or value of stock/goods. In support of his argument, he cited two persuasive foreign authorities from Uganda and Kenya, respectively. 2ps. 1ps. In the circumstances, he argued, the appellant discharged her burden of proof contrary to the observation made by the Board and Tribunal on that issue and thus she cannot be faulted. In support of his argument, he cited two persuasive foreign authorities from Uganda and Kenya, respectively. These were: Auto Express Limited v. The Commissions of Customs and Border Control, Appeal No. 119 of 2018, 2ps. Kenya Revenue Appeals Tribunal and Testimony Motors Limited v. The Commissioner of Customs, Uganda Revenue Authority, Civil Suit No. 212 of 2012. Dr. Nguluma emphasized that the matter before us involves interpretation of the EACCMA, 2004 as related to the interpretation of goods imported in Tanzania.
+    questions_and_answers:
+      - question: |
+          Who testified about the arrangement's structure, and which department was involved in the audit?
+        answer: |
+          Jonathan Bastow (AW2) testified about the arrangement's structure, and the respondent's Tax Audit Department was involved in the audit.
+      - question: |
+          What did the Tax Audit Department reportedly not request during the audit?
+        answer: |
+          The Tax Audit Department reportedly did not request the cost for running the center from South Africa during the audit.
+      - question: |
+          What was the Tribunal's claim regarding warehousing costs, and how did the appellant challenge it?
+        answer: |
+          The Tribunal claimed that warehousing costs and foreign transport costs should be included in the dutiable customs value. The appellant challenged it by arguing that these costs were not undeclared and cited errors in the Tribunal's assessment involving cost recovery calculations.
+      - question: |
+          Which foreign authorities were cited in support of the appellant's argument, and from which countries?
+        answer: |
+          The appellant cited Auto Express Limited v. The Commissions of Customs and Border Control (Kenya) and Testimony Motors Limited v. The Commissioner of Customs (Uganda).
+      - question: |
+          What legal framework is central to the matter being discussed, and what is its relevance?
+        answer: |
+          The EACCMA, 2004 is central to the matter, as it pertains to the interpretation of goods imported into Tanzania.
+  - context: |
+      1ps. 1ps. The High Court of Uganda mainly dealt with the applicability of Order 37 Rule 6 of Civil Procedure Code of Uganda in determining the first issue. It went further stating that it is supposed to determine the question whether the directive of the Commissioner of Customs of Uganda Revenue Authority to suspend the operation of the 2ps. transaction value method set out under section 122 and the Fourth Schedule of the EACCMA is lawful. Likewise, in the latter case of Kenya, the court dealt with the issue as to whether the respondent's act of departing from transactional value method in evaluating the appellant's goods without affording the appellant an opportunity to justify the values declared was lawful. While, in the present case, the Court is enjoined to interpret paragraph 9 (2) (b) 3ps. of the Fourth Schedule to the EACCMA as quoted above in determining the custom value of imported goods by the appellant. 2ps. 1ps. This is a question of enforcement of the Act and not construction of section 122 of the EACCMA and thus distinguishable from the facts of current matter as alluded to above. Likewise, in the latter case of Kenya, the court dealt with the issue as to whether the respondent's act of departing from transactional value method in evaluating the appellant's goods without affording the appellant an opportunity to justify the values declared was lawful. We are aware that in terms of section 25 (1) of the 2ps. TRAA appeals to the Court against the decisions of the Tribunal are on matters of law only.
+    questions_and_answers:
+      - question: |
+          What legal provision was the High Court of Uganda primarily analyzing in the context of the case?
+        answer: |
+          The High Court of Uganda was primarily analyzing the applicability of Order 37 Rule 6 of the Civil Procedure Code of Uganda.
+      - question: |
+          What issue was the High Court of Uganda asked to determine regarding the directive of the Commissioner of Customs?
+        answer: |
+          The High Court of Uganda was asked to determine whether the directive of the Commissioner of Customs of Uganda Revenue Authority to suspend the transaction value method under section 122 and the Fourth Schedule of the EACCMA was lawful.
+      - question: |
+          What was the key point of contention in the case from Kenya mentioned in the context?
+        answer: |
+          The key point of contention in the Kenya case was whether the respondent's act of departing from the transaction value method in evaluating the appellant's goods without giving the appellant an opportunity to justify the declared values was lawful.
+      - question: |
+          In the present case, what specific provision is the Court interpreting to determine the customs value of imported goods?
+        answer: |
+          The Court is interpreting paragraph 9 (2) (b) of the Fourth Schedule to the EACCMA to determine the customs value of imported goods.
+      - question: |
+          Under section 25 (1) of the TRAA, what kind of appeals can be brought to the Court against the decisions of the Tribunal?
+        answer: |
+          Under section 25 (1) of the TRAA, appeals to the Court against the decisions of the Tribunal can be brought on matters of law only.
+  - context: |
+      1ps. 1ps. The nature of expenses are warehousing costs which were not shown and stated as such. She referrec| us to page 1723 of the record of appeal and stated that the Tribunal was correct in its finding that, warehousing costs incurred by the appellant in importing goods are part of costs of goods or value of imported goods. Indeed, she added, that is how 2ps. the respondent has been applying those valuation methods and the same were considered while making valuation of the appellant's imported goods and finally decided to make adjustment to the value of imported goods in accordance with paragraph 9 (2) because the costs were incurred for the benefit of the seller but they were not included in the price actually paid or payable. She thus urged us not to consider 3ps. the decisions of Uganda and Kenya cited by the appellant because they are distinguishable from the facts of the current matter. According to her, valuation of imported goods was done in accordance with the Fourth Schedule as required by section 122 of the EACCMA. 2ps. 1ps. Indeed, she added, that is how the respondent has been applying those valuation methods and the same were considered while making valuation of the appellant's imported goods and finally decided to make adjustment to the value of imported goods in accordance with paragraph 9 (2) because the costs were incurred for the benefit of the seller but they were not included in the price actually paid or payable. Ms. Andrew 2ps.
+    questions_and_answers:
+      - question: |
+          What type of expenses were discussed in the context, and how were they categorized?
+        answer: |
+          The expenses discussed were warehousing costs, and they were categorized as part of the costs of goods or value of imported goods.
+      - question: |
+          What justification was used to adjust the value of the imported goods?
+        answer: |
+          The adjustment to the value of the imported goods was justified under paragraph 9 (2) because the warehousing costs were incurred for the benefit of the seller but were not included in the price actually paid or payable.
+      - question: |
+          Why were the decisions of Uganda and Kenya deemed irrelevant to the case?
+        answer: |
+          The decisions of Uganda and Kenya were deemed irrelevant because they were considered distinguishable from the facts of the current matter.
+      - question: |
+          What legal provision governed the valuation of the imported goods in this case?
+        answer: |
+          The valuation of the imported goods was governed by the Fourth Schedule as required by section 122 of the EACCMA.
+      - question: |
+          What did the respondent emphasize about its application of valuation methods?
+        answer: |
+          The respondent emphasized that it consistently applied the mentioned valuation methods, which were also used in determining the valuation of the appellant's imported goods.
+  - context: |
+      1ps. 1ps. According to Ms. Andrew, this was another tax avoidance plan. As regards the second issue, whether the Tribunal was correct to hold that the respondent was justified to assess and demand payment of tax liability on Head Office costs recoveries, it was her submission that the respondent was justified to assess and demand payment of tax liability of TZS. 1,589,305,287.57 on Head 2ps. Office costs recoveries as it was correctly found by the Tribunal, that foreign transport costs are dutiable costs of imported goods. This, she said, is because the law requires loading, unloading and handling charges to be added to costs and form part of value of imported goods. Finally, Ms. Andrew urged us to dismiss the appeal with costs. In rejoinder, 3ps. Dr. Nguluma reiterated his submission in chief and insisted that Head Office costs recoveries are not part of warehousing costs; therefore, it was wrong for the respondent to think that the appellant changed the name to avoid tax. He urged us to allow the appeal with costs. 2ps. 1ps. Finally, Ms. Andrew urged us to dismiss the appeal with costs. In rejoinder, Dr. Nguluma reiterated his submission in chief and insisted that Head Office costs recoveries are not part of warehousing costs; therefore, it was wrong for the respondent to think that the appellant changed the name to avoid tax. He urged us to 2ps. allow the appeal with costs. We have carefully considered the ground of appeal, parties' submissions and the entire record of appeal.
+    questions_and_answers:
+      - question: |
+          What was Ms. Andrew’s argument regarding Head Office costs recoveries?
+        answer: |
+          Ms. Andrew argued that the respondent was justified in assessing and demanding payment of TZS. 1,589,305,287.57 as tax liability for Head Office costs recoveries, stating that foreign transport costs are dutiable and should be included in the value of imported goods.
+      - question: |
+          Why did Ms. Andrew claim foreign transport costs should be included in the value of imported goods?
+        answer: |
+          Ms. Andrew claimed that the law requires loading, unloading, and handling charges to be added to costs, thus forming part of the value of imported goods.
+      - question: |
+          What was Dr. Nguluma’s main argument regarding Head Office costs recoveries?
+        answer: |
+          Dr. Nguluma argued that Head Office costs recoveries are not part of warehousing costs and that the respondent was wrong to assume the appellant renamed them to avoid tax.
+      - question: |
+          What was the final position of Ms. Andrew regarding the appeal?
+        answer: |
+          Ms. Andrew urged the dismissal of the appeal with costs.
+      - question: |
+          What did Dr. Nguluma request in his rejoinder submission?
+        answer: |
+          Dr. Nguluma reiterated his position and urged that the appeal be allowed with costs.
+  - context: |
+      1ps. 1ps. It is undisputed fact that the appellant is a subsidiary of Masstores Proprietary Limited with its Head Office located in Durban, South Africa. The goods were imported in Tanzania (her subsidiary company) but the warehousing costs subject of this dispute were accounted for in South Africa (the Head Office) forming part of the Head Office costs recovery. The above provision indicates clearly that the value of any imported goods for duty purposes is determined by adding to the price 2ps. actually paid or payable for the goods the cost of transport of the imported goods to the port or place of importation into the Partner State. Also, the cost of loading, unloading and handling associated with the transport of the imported goods to the port or place of importation into the Partner State add to the value of the said goods. It should be noted that when the language of statute 3ps. is clear, it is not open to further interpretation. 2ps. 1ps. The above provision indicates clearly that the value of any imported goods for duty purposes is determined by adding to the price actually paid or payable for the goods the cost of transport of the imported goods to the port or place of importation into the Partner State. Also, the cost of loading, unloading and handling associated with the transport of the imported goods to the port or place of 2ps. importation into the Partner State add to the value of the said goods. This position has been stated in a number of our decisions including Standard Chartered Bank (Hong Cong) Ltd. v Mechmar Corporation (Malaysia) Berhad &amp; 7 Others, Civil Revision No. 1 of 2012 (unreported), where the Court quoted with approval the decision of the Supreme Court of Canada in R.
+    questions_and_answers:
+      - question: |
+          What is the relationship between the appellant and Masstores Proprietary Limited?
+        answer: |
+          The appellant is a subsidiary of Masstores Proprietary Limited, whose Head Office is located in Durban, South Africa.
+      - question: |
+          Where were the warehousing costs of the imported goods accounted for?
+        answer: |
+          The warehousing costs were accounted for in South Africa, as part of the Head Office costs recovery.
+      - question: |
+          How is the value of imported goods for duty purposes determined according to the context?
+        answer: |
+          The value is determined by adding the cost of transport to the price actually paid or payable, as well as the costs of loading, unloading, and handling associated with transport to the port or place of importation into the Partner State.
+      - question: |
+          What principle is applied when the language of a statute is clear?
+        answer: |
+          When the language of a statute is clear, it is not open to further interpretation.
+      - question: |
+          Which case was referenced to support the position on statutory interpretation?
+        answer: |
+          The case referenced was Standard Chartered Bank (Hong Kong) Ltd. v Mechmar Corporation (Malaysia) Berhad & 7 Others, Civil Revision No. 1 of 2012.
+document_outline: |
+  **Document Outline:**  
+  This document is a judgment from the Court of Appeal of Tanzania in Civil Appeal No. 22 of 2022, involving Game Discount World Tanzania Limited (Appellant) and the Commissioner General of the Tanzania Revenue Authority (Respondent). The appeal, arising from a tax compliance audit and disputed tax assessments on warehousing and foreign transport costs, addresses the appellant’s challenge to previous rulings by the Tax Revenue Appeals Board and Tribunal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Game_Discount_World_Tanzania_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_22_of_2022)_2023_TZCA_17755_(13_October_2023).md

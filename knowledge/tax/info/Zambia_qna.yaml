@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Tanzania - Zambia Income Tax Treaty (1968) <!-- image --> Status: In Force Conclusion Date: 2 March 1968. Entry into Force: In force (date unknown). Effective Date: 1 January 1964 (Tanzania); 1 April 1964 (Zambia)(see Article XX). ## CONVENTION BETWEEN ## THE GOVERNMENT OF THE REPUBLIC OF ZAMBIA AND THE GOVERNMENT OF THE UNITED REPUBLIC OF TANZANIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME ## Article I - 1. The taxes which are the subject of the present Convention are: - 2. The present Convention shall also apply to any other taxes of a substantially similar character imposed in 2ps. Zambia or Tanzania subsequently to the date of signature of the present Convention. At the end of each year the taxation authorities of the Contracting States shall notify to each other any changes which have been made in their respective taxation laws. 2ps. 1ps. Effective Date: 1 January 1964 (Tanzania); 1 April 1964 (Zambia)(see Article XX). At the end of each year the taxation authorities of the Contracting States shall notify to each other any changes which have been made in their respective taxation laws. n Zambia (and hereinafter referred to as Zambian Tax): (a) i he income tax; (i) t (ii) supertax; (iii) the undistributed profits tax; and (iv) the personal levy; (b) in Tanzania (and hereinafter referred to as Tanzanian Tax): he income tax; (i) t (ii) corporation tax; (iii) the undistributed income tax; and (iv) the personal tax. 3ps. 1ps. ## CONVENTION BETWEEN ## THE GOVERNMENT OF THE REPUBLIC OF ZAMBIA AND THE GOVERNMENT OF THE UNITED REPUBLIC OF TANZANIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME ## Article I - 1.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Tanzania-Zambia Income Tax Treaty (1968)?
+        answer: |
+          The treaty aims to avoid double taxation and prevent fiscal evasion with respect to taxes on income between Tanzania and Zambia.
+      - question: |
+          When did the treaty become effective in Tanzania and Zambia?
+        answer: |
+          The treaty became effective on 1 January 1964 in Tanzania and 1 April 1964 in Zambia.
+      - question: |
+          What types of taxes are covered under this treaty in Zambia?
+        answer: |
+          In Zambia, the treaty covers income tax, supertax, undistributed profits tax, and the personal levy.
+      - question: |
+          What responsibilities do taxation authorities have under the treaty?
+        answer: |
+          At the end of each year, the taxation authorities of Tanzania and Zambia must notify each other of any changes to their respective taxation laws.
+      - question: |
+          Does the treaty apply to taxes introduced after its signing, and under what condition?
+        answer: |
+          Yes, the treaty applies to any other taxes of a substantially similar character imposed in Tanzania or Zambia after the treaty's signing.
+  - context: |
+      1ps. 1ps. ## Article XII The remuneration derived by a professor or teacher from one of the Contracting States for teaching, during a period of temporary residence not exceeding two years, at a university, college, school or other recognized educational institution in the other Contracting State, shall be exempt from tax in that other Contracting State if such remuneration is subject to tax in the first-mentioned Contracting State. ## Article XIV Income derived by public entertainers, such as theatre, motion picture, radio and television artistes and musicians, and by athletes from their personal activities as such, may be taxed in the Contracting State in 2ps. which these activities are exercised, provided such income is not derived from a visit sponsored officially by the other Contracting State, the cost of which is borne wholly or mainly out of the public funds of that other Contracting State. 2ps. 1ps. ## Article XIII - 1. A student or business apprentice from one of the Contracting States who is receiving full time education or training in the other Contracting State, and is temporarily resident there solely for the purpose of such education and training, shall be exempt from tax in that other Contracting State on all payments made to him by persons in the first-mentioned Contracting State for his maintenance, education or training. ## Article XV For the purposes of the present Convention - 1. Dividends paid by a company which is a resident of one of the Contracting States shall be treated as 2ps. income from a source within that Contracting State. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the tax exemption rule for professors or teachers under Article XII?
+        answer: |
+          Professors or teachers temporarily residing for no more than two years in the other Contracting State for teaching are exempt from tax in that state if their remuneration is subject to tax in their home state.
+      - question: |
+          Under what circumstances can public entertainers or athletes be taxed in the Contracting State where they perform activities according to Article XIV?
+        answer: |
+          Public entertainers and athletes can be taxed in the state where they perform, unless their visit is officially sponsored by the other Contracting State, with costs covered wholly or mainly by public funds of that state.
+      - question: |
+          What tax exemption is provided for students or business apprentices under Article XIII?
+        answer: |
+          Students or business apprentices from one Contracting State temporarily residing in the other for education or training are exempt from tax on payments received from their home state for maintenance, education, or training.
+      - question: |
+          How are dividends treated under Article XV of the Convention?
+        answer: |
+          Dividends paid by a company that is a resident of one Contracting State are considered income from a source within that state.
+      - question: |
+          What types of educational institutions are included in the tax exemption rule for teachers under Article XII?
+        answer: |
+          The tax exemption rule for teachers applies to universities, colleges, schools, or other recognized educational institutions.
+  - context: |
+      1ps. 1ps. - 3. Enterprises of one of the Contracting States, the capital of which is wholly or partly owned or controlled directly or indirectly, by one or more residents of the other Contracting State, shall not be subjected in the first mentioned Contracting State to any taxation or any requirement connected therewith which is other or more burdensome than the taxation and connected requirements to which other similar enterprises of that first-mentioned Contracting State are or may be subjected. ## Article XVIII The taxation authorities of the Contracting States shall exchange such information, being information which is available under their respective taxation 2ps. laws, as is necessary for the carrying out of the provisions of the present Convention or for the prevention of fraud or the administration of statutory provisions against legal avoidance in relation to the taxes which are the subject of this Convention. 2ps. 1ps. - 4. This Article shall not be construed as obliging either one of the Contracting States to grant to residents of the other Contracting State any personal allowances, abatements, reliefs and reductions for tax purposes which by law are only available to its own residents. - 5. In this Article the term "taxation" means taxes of every kind and description. Any information so exchanged shall be treated as secret and shall not be disclosed to any persons other than those concerned with the assessment and collection of the taxes which are the subject of this Convention, or with the 2ps. determination of appeals in relation thereto. No information shall be exchanged which would disclose any trade, business, industrial, commercial or professional secret or trade process, or information, the disclosure of which would be contrary to public policy. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What provision ensures that enterprises owned or controlled by residents of a Contracting State are not taxed more burdenously in the other Contracting State?
+        answer: |
+          The provision states that enterprises owned or controlled by residents of one Contracting State shall not be subjected to taxation or related requirements more burdensome than those applied to similar enterprises in the first-mentioned Contracting State.
+      - question: |
+          What type of information is exchanged between the taxation authorities of the Contracting States?
+        answer: |
+          The taxation authorities exchange information available under their respective tax laws that is necessary for implementing the provisions of the Convention, preventing fraud, or administering laws against tax avoidance.
+      - question: |
+          What limitations are placed on the exchange of information between the Contracting States under the Convention?
+        answer: |
+          No information can be exchanged if it risks disclosing trade, business, industrial, commercial or professional secrets, or if the disclosure would violate public policy.
+      - question: |
+          Does the Convention require a Contracting State to provide personal tax allowances or reductions to residents of the other Contracting State?
+        answer: |
+          No, the Convention does not oblige a Contracting State to grant personal allowances, abatements, reliefs, or reductions for tax purposes to residents of the other Contracting State if such benefits are only available to its own residents by law.
+      - question: |
+          What is the definition of 'taxation' as per the Convention?
+        answer: |
+          In the context of the Convention, 'taxation' refers to taxes of every kind and description.
+  - context: |
+      1ps. 1ps. - (b) A resident of Tanzania who derives profits from the operation of overland transport services in Zambia, may be subject to tax in Zambia on such proportion of those profits that derive from traffic originating in Zambia, but the tax so charged shall be allowed as a credit against any Tanzanian tax charged in respect of that same income. - 3. Where a company which is a resident of one of the Contracting States derives profits or income from sources within the other Contracting State, there shall not be imposed in that other Contracting State any form of taxation 2ps. on dividends paid by the company to persons not resident in that other Contracting State, or any tax in the nature of an undistributed profits tax on undistributed profits of the company, whether or not those dividends or undistributed profits represent, in whole or part, profits or income so derived. 2ps. 1ps. ## Article VI - 1. Dividends paid by a company resident in Tanzania to a resident of Zambia who is subject to Zambian tax in respect thereof shall be exempt from any tax in Tanzania which is chargeable on dividends in addition to the tax chargeable on the profits or income of the company. - 4. The provisions of paragraphs 1 and 2 shall not apply if the recipient of the dividends, being a resident of a Contracting State, has in the other Contracting State, of which the company paying the dividends is a resident, a permanent establishment, with which the 2ps. holding by virtue of which the dividends are paid is effectively connected. In such a case Article IV concerning the allocation of profits to permanent establishments shall apply. 3ps. 1ps. - 3.
+    questions_and_answers:
+      - question: |
+          What portion of profits from overland transport services in Zambia is taxable for a Tanzanian resident?
+        answer: |
+          Only the proportion of profits that derive from traffic originating in Zambia is taxable for a Tanzanian resident.
+      - question: |
+          How are taxes paid in Zambia on income earned by a Tanzanian resident treated under Tanzanian tax law?
+        answer: |
+          The taxes paid in Zambia on such income are allowed as a credit against Tanzanian tax charged on the same income.
+      - question: |
+          Are dividends paid by a company in one Contracting State to non-residents of that state subject to tax on dividends or undistributed profits tax in the source state?
+        answer: |
+          No, there is no tax imposed on such dividends or any tax in the nature of an undistributed profits tax in the source state.
+      - question: |
+          Under what condition are dividends paid by a Tanzanian company to a Zambian resident exempt from Tanzanian tax on dividends?
+        answer: |
+          The dividends are exempt if the Zambian resident is subject to Zambian tax on those dividends and there is no connection to a permanent establishment in Tanzania.
+      - question: |
+          What happens if the recipient of dividends has a permanent establishment in the other Contracting State where the company is resident?
+        answer: |
+          In such cases, the holding related to the dividends is considered effectively connected to the permanent establishment, and Article IV concerning profit allocation to permanent establishments applies.
+  - context: |
+      1ps. 1ps. - 2. In the application of the provisions of the present Convention by the Government of one of the Contracting States, any term not otherwise defined shall, unless the context otherwise requires, have the meaning which it has under the laws of that Contracting State relating to the taxes which are the subject of the present Convention. - 3. The term "permanent establishment" shall not be deemed to include: - he use of facilities solely for the purpose of storage, display, or delivery of goods or merchandise (a) t belonging to the enterprise; - (b) the maintenance of a stock of goods 2ps. or merchandise belonging to the enterprise solely for the purpose of storage, display or delivery; - (c) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the purpose of processing by another enterprise; - (d) the maintenance of a fixed place of business solely for the purpose of purchasing goods or merchandise, or for collecting information, for the enterprise; - (e) the maintenance of a fixed place of business solely for the purpose of advertising, for the supply of information, for scientific research or for similar activities which have a preparatory or auxiliary character, for the enterprise. 2ps. 1ps. ## Article III - 1. For the purposes of this Convention the term "permanent establishment" means a fixed place of business in which the business of the enterprise is wholly or partly carried on. - 4.
+    questions_and_answers:
+      - question: |
+          What does the term 'permanent establishment' generally mean in the context of this Convention?
+        answer: |
+          The term 'permanent establishment' generally refers to a fixed place of business in which the business of the enterprise is wholly or partly carried on.
+      - question: |
+          Under what circumstances is the use of facilities not considered a 'permanent establishment'?
+        answer: |
+          The use of facilities is not considered a 'permanent establishment' if it is solely for the purpose of storage, display, or delivery of goods or merchandise belonging to the enterprise.
+      - question: |
+          What activities related to a fixed place of business are excluded from being classified as a 'permanent establishment'?
+        answer: |
+          Activities excluded include maintaining a fixed place of business solely for purchasing goods, collecting information for the enterprise, advertising, supplying information, conducting scientific research, or performing similar preparatory or auxiliary activities.
+      - question: |
+          How should undefined terms in the Convention be interpreted by a Contracting State's government?
+        answer: |
+          Undefined terms should have the meaning assigned to them under the laws of that Contracting State relating to the taxes governed by the Convention, unless the context requires otherwise.
+      - question: |
+          Does maintaining a stock of goods for processing by another enterprise constitute a 'permanent establishment'?
+        answer: |
+          No, maintaining a stock of goods or merchandise solely for processing by another enterprise does not constitute a 'permanent establishment.'
+document_outline: |
+  **Document Outline:**  
+  The *Tanzania-Zambia Income Tax Treaty (1968)* establishes rules to avoid double taxation and prevent fiscal evasion concerning income taxes between Tanzania and Zambia. It defines key terms, specifies applicable taxes in both countries, outlines criteria for residency and permanent establishments, and provides a framework for mutual notification and application of tax laws.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Zambia.md

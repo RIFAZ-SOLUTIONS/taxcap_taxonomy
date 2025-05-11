@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT MBEYA ( ## CORAM: MUNUO. J.A.. LUANDA. J.A.. And MJASIRI. J.A. CIVIL APPEAL NO. 83 OF 2008 GOBANYA F. HEZWA.............................................................................APPELLANT VERSUS THE COMMISIONER GENERAL TANZANIA REVENUE AUTHORITY...............................................RESPONDENTS (Appeal from Judgment of the High Court of Tanzania at Mbeya) ## (Mrema, J.) Dated the 20th day of September, 2007 in Civil Case No. 2 of 2002 ## RULING OF THE COURT 20th &amp; 23r d July, 2010 ## LUANDA. J.A.: The above named appellant is dissatisfied with the finding of the High Court 2ps. sitting at Mbeya in Civil Case No. 2 of 2002. He duly processed his appeal by first lodging his notice of appeal and eventually on 23/11/2007 filed his appeal. On 7th March, 2008 the respondent filed a preliminary objection under the then Rule 100 of the Court of Appeal Rules, 1979 to the effect that the appeal is incompetent for failure to comply with Order XX, Rule 7 of the Civil Procedure Act, Cap 33. 3ps. The above stated Rule deals with decree. 2ps. 1ps. J.A.: The above named appellant is dissatisfied with the finding of the High Court sitting at Mbeya in Civil Case No. 2 of 2002. He duly processed his appeal by first lodging his notice of appeal and eventually on 23/11/2007 filed his appeal. When the matter came up for hearing, Mr. Evarist Mashiba, Legal Officer with the respondent informed the Court that their counsel has 2ps. travelled outside the country. He prayed that the matter be adjourned to another date. Having gone through the record and having perused the copy of the decree, we were of the view that the objection is meritorious. Instead of adjourning the matter, we asked Mr.
+    questions_and_answers:
+      - question: |
+          Who were the parties involved in the Civil Appeal No. 83 of 2008?
+        answer: |
+          The parties involved were Gobanya F. Hezwa as the appellant and the Commissioner General of the Tanzania Revenue Authority as the respondent.
+      - question: |
+          What was the appellant dissatisfied with in this case?
+        answer: |
+          The appellant was dissatisfied with the judgment of the High Court of Tanzania at Mbeya in Civil Case No. 2 of 2002.
+      - question: |
+          What procedural issue was raised by the respondent as a preliminary objection?
+        answer: |
+          The respondent raised the issue that the appeal was incompetent due to a failure to comply with Order XX, Rule 7 of the Civil Procedure Act, Cap 33, which deals with decrees.
+      - question: |
+          When was the appellant's appeal officially filed before the Court of Appeal of Tanzania?
+        answer: |
+          The appeal was officially filed on November 23, 2007.
+      - question: |
+          What reason did the respondent's legal officer give for requesting an adjournment during the hearing?
+        answer: |
+          The respondent's legal officer, Mr. Evarist Mashiba, stated that their counsel had traveled outside the country and requested the matter to be adjourned to another date.
+  - context: |
+      1ps. 1ps. In Uniafrico Ltd case cited supra, the Court held, we quote: "Under the Rule, it is clear that a decree must unambiguously set the date on which the judgment was given. So, the decree must bear the same date as the judgment. In the instant case the decree, which does not comply with the court forms either, reads as hereunder:- ## DECREE The Plaintiff prays for the following orders:- - (a) Payment of TShs 603,423,452/= as claimed above in the plaint. - (b) Interest o f 1% per day o f 2ps. the Decretal current from the date o f filing this suit till when payment is made in full. - (c) An order that the Plaintiff was wrongfully retired by the Defendant. 2ps. 1ps. In the instant case the decree, which does not comply with the court forms either, reads as hereunder:- ## DECREE The Plaintiff prays for the following orders:- - (a) Payment of TShs 603,423,452/= as claimed above in the plaint. - (b) Interest o f 1% per day o f the Decretal current from the date o f filing this suit till when payment is made in full. - (c) An order that the Plaintiff was wrongfully retired by the Defendant. - (d) An 2ps. order that the Plaintiff be reinstated in service at fu ll pay from the date o f retirem ent till the date o f compulsory retirem ent which is 3Cfh day o f June, 2004. - Costs o f this suit paid by the defendant - Any other order(s) this court deems fit to grant - This case coming on this 2(fh day o f Septem ber, 2007 for final disposal before Honorable A. C. Mrema, Judge in 3ps. the presence o f the Plaintiff his Advocate Mr.
+    questions_and_answers:
+      - question: |
+          What did the Court in the Uniafrico Ltd case state regarding the dating of a decree?
+        answer: |
+          The Court held that a decree must unambiguously set the date on which the judgment was given and that the decree must bear the same date as the judgment.
+      - question: |
+          What amount of money was claimed by the Plaintiff in the decree mentioned in the context?
+        answer: |
+          The Plaintiff claimed payment of TShs 603,423,452/= as stated in the plaint.
+      - question: |
+          What rate of interest is specified in the decree, and from what point is it applied?
+        answer: |
+          The decree specifies an interest rate of 1% per day on the decretal amount, starting from the date of filing the suit until full payment is made.
+      - question: |
+          What orders related to the Plaintiff’s employment did the decree specify?
+        answer: |
+          The decree ordered that the Plaintiff was wrongfully retired and should be reinstated to service with full pay from the date of retirement until the date of compulsory retirement on June 30, 2004.
+      - question: |
+          What additional reliefs were sought by the Plaintiff in the decree?
+        answer: |
+          The Plaintiff sought the costs of the suit to be paid by the Defendant, along with any other orders the court deemed fit to grant.
+  - context: |
+      1ps. 1ps. But we would like to point out, in passing, that even the decree itself was not substantially drawn in conformity with the forms in use under the Indian Code of Civil Procedure 1908 which are in force in Tanzania by virtue of section 101(3) of the Civil Procedure Code, Cap. 33 as the same are yet to be replaced. In Uniafrico case the Court reproduced a 2ps. decree form and it reads: ## DECREE IN ORIGINAL SUIT (ORDER 20, RULES 6,7) Title Claim for................... This suit coming this day for final disposal before..... in the presence o f ...................... for the p lain tiff and o f .......................... for the defendant, it is ordered and decreed that................................ and the sum o f Rs................. be paid by th e .............. to the ................................. on account o f the costs o f this suit with interest thereon at the rate o f .............................. per cent per 3ps. annum from this date to the date o f realization. 2ps. 1ps. The section reads: 101(3) All forms heretofore in use in connection with proceedings under the Indian Code of Civil Procedure, 1908, as in force in Tanzania shall, where applicable and subject to such variations as may be necessary, be deemed to be forms approved by the Chief Justice for use in connection with proceedings under this Code until replaced by forms prescribed or approved by the Chief Justice under 2ps. subsection(l). Given under my Hand and seal o f the court this............. day o f.............. 2010. Judge As already said the drawn decree in this appeal was not drawn as per the above form. In sum as the record of appeal does not contain a valid decree, the appeal is incompetent. The same is struck out.
+    questions_and_answers:
+      - question: |
+          What is the Indian Code of Civil Procedure 1908's relevance in Tanzania's legal framework?
+        answer: |
+          It is in force in Tanzania by virtue of section 101(3) of the Civil Procedure Code, Cap. 33, until replaced by forms prescribed or approved by the Chief Justice.
+      - question: |
+          What was the basis for declaring the appeal in the case incompetent?
+        answer: |
+          The appeal was deemed incompetent because the record of appeal did not contain a valid decree drawn in accordance with the prescribed form.
+      - question: |
+          What section of the Civil Procedure Code governs the use of forms in Tanzania?
+        answer: |
+          Section 101(3) of the Civil Procedure Code governs the use of forms, allowing forms from the Indian Code of Civil Procedure to be used until replaced or varied by the Chief Justice.
+      - question: |
+          What specific decree form was cited in the Uniafrico case?
+        answer: |
+          The cited decree form was titled 'DECREE IN ORIGINAL SUIT (ORDER 20, RULES 6,7)' and included sections for claims, the presence of parties, ordered payments, costs, and interest rates.
+      - question: |
+          Why does the text state that the decree was not substantially drawn in conformity with required forms?
+        answer: |
+          The decree did not adhere to the prescribed form outlined under the Indian Code of Civil Procedure 1908, which remains applicable in Tanzania as specified in section 101(3) of the Civil Procedure Code.
+document_outline: |
+  ### Document Outline:
+  
+  The document details the ruling of the Court of Appeal of Tanzania at Mbeya in **Civil Appeal No. 83 of 2008**, where the appellant, Gobanya F. Hezwa, contested the judgment of the High Court. The court addressed a preliminary objection raised by the respondent, the Tanzania Revenue Authority, concerning procedural deficiencies related to the decree's dating and signing, ultimately determining that these omissions rendered the appeal incompetent.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Gobanya_F_Hezwa_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_83_of_2008)_2010_TZCA_102_(23_July_2010).md

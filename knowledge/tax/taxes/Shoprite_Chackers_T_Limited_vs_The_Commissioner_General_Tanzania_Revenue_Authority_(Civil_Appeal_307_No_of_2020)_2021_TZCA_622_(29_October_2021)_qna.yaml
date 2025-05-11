@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM; MWAMBEGELE, J.A., KEREFU. J.A. And MAIGE. J.A.^ ## CIVIL APPEAL NO. 307 OF 2020 SHOPRITE CHECKERS (T) LIMITED....................................... APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.......................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal Sitting at Dar es salaam) (Nqimilanqa. Vice-Chairperson) Dated the 30th day of January, 2020 in Tax Appeal No. 11 of 2019 ## JUDGMENT OF THE COURT 20'" &amp; 29th October, 2021 ## MAIGE, 3.A.: Until 2008, income tax in Tanzania Mainland was chargeable for each year of income to every person who earned total 2ps. income for a year of income or he who received a final withholding payment during the year of income. Unrelieved loss of the year of income and of a previous year of income was, under section 19(1) (a) and (b) of the Income Tax Act of 2004 (the Act), deducted in calculating income without any discrimination. 2ps. 1ps. J.A.^ ## CIVIL APPEAL NO. 307 OF 2020 SHOPRITE CHECKERS (T) LIMITED....................................... APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY.......................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal Sitting at Dar es salaam) (Nqimilanqa. Unrelieved loss of the year of income and of a previous year of income was, under section 19(1) (a) and (b) of the Income Tax Act of 2004 (the Act), deducted in calculating income without any discrimination. In 2008, section 4(1) of the Act was 2ps. amended by the Finance Act No. 13 of 2008 so as to introduce alternative minimum tax (the AMT) in respect of a corporation which has a perpetual unrelieved loss for the year of income and previous two years of income attributable to tax incentives.
+    questions_and_answers:
+      - question: |
+          What was the main issue in Civil Appeal No. 307 of 2020 between Shoprite Checkers (T) Limited and the Tanzania Revenue Authority?
+        answer: |
+          The case involved a dispute over income tax computations and the application of tax laws, specifically regarding unrelieved losses and the introduction of alternative minimum tax under the Income Tax Act as amended in 2008.
+      - question: |
+          What does the term 'unrelieved loss' refer to in the context of the Income Tax Act of 2004?
+        answer: |
+          An 'unrelieved loss' refers to a loss for a year of income or a previous year of income that is not offset and remains deductible when calculating taxable income.
+      - question: |
+          How was the Income Tax Act of 2004 amended in 2008?
+        answer: |
+          In 2008, section 4(1) of the Income Tax Act of 2004 was amended by the Finance Act No. 13 of 2008 to introduce an alternative minimum tax for corporations with perpetual unrelieved losses over the year of income and the previous two years, attributable to tax incentives.
+      - question: |
+          What was the purpose of introducing the alternative minimum tax (AMT) in 2008?
+        answer: |
+          The alternative minimum tax (AMT) was introduced to ensure that corporations with continual unrelieved losses due to tax incentives still contributed a minimum tax to the revenue system.
+      - question: |
+          Who presided over the Tax Revenue Appeals Tribunal's original decision in this case?
+        answer: |
+          The original decision at the Tax Revenue Appeals Tribunal was presided over by Nqimilanqa, the Vice-Chairperson.
+  - context: |
+      1ps. 1ps. It is equally irrefutable that, under the respective certificate, the appellant which was operating a chain of retail stores in Arusha and Dar Es Salaam, enjoyed special incentives on import duties, withholding taxes and eligibility of capital allowances. Further not in dispute is the fact that, the appellant though utilized the tax incentives in the initial two years of investment, she did not, throughout the period of her operation, declare any profit. In 2014, the respondent, having conducted a tax audit in respect of 2ps. 2012 and 2013 years of income, made assessments number F. 13730 for 2012 and F. 13731 for 2013 and subjected the appellant to AMT at the rate of 0.3% on her turnovers for the respective years of income. Aggrieved, the appellant preferred objections against the aforesaid assessments on the common ground that, her perpetual unrelieved loss in the respective years of income was not attributable to tax incentive but normal 3ps. operational loss. The objections were refused and the appellant preferred appeals to the Tax Revenue Appeals Board (the Board) against each of the decisions. 2ps. 1ps. In 2014, the respondent, having conducted a tax audit in respect of 2012 and 2013 years of income, made assessments number F. 13730 for 2012 and F. 13731 for 2013 and subjected the appellant to AMT at the rate of 0.3% on her turnovers for the respective years of income. Aggrieved, the appellant preferred objections against the aforesaid assessments on the common ground that, her perpetual unrelieved loss in the respective years of income 2ps. was not attributable to tax incentive but normal operational loss. In the Tax Appeal Nos.
+    questions_and_answers:
+      - question: |
+          What special incentives did the appellant enjoy under the respective certificate?
+        answer: |
+          The appellant enjoyed special incentives on import duties, withholding taxes, and eligibility for capital allowances.
+      - question: |
+          How did the appellant utilize the tax incentives during the initial years of operation?
+        answer: |
+          The appellant utilized the tax incentives during the initial two years of investment but did not declare any profit throughout her period of operation.
+      - question: |
+          What triggered the respondent's tax audit and assessment in 2014?
+        answer: |
+          In 2014, the respondent conducted a tax audit for the years 2012 and 2013, leading to assessments F. 13730 for 2012 and F. 13731 for 2013, subjecting the appellant to AMT at a rate of 0.3% of her turnovers for those years.
+      - question: |
+          What was the appellant’s main objection regarding the assessments made for 2012 and 2013?
+        answer: |
+          The appellant objected to the assessments on the grounds that her continuous unrelieved losses in the respective years were due to normal operational loss and not the result of the tax incentives.
+      - question: |
+          What action did the appellant take after her objections were refused?
+        answer: |
+          After her objections were refused, the appellant appealed to the Tax Revenue Appeals Board against each of the decisions.
+  - context: |
+      1ps. 1ps. In his view therefore, for the unrelieved loss of 2012 and 2013 years of income, it is the turnover of 2015's years of income which would be taxable. In the second place, it was M ir. Axwesso's submission that, to establish that the loss was attributed to tax incentives, it was necessary for the respondent to produce empirical evidence to that effect. In his further submissions, Mr. Axwesso was of the contention that, contrary to the Tribunal's expression, there was ample evidence on the record to the effect 2ps. that the loss in question resulted from other factors such as poor sales, theft, insufficient parking lot for customers and wrong business cites. The complaint in the second ground of appeal is that, the Tribunal introduced a new principle of law when it held that the appellant had a burden to prove beyond reasonable doubt that, she did not utilize tax incentives. 2ps. 1ps. Axwesso's submission that, to establish that the loss was attributed to tax incentives, it was necessary for the respondent to produce empirical evidence to that effect. In his further submissions, Mr. Axwesso was of the contention that, contrary to the Tribunal's expression, there was ample evidence on the record to the effect that the loss in question resulted from other factors such as poor sales, theft, insufficient parking lot for customers and wrong business cites. Nonetheless, when we requested him to show where such a finding appears in the judgment of the Tribunal, 2ps. Mr. Axwesso was quick to admit that the same is not in the judgment. Our reading of the judgment also suggests so. In the circumstance, the second ground of appeal is dismissed for being misplaced. In support of the third and fourth grounds, Mr.
+    questions_and_answers:
+      - question: |
+          What was Mr. Axwesso's submission regarding the attribution of the unrelieved loss of 2012 and 2013 to tax incentives?
+        answer: |
+          Mr. Axwesso submitted that it was necessary for the respondent to produce empirical evidence to establish that the loss was attributed to tax incentives.
+      - question: |
+          What reasons did Mr. Axwesso provide for the loss apart from tax incentives?
+        answer: |
+          Mr. Axwesso argued that the loss resulted from factors such as poor sales, theft, insufficient parking lot for customers, and wrong business locations.
+      - question: |
+          What did the Tribunal assert regarding the burden of proof on the appellant in relation to tax incentives?
+        answer: |
+          The Tribunal held that the appellant had a burden to prove beyond reasonable doubt that she did not utilize tax incentives.
+      - question: |
+          When asked to show where the Tribunal's finding appeared in the judgment, how did Mr. Axwesso respond?
+        answer: |
+          Mr. Axwesso admitted that the Tribunal's finding was not present in the judgment.
+      - question: |
+          What was the outcome of the second ground of appeal and why?
+        answer: |
+          The second ground of appeal was dismissed for being misplaced, as the claim about the Tribunal's finding was not supported by the judgment.
+  - context: |
+      1ps. 1ps. It was submitted further or in the alternative that if, which is not, the AMT was imposed basing on 2012 amendment, the decision of the Tribunal would remain correct because ATM was charged on the appellant's turnovers for 2012 and 2013 years of income. The unrelieved perpetual loss for the previous two years of income, he submitted, was only the precondition for the imposition of the same. In the alternative, it was submitted that, under the express provision of section 18 (2) (b) of the Tax Revenue Appeals Act, [ Cap. 2ps. 408 R.E. 2019] the burden of proof lies on the appellant. In the further alternative, it was submitted that, the issue cannot be relevant because it is being raised for the first time in this appeal. On the fifth ground, it was the submission for the respondent that, since the imposition of AMT was correct, the charge of interest was in the same way correct. Finally, the counsel urged the Court to dismiss the appeal with costs. 2ps. 1ps. In the further alternative, it was submitted that, the issue cannot be relevant because it is being raised for the first time in this appeal. On the fifth ground, it was the submission for the respondent that, since the imposition of AMT was correct, the charge of interest was in the same way correct. Finally, the counsel urged the Court to dismiss the appeal with costs. In his rejoinder submission, Mr. Axwesso did not raise any 2ps. new issue apart from reiterating his submissions in chief. We have taken time to carefully study the rival submissions and examine the record. With all respects to the counsel for the appellant, we are of the view that this appeal is devoid of any merit.
+    questions_and_answers:
+      - question: |
+          What was submitted regarding the AMT based on the 2012 amendment?
+        answer: |
+          It was submitted that if the AMT was imposed based on the 2012 amendment, the Tribunal's decision would remain correct, as the AMT was charged on the appellant's turnovers for the 2012 and 2013 income years.
+      - question: |
+          What was stated as the precondition for the imposition of the AMT?
+        answer: |
+          It was submitted that the precondition for the imposition of the AMT was the unrelieved perpetual loss for the previous two years of income.
+      - question: |
+          What does section 18 (2) (b) of the Tax Revenue Appeals Act specify regarding the burden of proof?
+        answer: |
+          Section 18 (2) (b) of the Tax Revenue Appeals Act specifies that the burden of proof lies on the appellant.
+      - question: |
+          Why was one issue deemed irrelevant in the appeal?
+        answer: |
+          The issue was deemed irrelevant because it was being raised for the first time during the appeal.
+      - question: |
+          What was the Court's final view on the merit of the appeal?
+        answer: |
+          The Court concluded that the appeal was devoid of any merit.
+  - context: |
+      1ps. 1ps. The respondent maintained the same position in its decision refusing the objection. Just as it was for the Board, the tribunal, in its decision, was of the considered opinion that, in the absence of concrete evidence demarcating between loss attributed to tax incentive and that which is attributed by other factors, it cannot be said that the appellant has proved that the same was not attributable to tax incentives. In our considered view 2ps. the appellant is quite wrong because in accordance with section 18(2) (b) of the Tax Appeals Tribunals' Act, the burden of proof in tax matters lies on the tax-payer. The equity behind the law was explained in details in the case of Insiginia Limited vs. The Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 14 of 2007 (unreported) in the following words:- The burden of proof in tax matters has often been placed on the 3ps. tax-payer. 2ps. 1ps. In our considered view the appellant is quite wrong because in accordance with section 18(2) (b) of the Tax Appeals Tribunals' Act, the burden of proof in tax matters lies on the tax-payer. The equity behind the law was explained in details in the case of Insiginia Limited vs. The Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 14 of 2007 (unreported) in the following words:- The burden of proof in tax matters has 2ps. often been placed on the tax-payer. This indicates how critical the burden rule is, and reflects several competing rationales: the vital interest of the government in getting its revenues; the tax payer has easy access to the relevant information and the importance of encouraging voluntary compliance by giving tax-payers incentives to self-report and to keep adequate records in case of disputes". 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What was the tribunal's stance regarding the appellant's objection?
+        answer: |
+          The tribunal maintained the same position as the Board, stating that without concrete evidence distinguishing the losses caused by tax incentives versus other factors, the appellant had not proven that the losses were not due to tax incentives.
+      - question: |
+          According to the tribunal, who holds the burden of proof in tax matters?
+        answer: |
+          The tribunal stated that, in accordance with section 18(2)(b) of the Tax Appeals Tribunals' Act, the burden of proof in tax matters lies on the tax-payer.
+      - question: |
+          What case was cited to support the burden of proof being placed on the tax-payer?
+        answer: |
+          The case of Insiginia Limited vs. The Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 14 of 2007, was cited to explain why the burden of proof typically lies with the tax-payer.
+      - question: |
+          What are the rationales behind the burden of proof being placed on the tax-payer in tax matters?
+        answer: |
+          The rationales include the government's vital interest in collecting revenues, the tax-payer's easy access to relevant information, and the importance of encouraging voluntary compliance through self-reporting and maintaining adequate records.
+      - question: |
+          Why did the tribunal conclude that the appellant had not met the burden of proof?
+        answer: |
+          The tribunal concluded this because the appellant failed to provide concrete evidence separating losses attributed to tax incentives from those caused by other factors.
+document_outline: |
+  **Document Outline:**  
+  
+  This document is a judgment from the Court of Appeal of Tanzania concerning Civil Appeal No. 307 of 2020, in which Shoprite Checkers (T) Limited (the appellant) challenges the imposition of Alternative Minimum Tax (AMT) by the Commissioner General of the Tanzania Revenue Authority (the respondent). The appeal centers on the legal validity of applying AMT to Shoprite for the fiscal years 2012 and 2013 despite its perpetual unrelieved losses, alongside issues of tax incentives and interest on assessed taxes as determined by the Tax Revenue Appeals Board and Tribunal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Shoprite_Chackers_T_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_307_No_of_2020)_2021_TZCA_622_(29_October_2021).md

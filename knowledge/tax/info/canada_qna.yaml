@@ -1,0 +1,128 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (b) ## Canada - Tanzania Income and Capital Tax Treaty (1995) <!-- image --> Status: In Force Conclusion Date: 15 December 1995. Entry into Force: 29 August 1997. Effective Date: 1 January 1998 (see Article 30). Note: The French text is also available in this database. ## AGREEMENT BETWEEN ## CANADA AND THE UNITED REPUBLIC OF TANZANIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL ## I. Scope of the Agreement ## Article 1 Personal scope [Compare: OECD Model | UN Model] This Agreement shall apply to persons who are residents of one or both of the Contracting States. Article 2ps. 2 ## Taxes covered ## [Compare: OECD Model | UN Model] - 1. This Agreement shall apply to taxes on income and on capital imposed on behalf of each Contracting State, irrespective of the manner in which they are levied. 2ps. 1ps. ## AGREEMENT BETWEEN ## CANADA AND THE UNITED REPUBLIC OF TANZANIA FOR THE AVOIDANCE OF DOUBLE TAXATION AND THE PREVENTION OF FISCAL EVASION WITH RESPECT TO TAXES ON INCOME AND ON CAPITAL ## I. Scope of the Agreement ## Article 1 Personal scope [Compare: OECD Model | UN Model] This Agreement shall apply to persons who are residents of one or both of the Contracting States. - 2. There shall be regarded as taxes on income and on capital all taxes imposed on total income, on total capital, or on elements of income or of capital, including taxes on gains from the alienation of 2ps. movable or immovable property, as well as taxes on capital appreciation. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          When was the Canada-Tanzania Income and Capital Tax Treaty concluded and when did it come into force?
+        answer: |
+          The treaty was concluded on 15 December 1995 and came into force on 29 August 1997.
+      - question: |
+          What is the effective date of the Canada-Tanzania Income and Capital Tax Treaty?
+        answer: |
+          The effective date of the treaty is 1 January 1998, as specified in Article 30.
+      - question: |
+          To whom does the personal scope of the Canada-Tanzania Tax Treaty apply?
+        answer: |
+          The personal scope of the treaty applies to persons who are residents of one or both of the Contracting States.
+      - question: |
+          What types of taxes are covered under the Canada-Tanzania Tax Treaty?
+        answer: |
+          The treaty applies to taxes on income and on capital imposed on behalf of each Contracting State, including taxes on total income, total capital, gains from the alienation of property, and capital appreciation.
+      - question: |
+          Is the French text of the Canada-Tanzania Tax Treaty available in the database?
+        answer: |
+          Yes, the French text of the treaty is also available in the database.
+  - context: |
+      1ps. 1ps. - 4. Where by reason of the provisions of paragraph 1 a person other than an individual or a company is a resident of both Contracting States, the competent authorities of the Contracting States shall by mutual agreement endeavour to settle the question and to determine the mode of application of the Agreement to such person. - 3. The term "permanent establishment" likewise encompasses: - (a) a building site, a construction, assembly or installation project or supervisory activities in connection therewith, but only where such site, project or activities continue for a period of six months or more; - (b) the furnishing 2ps. of services, including consultancy services, by an enterprise through employees or other personnel engaged by the enterprise for such purpose, but only where activities of that nature continue (for the same or connected project) within the country for a period or periods aggregating to six or more months within any twelve month period. 2ps. 1ps. ## Article 5 ## Permanent establishment ## [Compare: OECD Model | UN Model] - 1. For the purposes of this Agreement, the term "permanent establishment" means a fixed place of business through which the business of an enterprise is wholly or partly carried on. - 4. Notwithstanding the preceding provisions of this Article, the term "permanent establishment" shall be deemed not to include: - he use of facilities solely for the purpose of storage, display or delivery of goods or merchandise (a) t belonging to the enterprise; - (b) the maintenance of a stock of goods or merchandise belonging to the enterprise solely for the 2ps.
+    questions_and_answers:
+      - question: |
+          What happens if a person other than an individual or company is considered a resident of both Contracting States?
+        answer: |
+          The competent authorities of the Contracting States must attempt to settle the issue by mutual agreement and determine how the Agreement applies to such a person.
+      - question: |
+          How is a 'permanent establishment' defined according to this Agreement?
+        answer: |
+          A 'permanent establishment' is defined as a fixed place of business through which the business of an enterprise is wholly or partly carried out.
+      - question: |
+          What are the requirements for a building site or construction project to qualify as a 'permanent establishment'?
+        answer: |
+          A building site, construction, assembly, or installation project qualifies as a 'permanent establishment' if it lasts for six months or more.
+      - question: |
+          Under what circumstances would the furnishing of services be considered a 'permanent establishment'?
+        answer: |
+          The furnishing of services, such as consultancy services, constitutes a 'permanent establishment' if activities of that nature continue for six months or more within any twelve-month period for the same or connected project.
+      - question: |
+          What activities are explicitly excluded from being considered a 'permanent establishment'?
+        answer: |
+          Activities such as the use of facilities solely for storage, display, or delivery of goods or merchandise belonging to the enterprise are explicitly excluded from being considered a 'permanent establishment.'
+  - context: |
+      1ps. 1ps. ## Article 8 ## Shipping and air transport [Compare: OECD Model | UN Model] - 1. Profits derived by an enterprise of a Contracting State from the operation of aircraft in international traffic shall be taxable only in that State. - 2. Profits derived by an enterprise of a Contracting State from the operation of ships in international traffic may be taxed in both Contracting States according to the law of each Contracting State. - 3. Notwithstanding the provisions of paragraphs 1 and 2 and of Article 7, profits derived from the operation of ships or aircraft used principally to transport passengers or 2ps. goods exclusively between places in a Contracting State may be taxed in that State. - 4. The provisions of paragraphs 1, 2 and 3 shall also apply to profits from the participation in a pool, a joint business or an international operating agency. 2ps. 1ps. Provided that where such an enterprise derives profits from such operation in the other Contracting State, for the purposes of taxation in that other State: - (a) such profits shall be deemed to be an amount not exceeding five per cent of the full amount received by the enterprise on account of the carriage of passengers or freight embarked in that other State; - (b) the tax chargeable in that other State shall not exceed fifty per cent of the profits as calculated under the provisions of subparagraph (a). - 5. In this Article, - he term "profits" includes: (a) t - (i) 2ps.
+    questions_and_answers:
+      - question: |
+          What does Article 8 say about the taxation of profits from operating aircraft in international traffic?
+        answer: |
+          Profits derived by an enterprise of a Contracting State from the operation of aircraft in international traffic shall be taxable only in that State.
+      - question: |
+          How are profits from operating ships in international traffic treated under Article 8?
+        answer: |
+          Profits derived by an enterprise of a Contracting State from the operation of ships in international traffic may be taxed in both Contracting States according to the law of each Contracting State.
+      - question: |
+          Under what conditions can profits from ships or aircraft transporting passengers or goods within a single Contracting State be taxed?
+        answer: |
+          Profits from the operation of ships or aircraft used principally to transport passengers or goods exclusively between places in a Contracting State may be taxed in that State.
+      - question: |
+          What does Article 8 specify about profits from participation in a pool, joint business, or international operating agency?
+        answer: |
+          The provisions for profits from operating ships or aircraft (paragraphs 1, 2, and 3) also apply to profits from participation in a pool, joint business, or international operating agency.
+      - question: |
+          What limitations are placed on the taxation of profits derived in the other Contracting State under Article 8?
+        answer: |
+          Profits derived in the other Contracting State are deemed not to exceed five percent of the full amount received by the enterprise for the carriage of passengers or freight, and the tax chargeable in the other State shall not exceed fifty percent of these calculated profits.
+  - context: |
+      1ps. 1ps. - 4. The provisions of paragraph 2 shall not apply if the beneficial owner of the dividends, being a resident of a Contracting State, carries on business in the other Contracting State of which the company paying the dividends is a resident, through a permanent establishment situated therein, or performs in that other State independent personal services from a fixed base situated therein, and the holding in respect of which the dividends are paid is effectively connected with such permanent establishment or fixed base. - 6. Notwithstanding any provision of this Agreement: - (a) a company which is a resident of 2ps. Tanzania and which has a permanent establishment in Canada shall, in accordance with the provisions of Canadian law, remain subject to the additional tax on companies other than Canadian corporations, but the rate of such tax shall not exceed 20 per cent; - (b) a company which is a resident of Canada and which has a permanent establishment in Tanzania shall remain subject to an additional rate of tax in accordance with the provisions of Tanzanian law, but such additional rate shall not exceed 12 per cent. 2ps. 1ps. In such case the provisions of Article 7 or Article 15, as the case may be, shall apply. ## Article 11 Interest ## [Compare: OECD Model | UN Model] - 1. Interest arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State. - 2. However, such interest may also be taxed in the Contracting State in which it arises and according to the laws of that State, but if the recipient is the beneficial owner of the interest the tax so charged shall not exceed 15 per cent of 2ps.
+    questions_and_answers:
+      - question: |
+          Under what circumstances do the provisions of paragraph 2 regarding dividends not apply?
+        answer: |
+          The provisions do not apply if the beneficial owner of the dividends is a resident of a Contracting State, conducts business through a permanent establishment in the other Contracting State, or provides independent personal services from a fixed base located there, and the holding generating the dividends is connected to that permanent establishment or fixed base.
+      - question: |
+          What is the maximum additional tax rate imposed on a Tanzanian company with a permanent establishment in Canada?
+        answer: |
+          The maximum additional tax rate is 20 percent, in accordance with Canadian law.
+      - question: |
+          What is the maximum additional tax rate imposed on a Canadian company with a permanent establishment in Tanzania?
+        answer: |
+          The maximum additional tax rate is 12 percent, as per Tanzanian law.
+      - question: |
+          What articles govern the tax provisions when dividends are effectively connected to a permanent establishment or fixed base?
+        answer: |
+          In such cases, the provisions of Article 7 or Article 15, as applicable, govern the taxation.
+      - question: |
+          What is the tax limitation on interest paid to a beneficial owner residing in the other Contracting State?
+        answer: |
+          The tax on such interest, if paid to a beneficial owner, shall not exceed 15 percent in the Contracting State where the interest arises.
+  - context: |
+      1ps. 1ps. For the purposes of this paragraph, the term "immovable property" includes the shares of a company referred to in subparagraph (a) or an interest in a partnership, trust or estate referred to in subparagraph (b) but does not include any property, other than rental property, in which the business of the company, partnership, trust or estate is carried on. - 7. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3, 4 and 5 shall be taxable only in the Contracting State of which the alienator is a resident. - 8. The provisions 2ps. of paragraph 7 shall not affect the right of a Contracting State to levy, according to its law, a tax on gains from the alienation of any property derived by an individual who is a resident of the other Contracting State and has been a resident of the first-mentioned State at any time during the six years immediately preceding the alienation of the property. 2ps. 1ps. - 7. Gains from the alienation of any property, other than that referred to in paragraphs 1, 2, 3, 4 and 5 shall be taxable only in the Contracting State of which the alienator is a resident. ## Article 14 ## Management and professional fees [Compare: OECD Model | UN Model] - 1. Management or professional fees arising in a Contracting State and paid to a resident of the other Contracting State may be taxed in that other State. - 2. However, such management or professional fees may also be taxed in the Contracting State in which they arise and according to the 2ps. laws of that State, but the tax so charged shall not exceed 20 per cent of the gross amount of the fees. - 3.
+    questions_and_answers:
+      - question: |
+          What is included under 'immovable property' according to the context?
+        answer: |
+          Immovable property includes shares of a company as per subparagraph (a) or an interest in a partnership, trust, or estate referred to in subparagraph (b), but excludes non-rental property where the business of the company, partnership, trust, or estate is conducted.
+      - question: |
+          What is the taxation rule for gains from the alienation of property not covered in paragraphs 1 through 5?
+        answer: |
+          Gains from the alienation of such property are taxable only in the Contracting State where the alienator is a resident.
+      - question: |
+          Under what condition can a Contracting State levy taxes on gains derived by a resident of another State from property alienation?
+        answer: |
+          A Contracting State can levy taxes if the individual was a resident of that State at any time during the six years immediately preceding the alienation of the property.
+      - question: |
+          How are management or professional fees treated for taxation according to Article 14?
+        answer: |
+          Management or professional fees arising in one Contracting State and paid to a resident of the other Contracting State can be taxed in the latter state, but they may also be taxed in the State where the fees arise, subject to a maximum tax of 20% of the gross amount.
+      - question: |
+          What limitation is imposed on the tax charged by the Contracting State where management or professional fees arise?
+        answer: |
+          The tax charged on management or professional fees in the State where they arise must not exceed 20% of the gross amount of the fees.
+document_outline: |
+  **Document Outline:**  
+  
+  The document outlines the 1995 Canada-Tanzania Income and Capital Tax Treaty, an agreement aimed at avoiding double taxation and preventing fiscal evasion concerning taxes on income and capital. It details the treaty's scope, taxes covered, and key definitions, while referencing alignment with OECD and UN models, and providing specifics on relevant taxes and jurisdictions for both countries.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - canada.md

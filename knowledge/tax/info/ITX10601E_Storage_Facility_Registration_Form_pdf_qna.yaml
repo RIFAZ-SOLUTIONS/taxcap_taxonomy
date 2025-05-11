@@ -1,0 +1,35 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## REGISTRATION FORM FOR STORAGE FACILITY FOMU YA USAJILI WA MAENEO YA KUHIFADHIA BIDHAA SUPPLEMENTARY INFORMATION TAARIFA YA ZIADA (This form must be filled in Capital letters/ Fomu hii lazima ijazwe kwa herufi kubwa) (Please put a tick symbol  in a box to indicate a selection/ Tafadhali weka alama ya  kwenye kisanduku kuonyesha uchaguzi) 1. TIN of Storage facility Owner/ TIN ya Mmiliki wa Eneo la Kuhifadhia Bidhaa Name of Applicant/ Majina ya Mwombaji 2. Storage Facility Number/ Numba ya Usajili * 3. Facility Details/ Taarifa za Eneo la Kuhifadhia Bidhaa Physical Address/ Street 2ps. Postcode/ 3ps. Block District Jina la Mtaa au Eneo la ghala 2: 4ps. Wilaya au 5ps. Mji 4. Size of Storage Facility/ Square Meters Number of Storey / Idadi ya Sakafu Type of goods Stored/Aina za Bidhaa Zinazotunzwa: a) ………………………………………………………………………… b) ………………………………………………………………………… c) ………………………………………………………………………… d) ………………………………………………………………………… e) ………………………………………………………………………… 5. The storage facility has been rent to other person: Yes/Ndiyo 6ps. No/ Hapana Je Eneo limepangishwa kwa mtu mwingine: If Yes, How many Operators: ……………… Kama Ndiyo, Wapangaji wapo wangapi: 6. Contact Numbers/ Namba za mawasiliano: Phone number/ Namba ya simu 7ps. Second Phone / Simu ya Pili Third Phone / Simu ya Tatu 8ps. Fax number / Namba ya Fax E-mail address/ Barua Pepe Applicant's Declaration/ Uthibitisho wa Mwombaji: 6. I, the undersigned, do hereby declare that the particulars given above are correct and complete to the best of my knowledge/ Nathibitisha kwamba taarifa zilizopo hapo juu ni kamili na sahihi kwa kadri ya ufahamu wangu. 2ps. 1ps. Title: Mr/ Bwana Mrs/ Bibi Ms/ Bi First Name/ Jina la Kwanza Middle Name/ Jina la Pili 2ps. Surname/ Jina la Ukoo Position/ Wadhifa Day/ Siku Month/ Mwezi Year/ Mwaka Signature of the Applicant/ 3ps.
+    questions_and_answers:
+      - question: |
+          What language is used alongside English in the registration form for the storage facility?
+        answer: |
+          Swahili is used alongside English in the registration form.
+      - question: |
+          What is required to be provided under the 'Facility Details' section of the form?
+        answer: |
+          Details about the physical address, including street name, postcode, block, district, and city, must be provided.
+      - question: |
+          What information about the stored goods must be specified in the form?
+        answer: |
+          The type of goods stored in the facility must be listed, allowing applicants to detail up to five categories of goods.
+      - question: |
+          What declaration is made by the applicant in the Applicant's Declaration section?
+        answer: |
+          The applicant declares that the information provided in the form is complete and correct to the best of their knowledge.
+      - question: |
+          What should the applicant do if the storage facility is rented out to others?
+        answer: |
+          If the facility is rented out, the applicant must indicate the total number of operators using the space.
+document_outline: |
+  **Document Outline:**  
+  The document is a bilingual (English and Swahili) registration form for storage facilities, requiring applicants to provide details such as owner information, facility size, location, types of goods stored, tenant details, and contact information. It includes sections for declarations by the applicant, official use by the TRA (Tax Revenue Authority), and a numbering system for facility registration.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - ITX10601E_Storage_Facility_Registration_Form_pdf.md

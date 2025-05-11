@@ -1,0 +1,127 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## CIVIL APPLICATION NO. 245/20 OF 2021 DIANAROSE SPAREPARTS LTD.......................................................APPLICANT ## VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY ............................. .......... RESPONDENT (Application for extension of time to file a Memorandum and Records Appeal in an intended Appeal from the Judgment of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## fMiemmas. Chairperson.^ dated the 30th day of March, 2021 in Appeal No. 11 of 2020 ## RULING 4th October &amp; 19th December, 2022 ## KENTE. J.A.: This is an application under rule 10 of the Tanzania Court of Appeal Rules 2009 2ps. (hereinafter the Rules) seeking an extension of time within which to file a memorandum and records of appeal to challenge the decision of the Tax Revenue Appeals Tribunal (the TRAT) dated 30t h March, 2021 in appeal No. 11 of 2020. The notice of motion initiating this application is supported by an affidavit deponed by Mr. Raymond Wawa the applicant's counsel. 2ps. 1ps. Chairperson.^ dated the 30th day of March, 2021 in Appeal No. 11 of 2020 ## RULING 4th October &amp; 19th December, 2022 ## KENTE. J.A.: The gist of Mr. Wawa's averment is that, the applicant could not file the memorandum and records of appeal in time because of the reasons which were beyond its control. According to Mr. Wawa, the applicant could not beat the deadline after the person to whom it had taken the bundle of documents including the pleadings and proceedings in 2ps.
+    questions_and_answers:
+      - question: |
+          What is the main purpose of the application filed by Dianarose Spareparts Ltd.?
+        answer: |
+          The application seeks an extension of time to file a memorandum and records of appeal to challenge the decision of the Tax Revenue Appeals Tribunal dated 30th March, 2021 in Appeal No. 11 of 2020.
+      - question: |
+          Under which rule of the Tanzania Court of Appeal Rules was the application made?
+        answer: |
+          The application was made under Rule 10 of the Tanzania Court of Appeal Rules, 2009.
+      - question: |
+          Who filed the supporting affidavit for the application, and what was its primary claim?
+        answer: |
+          The supporting affidavit was deponed by Mr. Raymond Wawa, the applicant's counsel, and it claimed that the applicant could not meet the filing deadline due to reasons beyond its control.
+      - question: |
+          What event or decision was the applicant intending to appeal?
+        answer: |
+          The applicant intended to appeal against the decision of the Tax Revenue Appeals Tribunal (TRAT) dated 30th March, 2021 in Appeal No. 11 of 2020.
+      - question: |
+          On which dates were the ruling hearings conducted for this application?
+        answer: |
+          The ruling hearings for the application were conducted on 4th October and 19th December, 2022.
+  - context: |
+      1ps. 1ps. Dissatisfied, the appellant vainly appealed to the TRAT which held, as did the TRAB that, the Board had no jurisdiction to determine the appeal preferred by the appellant. The applicant company which had yet to come to terms with the result of the compoundment order, sought to appeal to this Court. To that end, on 9t h April, 2021 it promptly lodged a notice of appeal in terms Rule 83 (1) of the 2ps. Rules and served its copy on the respondent as required under Rule 84 (1). By virtue of Rule 91 (1), the applicant was supposed to lodge the memorandum and record of appeal not later than 8th June, 2021 but it could not do so hence the present application. On this application for extension of time to file the memorandum and record of appeal out of time, the issue is mainly one. That is whether or not, the applicant has 3ps. furnished good cause in terms of rule 10 of the rules to explain away the delay. 2ps. 1ps. By virtue of Rule 91 (1), the applicant was supposed to lodge the memorandum and record of appeal not later than 8th June, 2021 but it could not do so hence the present application. On this application for extension of time to file the memorandum and record of appeal out of time, the issue is mainly one. That is whether or not, the applicant has furnished good cause in terms of rule 10 of the rules to explain away the delay. In a 2ps. bid to account for the delay, Mr. Wawa came up with the following averments as contained in paragraphs 29-31 of his affidavit reciting a litany of events. - 29.
+    questions_and_answers:
+      - question: |
+          Why did the applicant company seek an appeal to the higher court?
+        answer: |
+          The applicant company sought an appeal to the higher court because the TRAT affirmed the TRAB's decision that the Board did not have jurisdiction to handle the appeal initiated by the appellant.
+      - question: |
+          What procedural step did the applicant take on April 9, 2021, in pursuing its appeal?
+        answer: |
+          On April 9, 2021, the applicant lodged a notice of appeal in accordance with Rule 83 (1) of the rules and served a copy to the respondent as required under Rule 84 (1).
+      - question: |
+          What deadline was the applicant supposed to meet for lodging the memorandum and record of appeal?
+        answer: |
+          The applicant was supposed to lodge the memorandum and record of appeal by June 8, 2021, as specified under Rule 91 (1).
+      - question: |
+          What is the key issue in the application for an extension of time to file the appeal documents?
+        answer: |
+          The key issue is whether the applicant has furnished good cause under Rule 10 of the rules to justify the delay in filing the memorandum and record of appeal.
+      - question: |
+          What strategy did Mr. Wawa employ to explain the delay in filing the appeal documents?
+        answer: |
+          Mr. Wawa referred to a list of events recorded in paragraphs 29-31 of his affidavit to account for the delay.
+  - context: |
+      1ps. 1ps. Other grounds advanced by Mr. Wawa in support of the application were that: - i) The intended appeal raises important points of law. - ii) The delay is not inordinate, and - iii) The judgment sought to be challenged on appeal is fraught with some material irregularities. In reply Mr. Leyan Sabore learned counsel appearing for the respondent was diametrically opposed to Mr. Wawa's contention regarding indisposition of the proprietor of the secretarial bureau. With regard to the 2ps. case of P.B. Patel v. The Star Mineral Water and Ice Factory (Uganda) Ltd (1961) E.A. 454 which Mr. Wawa relied on in support of the position that, sickness has been considered to be a good cause to explain away the delay to take necessary steps, Mr. Sabore submitted correctly so in my view that, the evidence presented to the Court did not prove that fact. 2ps. 1ps. Among other authorities, the learned counsel relied on our three decisions in the cases of Seif Store Limited v. Zulfikar H. Karim, Civil Application No. 181 of 2013, Mantrac Tanzania Limited V. Raymond Costa, Civil Application No. 1 1 of 2010 and National Bank of Commerce v. Alfred S. Mwita, Civil Application No. 226 of 2014 (all unreported) contending in the end that, 2ps. the case under scrutiny was a fit case for the Court to allow the application and enlarge time as prayed for by the applicant. The learned counsel contended for instance that, there was no affidavit by the said proprietor of the secretarial bureau to support Mr. Wawa's averments that she had been indisposed for such a period as not to be able to photostat the documents allegedly presented 3ps. to her. Moreover, Mr. Sabore could not agree with Mr.
+    questions_and_answers:
+      - question: |
+          What were the grounds advanced by Mr. Wawa in support of the application?
+        answer: |
+          Mr. Wawa advanced that the intended appeal raises important points of law, the delay is not inordinate, and the judgment sought to be challenged is fraught with material irregularities.
+      - question: |
+          What case did Mr. Wawa cite to support his argument regarding sickness as a cause for delay?
+        answer: |
+          Mr. Wawa cited the case of P.B. Patel v. The Star Mineral Water and Ice Factory (Uganda) Ltd (1961) E.A. 454 to argue that sickness has been considered a valid reason to explain delays in taking necessary steps.
+      - question: |
+          What was Mr. Sabore's response to Mr. Wawa’s argument about the sickness of the secretarial bureau proprietor?
+        answer: |
+          Mr. Sabore argued that the evidence presented to the Court did not prove the proprietor's sickness and noted the absence of an affidavit from the proprietor to support Mr. Wawa's claims.
+      - question: |
+          What authorities did Mr. Sabore rely on to oppose Mr. Wawa’s application?
+        answer: |
+          Mr. Sabore relied on three decisions: Seif Store Limited v. Zulfikar H. Karim, Mantrac Tanzania Limited v. Raymond Costa, and National Bank of Commerce v. Alfred S. Mwita, all unreported, to support his contention.
+      - question: |
+          What conclusion did Mr. Sabore reach regarding the case under scrutiny?
+        answer: |
+          Mr. Sabore concluded that the case was a fit instance for the Court to allow the application and enlarge time as prayed for by the applicant.
+  - context: |
+      1ps. 1ps. It is as well common ground that, there are no hard and fast rules when it comes to the question as to what in law, constitutes good cause. It is for that reason that in the case of Seif Store Limited (supra), we stated that: "The interpretation of what constitutes good cause is entirely left to the discretion of the court, a subjective approach. However, categories of what constitutes a good cause are never dosed." The ill-defined nature of what constitutes "good cause" for purposes 2ps. of extension of time is also reflected in our decision in the case of Geita Gold Mining Limited V. Twalib Ally Civil Application No. 14 of 2012 (unreported) to which we were referred by Mr. Wawa. Given the nature of the facts and circumstances obtaining in that case, we held that: "Good cause may debatably be inferred from the fact that the applicant has a statutory right of appeal whose enjoyment it has promptly begun to process." 2ps. 1ps. However, categories of what constitutes a good cause are never dosed." The ill-defined nature of what constitutes "good cause" for purposes of extension of time is also reflected in our decision in the case of Geita Gold Mining Limited V. Twalib Ally Civil Application No. 14 of 2012 (unreported) to which we were referred by Mr. Wawa. Going by the above-cited authorities and many others, it stands to reason that in application for extension of time, good cause depends on facts and 2ps. circumstances of each case.
+    questions_and_answers:
+      - question: |
+          What does 'good cause' mean in the context of the law, according to the text?
+        answer: |
+          Good cause in the context of the law has no strict definition and is interpreted subjectively by the discretion of the court, based on the facts and circumstances of each case.
+      - question: |
+          What was the court's position in the case of Seif Store Limited regarding 'good cause'?
+        answer: |
+          In Seif Store Limited, the court held that the interpretation of what constitutes good cause is left to the court's discretion and that the categories of good cause are not closed.
+      - question: |
+          How did the Geita Gold Mining Limited V. Twalib Ally case contribute to understanding 'good cause'?
+        answer: |
+          The court in the Geita Gold Mining Limited V. Twalib Ally case inferred that good cause could be established if the applicant promptly initiated the process to exercise their statutory right of appeal.
+      - question: |
+          What role do facts and circumstances play in determining 'good cause' for an extension of time?
+        answer: |
+          Facts and circumstances serve as the basis for the court's determination of good cause, as the evaluation is specific to each individual case.
+      - question: |
+          Why is 'good cause' considered ill-defined in legal terms?
+        answer: |
+          Good cause is considered ill-defined because there are no rigid rules, and its interpretation varies depending on the discretionary decision of the court in each case.
+  - context: |
+      1ps. 1ps. Like in the last cited case, I think that in the instant case, Mr. Wawa who is the applicant's advocate cannot purport to depose on another person's alleged illness and recovery from covid-19 without any supporting evidence by way of deposition from that person. Nor can I accept Mr. Wawa's flimsy explanation that the said person had refused to swear an affidavit in support of the claim of her alleged indisposition. With regard to the allegation that the intended appeal raises 2ps. some important points of law and that the decision by the TRAT is fraught with some material irregularities, I am not satisfied that, that is the case, if truth be told. With due respect, I think the contention that the TRAT decision is fraught with some material irregularities, being the applicant's last remaining holdouts, was added to the application 3ps. as an afterthought. 2ps. 1ps. I therefore take it that the claim that the person who was entrusted to photocopy the documents forming the record of appeal got sick as not to be able to make the copies in time, was not established by evidence. With regard to the allegation that the intended appeal raises some important points of law and that the decision by the TRAT is fraught with some material irregularities, I am 2ps. not satisfied that, that is the case, if truth be told. This is because, as I see it and as correctly submitted by Mr. Sabore, there is nothing suggesting, albeit prima facie' that the decision made by the TRAT is suffering from any material irregularity or that the intended appeal raises any important question of law worth of determination by this Court. This, in my respectful view, is an assertion which may 3ps.
+    questions_and_answers:
+      - question: |
+          What evidence was lacking to support the claim about another person's illness and recovery from COVID-19?
+        answer: |
+          The applicant's advocate, Mr. Wawa, provided no supporting evidence by way of deposition from the person allegedly ill and recovering from COVID-19.
+      - question: |
+          Why did the court reject Mr. Wawa's explanation regarding the affidavit?
+        answer: |
+          The court rejected Mr. Wawa's explanation because he stated that the person refused to swear an affidavit, which the court deemed insufficient to support the claim.
+      - question: |
+          What was the court's stance on the claim that the decision by the TRAT had material irregularities?
+        answer: |
+          The court found no evidence to support the claim that the TRAT decision had material irregularities and deemed this contention to have been included as an afterthought.
+      - question: |
+          Why did the court reject the explanation about delays in photocopying documents for the appeal?
+        answer: |
+          The court found that the claim about the entrusted person falling ill and being unable to make copies in time was not established by evidence.
+      - question: |
+          Did the court believe the intended appeal raised important legal questions worth determining?
+        answer: |
+          No, the court was not satisfied that the intended appeal raised any important legal questions or that the TRAT decision contained material irregularities worth examining.
+document_outline: |
+  **Document Outline:**  
+  This document is a court ruling from the Court of Appeal of Tanzania addressing Civil Application No. 245/20 of 2021. The case involves an application by Dianarose Spareparts Ltd. seeking an extension of time to file a memorandum and records of appeal against a decision by the Tax Revenue Appeals Tribunal. The application cites reasons beyond the applicant’s control, such as difficulties caused by the COVID-19 pandemic, which delayed the preparation of appeal documents. Additionally, the case involves disputes over alleged illegal diversion of transit goods into the Tanzanian local market, leading to compounded penalties and jurisdictional disputes before various tax appeal bodies.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Dianarose_Spareparts_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_245_of_2021)_2022_TZCA_818_(19_December_2022).md

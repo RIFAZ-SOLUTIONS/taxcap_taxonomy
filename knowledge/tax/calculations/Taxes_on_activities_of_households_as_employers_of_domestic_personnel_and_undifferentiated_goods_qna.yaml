@@ -1,0 +1,82 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - o Example Calculation : Annual environmental levy of TZS 50,000 for a household. ## 9. Training Levy - o Description : Levy for vocational training for domestic workers. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4.5% of payroll. - o Example Calculation : For a household employing a domestic worker earning TZS 500,000 per month: -  Calculation: Training Levy = 4.5% × TZS 500,000 = TZS 22,500. ## 10. Development Levy - o Description : Levy for local community development. - o Law : Local Government Finance Act, 1982. - o Rate : Typically 0.3% of 2ps. household turnover. - o Example Calculation : Annual household turnover of TZS 10,000,000: -  Calculation: Development Levy = 0.3% × TZS 10,000,000 = TZS 30,000. ## 11. Local Government Service Levy - o Description : Levy for local government services utilized by households. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local government authority. - o Example Calculation : Annual levy of TZS 200,000 for municipal services. 2ps. 1ps. ## 11. Local Government Service Levy - o Description : Levy for local government services utilized by households. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local government authority. - o Example Calculation : Annual levy of TZS 200,000 for municipal services. ## 12. Accreditation Fees for Household Workers - o Description : Fees for accrediting and certifying domestic workers. - o Law : Various sector-specific laws and regulations. - o Rate : Varies based on accreditation program. - o Example Calculation : Accreditation fee of TZS 100,000 per worker. ## 13. Health and Safety Levy - 2ps.
+    questions_and_answers:
+      - question: |
+          What is the annual environmental levy mentioned in the context?
+        answer: |
+          The annual environmental levy is TZS 50,000 for a household.
+      - question: |
+          How is the Training Levy for vocational education calculated for domestic workers?
+        answer: |
+          The Training Levy is 4.5% of the payroll. For example, if a domestic worker earns TZS 500,000 per month, the Training Levy would be TZS 22,500 (4.5% × TZS 500,000).
+      - question: |
+          What law governs the Development Levy, and what is its typical rate?
+        answer: |
+          The Development Levy is governed by the Local Government Finance Act, 1982, and its typical rate is 0.3% of household turnover.
+      - question: |
+          What is the purpose of the Local Government Service Levy and how much is an example levy amount?
+        answer: |
+          The Local Government Service Levy is for local government services utilized by households. An example levy amount is TZS 200,000 annually for municipal services.
+      - question: |
+          What are Accreditation Fees for Household Workers and how are they determined?
+        answer: |
+          Accreditation Fees are fees for accrediting and certifying domestic workers and are determined based on the specific accreditation program. An example fee is TZS 100,000 per worker.
+  - context: |
+      1ps. 1ps. ## Taxes on activities of households as employers of domestic personnel and undifferentiated goods- and services-producing activities of households Businesses or entities involved in the sector of activities of households as employers of domestic personnel and undifferentiated goods- and services-producing activities of households for their own use in Tanzania are generally subject to fewer formal taxes and levies compared to commercial businesses. However, here is a list of applicable taxes, levies, duties, and customs along with descriptions, applicable laws, rates, and calculation examples: ## 1. Pay As You Earn (PAYE) - o Description : Tax withheld from salaries paid to domestic employees. 2ps. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : For a domestic worker earning TZS 500,000 per month: -  Calculation: PAYE = TZS 0 + 9% of the amount exceeding TZS 170,000 = 9% × (TZS 500,000 - TZS 170,000) = TZS 29,700. ## 2. Social Security Contributions - o Description : Contributions to social security funds for domestic employees. 2ps. 1ps. - o Law : Income Tax Act, 2004. - o Rate : Progressive rates up to 30%. - o Example Calculation : For a domestic worker earning TZS 500,000 per month: -  Calculation: PAYE = TZS 0 + 9% of the amount exceeding TZS 170,000 = 9% × (TZS 500,000 - TZS 170,000) = TZS 29,700. ## 2. Social Security Contributions - o Description : Contributions to social security funds for domestic employees. - o Law : National Social Security Fund Act, 1997. - o Rate : 20% of payroll (employer and employee combined). - o Example Calculation : For a domestic worker 2ps.
+    questions_and_answers:
+      - question: |
+          What types of taxes apply to households as employers of domestic personnel in Tanzania?
+        answer: |
+          Households as employers of domestic personnel in Tanzania are subject to fewer formal taxes compared to commercial businesses, such as Pay As You Earn (PAYE) and Social Security Contributions.
+      - question: |
+          Under which law is PAYE regulated for domestic employees in Tanzania?
+        answer: |
+          PAYE is regulated under the Income Tax Act, 2004.
+      - question: |
+          What is the PAYE rate for a domestic worker earning TZS 500,000 per month?
+        answer: |
+          For a domestic worker earning TZS 500,000 per month, the PAYE rate is calculated at 9% on income exceeding TZS 170,000, resulting in a tax of TZS 29,700.
+      - question: |
+          What is the combined Social Security Contributions rate for domestic employees in Tanzania?
+        answer: |
+          The combined Social Security Contributions rate for domestic employees in Tanzania is 20% of the payroll, shared between the employer and employee.
+      - question: |
+          Which law governs Social Security Contributions for domestic employees in Tanzania?
+        answer: |
+          Social Security Contributions for domestic employees in Tanzania are governed under the National Social Security Fund Act, 1997.
+  - context: |
+      1ps. 1ps. ## 21. Waste Collection Fees - o Description : Fees for waste collection services. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local authority. - o Example Calculation : Monthly fee of TZS 10,000. ## 22. Garden and Lawn Maintenance Fees - o Description : Fees for garden and lawn maintenance services provided by local authorities. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by service type. - o Example Calculation : Monthly maintenance fee of TZS 20,000. ## 23. Telephone and Internet Service Tax - o Description : Tax on telephone 2ps. and internet services used by households. - o Law : Tanzania Communications Regulatory Authority Act, 2003. - o Rate : Varies by service provider. - o Example Calculation : Monthly tax of TZS 15,000. ## 24. Security Services Fee - o Description : Fees for private security services employed by households. - o Law : Private Security Industry Regulation Act, 2009. - o Rate : Varies by security service provider. 2ps. 1ps. - o Example Calculation : Monthly tax of TZS 15,000. ## 24. Security Services Fee - o Description : Fees for private security services employed by households. - o Law : Private Security Industry Regulation Act, 2009. - o Rate : Varies by security service provider. - o Example Calculation : Monthly fee of TZS 50,000. ## 25. Parking Fees - o Description : Fees for parking in residential areas. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by location. - o Example Calculation : Monthly parking fee of TZS 5,000. ## 26. Building Permit Fees - o Description 2ps. : Fees for obtaining building permits for residential properties.
+    questions_and_answers:
+      - question: |
+          What law governs the fees for waste collection services?
+        answer: |
+          The fees for waste collection services are governed by the Local Government Finance Act, 1982.
+      - question: |
+          What is the example monthly fee for garden and lawn maintenance services?
+        answer: |
+          The example monthly fee for garden and lawn maintenance services is TZS 20,000.
+      - question: |
+          Which law regulates the tax on telephone and internet services?
+        answer: |
+          The tax on telephone and internet services is regulated by the Tanzania Communications Regulatory Authority Act, 2003.
+      - question: |
+          How much is the example monthly fee for private security services?
+        answer: |
+          The example monthly fee for private security services is TZS 50,000.
+      - question: |
+          What is the example monthly parking fee in residential areas?
+        answer: |
+          The example monthly parking fee in residential areas is TZS 5,000.
+document_outline: |
+  ### Document Outline: Taxes and Levies for Household Employers and Activities in Tanzania
+  
+  This document outlines the taxes, levies, and contributions applicable to households acting as employers of domestic personnel in Tanzania, such as Pay As You Earn (PAYE), social security contributions, skills development levy, and others, detailing their legal basis, applicable rates, and calculation examples for compliance. It emphasizes the relatively simpler tax obligations for households compared to commercial businesses while highlighting critical compliance requirements under Tanzanian laws.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Taxes_on_activities_of_households_as_employers_of_domestic_personnel_and_undifferentiated_goods.md

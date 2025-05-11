@@ -1,0 +1,59 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (DAR ES SALAAM DISTRICT REGISTRY) AT PAR ES SALAAM ## CIVIL CASE NO.36 OF 2001 ## ENGEN PETROLEUM (T) LIMITED........PLAINTIFF Versus ## TANZANIA REVENUE AUTHORITY.....DEFENDANT ## RULING ## CHIPETA, J.: The applicant Company in this suit, Engen Petroleum (T) Limited, is suing the defendant/respondent, Tanzania Revenue Authority, for, inter alia, a declaration that the defendant's act of demanding payment of Shs.35,372,903 as Value Added Tax is unreasonable and illegal. After filing the suit, the applicant filed an application, which is 2ps. the subject-matter of this Ruling, for a temporary injunction restrainingt the respondent by itself, its agents, servants and/or workmen from attaching$ the; money in its account it Stanbic Bank (T) Limited 'on the pretext,of recovering VAT' pending the final determination of the main suit. ^By an order of this court, the parties learned advocates filed written submissions.Hi i I have carefully considered the written submissions. Following decisions in 3ps. the cases of (to name but a few) Giiella v . 2ps. 1ps. After filing the suit, the applicant filed an application, which is the subject-matter of this Ruling, for a temporary injunction restrainingt the respondent by itself, its agents, servants and/or workmen from attaching$ the; money in its account it Stanbic Bank (T) Limited 'on the pretext,of recovering VAT' pending the final determination of the main suit. ^By an order of 2ps. this court, the parties learned advocates filed written submissions.Hi i I have carefully considered the written submissions. Following decisions in the cases of (to name but a few) Giiella v . Cass man Brown Co. (1973) E.A. 339, CPC International v. Zainabu Grain Millers, ( C.A.T Civil Appeal no.49 o f 1995), and Attilio v. Mbowe, (1969) H.C.D. ri.
+    questions_and_answers:
+      - question: |
+          What is the main legal issue raised by the plaintiff, Engen Petroleum (T) Limited, in this case?
+        answer: |
+          The main legal issue raised is the plaintiff's claim that the Tanzania Revenue Authority's demand for payment of Shs. 35,372,903 as Value Added Tax is unreasonable and illegal.
+      - question: |
+          What specific legal remedy did the plaintiff seek in relation to the disputed VAT demand?
+        answer: |
+          The plaintiff sought a temporary injunction to restrain the Tanzania Revenue Authority and its agents from attaching the money in its account at Stanbic Bank (T) Limited on the pretext of recovering the VAT, pending the final determination of the main suit.
+      - question: |
+          Which cases did the court consider while reviewing this application for a temporary injunction?
+        answer: |
+          The court considered precedents such as Giella v. Cassman Brown Co. (1973) E.A. 339, CPC International v. Zainabu Grain Millers (C.A.T Civil Appeal No. 49 of 1995), and Attilio v. Mbowe (1969) H.C.D.
+      - question: |
+          What procedural step did the court order the parties to take after the application was filed?
+        answer: |
+          The court ordered the parties' learned advocates to file written submissions for the case.
+      - question: |
+          What is the subject matter of this specific ruling by Justice Chipeta?
+        answer: |
+          The subject matter of the ruling is the application filed by the plaintiff for a temporary injunction against the Tanzania Revenue Authority to prevent them from attaching funds in the plaintiff's bank account during the pendency of the main suit.
+  - context: |
+      1ps. 1ps. That is the situation in the instant case. The Certificate o f Incentives issued to the applicant has no mention of VAT. That being the position, I think that it would be overzealous to hold that the applicant has shown a prima facie case with a probability of success. As to the question of irreparable loss, I do 2ps. not think that there can be envisaged such loss to the applicant as would not be compensated by an award of damages. It is also not impertinent to add here that in addition to the principles enunciated above, when temporary injunctions are sought to be made against public authorities charged with the duty of collecting public revenue, such application must not 3ps. be lightly granted by the courts. While the courts are duty-bound to protect the innocent public against abuse of power by tax authorities, the courts must not be oblivious of public policy. My learned brother Judge, Katiti, ./. expressed a similar view, if not even more candidly, in the case of Mufindi Tea Co.'JAmited 2ps. 1ps. While the courts are duty-bound to protect the innocent public against abuse of power by tax authorities, the courts must not be oblivious of public policy. My learned brother Judge, Katiti, ./. expressed a similar view, if not even more candidly, in the case of Mufindi Tea Co.'JAmited v. Tanzania Revenue Authority, (Dar es Salaam Miscellaneous Civil Cause No. 139 o f 2ps. 1999 - as yet unreported) in which he said: ' Tax collection, even if mistaken, being a statutory duty, mandated to be done by the respondent differences emerging from differing interpretations, I cannot see any wrong, that would attract a temporary injunction.
+    questions_and_answers:
+      - question: |
+          What does the Certificate of Incentives fail to mention in the instant case?
+        answer: |
+          The Certificate of Incentives issued to the applicant fails to mention VAT.
+      - question: |
+          Why did the court conclude that the applicant did not have a prima facie case with a probability of success?
+        answer: |
+          The court concluded this because the Certificate of Incentives did not mention VAT, making it unlikely the applicant could show a strong, probable case for success.
+      - question: |
+          What reasoning did the court provide regarding the potential for irreparable loss to the applicant?
+        answer: |
+          The court reasoned that any loss to the applicant could be compensated by an award of damages, thus irreparable loss was not envisaged.
+      - question: |
+          What caution did the court give regarding granting temporary injunctions against public authorities?
+        answer: |
+          The court cautioned that temporary injunctions against public authorities charged with collecting public revenue should not be granted lightly, balancing the need to protect the public and maintain public policy.
+      - question: |
+          What precedent did Judge Katiti reference regarding temporary injunctions and tax collection disputes?
+        answer: |
+          Judge Katiti referenced the case of Mufindi Tea Co. Limited v. Tanzania Revenue Authority, stating that tax collection, even if mistaken, is a statutory duty, and differences stemming from interpretations do not justify a temporary injunction.
+document_outline: |
+  ### Document Outline
+  
+  This document pertains to a ruling in Civil Case No. 36 of 2001 at the High Court of Tanzania, involving Engen Petroleum (T) Limited (plaintiff) and the Tanzania Revenue Authority (defendant), where the plaintiff sought a temporary injunction to restrain the defendant from collecting VAT allegedly owed. The court examined whether the plaintiff demonstrated a prima facie case and irreparable loss, ultimately determining that the Certificate of Incentives did not exempt VAT, weakening the plaintiff's claims for the injunction.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Engen_Petroleum_(T)_Limited_vs_Tanzania_Revenue_Authority_(Civil_Case_No_36_of_2001)_2001_TZHC_35_(1_December_2001).md

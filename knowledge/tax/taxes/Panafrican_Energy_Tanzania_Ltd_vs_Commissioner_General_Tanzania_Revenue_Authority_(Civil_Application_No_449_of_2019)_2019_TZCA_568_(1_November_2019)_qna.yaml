@@ -1,0 +1,87 @@
+version: 1
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM CIVIL APPLICATION NO. 449/20 OF 2019 PANAFRICAN ENERGY TANZANIA LTD.......................................... APPLICANT VERSUS ## COMMISSIONER GENERAL, ## TANZANIA REVENUE AUTHORITY.......................................... RESPONDENT ## (Application for stay of execution of the Decree of the Tax Revenue Appeal Tribunal at Dar es Salaam) ## (Twaib. Chairman. Bundala and Mwaibula. Memmbers) dated the 2n d day of May, 2017 in Tax Appeal No. 19 of 2015 ## EX PARTE ORDER 31* October &amp; I5 * November, 2019 ## LEVIRA. J.A.: This is an ex-parte application for stay of execution pending hearing 2ps. inter parties before the Court. The Notice of Motion is made under Rule 4(2), 11(4), (4A), (5), (7) and 48(1) of the Tanzania Court of Appeal Rules, 2009 as amended, (the Rules). It is supported by the affidavit affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant. This being an ex-parte application, only Mr. Gaudiosus Ishengoma, learned counsel for the applicant appeared on the date fixed for hearing. 2ps. 1ps. The Notice of Motion is made under Rule 4(2), 11(4), (4A), (5), (7) and 48(1) of the Tanzania Court of Appeal Rules, 2009 as amended, (the Rules). It is supported by the affidavit affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant. This being an ex-parte application, only Mr. Gaudiosus Ishengoma, learned counsel for the applicant appeared on the date fixed for hearing. In his brief submission in support of the application, Mr. Ishengoma stated that the 2ps. application is for ex-parte stay of execution order of the Decree of the Tax Revenue Appeals Tribunal of 2/5/2017 in Income Tax Appeal No. 19 of 2015. According to him, the reasons for ex-parte order are stated under paragraph 19 of the supporting affidavit. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the Civil Application number and the parties involved in this case?
+        answer: |
+          The Civil Application number is 449/20 of 2019, involving Panafrican Energy Tanzania Ltd (Applicant) and the Commissioner General, Tanzania Revenue Authority (Respondent).
+      - question: |
+          Under which legal provisions was the Notice of Motion filed?
+        answer: |
+          The Notice of Motion was filed under Rule 4(2), 11(4), (4A), (5), (7), and 48(1) of the Tanzania Court of Appeal Rules, 2009, as amended.
+      - question: |
+          What is the main purpose of the application filed by the Applicant?
+        answer: |
+          The main purpose of the application is to seek an ex-parte stay of execution pending an inter-partes hearing before the Court.
+      - question: |
+          Who supported the application on behalf of the Applicant, and what role did they play?
+        answer: |
+          The application was supported by Mwinshehe Said Kibao, the Finance Director of the applicant, who affirmed the supporting affidavit, and Mr. Gaudiosus Ishengoma, the learned counsel for the applicant, who made submissions in support of the application.
+      - question: |
+          What previous decision is the application seeking to stay execution of?
+        answer: |
+          The application seeks to stay execution of the Decree of the Tax Revenue Appeals Tribunal dated 2nd May, 2017, related to Income Tax Appeal No. 19 of 2015.
+  - context: |
+      1ps. 1ps.   Thus,  the  learned  counsel  prayed  for  ex-parte  order  without
+      
+      fl h f l
+         impnnfr**  m*  *   m y On» wrtor*  tm *#** {tanffttjrv FtJJ) w**h ha» been
+         taoutf to the appear*
+      
+      On my  part,  tevtng gone through the  nc«ce mc«on,
+         the supporting affidavit,  a M   the  annexed  documents,  and  after 
+         hearing  the ·ubmisrton by the &lt;pp6anTs counsel, I  am of the considered
+         *ew th* the  appNcaoon  is  worthy  of 
+      
+      2ps. consideration  try  the  Fi*  Cout  than  the Single JufOoe of the Court I w*
+         explain.   In terms of
+      
+      Rule  60(1)  of the  Rules I  hereby adjourn  hearing
+          of the application  for determination by the Court on a date to be fixed by
+         the Registrar. 
+      
+      Order accordingly. 
+      
+      DATED at DAR ES SALAAM this 31s t  day
+         of October, 2019.
+      
+      ## M. C. LEVIRA JUSTICE OF APPEAL
+      
+      <!-- image -->
+      
+      
+      
+      
+    questions_and_answers:
+      - question: |
+          What was the counsel requesting in this document?
+        answer: |
+          The counsel was praying for an ex-parte order regarding the application in question.
+      - question: |
+          What was the Justice of Appeal's considered view on the application?
+        answer: |
+          The Justice of Appeal considered the application worthy of further consideration by a full court rather than a single judge.
+      - question: |
+          What rule was cited in the decision to adjourn the hearing?
+        answer: |
+          Rule 60(1) of the Rules was cited in the decision to adjourn the hearing.
+      - question: |
+          Who is the author of this ruling and what position do they hold?
+        answer: |
+          The ruling was authored by M. C. Levira, who holds the position of Justice of Appeal.
+      - question: |
+          What action did the Justice of Appeal take regarding the application?
+        answer: |
+          The Justice of Appeal adjourned the hearing of the application for determination by the court on a date to be fixed by the Registrar.
+document_outline: |
+  **Document Outline:**  
+  This court document pertains to a civil application filed by PanAfrican Energy Tanzania Ltd seeking an ex-parte order for a stay of execution of a decree issued by the Tax Revenue Appeals Tribunal, pending review by the Court of Appeal of Tanzania. The court deferred the decision and referred the matter for inter-partes hearing to be scheduled by the Registrar.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 1e7334d
+  patterns:
+    - Panafrican_Energy_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_449_of_2019)_2019_TZCA_568_(1_November_2019).md
