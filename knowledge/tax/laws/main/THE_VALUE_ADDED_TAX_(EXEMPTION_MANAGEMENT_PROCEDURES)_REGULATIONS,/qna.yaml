@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (3) In the event the applicant fails to submit the report referred to in subregulation (1), the Commissioner General shall immediately stop approving any further tax ## GN. NO. 715 (Contd.) exemption until the applicant properly account for all of its previous utilised tax exemption. - 9. The Commissioner General shall maintain a register for all taxes collected on account of default by the applicants discovered through the monitoring exercise. - 10. Any person or applicant 2ps. who contravenes these Regulations commits an offence and shall be liable to a penalty provided under section 88B of the Tax Administration Act. - 11. The Value Added Tax (Exemption Monitoring Procedures) Regulations, 2018 are hereby revoked. Procedure for dispute settlement Cap. 438 Register for collections of defaulted tax on exemptions Offences Cap. 438 Revocation GN. NO. 715 (Contd.) \_\_\_\_\_\_\_ SCHEDULE \_\_\_\_\_\_ FORMS (Made under regulation 4(1)) ## TANZANIA REVENUE AUTHORITY APPLICATION FOR VALUE ADDED TAX EXEMPTION Complete in duplicate To: Commissioner General, ......................... Tanzania Revenue Authority, Sokoine Drive, P. O. 2ps. 1ps. 438 Register for collections of defaulted tax on exemptions Offences Cap. 438 Revocation GN. NO. 715 (Contd.) \_\_\_\_\_\_\_ SCHEDULE \_\_\_\_\_\_ FORMS (Made under regulation 4(1)) ## TANZANIA REVENUE AUTHORITY APPLICATION FOR VALUE ADDED TAX EXEMPTION Complete in duplicate To: Commissioner General, ......................... Tanzania Revenue Authority, Sokoine Drive, P. O. Box 11491, DAR ES SALAAM APPLICATION FOR FOR VAT EXEMPTION TO PROJECTS FUNDED BY GOVERNMENT, FOREIGN GOVERNMENT, DONOR, LENDER OR NON-GOVERNMENTAL ORGANISATION HAVING AGREEMENT WITH THE GOVERNMENT OF THE UNITED REPUBLIC M/S ............................................................................................................................................................... (Name of the Organisation) hereby apply for value added tax exemption on supply of goods/services persuant to the provision of section 6 of the Value Added Tax 2ps. Act, 2014 as detailed below: Type of financing ................................................................................................................ ...................
+    questions_and_answers:
+      - question: |
+          What action does the Commissioner General take if an applicant fails to submit the required tax exemption report?
+        answer: |
+          The Commissioner General immediately stops approving any further tax exemptions until the applicant properly accounts for all previously utilized tax exemptions.
+      - question: |
+          What is the purpose of the register maintained by the Commissioner General?
+        answer: |
+          The register is maintained to track all taxes collected due to defaults by applicants discovered during monitoring exercises.
+      - question: |
+          What are the consequences for an applicant who contravenes the Regulations?
+        answer: |
+          Any applicant who contravenes these Regulations commits an offense and is liable to a penalty as provided under Section 88B of the Tax Administration Act.
+      - question: |
+          Which previous regulations are revoked by the current document?
+        answer: |
+          The Value Added Tax (Exemption Monitoring Procedures) Regulations, 2018 are revoked by the current document.
+      - question: |
+          Who is eligible to apply for VAT exemptions under these procedures?
+        answer: |
+          Organizations funded by the government, foreign governments, donors, lenders, or NGOs with agreements with the government can apply for VAT exemptions.
+  - context: |
+      1ps. 1ps. GN. NO. 715 (Contd.) GOVERNMENT NOTICE No. 715 Published On. 8/10/2021 ## THE VALUE ADDED TAX ACT, (CAP. 148) \_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_ (Made under section 6(5)) \_\_\_\_\_\_\_\_ THE VALUE ADDED TAX (EXEMPTION MANAGEMENT PROCEDURES) REGULATIONS, 2021 ## PART I PRELIMINARY PROVISIONS Citation Application Interpretation Cap. 148 Cap. 399 - 1. These Regulations may be cited as the Value Added Tax (Exemption Management Procedures) Regulations, 2021. - 2. These Regulations shall apply to value added tax exemptions granted under section 6(2) of the Act . - 3. In these Regulations, unless the context requires otherwise: - 'Act' means the Value Added Tax Act; - 'applicant' 2ps. has the meaning ascribed to it under the - 'Commissioner General' has the meaning ascribed to it under the Tanzania Revenue Authority Act; - 'tax' means value added tax; and - 'Minister' means the Minister responsible for finance. Act; GN. 2ps. 1ps. 148 Cap. Act; GN. NO. 715 (Contd.) ## PART II ## APPLICATION FOR TAX EXEMPTION Application for tax exemption 4.-(1) An application for tax exemption shall be made to the Commissioner General in Form No. ITX264.01.E set out in the Schedule to these Regulations. 3ps. 1ps. Act; GN. NO. 715 (Contd.) ## PART II ## APPLICATION FOR TAX EXEMPTION Application for tax exemption 4.-(1) An application for tax exemption shall be made to the Commissioner General in Form No. ITX264.01.E set out in the Schedule to these Regulations. - (2) Subject to subregulation (1), the application shall be made within a period of not less than sixty days before the commencement of the project and accompanied with the following: - (a) an agreement with the Government which was approved by the Minister which binds 2ps.
+    questions_and_answers:
+      - question: |
+          What is the citation for the regulations mentioned in the context?
+        answer: |
+          The regulations are cited as the Value Added Tax (Exemption Management Procedures) Regulations, 2021.
+      - question: |
+          Under which section of the Value Added Tax Act are these regulations made?
+        answer: |
+          These regulations are made under section 6(5) of the Value Added Tax Act.
+      - question: |
+          Who is responsible for handling applications for tax exemptions under these regulations?
+        answer: |
+          The Commissioner General, as defined under the Tanzania Revenue Authority Act, handles applications for tax exemptions.
+      - question: |
+          What form must be used to apply for a tax exemption under these regulations?
+        answer: |
+          The application for tax exemption must be made using Form No. ITX264.01.E as set out in the Schedule to these Regulations.
+      - question: |
+          What is one key requirement for submitting a tax exemption application described in the regulations?
+        answer: |
+          The application must be submitted at least sixty days before the commencement of the project and be accompanied by an agreement with the Government approved by the Minister.
+  - context: |
+      1ps. 1ps. - (2) Notwithstanding subregulation (1), in the case of importation of goods, the processing of the utilization of the granted exemption shall be made through the Commissioner for Customs and Excise in Form No. ITX ITX265.01.E set out in the Schedule. - (3) The application made under this regulation, Utilisation of exemption GN. - (4) The Commissioner General shall, within a period of seven days from the date of receipt of the application, verify the application 2ps. and communicate his decision to the applicant. - (5) Subject to subregulation (4), upon approval of the application, the Commissioner shall allow the tax exemption, in the event the Commissioner General reject the application, he shall give reasons for his refusal to the applicant within seven days from the date of receipt of the application. 2ps. 1ps. NO. 715 (Contd.) shall be accompanied with the following: - (a) a copy of Exemption Certificate issued by the Commissioner General under regulation 5(5); - (b) in case of goods or services to be procured locally, proforma invoice from the supplier of goods or services; or - (c) in case of importation of goods, final invoice, packing list, bill of lading and any other relevant importation document. ## PART IV MONITORING OF GRANTED TAX EXEMPTIONS Monitoring 2ps. of granted tax exemptions 7.-(1) For purposes of effective monitoring of tax exemption granted, the applicant shall, subject to subregulation (2), submit to the Commissioner General a utilisation report of the granted tax exemption in Form No. ITX ITX282.01.E set out in the Schedule. 3ps. 1ps. - (4) The Commissioner General shall, within a period of seven days from the date of receipt of the application, verify the application and communicate his decision to the applicant.
+    questions_and_answers:
+      - question: |
+          What is the purpose of Form No. ITX ITX265.01.E?
+        answer: |
+          Form No. ITX ITX265.01.E is used for processing the utilization of granted exemptions in the case of importation of goods through the Commissioner for Customs and Excise.
+      - question: |
+          What is the timeline for the Commissioner General to verify an application and communicate their decision?
+        answer: |
+          The Commissioner General has a period of seven days from the date of receipt of the application to verify it and communicate their decision to the applicant.
+      - question: |
+          What documents are required for local procurement as part of a tax exemption application?
+        answer: |
+          For local procurement, a proforma invoice from the supplier of goods or services is required as part of the application.
+      - question: |
+          What documents must accompany the application for importation of goods to qualify for a tax exemption?
+        answer: |
+          The application must include the final invoice, packing list, bill of lading, and any other relevant importation documents.
+      - question: |
+          What is the applicant's responsibility for monitoring granted tax exemptions?
+        answer: |
+          The applicant must submit a utilization report of the granted tax exemption to the Commissioner General using Form No. ITX ITX282.01.E.
+  - context: |
+      1ps. 1ps. - (4) Upon receipt of the application, under subregulation (3), the Permanent Secretary shall verify the application to the effect that the application complies with the requirement of subregulation (2), approve and forward it to the Commissioner General. - (5) The application forwarded to the Commissioner General under subregulation (4) shall be accompanied with the declaration that the goods or services applied for exemption are solely for use in the project. - (2) Pursuant to subregulation (1), the Commissioner General may, in conducting verification, request any additional 2ps. information from the applicant or respective ministry or Government entity for review purposes - (3) The Commissioner General shall, upon review and verification of the application made under this regulation, either approve or reject the application. Determination of application GN. NO. 715 (Contd.) - (4) In the case where the Commissioner General rejects an application, he shall give reasons thereof to the respective Permanent Secretary. 2ps. 1ps. - (2) Pursuant to subregulation (1), the Commissioner General may, in conducting verification, request any additional information from the applicant or respective ministry or Government entity for review purposes - (3) The Commissioner General shall, upon review and verification of the application made under this regulation, either approve or reject the application. Determination of application GN. NO. 715 (Contd.) - (4) In the case where the Commissioner General rejects an application, he shall give reasons thereof to the respective Permanent Secretary. - 2ps. (5) Where an application made under this regulation is approved, the Commissioner General shall proceed to issue an Exemption Certificate in Form No. ITX 281.01.E set out in the Schedule to these Regulations. - (6) The Commissioner General shall issue the exemption certificate within thirty days from the date of receipt of the application. 3ps. 1ps. NO. 715 (Contd.
+    questions_and_answers:
+      - question: |
+          What is the role of the Permanent Secretary upon receiving an application under subregulation (3)?
+        answer: |
+          The Permanent Secretary must verify that the application complies with the requirements of subregulation (2), approve it, and forward it to the Commissioner General.
+      - question: |
+          What must accompany an application forwarded to the Commissioner General under subregulation (4)?
+        answer: |
+          The application must be accompanied by a declaration stating that the goods or services applied for exemption are solely for use in the project.
+      - question: |
+          What action may the Commissioner General take while conducting verification under subregulation (2)?
+        answer: |
+          The Commissioner General may request additional information from the applicant, the respective ministry, or a Government entity for review purposes.
+      - question: |
+          What must the Commissioner General do if an application is rejected under subregulation (4)?
+        answer: |
+          The Commissioner General must provide reasons for the rejection to the respective Permanent Secretary.
+      - question: |
+          What happens once an application is approved under subregulation (5), and within what timeframe must this occur?
+        answer: |
+          The Commissioner General will issue an Exemption Certificate in Form No. ITX 281.01.E, and it must be issued within thirty days from the date of receipt of the application.
+  - context: |
+      1ps. 1ps. Contractor name /sub-contractor level one) on behalf of ……………(implementing organisation) to be used solely in the project for Supply ………………(goods or services) at …………..(name of the project) is hereby exempt. (2) For avoidance of doubt, the goods imported or locally purchased, whether directly by the Government entity or through a contractor shall remain the property of the Government of Tanzania. Conditions 3. The exemption granted under this Certificate shall cease to have effect and the Value Added Tax shall become 2ps. due and be payable as if this exemption had not been granted where the said goods or services are used for other purposes or sold or disposed of in any way to a person who is not entitled to enjoy similar privileges conferred under this Certificate. Expiry Date of 4. This Certificate shall expire on ……(date) day …….(month),……(year). GN. NO. 715 (Contd.) \_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ (Made under paragraph 2) ## PART A: GOODS S/N. 2ps. 1ps. Expiry Date of 4. This Certificate shall expire on ……(date) day …….(month),……(year). GN. NO. 715 (Contd.) \_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ (Made under paragraph 2) ## PART A: GOODS S/N. DESCRIPTION OF GOODS QUANTIT Y (QTY) UNIT OF MEASURE PLACE OF PURCHASE OF ITEMS (Local or Imported ## PART B: SERVICES DAR ES SALAAM COMMISSIONER GENERAL …………………(year) GN. NO. 715 (Contd.) (Made under regulation 6(1)) ## APPLICATION FOR UTILISATION OF VAT EXEMPTION ## TANZANIA REVENUE AUTHORITY VALUE ADDED TAX FORM Complete in quadruplicate Serial No........................................... Certificate Number.......... To: ................................ ................................ ............................... .............................. TIN: ................................. VRN: . 3ps. 1ps. DESCRIPTION OF GOODS QUANTIT Y (QTY) UNIT OF MEASURE PLACE OF PURCHASE OF ITEMS (Local or Imported ## PART B: SERVICES DAR ES SALAAM COMMISSIONER GENERAL …………………(year) GN. NO. 715 (Contd.
+    questions_and_answers:
+      - question: |
+          What happens to the goods or services if they are used for purposes other than the project under the certificate?
+        answer: |
+          The Value Added Tax exemption ceases to apply, and the VAT becomes due and payable as if the exemption had not been granted.
+      - question: |
+          Who retains ownership of goods imported or purchased locally under this certificate?
+        answer: |
+          The Government of Tanzania retains ownership of the goods imported or locally purchased, whether directly by the government entity or through a contractor.
+      - question: |
+          What details are required for listing goods in Part A of the schedule?
+        answer: |
+          Part A requires details such as the description of goods, quantity, unit of measure, and the place of purchase (local or imported).
+      - question: |
+          Where is the expiration date of the VAT exemption certificate specified?
+        answer: |
+          The expiration date of the VAT exemption is specified in Clause 4 of the certificate.
+      - question: |
+          Who is responsible for issuing the VAT exemption certificate in Tanzania?
+        answer: |
+          The VAT exemption certificate is issued by the Tanzania Revenue Authority, with the Commissioner General being involved in the process.
+document_outline: |
+  **Document Outline:**
+  The document provides the 2021 regulations regarding the management of Value Added Tax (VAT) exemptions in Tanzania, as published under Government Notice No. 715 under the Value Added Tax Act (Cap. 148). It outlines procedures for applying for VAT exemptions (e.g., required forms, supporting documentation) and the process for reviewing, verifying, and granting exemptions, detailing roles of various authorities such as the Commissioner General and Permanent Secretary.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_VALUE_ADDED_TAX_(EXEMPTION_MANAGEMENT_PROCEDURES)_REGULATIONS,.md

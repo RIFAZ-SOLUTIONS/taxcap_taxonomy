@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. GN. NO. 716 (Contd.) GOVERNMENT NOTICE No. 716 Published On. 8/10/2021 THE LAWS REVISION ACT, (CAP. 4) \_\_\_\_\_\_\_ ## ORDER \_\_\_\_\_\_ (Made under section 13(1)) \_\_\_\_\_\_ THE LAWS REVISION (THE RECTIFICATION OF PRINTING ERRORS) (THE TANZANIA REVENUE AUTHORITY ACT, REVISED EDITION, 2019) ORDER, 2021 Citation - 1. This Order may be cited as the Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021. Rectification of printing errors
+    questions_and_answers:
+      - question: |
+          What is the citation for the order mentioned in the context?
+        answer: |
+          The citation is 'The Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021.'
+      - question: |
+          Under which act is the order made?
+        answer: |
+          The order is made under 'The Laws Revision Act (Cap. 4).'
+      - question: |
+          When was Government Notice No. 716 published?
+        answer: |
+          Government Notice No. 716 was published on 8th October 2021.
+      - question: |
+          What is the purpose of the mentioned order?
+        answer: |
+          The purpose of the order is to rectify printing errors in 'The Tanzania Revenue Authority Act, Revised Edition, 2019.'
+      - question: |
+          Which section of the Laws Revision Act is cited in the order?
+        answer: |
+          The order is made under section 13(1) of the Laws Revision Act.
+  - context: |
+      Cap. 2ps. 1ps. GOVERNMENT NOTICE No. 716 Published On. 8/10/2021 THE LAWS REVISION ACT, (CAP. 4) \_\_\_\_\_\_\_ ## ORDER \_\_\_\_\_\_ (Made under section 13(1)) \_\_\_\_\_\_ THE LAWS REVISION (THE RECTIFICATION OF PRINTING ERRORS) (THE TANZANIA REVENUE AUTHORITY ACT, REVISED EDITION, 2019) ORDER, 2021 Citation - 1. This Order may be cited as the Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021. Rectification of printing errors Cap. 399 -
+    questions_and_answers:
+      - question: |
+          What is the title of the government notice published on 8/10/2021?
+        answer: |
+          The title of the notice is 'The Laws Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021.'
+      - question: |
+          Under which act is the order made?
+        answer: |
+          The order is made under the Laws Revision Act, Cap. 4, specifically section 13(1).
+      - question: |
+          What is the purpose of this government order?
+        answer: |
+          The purpose of the order is to correct printing errors in the Revised Edition, 2019, of The Tanzania Revenue Authority Act.
+      - question: |
+          What is the citation of this order as specified in the text?
+        answer: |
+          The citation of the order is 'The Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021.'
+      - question: |
+          Which specific legislation had errors that this order aims to rectify?
+        answer: |
+          The order aims to rectify printing errors in The Tanzania Revenue Authority Act, as stated in its Revised Edition of 2019.
+  - context: |
+      2. The printing errors appearing in the Tanzania Revenue Authority 2ps. Act, Revised Edition 2019 are hereby rectified by- - (a) adding immediately after section 22 the following: - 'Repealed 23. [Repealed by Act No. 15 of 2000 s. 40]'; and - (b) deleting section 23 appearing below the heading to Part VI and substituting for it the following: 'Funds of the Authority 23A.-(1) The funds of the Authority shall consist of money as may- - (a)
+    questions_and_answers:
+      - question: |
+          What rectification does the corrected Act make immediately after section 22?
+        answer: |
+          The rectification involves adding a note that section 23 has been repealed by Act No. 15 of 2000, section 40.
+      - question: |
+          What replacement does the corrected Act make for section 23 in Part VI?
+        answer: |
+          The Act deletes the existing section 23 in Part VI and replaces it with section 23A, which defines the funds of the Authority.
+      - question: |
+          What is the designation of the newly substituted section regarding the funds of the Authority?
+        answer: |
+          The newly substituted section is designated as section 23A.
+      - question: |
+          What does section 23A primarily address?
+        answer: |
+          Section 23A primarily addresses the composition of the funds of the Tanzania Revenue Authority.
+      - question: |
+          Which Act originally repealed section 23 of the Tanzania Revenue Authority 2ps. Act?
+        answer: |
+          Section 23 was originally repealed by Act No. 15 of 2000, section 40.
+  - context: |
+      be accrued by retention of a certain percentage of the revenue collected by the Authority as shall be determined by the Minister from time to time; - 3ps. (b) be paid to the Authority by way of grants or loans GN. 3ps. 1ps. 8/10/2021 THE LAWS REVISION ACT, (CAP. 4) \_\_\_\_\_\_\_ ## ORDER \_\_\_\_\_\_ (Made under section 13(1)) \_\_\_\_\_\_ THE LAWS REVISION (THE RECTIFICATION OF PRINTING ERRORS) (THE TANZANIA REVENUE AUTHORITY ACT, REVISED EDITION, 2019) ORDER, 2021
+    questions_and_answers:
+      - question: |
+          What determines the percentage of revenue the Authority retains?
+        answer: |
+          The percentage of revenue retained by the Authority is determined by the Minister from time to time.
+      - question: |
+          What are the two ways the Authority can receive funds?
+        answer: |
+          The Authority can receive funds through retention of a portion of the revenue it collects or through grants or loans.
+      - question: |
+          Under which legal act was the order regarding the rectification of printing errors made?
+        answer: |
+          The order was made under the Laws Revision Act, Cap. 4.
+      - question: |
+          What is the full title of the order issued in 2021?
+        answer: |
+          The full title of the order is 'The Laws Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021.'
+      - question: |
+          What section of the Laws Revision Act provides the basis for this order?
+        answer: |
+          The order is made under section 13(1) of the Laws Revision Act.
+  - context: |
+      Citation - 1. This Order may be cited as the Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021. Rectification of printing errors Cap. NO. 716 (Contd.) - subject to the approval of the Minster; and - (c) be received by or 2ps. made available to the Authority for the purpose of performing its functions subject to the approval of the Minister. - (2) The Authority may charge and
+    questions_and_answers:
+      - question: |
+          What is the citation of the mentioned Order?
+        answer: |
+          The Order is cited as the Law Revision (The Rectification of Printing Errors) (The Tanzania Revenue Authority Act, Revised Edition, 2019) Order, 2021.
+      - question: |
+          What is the subject of the rectification in the Act?
+        answer: |
+          The rectification pertains to printing errors in the Tanzania Revenue Authority Act.
+      - question: |
+          Who must approve relevant matters in this Order?
+        answer: |
+          The Minister must approve relevant matters as indicated in the Order.
+      - question: |
+          What function does the Authority have under this Order?
+        answer: |
+          The Authority may receive or make information available for the purpose of performing its functions, subject to the Minister's approval.
+      - question: |
+          What additional power is granted to the Authority under this context?
+        answer: |
+          The Authority may charge fees for certain actions.
+document_outline: |
+  **Document Outline:**
+  The document, titled "Government Notice No. 716" and published under the Laws Revision Act (Cap. 4), concerns the rectification of printing errors in the Tanzania Revenue Authority Act, Revised Edition 2019. It provides amendments, including the repeal and substitution of specific sections, to clarify provisions related to the Authority's funds and operational structure.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_LAWS_REVISION_(THE_RECTIFICATION_OF_PRINTING_ERRORS).md

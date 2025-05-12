@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Taxes on Administrative and Support Service sector Creating a list of 30 taxes, levies, duties, and customs that apply to the Administrative and Support Service sector under the Tanzanian Tax Law Regime involves referencing specific provisions in Tanzanian tax laws and regulations. Here's a structured list based on typical taxes applicable to these activities: ## 1. Value Added Tax (VAT) -  Description : Tax on the value added at each stage of production and distribution. -  Law : Value Added Tax Act, 2014. -  Rate : 18%. -  Example : If a service costs TZS 1,000,000, the VAT 2ps. would be TZS 180,000 (1,000,000 x 0.18). ## 2. Corporate Income Tax -  Description : Tax on the income of corporate entities. -  Law : Income Tax Act, 2004. -  Rate : 30%. -  Example : If a company has a taxable income of TZS 10,000,000, the tax would be TZS 3,000,000 (10,000,000 x 0.30). ## 3. Pay As You Earn (PAYE) -  Description : Tax on employees' earnings deducted at source. 2ps. 1ps. -  Law : Income Tax Act, 2004. -  Rate : 30%. -  Example : If a company has a taxable income of TZS 10,000,000, the tax would be TZS 3,000,000 (10,000,000 x 0.30). ## 3. Pay As You Earn (PAYE) -  Description : Tax on employees' earnings deducted at source. -
+    questions_and_answers:
+      - question: |
+          What is the rate of Value Added Tax (VAT) under Tanzania's tax law and how is it calculated?
+        answer: |
+          The rate of Value Added Tax (VAT) is 18%, and it is calculated on the value added at each stage of production and distribution. For example, if a service costs TZS 1,000,000, the VAT would be TZS 180,000 (1,000,000 x 0.18).
+      - question: |
+          Which law governs the application of Corporate Income Tax in Tanzania and what is the standard rate?
+        answer: |
+          Corporate Income Tax in Tanzania is governed by the Income Tax Act, 2004, and the standard rate is 30% of the taxable income.
+      - question: |
+          How is tax on employees' earnings termed under Tanzanian tax law and at what rate is it applied?
+        answer: |
+          Tax on employees' earnings is termed 'Pay As You Earn (PAYE)' and is deducted at a rate of 30% under the Income Tax Act, 2004.
+      - question: |
+          What is an example of how Corporate Income Tax is applied to a company's taxable income?
+        answer: |
+          If a company has a taxable income of TZS 10,000,000, the Corporate Income Tax applied would be TZS 3,000,000 (10,000,000 x 0.30).
+      - question: |
+          What is the legislative framework for Value Added Tax (VAT) in Tanzania?
+        answer: |
+          The legislative framework for Value Added Tax (VAT) in Tanzania is provided by the Value Added Tax Act, 2014.
+  - context: |
+      producing and distributing films. -  Law : The Film and Stage Plays Act, 1976. -  Rate : Varies. -  Example : Fixed amount per production or distribution license. 4ps. 1ps. ## 20. Film License Fee -  Description : Fee for producing and distributing films. -  Law : The Film and Stage Plays Act, 1976. -  Rate : Varies. -  Example : Fixed amount per production or distribution license. ## 21. Work Permit Fee -  Description : Fee for work permits for expatriates. -  Law : Immigration Act, 1995. -  Rate : Varies. -  Example : A Class B work permit might cost TZS 2,000,000 annually. ## 22. Digital Services Tax -  Description : Tax on digital services provided by non-resident companies. -  Law : Finance 2ps. Act. -  Rate : Varies. -  Example : Percentage of revenue generated from digital services in Tanzania. ## 23. Broadcasting License Fee -  Description : Fee for broadcasting services. -  Law : Tanzania Communications Regulatory Authority Act, 2003. -  Rate : Varies. -  Example : Annual license fee depending on the broadcast area and coverage. 5ps. 1ps. ## 23. Broadcasting License Fee -  Description : Fee for broadcasting services. -  Law : Tanzania Communications Regulatory Authority Act, 2003. -  Rate : Varies. -  Example : Annual license fee depending on the
+    questions_and_answers:
+      - question: |
+          What is the legal basis for the Film License Fee?
+        answer: |
+          The Film License Fee is governed by the Film and Stage Plays Act, 1976.
+      - question: |
+          What is an example of the cost for a Class B work permit under the Work Permit Fee?
+        answer: |
+          A Class B work permit might cost TZS 2,000,000 annually.
+      - question: |
+          What does the Digital Services Tax apply to, and who is subject to it?
+        answer: |
+          The Digital Services Tax applies to digital services provided by non-resident companies.
+      - question: |
+          Under which law is the Broadcasting License Fee regulated?
+        answer: |
+          The Broadcasting License Fee is regulated by the Tanzania Communications Regulatory Authority Act, 2003.
+      - question: |
+          How is the rate for the Digital Services Tax determined?
+        answer: |
+          The rate for the Digital Services Tax varies and is based on a percentage of revenue generated from digital services in Tanzania.
+  - context: |
+       Law : Income Tax Act, 2004. -  Rate : Progressive rates from 0% to 30%. -  Example : For TZS 1,000,000, the tax might range based on the brackets applied. ## 4. Skills and Development Levy (SDL) -  Description : Levy on the gross emoluments 2ps. of employees. -  Law : Vocational Education and Training Act, 1994. -  Rate : 4%. -  Example : For TZS 1,000,000 in gross salaries, the SDL would be TZS 40,000 (1,000,000 x 0.04). ## 5. Social Security Contributions -  Description : Contributions to the National Social Security Fund (NSSF). -  Law : NSSF Act, 1997. -  Rate : 10% (employer), 10% (employee). 3ps. 1ps. -  Example : For TZS 1,000,000 in gross salaries, the SDL would be TZS 40,000 (1,000,000 x 0.04). ## 5. Social Security Contributions -  Description : Contributions to the National Social Security Fund (NSSF). -  Law : NSSF Act, 1997. -  Rate : 10% (employer), 10% (employee). -  Example : For TZS 1,000,000 salary, the contribution would be TZS 100,000 from the employer and TZS 100,000 from the employee. ## 6. Withholding Tax on Services -  Description : Tax withheld on payments for services. -  Law : Income Tax Act, 2004. -  Rate : 5% (resident), 2ps. 15% (non-resident). -  Example : If a service fee is TZS 500,000, the withholding
+    questions_and_answers:
+      - question: |
+          What is the highest income tax rate under the Income Tax Act, 2004?
+        answer: |
+          The highest income tax rate under the Income Tax Act, 2004, is 30%, applied progressively based on income brackets.
+      - question: |
+          How is the Skills and Development Levy (SDL) calculated, and what is its rate?
+        answer: |
+          The SDL is calculated as 4% of the gross emoluments of employees. For example, for TZS 1,000,000 in gross salaries, the levy would amount to TZS 40,000.
+      - question: |
+          Under the NSSF Act, 1997, how much does an employer contribute to the National Social Security Fund?
+        answer: |
+          An employer contributes 10% of the employee's gross salary to the National Social Security Fund under the NSSF Act, 1997.
+      - question: |
+          What withholding tax rates apply to service payments for residents and non-residents?
+        answer: |
+          The withholding tax rate for service payments is 5% for residents and 15% for non-residents under the Income Tax Act, 2004.
+      - question: |
+          If an employee's gross salary is TZS 1,000,000, how much is contributed to the NSSF by both the employer and the employee?
+        answer: |
+          Both the employer and the employee contribute 10% each, totaling TZS 200,000 (TZS 100,000 from the employer and TZS 100,000 from the employee).
+  - context: |
+      tax for residents would be TZS 25,000 (500,000 x 0.05). ## 7. Excise Duty -  Description : Tax on specific goods and services. -  Law : Excise (Management and Tariff) Act, 1952. -  Rate : Varies (e.g., 17% for certain services). 4ps. 1ps. -  Example : If a service fee is TZS 500,000, the withholding tax for residents would be TZS 25,000 (500,000 x 0.05). ## 7. Excise Duty -  Description : Tax on specific goods and services. -  Law : Excise (Management and Tariff) Act, 1952. -  Rate : Varies (e.g., 17% for certain services). -  Example : For services worth TZS 1,000,000, the duty would be TZS 170,000 (1,000,000 x 0.17). ## 8. Import Duty -  Description : Tax on goods imported into Tanzania. -  Law : East African Community Customs Management Act, 2004. -  Rate : 2ps. Varies (typically 0% to 25%). -  Example : For goods worth TZS 1,000,000, if the rate is 25%, the duty would be TZS 250,000. ## 9. Stamp Duty -  Description : Tax on legal documents. -  Law : Stamp Duty Act, 1972. -  Rate : Varies. -  Example : For a contract worth TZS 1,000,000, if the rate is 1%, the duty would be TZS 10,000. 5ps. 1ps. ## 9. Stamp Duty -  Description : Tax on legal documents. -  Law :
+    questions_and_answers:
+      - question: |
+          What is the withholding tax for residents on a service fee of TZS 500,000?
+        answer: |
+          The withholding tax for residents on a service fee of TZS 500,000 is TZS 25,000 (500,000 x 0.05).
+      - question: |
+          Under what law is Excise Duty regulated, and what is an example of its rate?
+        answer: |
+          Excise Duty is regulated under the Excise (Management and Tariff) Act, 1952. For example, the rate for certain services can be 17%.
+      - question: |
+          How is Import Duty regulated and what is its typical rate range?
+        answer: |
+          Import Duty is regulated under the East African Community Customs Management Act, 2004, and its typical rate ranges from 0% to 25%.
+      - question: |
+          What would the Import Duty be on goods worth TZS 1,000,000 at a rate of 25%?
+        answer: |
+          The Import Duty on goods worth TZS 1,000,000 at a rate of 25% would be TZS 250,000.
+      - question: |
+          How is Stamp Duty applied and what is an example of its calculation?
+        answer: |
+          Stamp Duty is a tax on legal documents regulated under the Stamp Duty Act, 1972. For a contract worth TZS 1,000,000 at a 1% rate, the duty would be TZS 10,000.
+  - context: |
+      1ps. 1ps. ## 12. Environmental Levy -  Description : Levy on activities affecting the environment. -  Law : Environmental Management Act, 2004. -  Rate : Varies. -  Example : Certain industrial activities might be charged a fixed rate per year. ## 13. Tourism Development Levy -  Description : Levy on tourism-related businesses. -  Law : Tourism Act, 2008. -  Rate : 2% of turnover. -  Example : For TZS 1,000,000 in turnover, the levy would be TZS 20,000. ## 14. Motor Vehicle Tax -  Description : Annual tax on motor vehicles. -  Law : Motor Vehicles (Tax 2ps. Registration and Transfer) Act, 1972. -  Rate : Varies by vehicle type. -  Example : A personal car might incur TZS 200,000 annually. ## 15. Fuel Levy -  Description : Levy on petroleum products. -  Law : Excise (Management and Tariff) Act, 1952. -  Rate : Fixed amount per liter. 2ps. 1ps. -  Example : A personal car might incur TZS 200,000 annually. ## 15. Fuel Levy -  Description : Levy on petroleum products. -  Law : Excise (Management and Tariff) Act, 1952. -  Rate : Fixed amount per liter. -  Example : If the levy is TZS 100 per liter and 100 liters are purchased, the total levy would be TZS 10,000. ## 16. Road Toll -  Description : Toll
+    questions_and_answers:
+      - question: |
+          What is the Environmental Levy and which law governs it?
+        answer: |
+          The Environmental Levy is a charge on activities affecting the environment, governed by the Environmental Management Act, 2004.
+      - question: |
+          How is the Tourism Development Levy calculated, and what law establishes it?
+        answer: |
+          The Tourism Development Levy is calculated as 2% of a business's turnover and is established under the Tourism Act, 2008.
+      - question: |
+          What determines the rate of Motor Vehicle Tax, and under which law is it regulated?
+        answer: |
+          The rate of Motor Vehicle Tax varies by vehicle type and is regulated under the Motor Vehicles (Tax Registration and Transfer) Act, 1972.
+      - question: |
+          How is the Fuel Levy applied, and what is an example of its calculation?
+        answer: |
+          The Fuel Levy is a fixed amount per liter of petroleum products, as per the Excise (Management and Tariff) Act, 1952. For example, if the levy is TZS 100 per liter and 100 liters are purchased, the total would be TZS 10,000.
+      - question: |
+          What is an example of annual Motor Vehicle Tax for a personal car?
+        answer: |
+          An example of the annual Motor Vehicle Tax for a personal car is TZS 200,000.
+document_outline: |
+  **Outline of the Document:**
+  This document provides a detailed overview of 30 different taxes, levies, duties, and customs applicable to the Administrative and Support Service sector as per Tanzanian tax laws. It organizes each tax by name, legal foundation, applicable rate, and includes practical examples for better understanding of their implementation in business operations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_Administrative_and_Support_Service_sector.md

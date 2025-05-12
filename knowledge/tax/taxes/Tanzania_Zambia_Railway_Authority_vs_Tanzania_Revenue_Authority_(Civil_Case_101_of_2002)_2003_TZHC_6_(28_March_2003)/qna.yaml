@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. <!-- image --> ## IN THE HIGH COURT OF TANZANIA OAR ES SALAAM REGISTRY OAR ES SALAAM ## CIVIL CASE NO. 101/2002 ## TANZANIA ZAMBIA RAILWAY AUTHORITY VS. TANZANIA REVENUE AUTHORITY 28/3/2003 Coram: Kaganda J. For the plaintiff/applicant:- Mr. Safari Adv. For the Def/Respondent: abs. CC - Masebo ## RULING The preliminary application which has been filed and presented by the plaintiff"s counsel is an interesting one and needs a sense of Equity. In the chamber Summons and an Aftidavit the applicants seek an Order for an Interim relief pending hearing of the Suit, On reading the Law Establing the two Organizations I found each having 2ps. exen.ption clauses or provisions austering the jurisdiction of the courts. These I will not deal with much because they are likely to come on full hearing of the Suit or when hearing Interparties. This application was filed after the respondents attachment by letter issued hy the C(Jlllll1issioner ot the plaintiff's Bank Accounts. 2ps. 1ps. In the chamber Summons and an Aftidavit the applicants seek an Order for an Interim relief pending hearing of the Suit, On reading the Law Establing the two Organizations I found each having exen.ption clauses or provisions austering the jurisdiction of the courts. These I will not deal with much because they are likely to come on full hearing of the Suit or when hearing Interparties. This application was filed after the respondents attachment by letter issued
+    questions_and_answers:
+      - question: |
+          What is the case title and case number mentioned in the context?
+        answer: |
+          The case title is 'Tanzania Zambia Railway Authority vs. Tanzania Revenue Authority' with Civil Case No. 101/2002.
+      - question: |
+          Who are the legal representatives mentioned for the plaintiff and defendant?
+        answer: |
+          The plaintiff/applicant is represented by Mr. Safari, while the defendant/respondent's representation is noted as absent (indicated as 'abs').
+      - question: |
+          What specific order does the applicant seek in the chamber summons and affidavit?
+        answer: |
+          The applicant seeks an order for interim relief pending the hearing of the main suit.
+      - question: |
+          What action by the respondent prompted the filing of the plaintiff's application?
+        answer: |
+          The application was filed after the respondent's attachment of the plaintiff's bank accounts based on a letter issued by the Commissioner.
+      - question: |
+          What does the judge mention about the exemption clauses in the laws establishing the two organizations?
+        answer: |
+          The judge mentions that both organizations have exemption clauses or provisions that oust the jurisdiction of the courts but indicates that these will be addressed fully during the hearing of the main suit or inter-parties hearing.
+  - context: |
+      1ps. 1ps. My concern too is on the mode of payment which touches the salaries and wages of Innocent Souls. Unfortunately the Income Tax Act, 1973 section 103 (1) has Included these to fall under word "money",; the S. 103 (l) "In this Act "money" Includes any debt, deposit or credit, any salary, wages and pensions payments and any other remuneration what so-ever." The issue before me is whether the Court should issue the Injunction restraining: the Respondents from attaching the Bank Accounts. The letter requiring the Branch Manager to effect the attachment was dated 21'[ February, 2003 2ps. which is a month ago. The application was filed Under O.xXI R. (1) Section 68 (2) and S. 95 of the Civil Procedure Code (1966). It is heard expert Under Certificate of Urgency. After reading the provisions of governing both parties I have come to the conclusion that this matter should be addressed with a Sense of Equity, that is because ifthere is more delay then the object of the Injuction will be defeated. 2ps. 1ps. The application was filed Under O.xXI R. (1) Section 68 (2) and S. 95 of the Civil Procedure Code (1966). It is heard expert Under Certificate of Urgency. After reading the provisions of governing both parties I have come to the conclusion that this matter should be addressed with a Sense of Equity, that is because ifthere is more delay then the object of the
+    questions_and_answers:
+      - question: |
+          What does Section 103 (1) of the Income Tax Act, 1973 define 'money' as?
+        answer: |
+          Section 103 (1) of the Income Tax Act, 1973 defines 'money' as including any debt, deposit, or credit, as well as salary, wages, pension payments, and any other remuneration whatsoever.
+      - question: |
+          What specific issue was brought before the court in this case?
+        answer: |
+          The issue before the court was whether an injunction should be issued to restrain the respondents from attaching bank accounts.
+      - question: |
+          When was the letter requiring the Branch Manager to effect the attachment dated?
+        answer: |
+          The letter requiring the Branch Manager to effect the attachment was dated 21st February, 2003.
+      - question: |
+          Under which legal provisions was the application for the injunction filed?
+        answer: |
+          The application for the injunction was filed under Order XXI Rule (1), Section 68 (2), and Section 95 of the Civil Procedure Code (1966).
+      - question: |
+          Why did the court emphasize addressing the matter with a sense of equity?
+        answer: |
+          The court emphasized addressing the matter with a sense of equity because further delays could defeat the purpose of granting the injunction.
+  - context: |
+      hy the C(Jlllll1issioner ot the plaintiff's Bank Accounts. He did so basing on the powers conferred upon him under 2ps. section 103 ofthe Income Tax Act., 1973. The amount z,ttached is Tsh: 5,629.,909.,228/= which arose on failure to pay taxes. 3ps. 1ps. These I will not deal with much because they are likely to come on full hearing of the Suit or when hearing Interparties. This application was filed after the respondents attachment by letter issued hy the C(Jlllll1issioner ot the plaintiff's Bank Accounts. He did so basing on the powers conferred upon him under section 103 ofthe Income Tax Act., 1973. The amount z,ttached is Tsh: 5,629.,909.,228/= which arose on failure to pay taxes. That letter reads:(Addressed to the Manager Stanford chartered Bank) - " In the exercise of the powers conferred upon me by S. 103 of 2ps. the Income Tax Act., 1973 I hereby declare you to be the agent ofthe above Person and require you to pay me the Sum of Tsh:5.,629.,909.,228/= being tax due by the said person from any money including Pensions., Salary., wages or any other remuneration which may at any time within twelve months from the date of this notice be held by you for., or due by you to the said person " On the r;~iler!land the plaintiffs claim protection of their property under 85 of Act No. 10 of 1995 namely Tanzania Zambia Railway Act which States:- - " Not
+    questions_and_answers:
+      - question: |
+          Under which legal provision did the Commissioner attach the plaintiff’s bank accounts?
+        answer: |
+          The Commissioner attached the plaintiff’s bank accounts under section 103 of the Income Tax Act, 1973.
+      - question: |
+          What was the total amount attached from the plaintiff’s bank accounts?
+        answer: |
+          The total amount attached was Tsh: 5,629,909,228/=.
+      - question: |
+          What justification was given for the attachment of the plaintiff’s bank accounts?
+        answer: |
+          The justification for the attachment was the plaintiff’s failure to pay taxes.
+      - question: |
+          To whom was the attachment letter addressed?
+        answer: |
+          The attachment letter was addressed to the Manager of Standard Chartered Bank.
+      - question: |
+          What legal protection is the plaintiff claiming under the Tanzania Zambia Railway Act, 1995?
+        answer: |
+          The plaintiff is claiming protection of their property under section 85 of the Tanzania Zambia Railway Act, 1995.
+  - context: |
+      with standing 3ps. anvthing to the cGGtr~l"YGntained in any written c Law, where any judgement or Order has beea Obtained against the Authority. 4ps. 1ps. This application was filed after the respondents attachment by letter issued hy the C(Jlllll1issioner ot the plaintiff's Bank Accounts. He did so basing on the powers conferred upon him under section 103 ofthe Income Tax Act., 1973. The amount z,ttached is Tsh: 5,629.,909.,228/= which arose on failure to pay taxes. no execution or attachment., or process in the nature tl ereof., shall be issued against the Authority of against any property o ., the Authority. but the Managing Director shall Cause to be paid o It of the revenue of the Authority Such amount as may. 2ps. by .i ldgement or order be awarded against the Authority to the person eltitled to." My understanding of this section is lhat the exemption covers only execution of judgements or Orders. Normally these are given by Courts of Law, but this may be argued later by the pmiics if they so wish. Furthermore my Interpretation of the two Laws is that the Respondents want to be paid the taxes due through the force of Law whereas the plaintiffs want to pay the dues amiably. 5ps. 1ps. My understanding of this section is lhat the exemption covers only execution of judgements or Orders. Normally these are given by Courts of Law, but this may be argued later by the
+    questions_and_answers:
+      - question: |
+          What powers allowed the Commissioner to attach the plaintiff's bank accounts?
+        answer: |
+          The Commissioner acted based on the powers conferred upon him under Section 103 of the Income Tax Act, 1973.
+      - question: |
+          What was the reason for the attachment of the plaintiff's bank accounts?
+        answer: |
+          The bank accounts were attached due to a failure to pay taxes, resulting in an amount of Tsh 5,629,909,228/= being owed.
+      - question: |
+          What does the exemption mentioned in the context specifically cover?
+        answer: |
+          The exemption covers only the execution of judgments or orders, particularly preventing execution or attachment against the Authority or its property.
+      - question: |
+          How does the Managing Director address judgments or orders against the Authority?
+        answer: |
+          The Managing Director is required to pay the awarded amount out of the revenue of the Authority to the person entitled to it.
+      - question: |
+          What key difference exists between the plaintiff's and respondent's perspectives on settling the tax dues?
+        answer: |
+          The respondents want to enforce payment of dues through legal force, while the plaintiffs prefer to settle the taxes amicably.
+  - context: |
+      Injuction will be defeated. My reasoning is mainly centered on the rights of Employees whom I have addressed as Innocent Souls and not very much to threat of them striking as 2ps. presented by the learned Counsel. This becomes true because Employees in this Country mainly depend on their salaries or wages for their daily bread including families and dependants. I find therefore not proper to punish them on the negligence of their Employer. Borrowing the mind of Mapigano, J. when he dealt with exparte rulings in Tanzania Knitwear Ltd Shamshu V. Esmail [1989] TLR.48, he held that, Ex-parte Injuctions could only be granted in special circumstances i. e done in good faith. 3ps. 1ps. This becomes true because Employees in this Country mainly depend on their salaries or wages for their daily bread including families and dependants. I find therefore not proper to punish them on the negligence of their Employer. Borrowing the mind of Mapigano, J. when he dealt with exparte rulings in Tanzania Knitwear Ltd Shamshu V. Esmail [1989] TLR.48, he held that, Ex-parte Injuctions could only be granted in special circumstances i. e done in good faith. I find that this is one of those cascs relevant to his decisions because protecting the attachment of salaries/wages to 2ps. Innocent Souls is a Special Circumstance and correctly so, is done in good faith. The Injuctive relief is therefore granted and limited only to the account holding the
+    questions_and_answers:
+      - question: |
+          What is the primary reasoning for the injunction being defeated?
+        answer: |
+          The injunction is defeated primarily to protect the rights of Employees referred to as 'Innocent Souls,' as they depend on their salaries or wages for daily sustenance, including supporting their families and dependents.
+      - question: |
+          What precedent was cited to support the decision, and what principle does it establish?
+        answer: |
+          The precedent cited is Mapigano, J.'s ruling in Tanzania Knitwear Ltd Shamshu V. Esmail [1989] TLR.48, which established that ex-parte injunctions should only be granted in special circumstances and must be done in good faith.
+      - question: |
+          Why does the case qualify as a special circumstance according to the reasoning provided?
+        answer: |
+          The case qualifies as a special circumstance because protecting the attachment of salaries and wages for 'Innocent Souls' (Employees) is deemed a matter of good faith and necessary for their livelihood.
+      - question: |
+          What is the relationship between employees’ reliance on wages and the employer’s negligence in this context?
+        answer: |
+          The decision emphasizes that employees should not be punished for the negligence of their employer, as many depend on their wages or salaries for daily living and family support.
+      - question: |
+          What is the scope of the injunctive relief granted in the decision?
+        answer: |
+          The injunctive relief is granted and limited specifically to the account holding the wages or salaries necessary for the employees' sustenance.
+document_outline: |
+  **Document Outline:**
+  The document is a ruling from the High Court of Tanzania in the civil case *Tanzania Zambia Railway Authority vs. Tanzania Revenue Authority* (Civil Case No. 101/2002), dated March 28, 2003. The ruling addresses a preliminary application by the plaintiff seeking an interim injunction to prevent the attachment of their bank accounts by the defendant for unpaid taxes, focusing on the jurisdictional issues, statutory protections, and equitable considerations regarding the mode and impact of payment enforcement.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tanzania_Zambia_Railway_Authority_vs_Tanzania_Revenue_Authority_(Civil_Case_101_of_2002)_2003_TZHC_6_(28_March_2003).md

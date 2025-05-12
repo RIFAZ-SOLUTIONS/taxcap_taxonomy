@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Having considered that we were not adequately addressed on the issue as to whether the 'notes' can be invoked in statutory interpretation, we invited the parties to address the Court on the issue in question. It was the appellant's submission that, in terms of section 25 (2) of the Interpretation of Laws Act [CAP 1 RE.2002], notes form 2ps. part of the written law and are internal aid to construction of statutes as they serve as explanatory to the provisions of the law. In this regard, it was the appellant's contention that, notes appearing under item 8 in the second schedule can be invoked in the statutory interpretation as internal aid to construction. On the part of the respondent, apart from intimating 3ps. that notes are part of written law in terms of section 25 (2) of Cap 1, she reiterated that land and buildings cannot be separated and that item 8 in the second schedule does not give an elaborate description of what land or part of it when sold is VAT exempted. 2ps. 1ps. It was further amplified that it is common to find such notes in statutes which give clarity on the provisions of the law. In this regard, it was the appellant's contention that, notes appearing under item 8 in the second schedule can be invoked in the statutory interpretation as internal aid to construction. Having carefully considered the submission of learned counsel 2ps. for either parties it is not in dispute that the respondent sold the land in question together with buildings thereon and paid capital gain tax on the two plots and VAT. What is in dispute is the additional tax of TZS.
+    questions_and_answers:
+      - question: |
+          What was the appellant's submission regarding the 'notes' in statutory interpretation?
+        answer: |
+          The appellant submitted that notes form part of the written law under section 25 (2) of the Interpretation of Laws Act [CAP 1 RE.2002] and serve as internal aids to the construction of statutes by providing explanatory information about the provisions of the law.
+      - question: |
+          What specific contention did the appellant make about the notes under item 8 in the second schedule?
+        answer: |
+          The appellant contended that the notes appearing under item 8 in the second schedule could be invoked in statutory interpretation as internal aids to clarify the provisions.
+      - question: |
+          What was the respondent's position regarding the notes and their role in statutory interpretation?
+        answer: |
+          The respondent acknowledged that notes are part of the written law under section 25 (2) of Cap 1 and stressed that land and buildings cannot be separated. Additionally, the respondent argued that item 8 in the second schedule does not provide a detailed description of what aspects of land are VAT exempted.
+      - question: |
+          What was the dispute between the appellant and the respondent in the case?
+        answer: |
+          The dispute centered on the additional tax assessment, specifically whether item 8 in the second schedule, along with its associated notes, adequately clarified the exemption of VAT when land and buildings were sold together.
+      - question: |
+          Why are notes commonly found in statutes, according to the context provided?
+        answer: |
+          Notes are commonly found in statutes to provide clarity and explanation on the provisions of the law, serving as internal aids to statutory interpretation.
+  - context: |
+      1ps. 1ps. The appellant seems to suggest that the liability of the respondent to pay additional VAT is founded on such 'notes'. Any tax imposed on a subject is dictated by the terms of legislation and a taxing authority must satisfy itself that the transaction fits within the definition of the statute. Our answer is in the negative because, such 'notes' in 2ps. suggesting another category of VAT taxable supply, overrides and enlarges the scope of the legislation and it is not compatible with the dictates of section 10 (1) of the VAT Act, which strictly requires only exempt supplies required to be mentioned in the second schedule. In a nutshell, section 10 (1), items 8 (1), (2) and notes read together have created an ambiguity on the tax liability of the respondent in respect of the buildings on the sold 3ps. plot in question. We are fortified in that account because the subject is not to be taxed unless the words of taxing statute unambiguously impose the tax upon him. 2ps. 1ps. Our answer is in the negative because, such 'notes' in suggesting another category of VAT taxable supply, overrides and enlarges the scope of the legislation and it is not compatible with the dictates of section 10 (1) of the VAT Act, which strictly requires only exempt supplies required to be mentioned in the second schedule. We are fortified in that account because the subject is not to 2ps. be taxed unless the words of taxing statute unambiguously impose the tax upon him. See the dictum of Lord Simonds in RUSSELL (INSPECTOR OF TAXES) VS SCOTT [1948] 2 ALL ER 5 which was cited in the case of ## REPUBLIC VS KENYA REVENUE AUTHORITY EX PARTE COOPER KBRANDS LIMITED [2016] e KLR where it was held: n .
+    questions_and_answers:
+      - question: |
+          What does the appellant suggest about the respondent's liability regarding additional VAT?
+        answer: |
+          The appellant suggests that the respondent's liability to pay additional VAT is based on certain 'notes,' which purportedly identify another VAT-taxable category of supply.
+      - question: |
+          How does the court view the use of 'notes' to justify additional VAT liability?
+        answer: |
+          The court rejects the use of 'notes' suggesting an extended VAT-taxable category, stating that they override and enlarge the scope of the legislation, which is incompatible with section 10(1) of the VAT Act.
+      - question: |
+          What requirement does section 10(1) of the VAT Act impose concerning exempt supplies?
+        answer: |
+          Section 10(1) of the VAT Act requires that only exempt supplies specifically mentioned in the second schedule are to be exempt from VAT.
+      - question: |
+          Why does the court conclude the respondent is not liable for the additional VAT on the sold plot's buildings?
+        answer: |
+          The court concludes that the taxing statute does not unambiguously impose the tax on the respondent, and taxation must be based strictly on the clear wording of the law.
+      - question: |
+          What precedent is cited to support the principle of unambiguous taxation statutes?
+        answer: |
+          The court cites the dictum of Lord Simonds in RUSSELL (INSPECTOR OF TAXES) VS SCOTT [1948] 2 ALL ER 5, as referenced in REPUBLIC VS KENYA REVENUE AUTHORITY EX PARTE COOPER KBRANDS LIMITED [2016] e KLR, which emphasizes that a subject should not be taxed unless the statute unambiguously imposes it.
+  - context: |
+      1ps. 1ps. ... the appellant was wrong when he separated the land and the building charging VAT only on the building and left land uncharged" Thus the Board concluded as follows: Therefore, the VAT that the appellant paid on the building is just a portion o f what ought to be paid. It follows that the respondent acted lawful when demanded for additional VAT on the sale of the land and building, hence additional assessment 2ps. issued was proper." The respondent was not happy with the verdict of the Board and preferred an appeal to the Tribunal which reversed the decision of the Board and allowed the respondent's appeal in terms of what is reflected at pages 288 - 289 of the record of appeal as follows: "... the correct interpretation o f section 10 o f the Value Added Tax Act, 1997 is th a t supply o f 3ps. g o o d s o r se rv ic e s is an exem pt su p p ly i f it is o f a description sp e cifie d in the second schedule to the A ct, and item 8 (1 ) to the schedule m entions the sale o r lease o f an in te re s t in lan d , th erefo re 4ps. safe o r le a se o f an in te re s t in la n d is exem pt su pply. 2ps. 1ps. It follows that the respondent acted lawful when demanded for additional VAT on the sale of the land and building, hence additional assessment issued was proper.
+    questions_and_answers:
+      - question: |
+          What was the appellant's initial mistake in charging VAT?
+        answer: |
+          The appellant charged VAT only on the building and did not charge VAT on the land.
+      - question: |
+          What conclusion did the Board reach regarding the VAT issue?
+        answer: |
+          The Board concluded that the VAT paid on the building was only a portion of what should have been paid and that the respondent acted lawfully in demanding additional VAT on the sale of the land and building.
+      - question: |
+          What section of the Value Added Tax Act, 1997, did the Tribunal consider in its decision?
+        answer: |
+          The Tribunal considered section 10 of the Value Added Tax Act, 1997.
+      - question: |
+          Why did the Tribunal reverse the decision of the Board?
+        answer: |
+          The Tribunal reversed the decision because it interpreted section 10 of the VAT Act as stating that the supply of goods or services is exempt if described in the Second Schedule to the Act, and item 8(1) of the schedule specifies that the sale or lease of an interest in land is an exempt supply.
+      - question: |
+          What specific item in the Second Schedule exempts the sale of an interest in land from VAT?
+        answer: |
+          Item 8(1) of the Second Schedule exempts the sale or lease of an interest in land from VAT.
+  - context: |
+      1ps. 1ps. ## There is no presum ption as to a tax. It was held thus: " ■ -in the familiar canon of statutory construction of plain language, when the words of a statute are unambiguous, judicial inquiry is complete because the courts must presume that a legislature says in a statute what it means and means in a statute what is says there. As such ; there is no need for interpolations, iest we stray into the exclusive preserve 2ps. of the legislature under the cloak of overzealous interpretation." [ Seealso REPUBLIC VS MWESIGE GEOFREY AND ANOTHER, Criminal Appeal No. 355 of 2014, RESOLUTE TANZANIA LIMITED VS COMMISSIONER GENERAL, TRA, Civil Appeal No. 125 of 2017, MBEYA CEMENT COMPANY LIMITED VS COMMISSIONER GENERAL TRA, Civil Appeal No. 160 of 2017 (all unreported)]. We thus wish to emphasise that, if the words of a taxing statute are clear, effect must be given to 3ps. them irrespective of the consequences. 2ps. 1ps. It was held thus: " ■ -in the familiar canon of statutory construction of plain language, when the words of a statute are unambiguous, judicial inquiry is complete because the courts must presume that a legislature says in a statute what it means and means in a statute what is says there. We thus wish to emphasise that, if the words of a taxing statute are clear, effect must be given to them irrespective of the consequences. 2ps. In this regard, neither can the language of taxing legislation be so stretched as to do favour to the State nor can it be narrowed to benefit the person sought to be taxed because a taxing enactment does not apply by implication and logical extensions are prohibited.
+    questions_and_answers:
+      - question: |
+          What is the principle of statutory construction emphasized in the text?
+        answer: |
+          When the words of a statute are unambiguous, judicial inquiry is complete because courts must presume that the legislature means exactly what it says in the statute.
+      - question: |
+          What must courts do when the words of a taxing statute are clear?
+        answer: |
+          Courts must give effect to the clear words of a taxing statute irrespective of the consequences.
+      - question: |
+          Why is interpolation or overzealous interpretation discouraged in statutory construction?
+        answer: |
+          Interpolation is discouraged because it risks encroaching on the exclusive domain of the legislature under the guise of interpretation.
+      - question: |
+          Can the language of taxing legislation be stretched or narrowed to benefit either the state or the taxpayer?
+        answer: |
+          No, taxing legislation cannot be stretched to favor the state nor narrowed to benefit the taxpayer as taxing statutes do not apply by implication or logical extensions.
+      - question: |
+          Which cases were referenced to support the principles of statutory construction mentioned in the text?
+        answer: |
+          The cases referenced include REPUBLIC VS MWESIGE GEOFREY AND ANOTHER, Criminal Appeal No. 355 of 2014, RESOLUTE TANZANIA LIMITED VS COMMISSIONER GENERAL, TRA, Civil Appeal No. 125 of 2017, and MBEYA CEMENT COMPANY LIMITED VS COMMISSIONER GENERAL, TRA, Civil Appeal No. 160 of 2017.
+  - context: |
+      1ps. 1ps. Such explanations are intended m ore as a le g is la tiv e exposition o r cla rifica tio n o f th e existin g la w than a s an am endm ent o r change in i t B u t can n o t be con strued to o verrid e statu te o r ren d er the substance and core nugatory. In rare 2ps. cases, it may even widen the scope o f the main provision. B u t m erely because a p ro visio n attached to a section bears the nom enclature 'E xp la n a tio n ', it ca n n o t a lw a ys b e co n sid e re d as conveying the true and natural m eaning o f the w ords o r the p ro visio n s o f the statute. 2ps. 1ps. In rare cases, it may even widen the scope o f the main provision. B u t m erely because a p ro visio n attached to a section bears the nom enclature 'E xp la n a tio n ', it ca n n o t a lw a ys b e co n sid e re d as conveying the true and natural m eaning o f the w ords o r the p ro visio n s o f the 2ps. statute.
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of legislative explanations in law?
+        answer: |
+          Legislative explanations are primarily intended to clarify or provide exposition of existing law rather than amend or change it.
+      - question: |
+          Can legislative explanations override statutory provisions or affect their core substance?
+        answer: |
+          No, legislative explanations cannot override statutes or render their substance and core nugatory.
+      - question: |
+          In what rare cases might a legislative explanation have a broader impact on a statute?
+        answer: |
+          In rare cases, a legislative explanation might widen the scope of the main provision of the statute.
+      - question: |
+          Does the use of the term 'Explanation' always convey the true and natural meaning of a statute’s provisions?
+        answer: |
+          No, the use of the term 'Explanation' does not always convey the true and natural meaning of the statute's provisions.
+      - question: |
+          What misconception might arise from a provision being labeled as 'Explanation'?
+        answer: |
+          The misconception is that the provision labeled as 'Explanation' always conveys the true and natural meaning of the statute, which is not necessarily the case.
+document_outline: |
+  **Document Outline:**
+  This legal document outlines the judgment of the Court of Appeal of Tanzania in Civil Appeal No. 35 of 2020, wherein the Commissioner General of the Tanzania Revenue Authority (appellant) contests the Tax Revenue Appeals Tribunal decision that reversed an assessment of additional VAT imposed on Ecolab East Africa (Tanzania) Limited (respondent) for the sale of property. The document examines the applicability of VAT exemptions under the VAT Act, focusing on whether the sale of land and buildings constitutes a taxable supply.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Commissioner_General_Tanzania_Revenue_Authority_vs_Ecolab_East_Africa_(Tanzania)_Limited_(Civil_Appeal_35_of_2020)_2021_TZCA_283_(2_July_2021).md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The appeals, christened Appeals Nos. 2 and 64 of 2012, were consolidated and entertained as one. The kernel of contention before the Board, the Tribunal and certainly before us is twofold; firsts that the reimbursements do not form part of the service fee paid to Illovo and, secondly, alternatively, that if the reimbursements are considered to be part of the service fee, they are still not subject 2ps. to withholding tax in terms of the Tanzania - South Africa Double Taxation Agreement (henceforth "the Double Taxation Agreement"). The Board, in its judgment rendered on 01.07.2016, decided in favour of the respondent by dismissing the consolidated appeal and holding that service fees must include all costs incurred and that the respondent did not violate the provisions of the Double Taxation Agreement by charging withholding 3ps. tax on payments made to nonresidents. Still aggrieved, the appellant unsuccessfully appealed to the Tribunal which upheld the decision of the Board on 12.02.2019. 2ps. 1ps. The kernel of contention before the Board, the Tribunal and certainly before us is twofold; firsts that the reimbursements do not form part of the service fee paid to Illovo and, secondly, alternatively, that if the reimbursements are considered to be part of the service fee, they are still not subject to withholding tax in terms of the Tanzania - South Africa Double Taxation 2ps. Agreement (henceforth "the Double Taxation Agreement"). Still aggrieved, the appellant unsuccessfully appealed to the Tribunal which upheld the decision of the Board on 12.02.2019. Undeterred, the appellant preferred this second and last appeal to the Court seeking to assail the decision of the Tribunal on five grounds, paraphrased as under: - 1. By holding that costs were included in the term "service fee" the Tribunal 3ps.
+    questions_and_answers:
+      - question: |
+          What was the main issue of contention in Appeals Nos. 2 and 64 of 2012?
+        answer: |
+          The main issue of contention was whether reimbursements formed part of the service fee paid to Illovo and, if so, whether they were subject to withholding tax under the Tanzania-South Africa Double Taxation Agreement.
+      - question: |
+          What did the Board decide on 01.07.2016 regarding service fees and withholding tax?
+        answer: |
+          The Board decided that service fees must include all costs incurred and ruled that the respondent did not violate the Double Taxation Agreement by charging withholding tax on payments made to nonresidents.
+      - question: |
+          What was the outcome of the appellant's appeal to the Tribunal on 12.02.2019?
+        answer: |
+          The Tribunal upheld the decision of the Board and dismissed the appellant's appeal.
+      - question: |
+          What legal framework was central to the dispute between the parties?
+        answer: |
+          The Tanzania-South Africa Double Taxation Agreement was central to the dispute, particularly whether it exempted reimbursements categorized as part of service fees from withholding tax.
+      - question: |
+          What action did the appellant take after the Tribunal upheld the Board's decision?
+        answer: |
+          The appellant brought a second and final appeal to the Court, challenging the Tribunal's decision on five grounds.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM ## fCORAM: MKUYE. J.A.. MWAMBEGELE. 3.A.. And KWARIKO, J.A.1 ) ## CIVIL APPEAL NO. 218 OF 2019 KILOMBERO SUGAR COMPANY LIMITED.................................... . APPELLANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY..............................................RESPONDENT (Appeal from the Judgment and Decree of the Tanzania Revenue Appeals Tribunal, at Dar es Salaam) (Miemmas, Chairman^ dated the 12th day of February, 2019 in Tax Appeal No. 17 of 2016 ## JUDGMENT OF THE COURT 19th February &amp; . 25th May, 2021 ## MWAMBEGELE, J.A.: This appeal arises from the decision of the Tax 2ps. Revenue Appeals Tribunal (henceforth "the Tribunal") in Tax Appeal No. 17 of 2016 rendered on 12.02.2016 by Mjemmas (Chairman). In that appeal, the Tribunal upheld the decision of the Tax Appeals Board (henceforth "the Board") requiring the appellant to pay the respondent; the Commissioner General of Tanzania Revenue Authority, Tshs. 469,739,933/= comprised in two withholding tax certificates issued to 3ps. the appellant by the respondent for the years of income 2004/5 - 2007/8 and 2009/10. The material background facts are simple. 2ps. 1ps. In that appeal, the Tribunal upheld the decision of the Tax Appeals Board (henceforth "the Board") requiring the appellant to pay the respondent; the Commissioner General of Tanzania Revenue Authority, Tshs. 469,739,933/= comprised in two withholding tax certificates issued to the appellant by the respondent for the years of income 2004/5 - 2007/8 and 2009/10. The material 2ps. background facts are simple. To appreciate the appeal before us, we find it compelling to narrate them, albeit briefly. The appellant, Kilombero Sugar Company Limited, is a company incorporated in Tanzania dealing with sugar cane farming and sugar production.
+    questions_and_answers:
+      - question: |
+          What was the main issue in Civil Appeal No. 218 of 2019?
+        answer: |
+          The main issue was whether Kilombero Sugar Company Limited was required to pay Tshs. 469,739,933/= in withholding tax as per two certificates issued by the Tanzania Revenue Authority for the years 2004/5 - 2007/8 and 2009/10.
+      - question: |
+          Who were the parties involved in Civil Appeal No. 218 of 2019?
+        answer: |
+          The parties involved were Kilombero Sugar Company Limited as the appellant and the Commissioner General of the Tanzania Revenue Authority as the respondent.
+      - question: |
+          What was the decision of the Tax Revenue Appeals Tribunal in Tax Appeal No. 17 of 2016?
+        answer: |
+          The Tribunal upheld the decision of the Tax Appeals Board requiring Kilombero Sugar Company Limited to pay Tshs. 469,739,933/= in withholding tax to the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What is the core business of Kilombero Sugar Company Limited?
+        answer: |
+          Kilombero Sugar Company Limited is a company incorporated in Tanzania that engages in sugar cane farming and sugar production.
+      - question: |
+          Which judicial body delivered the judgment in Civil Appeal No. 218 of 2019, and when was it rendered?
+        answer: |
+          The judgment in Civil Appeal No. 218 of 2019 was delivered by the Court of Appeal of Tanzania on 25th May 2021.
+  - context: |
+      1ps. 1ps. If the enterprise carries on business as aforesaid, the profits of the enterprise may be taxed in the other State but only so much of them as is attributable to that ## permanent establishment" Mr. Mtafya argued that this article is applicable to the case at hand. The thrust of his argument was that service fee is a charge on professional services or skills and has no cost element attached to it. Thus, he argued, it forms part of a business 2ps. profit to Illovo carrying on business in Tanzania. He added that even if the Court finds that costs incurred by Illovo and reimbursed by the appellant are part and parcel of service fee, that notwithstanding, such service fee is not subject to withholding tax in Tanzania pursuant to Article 7 of the Double Taxation Agreement. On the other hand, the respondent strongly 3ps. argued that costs incurred by Illovo and reimbursed by the appellant were so incurred in the course of rendering services to the appellant and therefore cannot be excluded from the service fee component. 2ps. 1ps. Thus, he argued, it forms part of a business profit to Illovo carrying on business in Tanzania. He added that even if the Court finds that costs incurred by Illovo and reimbursed by the appellant are part and parcel of service fee, that notwithstanding, such service fee is not subject to withholding tax in Tanzania pursuant to Article 7 of the Double Taxation Agreement. 2ps. Besides, the respondent argued, the article is not applicable to the present situation because it provides for business profits which is cost exclusive while in the case at hand the item at issue is service fee which is cost inclusive.
+    questions_and_answers:
+      - question: |
+          What was Mr. Mtafya's main argument regarding the service fee?
+        answer: |
+          Mr. Mtafya argued that the service fee is a charge on professional services or skills with no cost element attached, making it part of Illovo's business profit in Tanzania and not subject to withholding tax under Article 7 of the Double Taxation Agreement.
+      - question: |
+          What is the significance of Article 7 of the Double Taxation Agreement in this case?
+        answer: |
+          Article 7 of the Double Taxation Agreement specifies that business profits of an enterprise may only be taxed in another State to the extent they are attributable to a permanent establishment, and Mr. Mtafya argued this exempts the service fee from withholding tax in Tanzania.
+      - question: |
+          What was the respondent's counterargument about the costs incurred and reimbursed?
+        answer: |
+          The respondent argued that the costs incurred by Illovo and reimbursed by the appellant were part of the services rendered to the appellant, making them inseparable from the service fee and inclusive of costs.
+      - question: |
+          How did the respondent interpret the term 'business profits' in relation to the service fee?
+        answer: |
+          The respondent argued that 'business profits' are cost-exclusive, whereas the service fee in question is cost-inclusive, making Article 7 of the Double Taxation Agreement inapplicable.
+      - question: |
+          What key distinction did the respondent draw between business profits and service fees?
+        answer: |
+          The respondent distinguished business profits as being cost-exclusive, while service fees are cost-inclusive, thereby challenging the applicability of Article 7 to the case at hand.
+  - context: |
+      1ps. 1ps. For the avoidance of doubt, section 83 (1) (b) falls under Subdivision A of Division II of Part VII of the ITA, 2004 cross-referred to by the Tax Administration Act. For the avoidance of doubt, we are alive to the position that the Court is not bound by Practice Notes. This is so because, the task to interpret laws is the exclusive domain of 2ps. the court. However, we are certain that the Practice Note is an external aid to construction providing guidance in the interpretation of a provision. At this juncture we find irresistible to associate ourselves with Kanga and Pakhivala's the Law and Practice of Income Tax by Arvind P. Datar, 11t h Edition, at p. 35 on the role of the courts in interpretation 3ps. of laws in relation to Circulars, Forms and Interpretation by the Income Tax Authorities in India: "31. Circulars, Forms and Interpretation by the Income-tax Authorities. 2ps. 1ps. However, we are certain that the Practice Note is an external aid to construction providing guidance in the interpretation of a provision. At this juncture we find irresistible to associate ourselves with Kanga and Pakhivala's the Law and Practice of Income Tax by Arvind P. Datar, 11t h Edition, at p. 35 on the role of the courts in interpretation of 2ps. laws in relation to Circulars, Forms and Interpretation by the Income Tax Authorities in India: "31. Circulars, Forms and Interpretation by the Income-tax Authorities. -Circulars or genera / directions issued by the Central Board of Direct Taxes would be binding under s. 119 on all officers and persons employed in the execution of the Act, but they cannot bind the appellate authority, the tribunal ' the court or the assessee. The Board cannot pre-empt a judicial 3ps.
+    questions_and_answers:
+      - question: |
+          What is the court's stance on the binding nature of Practice Notes?
+        answer: |
+          The court is not bound by Practice Notes, as the interpretation of laws is the exclusive domain of the court. However, Practice Notes can serve as external aids to guide the interpretation of legal provisions.
+      - question: |
+          What does Kanga and Pakhivala’s 'The Law and Practice of Income Tax' state about circulars issued by the Central Board of Direct Taxes?
+        answer: |
+          The book states that circulars or general directions issued by the Central Board of Direct Taxes are binding on officers and persons executing the Act but do not bind appellate authorities, tribunals, courts, or taxpayers.
+      - question: |
+          Which provision of the Income Tax Act, 2004, is referenced under Subdivision A of Division II of Part VII?
+        answer: |
+          Section 83(1)(b) of the Income Tax Act, 2004, is referenced under Subdivision A of Division II of Part VII.
+      - question: |
+          What is the primary role of courts in relation to circulars and interpretations by tax authorities?
+        answer: |
+          The primary role of courts is to interpret laws, and they are not bound by circulars, forms, or interpretations issued by tax authorities, as judicial interpretation is independent.
+      - question: |
+          What is the legal significance of Practice Notes according to the context provided?
+        answer: |
+          Practice Notes are not legally binding but provide external guidance to assist in interpreting legal provisions.
+  - context: |
+      1ps. 1ps. These costs were incurred by Illovo when rendering services to, and were reimbursed by, the appellant. That notwithstanding, we agree with the finding of the Tribunal that the separation was only for the convenience of the parties; the appellant and Illovo. In our considered view, the separation was not meant to dissuade the respondent from making it exclusive from withholding tax under section 83 2ps. (1) (b) of the ITA, 2004. In the course of researching on the matter, we came across Practice Note No. 01/2019 titled Withholding Tax on Payment for Goods and Services as per Income Tax Act, Cap 332 available at https://tra.QQ.tz/Imaaes/headers/Withholdinq-Tax-on-payment-for- Goods.pdf. which we found useful in our determination of the appeal. 2ps. 1ps. We agree with the respondent's counsel that these fall within the scope and purview of payments reasonably attributable to the services rendered in terms of the definition of the term "service fee" under section 3 of the ITA, 2004. We are alive to the fact that in terms of the Operational and Technical Services Agreement between the appellant and Illovo, the service fee and costs were separated and the appellant's counsel complained for the 2ps. respondent's act of lumping them together for withholding tax calculations. The Practice Note is made under section 9 of the Tax Administration Act, Cap 438 (henceforth "the Tax Administration Act"); which powers the Commissioner also wielded under the now repealed section 130 of the ITA, 2004. The Practice Note provides under clause 10.0 thereof: ## "10.0 Inclusion of value of benefits and facilities Where services are provided and payments are made to the withholdee of cash plus provision 3ps. of benefits and facilities, the withholding tax base shall include the amount paid for the benefits or facilities. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What was the reason for separating the service fee and costs between the appellant and Illovo, according to the Tribunal?
+        answer: |
+          The service fee and costs were separated only for the convenience of the appellant and Illovo, not to exclude them from withholding tax under section 83(1)(b) of the ITA, 2004.
+      - question: |
+          What document did the researchers reference to assist in determining the appeal, and where can it be found?
+        answer: |
+          The researchers referenced Practice Note No. 01/2019 titled 'Withholding Tax on Payment for Goods and Services as per Income Tax Act, Cap 332,' which is available at https://tra.QQ.tz/Imaaes/headers/Withholdinq-Tax-on-payment-for-Goods.pdf.
+      - question: |
+          How does the Practice Note address the inclusion of benefits and facilities in withholding tax calculations?
+        answer: |
+          The Practice Note states under clause 10.0 that the withholding tax base shall include the amount paid for benefits or facilities in addition to cash payments to the withholdee.
+      - question: |
+          What definition is used to classify the payments in question as service fees?
+        answer: |
+          The payments are classified as service fees based on the definition under section 3 of the ITA, 2004, which includes payments reasonably attributable to services rendered.
+      - question: |
+          Under what legal authority was the Practice Note issued?
+        answer: |
+          The Practice Note was issued under section 9 of the Tax Administration Act, Cap 438, and similar powers were previously wielded under the now repealed section 130 of the ITA, 2004.
+document_outline: |
+  **Document Outline:**
+  The document is a judgment from the Court of Appeal of Tanzania in *Civil Appeal No. 218 of 2019*, involving Kilombero Sugar Company Limited (appellant) and the Commissioner General of the Tanzania Revenue Authority (respondent). The appeal stems from a tax dispute regarding withholding tax obligations from income years 2004/2005 to 2009/2010, following audits and subsequent tax certificates issued by the respondent, which were upheld by the Tax Revenue Appeals Tribunal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_218_of_2019)_2021_TZCA_213_(25_May_2021).md

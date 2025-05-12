@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The appellant did not file written submissions and therefore, the appeal was argued orally. The appellant's counsel argued together grounds 1 , 2, 3 and 4 and later grounds 5, 6 and 7 . For that reason, the learned counsel went on to argue, the Tribunal erred in holding that, there was no decision of the respondent which could be challenged by the 2ps. appellant before the Board while to the contrary, there was a decision dated 12/12/2017 which, he said, was the subject of the appellant's appeal before -th e Board. In reply, M r. Maswanyia opposed the argument made by the appellant's counsel that the demand note did not constitute a decision capable of being challenged by way of an application for review. It was the learned Senior State Attorney's submission that, the appellant's letter dated 29/11/2017 to 3ps. which the respondent replied vide his letter dated 12/12/2017, was not an application for review. He stressed that, the appellant appealed against the respondent's decision communicated to it through the demand for payment of taxes and duties. 2ps. 1ps. In reply, M r. Maswanyia opposed the argument made by the appellant's counsel that the demand note did not constitute a decision capable of being challenged by way of an application for review. It was the learned Senior State Attorney's submission that, the appellant's letter dated 29/11/2017 to which the respondent replied vide his letter dated 12/12/2017, was not an application for review. He stressed that, the appellant 2ps. appealed against the respondent's decision communicated to it through the demand for payment of taxes and duties. The issue which arises from those grounds is whether or not there was an appealable decision of the respondent prior to its letter to the appellant dated 12/12/2017.
+    questions_and_answers:
+      - question: |
+          Why did the appellant's counsel argue grounds 1, 2, 3, and 4 together?
+        answer: |
+          The appellant's counsel grouped grounds 1, 2, 3, and 4 together because they collectively addressed the issue of whether the Tribunal erred in holding that there was no appealable decision by the respondent.
+      - question: |
+          What argument did the appellant's counsel make regarding the decision dated 12/12/2017?
+        answer: |
+          The appellant's counsel argued that the decision dated 12/12/2017 was the subject of the appellant's appeal before the Board and that it constituted a decision that could be challenged.
+      - question: |
+          What was Mr. Maswanyia's position regarding the demand note?
+        answer: |
+          Mr. Maswanyia argued that the demand note did not constitute a decision that could be challenged by way of an application for review.
+      - question: |
+          According to the Senior State Attorney, what was the nature of the appellant's letter dated 29/11/2017?
+        answer: |
+          The Senior State Attorney, Mr. Maswanyia, stated that the appellant's letter dated 29/11/2017, which received a reply on 12/12/2017, was not an application for review.
+      - question: |
+          What was the issue arising from the grounds of appeal in this case?
+        answer: |
+          The issue arising from the grounds of appeal was whether or not there was an appealable decision of the respondent prior to its letter to the appellant dated 12/12/2017.
+  - context: |
+      1ps. 1ps. Having duly considered the submissions of the learned counsel for the parties on the 1 , 2 , 3 and 4t h grounds of appeal, we are of the settled mind that the same are devoid of m erit. To begin with the argument that the preliminary objection was not based on a pure point of law allegedly because the date of service upon the appellant, of the demand note was 2ps. not ascertained, we agree with Mr. Maswanyia that the contention is without merit. In his submissions in support of the preliminary objection, Mr. Maswanyia is recorded to have stated as follows: "...the Commissioner for customs made its decision dated 24h January 2017. In that view,., in relation to section 229 (1) of the EACCMA, 2004 the 30 days began to run against the appellant on 24h January 2017." The learned counsel for the appellant did not 3ps. dispute that contention by the respondent. 2ps. 1ps. There was no dispute before the Board as regards the date of service of the demand note on the appellant. In his submissions in support of the preliminary objection, Mr. Maswanyia is recorded to have stated as follows: "...the Commissioner for customs made its decision dated 24h January 2017. In that view,., in relation to section 229 (1) of the EACCMA, 2004 the 30 days began to run against the appellant on 24h January 2017." The learned counsel 2ps. for the appellant did not dispute that contention by the respondent. His argument which was, with respect, a misconception, was that the appeal before the Board was against the decision communicated to the appellant through the respondent's letter dated 1/3/2017.
+    questions_and_answers:
+      - question: |
+          What was the basis of the appellant’s argument regarding the preliminary objection?
+        answer: |
+          The appellant argued that the preliminary objection was not based on a pure point of law because the date of service of the demand note was allegedly not ascertained.
+      - question: |
+          What was the key date identified by Mr. Maswanyia in relation to section 229(1) of the EACCMA, 2004?
+        answer: |
+          Mr. Maswanyia identified 24th January 2017 as the date when the Commissioner for Customs made its decision, marking the start of the 30-day period under section 229(1) of the EACCMA, 2004.
+      - question: |
+          How did the appellant respond to Mr. Maswanyia’s contention regarding the date of service?
+        answer: |
+          The learned counsel for the appellant did not dispute Mr. Maswanyia’s contention about the date of service but argued instead that the appeal was against the decision communicated through a letter dated 1st March 2017.
+      - question: |
+          What did the court conclude about the grounds of appeal raised by the appellant?
+        answer: |
+          The court concluded that the grounds of appeal lacked merit and were devoid of substance.
+      - question: |
+          What misconception did the appellant's counsel have regarding the appeal?
+        answer: |
+          The appellant's counsel misconceived that the appeal before the Board was against the decision communicated through the letter dated 1st March 2017, rather than the decision made on 24th January 2017.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## fCORAM: MWARIJA. J.A.. KENTE. 3.A. And MURUKE, 3.A.1 CIVIL APPEAL NO. 452 OF 2021 LAKAIRO INVESTMENT LIMITED..........................................APPELLANT ## VERSUS ## COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY......................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Miemas. Chairman1 ) dated the 25th day of June, 2021 in Tax Appeal No. 10 of 2020 ## JUDGMENT OF THE COURT 14th August &amp; 29t h December, 2023 ## MWARIJA. J.A.: This appeal is against the decision of the Tax Revenue Appeals Tribunal (hereinafter "the Tribunal") handed 2ps. down on 25/6/2021 in Appeal No. 1 0 of 2020. That appeal originated from the decision of the Tax Revenue Appeals Board (hereinafter "the Board") in Customs and Excise Appeal (C &amp; E Appeal) No. 13 of 2018 between the parties herein, LAKAIRO Investment Limited and the Commissioner General, Tanzania Revenue Authority (the Commissioner). 2ps. 1ps. Chairman1 ) dated the 25th day of June, 2021 in Tax Appeal No. 10 of 2020 ## JUDGMENT OF THE COURT 14th August &amp; 29t h December, 2023 ## MWARIJA. J.A.: The facts giving rise to the appeal m ay be briefly stated as follows: The appellant herein was dissatisfied with the demand by "the respondent for payment of taxes and duties amounting to a total of TZS 4,067,188.39 on exit goods alleged to have been illegally diverted by the appellant into domestic market without payment of 2ps. taxes and duties. The demand was made vide the Commissioner's letter dated 24/1/2017. As a result of having been aggrieved by the demand for payment of the above stated amount of taxes and duties, through his advocate, the appellant appealed by way of an application for review.
+    questions_and_answers:
+      - question: |
+          What entity is the appellant in Civil Appeal No. 452 of 2021?
+        answer: |
+          The appellant in Civil Appeal No. 452 of 2021 is Lakairo Investment Limited.
+      - question: |
+          What was the main reason for Lakairo Investment Limited's appeal to the Court of Appeal of Tanzania?
+        answer: |
+          Lakairo Investment Limited was dissatisfied with a demand by the Tanzania Revenue Authority for payment of taxes and duties amounting to TZS 4,067,188.39 on goods allegedly diverted into the domestic market without paying required taxes and duties.
+      - question: |
+          What was the origin of the case before it reached the Court of Appeal?
+        answer: |
+          The case originated from the decision of the Tax Revenue Appeals Board in Customs and Excise Appeal No. 13 of 2018, which was later appealed to the Tax Revenue Appeals Tribunal and then further to the Court of Appeal.
+      - question: |
+          When did the Tax Revenue Appeals Tribunal issue its decision in Appeal No. 10 of 2020?
+        answer: |
+          The Tax Revenue Appeals Tribunal issued its decision in Appeal No. 10 of 2020 on June 25, 2021.
+      - question: |
+          What was the basis of the tax and duty demand by the Commissioner General of the Tanzania Revenue Authority?
+        answer: |
+          The demand was based on allegations that Lakairo Investment Limited had illegally diverted exit goods into the domestic market without paying the required taxes and duties.
+  - context: |
+      1ps. 1ps. He contended, among other grounds, that the Board erred in proceeding to determine the C &amp; E Appeal after it had found that the application for review lodged with the respondent was time barred. The Tribunal was of the view that, the argument was without merit because, as stated above, there was no dispute as regards the date of service upon the appellant of the demand letter. Having so found, the Tribunal allowed 2ps. the appeal. The appellant was dissatisfied with the decision of the Tribunal hence this appeal which is predicated on the following seven grounds: - 1. That the Tax Revenue Appeals Tribunal erred in iaw by upholding the respondent's appeal which was predicated on a preliminary objection which was not purely based on a point of iaw. 2ps. 1ps. The Tribunal was of the view that, the argument was without merit because, as stated above, there was no dispute as regards the date of service upon the appellant of the demand letter. Having so found, the Tribunal allowed the appeal. - 2. That the Tax Revenue Appeals Tribunal erred in iaw by failing to properly address and consider the provisions of section 50 (3) (c) (ii) of the Tax Administration Act, [Cap 438 R.E 2019] as they relate to determination of time limit for lodging an application for review under the provisions 2ps. of section 229 (1) of the East Africa Community Customs Management Act, 2004. - 3. That the Tax Revenue Appeals Tribunal erred in iaw by holding that the appellant's application for review was time barred - 4.
+    questions_and_answers:
+      - question: |
+          What was the main contention of the appellant regarding the Board's decision in the C & E Appeal?
+        answer: |
+          The appellant contended that the Board erred in proceeding to determine the C & E Appeal after finding that the application for review lodged with the respondent was time barred.
+      - question: |
+          Why did the Tribunal reject the appellant's argument about the date of service of the demand letter?
+        answer: |
+          The Tribunal rejected the argument because there was no dispute regarding the date of service upon the appellant of the demand letter.
+      - question: |
+          What specific provision of the Tax Administration Act was mentioned as not being properly addressed by the Tribunal?
+        answer: |
+          The Tribunal was criticized for not properly addressing section 50 (3)(c)(ii) of the Tax Administration Act, [Cap 438 R.E 2019], which relates to the determination of time limits for lodging an application for review.
+      - question: |
+          What grounds did the appellant present for appealing against the Tribunal’s decision?
+        answer: |
+          The appellant presented seven grounds, including that the Tribunal erred by upholding a preliminary objection not based purely on a point of law and by failing to properly address statutory provisions regarding time limits for review applications.
+      - question: |
+          Why was the appeal brought to the Tribunal originally deemed time barred?
+        answer: |
+          The Tribunal held that the appellant's application for review was time barred as per the provisions under section 229(1) of the East Africa Community Customs Management Act, 2004.
+  - context: |
+      1ps. 1ps. At the hearing of the C &amp; E Appeal before the Board, the respondent raised a preliminary objection that the appeal was filed out of the period of 30 days of the date of receipt by the appellant, of the demand letter contrary to s. 229 (1) of the EACCMA. On his part, the appellant's counsel countered the argument that the C &amp; E 2ps. Appeal was filed out of time. He argued that, time started to run from 12/2/2017 when the respondent replied the appellant's letter of application for review dated 29/11/2017. According to the appellant's counsel, the appeal lodged before the Board was against the respondent's decision communicated through his letter dated 12/12/2017 not against the demand made vide the letter dated 24/1/2017. Having considered the arguments of the 3ps. learned counsel for the parties, the Board agreed with the learned counsel for the respondent that the C &amp; E Appeal was filed out of time. 2ps. 1ps. He argued that, time started to run from 12/2/2017 when the respondent replied the appellant's letter of application for review dated 29/11/2017. According to the appellant's counsel, the appeal lodged before the Board was against the respondent's decision communicated through his letter dated 12/12/2017 not against the demand made vide the letter dated 24/1/2017. Having considered the arguments of the learned counsel for the parties, the Board agreed with the 2ps. learned counsel for the respondent that the C &amp; E Appeal was filed out of time. Notwithstanding that finding, the Board was conversely of the view that, because the respondent did not reply to the appellant's application for review within the period of 30 days prescribed under s. 229 (4) of the EACCMA but 3ps.
+    questions_and_answers:
+      - question: |
+          What was the preliminary objection raised by the respondent in the C & E Appeal?
+        answer: |
+          The respondent argued that the appeal was filed outside the 30-day period stipulated in s. 229(1) of the EACCMA, calculated from the date the appellant received the demand letter.
+      - question: |
+          What was the appellant's counterargument regarding the timing of the appeal?
+        answer: |
+          The appellant's counsel argued that the 30-day period began on 12/2/2017 when the respondent replied to the appellant's application for review dated 29/11/2017, and not from the date of the demand letter (24/1/2017).
+      - question: |
+          According to the appellant, which decision was the subject of the appeal?
+        answer: |
+          The appellant argued that the appeal was against the respondent's decision communicated in the letter dated 12/12/2017, not the demand letter dated 24/1/2017.
+      - question: |
+          What was the Board’s ruling regarding the timing of the appeal?
+        answer: |
+          The Board agreed with the respondent's counsel that the C & E Appeal was filed out of time, as measured from the date of receipt of the demand letter.
+      - question: |
+          What issue did the Board highlight concerning the respondent's response to the application for review?
+        answer: |
+          The Board noted that the respondent did not reply to the appellant's application for review within the 30-day period prescribed under s. 229(4) of the EACCMA.
+document_outline: |
+  **Document Outline:**
+  This document contains a judgment from the Court of Appeal of Tanzania in Civil Appeal No. 452 of 2021. The appellant, Lakairo Investment Limited, challenges the decision of the Tax Revenue Appeals Tribunal regarding a dispute over tax and duty demands made by the Tanzania Revenue Authority. The case focuses on issues of tariff rates, timelines for filing appeals, and compliance with the East African Community Customs Management Act.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Lakairo_Investment_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_452_of_2021)_2023_TZCA_18021_(29_December_2023)_(1).md

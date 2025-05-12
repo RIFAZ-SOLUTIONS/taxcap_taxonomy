@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Taxes on water supply, sewerage, waste management, and remediation activities sectors Here are 30 taxes, levies, duties, and customs that businesses in the water supply, sewerage, waste management, and remediation activities sectors in Tanzania are obliged to pay, along with their descriptions, the laws that provide for them, the rates at which they are charged, and examples of how they are calculated. ## 1. Corporate Income Tax Description: Tax on the profits of a corporation. Law: Income Tax Act, 2004. Rate: 30%. Calculation Example: If a company earns a profit of TZS 100,000,000, the tax is TZS 30,000,000 (30% of 2ps. 100,000,000). ## 2. Value Added Tax (VAT) Description: A consumption tax placed on a product whenever value is added. Law: Value Added Tax Act, 2014. Rate: 18%. Calculation Example: If a service costs TZS 1,000,000, VAT is TZS 180,000 (18% of 1,000,000). ## 3. Withholding Tax on Dividends Description: Tax withheld on dividends paid to shareholders. Law: Income Tax Act, 2004. Rate: 10%. Calculation Example: If dividends are TZS 500,000, the withholding tax is TZS 50,000 (10% of 500,000). 2ps. 1ps. ## 3. Withholding Tax on Dividends Description: Tax withheld on dividends paid to shareholders. Law: Income Tax Act, 2004. Rate: 10%. Calculation Example: If dividends are TZS 500,000, the withholding tax is TZS 50,000 (10% of 500,000). ## 4. Withholding Tax on Interest Description: Tax withheld on interest paid on loans. Law: Income Tax Act, 2004.
+    questions_and_answers:
+      - question: |
+          What is the rate of Corporate Income Tax in Tanzania for businesses in the water supply, sewerage, waste management, and remediation activities sectors?
+        answer: |
+          The rate of Corporate Income Tax is 30%.
+      - question: |
+          Under which law is Value Added Tax (VAT) regulated in Tanzania?
+        answer: |
+          Value Added Tax (VAT) is regulated under the Value Added Tax Act, 2014.
+      - question: |
+          How is Withholding Tax on Dividends calculated, and what is its rate?
+        answer: |
+          Withholding Tax on Dividends is calculated at a rate of 10% of the dividends paid. For example, if dividends are TZS 500,000, the withholding tax would be TZS 50,000.
+      - question: |
+          What type of income is subjected to Withholding Tax on Interest in Tanzania, and what legislation governs this tax?
+        answer: |
+          Withholding Tax on Interest applies to interest paid on loans and is governed by the Income Tax Act, 2004.
+      - question: |
+          If a product's value is TZS 1,000,000, how much Value Added Tax (VAT) would be charged, and what is the VAT rate?
+        answer: |
+          The Value Added Tax (VAT) charged would be TZS 180,000 at a rate of 18%.
+  - context: |
+      1,000,000 (assuming a rate of 1%). ## 9. Stamp Duty Description: Tax on legal documents. Law: Stamp Duty Act, 1972. Rate: Varies. Calculation Example: For a contract worth TZS 10,000,000, the stamp duty could be TZS 50,000. ## 10. Excise Duty Description: Tax on specific goods, such as alcohol and tobacco. Law: Excise (Management and Tariff) Act, 1952. Rate: Varies by product. 4ps. 1ps. Calculation Example: For a contract worth TZS 10,000,000, the stamp duty could be TZS 50,000. ## 10. Excise Duty Description: Tax on specific goods, such as alcohol and tobacco. Law: Excise (Management and Tariff) Act, 1952. Rate: Varies by product. Calculation Example: For a product with an excise duty of 30%, if the cost is TZS 1,000,000, the duty is TZS 300,000. ## 11. Import Duty Description: Tax on goods brought into the country. Law: East African Community Customs Management Act, 2004. Rate: Varies by product. Calculation Example: For goods worth TZS 10,000,000 with a duty rate 2ps. of 25%, the duty is TZS 2,500,000. ## 12. Export Duty Description: Tax on goods exported from the country. Law: East African Community Customs Management Act, 2004. Rate: Varies by product. Calculation Example: For goods worth TZS 10,000,000 with a duty rate of 10%, the duty is TZS 1,000,000. ## 13. Motor Vehicle License Fee Description: Fee for vehicle registration and road usage. Law: Road Traffic Act, 1973. Rate: Varies by vehicle type. 5ps. 1ps. Calculation Example: For
+    questions_and_answers:
+      - question: |
+          What is the governing law for the Stamp Duty, and how is it calculated?
+        answer: |
+          The Stamp Duty is governed by the Stamp Duty Act, 1972. Its rate varies, and for a contract worth TZS 10,000,000, the stamp duty could amount to TZS 50,000.
+      - question: |
+          What types of goods are subject to Excise Duty, and what governs this tax?
+        answer: |
+          Excise Duty applies to specific goods like alcohol and tobacco and is governed by the Excise (Management and Tariff) Act, 1952. The rate varies by product.
+      - question: |
+          What is an example of calculating Import Duty, and what law regulates it?
+        answer: |
+          Import Duty is regulated by the East African Community Customs Management Act, 2004. For goods worth TZS 10,000,000 with a duty rate of 25%, the duty is TZS 2,500,000.
+      - question: |
+          How is the Export Duty calculated, and what law governs this type of duty?
+        answer: |
+          Export Duty is governed by the East African Community Customs Management Act, 2004. For goods worth TZS 10,000,000 with a duty rate of 10%, the duty is TZS 1,000,000.
+      - question: |
+          What is the purpose of the Motor Vehicle License Fee, and which law determines its rates?
+        answer: |
+          The Motor Vehicle License Fee is for vehicle registration and road usage, determined by the Road Traffic Act, 1973. The rates vary based on the type of vehicle.
+  - context: |
+      Rate: 10%. Calculation Example: If interest paid is TZS 1,000,000, the withholding tax is TZS 100,000 (10% of 1,000,000). ## 5. Withholding Tax on Royalties Description: Tax withheld on royalties paid. Law: Income Tax Act, 2004. Rate: 15%. Calculation Example: If 2ps. royalties are TZS 200,000, the withholding tax is TZS 30,000 (15% of 200,000). ## 6. Skills and Development Levy (SDL) Description: A levy to finance the Skills Development Fund. Law: Vocational Education and Training Act, 1994. Rate: 4% of the gross wage. Calculation Example: If the monthly wage bill is TZS 10,000,000, the SDL is TZS 400,000 (4% of 10,000,000). ## 7. Workers' Compensation Fund (WCF) Contribution Description: A contribution for employee compensation in case of workplace injuries. 3ps. 1ps. Law: Vocational Education and Training Act, 1994. Rate: 4% of the gross wage. Calculation Example: If the monthly wage bill is TZS 10,000,000, the SDL is TZS 400,000 (4% of 10,000,000). ## 7. Workers' Compensation Fund (WCF) Contribution Description: A contribution for employee compensation in case of workplace injuries. Law: Workers Compensation Act, 2008. Rate: 1% of the gross wage. Calculation Example: If the monthly wage bill is TZS 10,000,000, the WCF contribution is TZS 100,000 (1% of 10,000,000). ## 8. Property Tax Description: Tax on the ownership of property. Law: Local Government Finance Act, 1982. Rate: 2ps. Depends on property value and location. Calculation Example: If property is valued at TZS 100,000,000, the tax could be TZS
+    questions_and_answers:
+      - question: |
+          What is the rate of withholding tax on interest, and how is it calculated?
+        answer: |
+          The rate of withholding tax on interest is 10%. For example, if the interest paid is TZS 1,000,000, the withholding tax is TZS 100,000 (10% of 1,000,000).
+      - question: |
+          What law governs the withholding tax on royalties, and what is its rate?
+        answer: |
+          The withholding tax on royalties is governed by the Income Tax Act, 2004, with a rate of 15%.
+      - question: |
+          What is the purpose of the Skills and Development Levy (SDL) and how is it calculated?
+        answer: |
+          The SDL is a levy to finance the Skills Development Fund. It is calculated at a rate of 4% of the gross wage, e.g., for a monthly wage bill of TZS 10,000,000, the SDL is TZS 400,000.
+      - question: |
+          Under what law is the Workers' Compensation Fund (WCF) contribution regulated, and what is its rate?
+        answer: |
+          The WCF contribution is regulated by the Workers Compensation Act, 2008, and the rate is 1% of the gross wage.
+      - question: |
+          What factors determine the property tax rate, and which law governs it?
+        answer: |
+          The property tax rate depends on the property value and location. It is governed by the Local Government Finance Act, 1982.
+  - context: |
+      1ps. 1ps. Law: Local Government Finance Act, 1982. Rate: Varies. Calculation Example: If the levy is 0.3% of turnover and turnover is TZS 50,000,000, the levy is TZS 150,000. ## 17. Business License Fee Description: Fee for the issuance of a business license. Law: Business Licensing Act, 1972. Rate: Varies by business type. Calculation Example: For waste management, the fee could be TZS 500,000 annually. ## 18. Payroll Tax Description: Tax on employees' salaries. Law: Income Tax Act, 2004. Rate: Varies. Calculation Example: For an employee earning TZS 1,000,000 monthly, the payroll tax could be TZS 200,000. ## 2ps. 19. Social Security Contributions Description: Contributions to social security schemes. Law: Social Security Regulatory Authority Act, 2008. Rate: 20% (10% employee, 10% employer). Calculation Example: For a salary of TZS 1,000,000, the contribution is TZS 200,000 (split between employer and employee). ## 20. Health Insurance Fund Contribution Description: Contribution to the national health insurance fund. Law: National Health Insurance Fund Act, 1999. Rate: Varies. Calculation Example: If the contribution is 3% of salary, for a salary of TZS 1,000,000, it is TZS 30,000. 2ps. 1ps. ## 20. Health Insurance Fund Contribution Description: Contribution to the national health insurance fund. Law: National Health Insurance Fund Act, 1999. Rate: Varies. Calculation Example: If the contribution is 3% of salary, for a salary of TZS 1,000,000, it is TZS 30,000. ## 21. Fire and Rescue Service Levy Description: Levy for fire and rescue services.
+    questions_and_answers:
+      - question: |
+          What law governs the levy calculated based on turnover, and how is the levy determined?
+        answer: |
+          The levy is governed by the Local Government Finance Act, 1982. The levy varies but is calculated as a percentage of turnover; for example, if the levy is 0.3% and the turnover is TZS 50,000,000, the levy would be TZS 150,000.
+      - question: |
+          What legal framework regulates the issuance of business licenses, and how much might the fee be for waste management businesses?
+        answer: |
+          The Business Licensing Act, 1972, regulates the issuance of business licenses. For waste management businesses, the fee could be TZS 500,000 annually.
+      - question: |
+          Under which law is payroll tax assessed, and what is an example of its calculation?
+        answer: |
+          Payroll tax is assessed under the Income Tax Act, 2004. For an employee earning TZS 1,000,000 monthly, the payroll tax could be TZS 200,000.
+      - question: |
+          How are social security contributions split between employer and employee, and under what law is this governed?
+        answer: |
+          Social security contributions are governed by the Social Security Regulatory Authority Act, 2008, and are split equally at 10% each for the employer and the employee. For a salary of TZS 1,000,000, the total contribution is TZS 200,000.
+      - question: |
+          What is the typical rate for contributions to the national health insurance fund, and how is it calculated for a salary of TZS 1,000,000?
+        answer: |
+          Contributions to the national health insurance fund are governed by the National Health Insurance Fund Act, 1999, with rates that vary. For a 3% contribution rate, the amount for a salary of TZS 1,000,000 would be TZS 30,000.
+  - context: |
+      Law: Fire and Rescue Force Act, 2007. Rate: Varies. Calculation Example: For a commercial property, the levy could be TZS 100,000 annually. ## 22. Market Fee Description: Fee for using market facilities. Law: Local Government Finance Act, 1982. Rate: Varies. Calculation 2ps. Example: For a stall in a market, the fee might be TZS 10,000 monthly. ## 23. Customs Processing Fee Description: Fee for processing customs documentation. Law: East African Community Customs Management Act, 2004. Rate: Varies. Calculation Example: If the fee is TZS 100,000 per consignment. ## 24. Port Charges Description: Charges for using port facilities. Law: Tanzania Ports Authority Act, 2004. Rate: Varies. Calculation Example: For a container, the charge might be TZS 500,000. 3ps. 1ps. ## 24. Port Charges Description: Charges for using port facilities. Law: Tanzania Ports Authority Act, 2004. Rate: Varies. Calculation Example: For a container, the charge might be TZS 500,000. ## 25. Transit Fee Description: Fee for goods transiting through Tanzania. Law: East African Community Customs Management Act, 2004. Rate: Varies. Calculation Example: If the fee is TZS 50,000 per truck. ## 26. Road Toll Description: Toll for using certain roads. Law: Roads Act, 2007. Rate: Varies. Calculation Example: For a heavy vehicle, the toll could be TZS 20,000 per trip. ## 27. Solid Waste Management Fee Description: Fee 2ps. for waste collection and management services. Law: Local Government Finance Act, 1982. Rate: Varies. Calculation Example: For a commercial entity, the fee might
+    questions_and_answers:
+      - question: |
+          What law governs the levy for commercial properties under the Fire and Rescue Force Act, 2007?
+        answer: |
+          The Fire and Rescue Force Act, 2007 governs the levy for commercial properties, such as an annual fee of TZS 100,000.
+      - question: |
+          How is the market fee determined under the Local Government Finance Act, 1982?
+        answer: |
+          The market fee rate varies, but an example provided is TZS 10,000 per month for a market stall.
+      - question: |
+          What is an example rate for the Customs Processing Fee as per the East African Community Customs Management Act, 2004?
+        answer: |
+          An example rate for the Customs Processing Fee is TZS 100,000 per consignment.
+      - question: |
+          Under the Tanzania Ports Authority Act, 2004, what is the example calculation for port charges for a container?
+        answer: |
+          For a container, the port charges might be TZS 500,000, as per the Tanzania Ports Authority Act, 2004.
+      - question: |
+          What is an example of a road toll fee under the Roads Act, 2007 for a heavy vehicle?
+        answer: |
+          An example road toll fee for a heavy vehicle under the Roads Act, 2007 could be TZS 20,000 per trip.
+document_outline: |
+  **Document Outline:**
+  The document provides a detailed overview of 30 taxes, levies, duties, and customs applicable to businesses in the water supply, sewerage, waste management, and remediation sectors in Tanzania. It includes descriptions, applicable laws, tax rates, and calculation examples for each type of tax, covering areas such as corporate income tax, VAT, withholding taxes, skill levies, property tax, and excise duties, among others.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_water_supply.md

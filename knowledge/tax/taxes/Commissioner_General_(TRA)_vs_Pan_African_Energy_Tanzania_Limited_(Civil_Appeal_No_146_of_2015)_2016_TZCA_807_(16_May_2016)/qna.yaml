@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM ## (CORAM: KIMAROJ.A., ORIYOJ.A., And MWARIJA, 3. A.^ ## CIVIL APPEAL NO. 146 OF 2015 COMMISSIONER GENERAL, TRA...................................................APPELLANT ## VERSUS ## PAN AFRICAN ENERGY TANZANIA LIMITED..........................RESPONDENT (Appeal from the judgment and decree of the Tax Revenue Appeals Tribunal sitting at Dar es Salaam) (Twaib, 3. (Chairman)) dated 24th 3uly 2015 in Tax Appeal No.11 of 2015 ## JUDGMENT OF THE COURT 17th February &amp; 16th May, 2016 ## KIMARO, 3.A.:- The respondent is a limited liability company registered in Tanzania. Its major activities are exploration, production, distribution and 2ps. marketing of natural gas at Songosongo fields in Lindi Region. The company operates a gas processing plant for Songas Limited under an operatorship agreement. As part of its business, the respondent also conducts seismic work aimed at finding more gas and to better understand the gas reservoir. It drills wells, manages other wells owned by Songas, performs reservoir performance studies, including geological and geographical, marketing research and other related activities. 2ps. 1ps. The company operates a gas processing plant for Songas Limited under an operatorship agreement. As part of its business, the respondent also conducts seismic work aimed at finding more gas and to better understand the gas reservoir. It drills wells, manages other wells owned by Songas, performs reservoir performance studies, including geological and geographical, marketing research and other related activities. The above services are performed in the United Republic of Tanzania. The gas produced is supplied 2ps. to the Songas Plant at Ubungo and it is used to produce electricity which is sold to Tanzania Electricity Supply Co. (TANESCO). The respondent uses various technical service providers both resident and non-resident in undertaking its operations. The services procured fall into three categories.
+    questions_and_answers:
+      - question: |
+          Who are the parties involved in Civil Appeal No. 146 of 2015 in the Court of Appeal of Tanzania?
+        answer: |
+          The parties involved are the Commissioner General of the Tanzania Revenue Authority (TRA) as the appellant and Pan African Energy Tanzania Limited as the respondent.
+      - question: |
+          What is the primary business activity of Pan African Energy Tanzania Limited?
+        answer: |
+          The primary business activities include exploration, production, distribution, and marketing of natural gas at the Songosongo fields in the Lindi Region of Tanzania.
+      - question: |
+          What specific services does Pan African Energy perform under its operatorship agreement with Songas Limited?
+        answer: |
+          Under the agreement, the company operates a gas processing plant, conducts seismic work to explore gas, drills wells, manages wells owned by Songas, and performs geological and reservoir performance studies.
+      - question: |
+          What is the relationship between the gas produced by Pan African Energy and Tanzania's electricity supply?
+        answer: |
+          The gas produced by Pan African Energy is supplied to the Songas Plant at Ubungo, which uses it to produce electricity that is then sold to the Tanzania Electricity Supply Co. (TANESCO).
+      - question: |
+          What kinds of service providers does Pan African Energy utilize for its operations?
+        answer: |
+          Pan African Energy uses various technical service providers, both residents and non-residents, to carry out its operations in Tanzania.
+  - context: |
+      1ps. 1ps. What is stressed in the section is that the services must be rendered in Tanzania. This could be a leeway for tax evasion for unfaithful businessmen or for unlawful transactions. All the same the Court is bound to interpret the law in its true perspective. The cases of Cape Brandy Syndicate (supra) and that of Commissioner General Another V Mac Arthur and baker International(supra) guide the court on interpretation of the statutes. We cannot create 2ps. a situation in the statute that was not intended by the Legislature. Section 69(i)(i) makes a distinction between payments made by an individual person and that made bv the aovernment under section 69fn J I l \_' V (ii). Where the government is the payer, income tax is chargeable regardless of the place where the services are rendered. It is chargeable even when it is rendered outside the United Republic. This is not the case 3ps. with section 69(i)(i). A private company like the respondent has no obligation to withhold tax where the services fee paid were for services rendered outside the country. 2ps. 1ps. It is chargeable even when it is rendered outside the United Republic. This is not the case with section 69(i)(i). A private company like the respondent has no obligation to withhold tax where the services fee paid were for services rendered outside the country. We think that the best way to remedy the situation of allowing loss of income to the government is to amend the law to cater for such situations as it happened in 2ps. this case. Other jurisdictions, like the government of India changed the law and is now in a position to charge income even for services rendered outside India but payment made in India. See the case of Ashapura Minishem Ltd (supra).
+    questions_and_answers:
+      - question: |
+          What is the key condition for services to be taxable under section 69(i)(i)?
+        answer: |
+          Under section 69(i)(i), the services must be rendered in Tanzania for them to be taxable.
+      - question: |
+          How does the tax treatment differ when the government is the payer, according to section 69(i)(ii)?
+        answer: |
+          When the government is the payer, income tax is chargeable regardless of whether the services are rendered inside or outside the United Republic of Tanzania.
+      - question: |
+          What is the court's duty when interpreting the statute according to the context?
+        answer: |
+          The court is bound to interpret the law in its true perspective without creating situations that were not intended by the Legislature.
+      - question: |
+          What legal guidance does the court rely on for proper interpretation of statutes in this context?
+        answer: |
+          The court relies on cases such as Cape Brandy Syndicate and Commissioner General Another v. MacArthur and Baker International for guidance in the interpretation of statutes.
+      - question: |
+          What suggestion is made to address the potential tax loss from services rendered outside Tanzania but paid for by private entities?
+        answer: |
+          It is suggested that the law should be amended to remedy the situation, similar to how India amended its law to tax payments made in India for services rendered outside the country.
+  - context: |
+      1ps. 1ps. That is whether or not the payments made by the respondent to the non-resident persons are liable to · 1 1 withholding tax. The parties through their advocates agreed that chargeable income of non-resident is regulated by section 6(b) of the Income Tax Act which provides: "//7 case o f non-resident person, the person's income from the employment; business or investment for the year o f income, only to the extent that the income has source in the United Republic 2ps. of Tanzania." The section reads: " Subject to subsection (2), a resident person who pays a service fee or insurance premium with a source in the United Republic to a non­ resident person shall withhold income tax from the payment at the rate provided for in paragraph 4(c) o f the First Schedule." Did the service fee that the respondent paid to the non- resident consultants have source in Tanzania? The answer is found 3ps. in section 69 of the Income Tax Act. 2ps. 1ps. The section reads: " Subject to subsection (2), a resident person who pays a service fee or insurance premium with a source in the United Republic to a non­ resident person shall withhold income tax from the payment at the rate provided for in paragraph 4(c) o f the First Schedule." Did the service fee that the respondent paid to the non- resident consultants have source in Tanzania? The answer is found in section 2ps. 69 of the Income Tax Act.
+    questions_and_answers:
+      - question: |
+          What does section 6(b) of the Income Tax Act regulate?
+        answer: |
+          Section 6(b) of the Income Tax Act regulates the chargeable income of non-residents, stating that their income from employment, business, or investment is taxable only to the extent that it has a source within the United Republic of Tanzania.
+      - question: |
+          What obligation does a resident person have when paying a service fee to a non-resident, according to the Income Tax Act?
+        answer: |
+          A resident person who pays a service fee or insurance premium with a source in the United Republic of Tanzania to a non-resident must withhold income tax from the payment at the rate specified in paragraph 4(c) of the First Schedule.
+      - question: |
+          Where can the determination of whether a service fee has a source in Tanzania be found?
+        answer: |
+          The determination of whether a service fee has a source in Tanzania can be found in section 69 of the Income Tax Act.
+      - question: |
+          Does the Income Tax Act mention specific conditions under which income tax is withheld from payments to non-residents?
+        answer: |
+          Yes, the Income Tax Act specifies in section 6(b) and reiterated in section 69 that a resident must withhold tax on payments like service fees or insurance premiums to non-residents if the income has a source within Tanzania.
+      - question: |
+          What type of income is specified as taxable under section 6(b) for non-residents?
+        answer: |
+          Under section 6(b), taxable income for non-residents includes income from employment, business, or investment for the year, but only to the extent that the income originates from a source within Tanzania.
+  - context: |
+      1ps. 1ps. He cited sections 6(1), 6(2) 69 (and in particular 69(i) (i)) and 83(1) (c) and said the conclusive effect is that - - " 5 5 long as there were activities being performed in the United Republic (partly or wholly) to accomplish the contract service; then payment made for such services have as source in the United Republic and accordingly the whole of such payment should be subjected to withholding tax scheme as required by section 83(1 )(b) (See section TAB 2ps. 3) o f the Income Act, Cap. It would only apply if the government is the payer under sections and 69(i)(ii). Otherwise there would have been no need to have the two subsections which are drafted differently. He said in terms of section 83(l)(c)and 69(i)(i) the respondent had no obligation to pay withholding tax on the payments it made to non-residents for services performed outside Tanzania. That obligation would only 3ps. arise where the services are rendered /performed in Tanzania. 2ps. 1ps. Otherwise there would have been no need to have the two subsections which are drafted differently. He said in terms of section 83(l)(c)and 69(i)(i) the respondent had no obligation to pay withholding tax on the payments it made to non-residents for services performed outside Tanzania. That obligation would only arise where the services are rendered /performed in Tanzania. He further said that subjecting the income of non-resident 2ps. service providers to tax by way of withholding tax in Tanzania is contrary to tax laws and internationally accepted tax norms. He cited the case of Ishikawajima -Harima Heavy Industries Limited (supra) which gives the position in India prior to the amendment of the law in 2010, a position which still prevails in Tanzania.
+    questions_and_answers:
+      - question: |
+          What is the significance of sections 6(1), 6(2), 69(i)(i), and 83(1)(c) in the context provided?
+        answer: |
+          These sections outline the conditions under which withholding tax applies to payments for contract services, specifically that payments sourced in the United Republic (partly or wholly) for services performed in the country are subject to withholding tax.
+      - question: |
+          Under what circumstances does section 83(1)(c) state that a respondent has no obligation to pay withholding tax?
+        answer: |
+          Section 83(1)(c) specifies that the respondent has no obligation to pay withholding tax on payments made to non-residents for services performed outside Tanzania.
+      - question: |
+          Why are sections 69(i)(i) and 69(i)(ii) described as drafted differently, and what is the implication?
+        answer: |
+          The sections are drafted differently to indicate distinct circumstances under which withholding tax obligations arise, emphasizing that tax applies only when services are rendered or performed in Tanzania.
+      - question: |
+          What precedent is referenced regarding the taxation of non-resident service providers and why?
+        answer: |
+          The case of Ishikawajima-Harima Heavy Industries Limited is referenced to highlight that subjecting the income of non-resident service providers to tax through withholding aligns with internationally accepted tax norms, a principle that applies in Tanzania.
+      - question: |
+          How does the case of Ishikawajima-Harima Heavy Industries Limited relate to tax laws in Tanzania?
+        answer: |
+          The case demonstrates that withholding tax on non-resident service providers is inconsistent with internationally accepted tax norms unless services are performed within the taxing jurisdiction, a position that still applies in Tanzania.
+  - context: |
+      1ps. 1ps. - (ii) Whether or not the respondent is liable to pay withhold tax not withheld. The learned advocate submitted correctly that the dispute has to be resolved by a proper interpretation of sections 69(i)(i) and section 83(l)(c) of the Income Tax Act. He said a correct interpretation of section 69(i)(i) justifies the appellant to demand payment of the tax that was not withheld by the respondent when it paid the service fee to its consultants abroad. He opined that a 2ps. proper interpretation of section 69(i)(i) would have been that so long as the payments were made from Tanzania the place where the samples were drilled and sent to the consultants, the place where the analysis was done was immaterial. The learned advocate faulted the Tribunal for holding that section 69(i)(i) does not require the payer to withhold tax when making payment of service fee 3ps. to a non- resident payee stationed outside Tanzania. He said that is not a correct interpretation of the section. 2ps. 1ps. He opined that a proper interpretation of section 69(i)(i) would have been that so long as the payments were made from Tanzania the place where the samples were drilled and sent to the consultants, the place where the analysis was done was immaterial. The learned advocate faulted the Tribunal for holding that section 69(i)(i) does not require the payer to withhold tax when 2ps. making payment of service fee to a non- resident payee stationed outside Tanzania. He said that is not a correct interpretation of the section. The learned counsel said what was important for consideration by the tribunal was that the services were delivered to a recipient in the United Republic of Tanzania and payments were made in consideration of such services.
+    questions_and_answers:
+      - question: |
+          What sections of the Income Tax Act are central to resolving the dispute in the case?
+        answer: |
+          Sections 69(i)(i) and 83(l)(c) of the Income Tax Act are central to resolving the dispute concerning the withholding of tax on payments made to consultants abroad.
+      - question: |
+          What justification did the advocate provide for the appellant’s demand for unpaid withholding tax?
+        answer: |
+          The advocate argued that section 69(i)(i) justifies the appellant's demand because the payments were made from Tanzania, making the location of the analysis (conducted abroad) immaterial.
+      - question: |
+          How did the advocate criticize the Tribunal’s interpretation of section 69(i)(i)?
+        answer: |
+          The advocate faulted the Tribunal for concluding that section 69(i)(i) does not require the payer to withhold tax when paying service fees to a non-resident payee located outside of Tanzania, calling it an incorrect interpretation.
+      - question: |
+          What key consideration did the advocate highlight to justify withholding tax?
+        answer: |
+          The advocate emphasized that the services were delivered to a recipient in Tanzania and payments were made in consideration of those services, which justified the obligation to withhold tax.
+      - question: |
+          What did the advocate argue was irrelevant to the obligation to withhold tax under section 69(i)(i)?
+        answer: |
+          The advocate argued that the location where the analysis was conducted (abroad) was irrelevant, as long as the payments originated from Tanzania.
+document_outline: |
+  **Document Outline:**
+  This legal document outlines a civil appeal heard by the Court of Appeal of Tanzania between the Commissioner General of the Tanzania Revenue Authority (TRA) and Pan African Energy Tanzania Limited. The case examines a tax dispute regarding the obligation of the respondent to withhold tax on technical service fees paid to non-resident consultants for services performed outside Tanzania, focusing on differing interpretations of tax liability under Tanzanian law.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Commissioner_General_(TRA)_vs_Pan_African_Energy_Tanzania_Limited_(Civil_Appeal_No_146_of_2015)_2016_TZCA_807_(16_May_2016).md

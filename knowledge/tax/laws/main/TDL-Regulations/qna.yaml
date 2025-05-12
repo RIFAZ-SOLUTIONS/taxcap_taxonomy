@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      tourism facility" means any or activity designated as such by the Minister under - Director" has the meaning ascribed to it under the Act; G.N No. 352 (contd.) section 17 of the Act; "Levy" means the tourism development prescribed under section 59 of the Act; period" means the prescribed under regulation 5 in respect of which the referred to in regulation 3 is payable; ~levy period 3ps. levy member?' means a member of the committee and includes the chairman; - (a) is the holder of certificate of registration issued under section 12(1) of the Act; or ~owner' in relation to tourism accommodation facility, means any person who- - (b) receives or is entitled to receive the profits arising from the services offered by the tourism accommodation facility; travelling to a place outside his usual environment for the period between twenty four-hours and one year and whose main purpose of travel is other than the exercise of àn activity remunerated from within the place visited and whereas this activity is undertaken by 4ps. a resident shall be known as domestic tourist; stourism accommodation facility" means any premises or building which is used to provide accommodation services to tourists and for the purpose of these Regulations includes a designated tourism facility. 4ps. 1ps. Failure to pay bed night levy . - 16. Revocation. ## SCHEDULE G.N. No. 352 (contd ) ## THE TOURISM ACT, (CAP.65) ## REGULATIONS (Made under section 59(2)) ##
+    questions_and_answers:
+      - question: |
+          What is the meaning of 'tourism facility' as defined in the context?
+        answer: |
+          A 'tourism facility' refers to any activity or entity designated as such by the Minister under section 17 of the Act.
+      - question: |
+          What does 'Levy' refer to in the context provided?
+        answer: |
+          'Levy' means the tourism development fee prescribed under section 59 of the Act.
+      - question: |
+          Who qualifies as an 'owner' of a tourism accommodation facility?
+        answer: |
+          An 'owner' is a person who either holds a certificate of registration under section 12(1) of the Act or receives or is entitled to receive the profits from services offered by a tourism accommodation facility.
+      - question: |
+          How is a domestic tourist defined in the context?
+        answer: |
+          A domestic tourist is someone traveling outside their usual environment for a period of 24 hours to one year for purposes other than being remunerated within the place visited, provided they are a resident.
+      - question: |
+          What is included in the definition of 'tourism accommodation facility'?
+        answer: |
+          A 'tourism accommodation facility' includes any premises or building used to provide accommodation services to tourists, and it also encompasses a designated tourism facility under these regulations.
+  - context: |
+      tourism accommodation facility; means any person who- - (b) receives or is entitled to receive 2ps. the profits arising from the services offered by the tourism accommodation facility; stourist?' means a person who is travelling to a place outside his usual environment for the period between twenty four-hours and one year and whose main purpose of travel is other than the exercise of àn activity remunerated from within the place visited and whereas this activity is undertaken by a resident shall be known as domestic tourist; stourism accommodation facility" means any premises or building which is used to provide accommodation services to tourists and for the purpose of these Regulations includes a 3ps. designated tourism facility . ## PART II ## COLLECTION OF TOURISM DEVELOPMENT LEVY Sources of The sources of the Levy shall consist of Tourism Development (a) three percent (3%) of Tanzania National Parks Authority' s gross revenue; (b) three percent (3%) of Ngorongoro Conservation Area Authority' s gross revenue; levy G.N. No. 352 (contd ) - (c) the bed night levy; - (e) donations and grants made to the account; and - (d) fees for grading or re-grading of accommodation facilities; - (f) any other sum which may, in any manner, become to the account payable Owner of a 4.-(1) Every owner of a registered tourism Tourism accommodation facility or a designated tourism 4ps. facility shall Accommodation to collect from every tourist, a bed-night levy and remit
+    questions_and_answers:
+      - question: |
+          What is the definition of a tourism accommodation facility?
+        answer: |
+          A tourism accommodation facility is any premises or building used to provide accommodation services to tourists and includes designated tourism facilities.
+      - question: |
+          Who can be considered a domestic tourist?
+        answer: |
+          A domestic tourist is a resident traveling within their usual country but outside their usual environment, for a period between 24 hours and one year, for purposes other than doing paid work in the destination visited.
+      - question: |
+          What percentage of gross revenue is sourced from the Tanzania National Parks Authority and Ngorongoro Conservation Area Authority for the Tourism Development Levy?
+        answer: |
+          Three percent (3%) of the gross revenue from both the Tanzania National Parks Authority and the Ngorongoro Conservation Area Authority is used for the Tourism Development Levy.
+      - question: |
+          What is the bed-night levy, and who is responsible for collecting it?
+        answer: |
+          The bed-night levy is a fee collected for each tourist's overnight stay, and the owner of a registered tourism accommodation facility or designated tourism facility is responsible for collecting and remitting it.
+      - question: |
+          What additional sources contribute to the Tourism Development Levy apart from gross revenue and the bed-night levy?
+        answer: |
+          Additional sources for the Tourism Development Levy include donations and grants, fees for grading or re-grading of accommodation facilities, and any other sums payable to the account in any manner.
+  - context: |
+      evade levy . - 15 . General penalty . - 14 . Failure to pay bed night levy . - 16. Revocation. ## SCHEDULE G.N. No. 352 (contd ) ## THE TOURISM ACT, (CAP.65) ## REGULATIONS (Made under section 59(2)) ## THE TOURISM (TOURISM DEVELOPMENT 2ps. LEVY) REGULATIONS, 2013 ## PART [ PRELIMINARY PROVISIONS Citation and These Regulations may be cited as the Tourism commencement (Tourism shall 1 and come into operation on the 1 of October; 2013. day Interpretation - 2 In these Regulations unless the context require Cap. 3ps. 1ps. General penalty . - 14 . Failure to pay bed night levy . - 16. Revocation. ## SCHEDULE G.N. No. 352 (contd ) ## THE TOURISM ACT, (CAP.65) ## REGULATIONS (Made under section 59(2)) ## THE TOURISM (TOURISM DEVELOPMENT LEVY) REGULATIONS, 2013 ## PART [ PRELIMINARY PROVISIONS Citation and These Regulations may be cited as the Tourism commencement (Tourism shall 1 and come into operation on the 1 of October; 2013. day Interpretation - 2 In these Regulations unless the context require Cap. 65 otherwise - - &lt;Act" means the Tourism Act; - Accounting Officer" means the Permanent Secretary of the Ministry responsible for Natural Resources and Tourism; - ~account?' means the 2ps. tourism development account; levy means an amount equal to one and half United States Dollars by a tourist for a night or or thereof in a tourism accommodation facility; payable day part stay - ~designated
+    questions_and_answers:
+      - question: |
+          What is the name of the regulations mentioned in the context?
+        answer: |
+          The regulations are called 'The Tourism (Tourism Development Levy) Regulations, 2013.'
+      - question: |
+          When did the Tourism (Tourism Development Levy) Regulations, 2013 come into effect?
+        answer: |
+          The regulations came into operation on the 1st of October, 2013.
+      - question: |
+          What is the definition of the term 'levy' under these regulations?
+        answer: |
+          Levy is defined as an amount equal to one and a half United States Dollars payable by a tourist for a night or part of a night spent in a tourism accommodation facility.
+      - question: |
+          Who is referred to as the 'Accounting Officer' in these regulations?
+        answer: |
+          The 'Accounting Officer' refers to the Permanent Secretary of the Ministry responsible for Natural Resources and Tourism.
+      - question: |
+          Under which section of the Tourism Act were these regulations made?
+        answer: |
+          These regulations were made under section 59(2) of the Tourism Act, (CAP.65).
+  - context: |
+      THE TOURISM (TOURISM DEVELOPMENT LEVY) REGULATIONS, 2013 ## PART [ PRELIMINARY PROVISIONS Citation and These Regulations may be cited as the Tourism commencement (Tourism shall 1 and come into operation on the 1 of October; 2013. day Interpretation - 2 In these Regulations unless the context require Cap. ## PART II ## COLLECTION OF TOURISM DEVELOPMENT LEVY Sources of 3 The sources of the shall consist of Levy Tourism Development (a) three percent (3%) of Tanzania National Parks Authority's gross 2ps. revenue; (b) three percent (3%) of Ngorongoro Conservation Area Authority' s gross revenue; levy G.N No. 352 (contd.) section 17 of the Act; 'Levy" means the tourism development levy prescribed under section 59 of the Act; period" means the period prescribed under regulation 5 in respect of which the referred to in regulation 3 is payable; ~levy levy member? 5ps. 1ps. ## SCHEDULE G.N. No. 352 (contd ) ## THE TOURISM ACT, (CAP.65) ## REGULATIONS (Made under section 59(2)) ## THE TOURISM (TOURISM DEVELOPMENT LEVY) REGULATIONS, 2013 ## PART [ PRELIMINARY PROVISIONS Citation and These Regulations may be cited as the Tourism commencement (Tourism shall 1 and come into operation on the 1 of October; 2013. day Interpretation - 2 In these Regulations unless the context require Cap. means a member of the committee and includes the chairman; - (a) is the holder of certificate of registration issued under section 12(1) of the Act; or ~owner"' in relation to
+    questions_and_answers:
+      - question: |
+          What is the name and citation of the regulations mentioned in the context?
+        answer: |
+          The regulations are called 'The Tourism (Tourism Development Levy) Regulations, 2013'.
+      - question: |
+          When did the Tourism (Tourism Development Levy) Regulations, 2013 come into effect?
+        answer: |
+          The regulations came into operation on the 1st of October, 2013.
+      - question: |
+          What are the sources of the Tourism Development Levy as specified in the regulations?
+        answer: |
+          The sources include three percent (3%) of the Tanzania National Parks Authority's gross revenue and three percent (3%) of the Ngorongoro Conservation Area Authority's gross revenue.
+      - question: |
+          Under which section of the Tourism Act do these regulations fall?
+        answer: |
+          These regulations are made under section 59(2) of the Tourism Act (Cap.65).
+      - question: |
+          What is the definition of 'levy' according to the regulations?
+        answer: |
+          The term 'levy' refers to the tourism development levy prescribed under section 59 of the Act.
+  - context: |
+      1ps. 1ps. levy Tourism Development Account Levy - 9.-(1) The Director shall, after consultation with the Accounting Officer;, open an account to be known as the Tourism Development Levy account where the Levy shall be deposited. G.N. No. 352 (contd ) ## PART III ADMINISTRATION AND MANAGEMENT OF THE TOURISM DEVELOPMENT LEVY Objective of Tourism Development Levy Exccution of documents Books of accounts. 2ps. 1ps. levy Tourism Development Account Levy - 9.-(1) The Director shall, after consultation with the Accounting Officer;, open an account to be known as the Tourism Development Levy account where the Levy shall be deposited. G.N. No. 352 (contd ) ## PART III ADMINISTRATION AND MANAGEMENT OF THE TOURISM DEVELOPMENT LEVY Objective of Tourism Development Levy Exccution of documents Books of accounts. records and annual rcports 10. The principal object of the Levy shall be to assist in financing the implementation of activities relating to tourism development including- - (b) tourism destination marketing promotion; - (a) tourism product 2ps. development; quality control of tourism facilities and services; - (c) capacity building for the tourism sector; - (d) tourism research; and - (e) any other activities for the advancement and furtherance of the tourism sector . - A document relating to the account shall be deemed to be duly executed if such document is signed by the Director . - 12.-(1) The Director shall keep and maintain books of accounts and records of the operations of the
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Tourism Development Levy account?
+        answer: |
+          The Tourism Development Levy account is intended to deposit the Levy that will assist in financing activities related to tourism development.
+      - question: |
+          Who is responsible for opening the Tourism Development Levy account?
+        answer: |
+          The Director is responsible for opening the Tourism Development Levy account after consulting with the Accounting Officer.
+      - question: |
+          What are the specific objectives of the Tourism Development Levy?
+        answer: |
+          The objectives of the Levy include financing tourism destination marketing promotion, tourism product development, quality control of tourism facilities and services, capacity building for the tourism sector, tourism research, and other activities advancing the tourism sector.
+      - question: |
+          How is a document related to the Tourism Development Levy account considered duly executed?
+        answer: |
+          A document related to the account is considered duly executed if it is signed by the Director.
+      - question: |
+          What records is the Director required to maintain regarding the Tourism Development Levy?
+        answer: |
+          The Director must keep and maintain books of accounts and records of the operations related to the Tourism Development Levy.
+document_outline: |
+  **Document Outline:**
+  The document outlines the Tourism (Tourism Development Levy) Regulations, 2013, detailing the legal provisions for the introduction, collection, administration, and penalties related to the Tourism Development Levy in Tanzania, as enacted under the Tourism Act, Cap 65. It includes provisions for levy sources, collection processes, record-keeping, dispute resolution, and general administrative guidelines, with penalties for noncompliance and false reporting.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - TDL-Regulations.md

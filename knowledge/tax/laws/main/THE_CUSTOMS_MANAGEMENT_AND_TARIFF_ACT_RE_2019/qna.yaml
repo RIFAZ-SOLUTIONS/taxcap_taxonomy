@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 14 of 1961 2 of 1962 2 of 1963 12 of 1964 1 of 1966 10 of 1967 12 of 1969 13 of 1969 10 of 1970 13 of 1976 13 of 1989 16 of 1994 13 of 1996 25 of 1997 27 of 1997 2 of 1998 8 of 1998 12 of 1999 15 of 1999 11 of 2000 15 of 2000 14 of 2001 10 of 2002 18 of 2002 1 of 2008 2 of 2014 EAC. Cap. 403 R.E. 2019] <!-- image --> 14 Short title Interpretation Acts Nos 2 of 1963 1 of 1966 12 of 1976 9 of 1977 19 of 1977 12 of 1981 16 of 1983 19 of 1985 9 of 1988 18 of 1981 14 of 1992 15 of 2ps. 2000 s.39 10 of 2002 s.18 E.A.C L.N 84 of 1961 1 of 1967 GN No 122 of 1967 s ## PART I PRELIMINARY PROVISIONS 1. This Act may be cited as the Customs (Management and Tariff) Act. 2ps. 1ps. Cap. 27 E.A.C.L.N. 49/1954 84/1961 1/1967 64/1970 <!-- image --> The Customs (Management and Tariff) Act [CAP. - 2. In this Act, unless the context otherwise requires- 'agent' in relation to an aircraft, vehicle or vessel, includes any person who notifies the proper officer in writing that he intends to act as the agent and who, or on whose behalf any person authorised by him, signs any document required or authorised by this Act to be signed by an agent: Provided that, the owner of any aircraft, vehicle or vessel, if resident or represented 2ps.
+    questions_and_answers:
+      - question: |
+          What is the short title of the Act mentioned in the context?
+        answer: |
+          The short title of the Act is the Customs (Management and Tariff) Act.
+      - question: |
+          What is the definition of 'agent' in the context of this Act?
+        answer: |
+          An 'agent' in relation to an aircraft, vehicle, or vessel is a person who notifies the proper officer in writing of their intent to act as the agent and who signs any document required or authorized by the Act to be signed by an agent.
+      - question: |
+          What legal instrument established this Act?
+        answer: |
+          The Act is part of legal instruments such as Cap. 27 and various amendments and provisions under E.A.C.L.N., including 49/1954 and 84/1961.
+      - question: |
+          What is indicated by the references such as 'Acts Nos 2 of 1963' or '12 of 1976' in the context?
+        answer: |
+          These references indicate specific amendments or legal actions that have contributed to or modified the Customs (Management and Tariff) Act over the years.
+      - question: |
+          Which organizations or legislative changes are mentioned in connection with this Act?
+        answer: |
+          Organizations or legislative changes include the East African Community (EAC), as well as various amendments and legal notices such as GN No. 122 of 1967 and L.N. 84 of 1961.
+  - context: |
+      1ps. 1ps. - (2) For the purposes of this Act- - (a) goods shall be deemed to be entered when the entry, made and signed by the owner in the prescribed manner, is accepted and signed by the proper officer and when any duty due or deposit required under this Act in respect of the goods has been paid, or security has been given for compliance with this Act; - (b) the time of importation of any goods shall be deemed to be the time at which 2ps. such goods come within the boundaries of Tanzania; - (c) the time of exportation of any goods shall be deemed to be the time at which the aircraft or vessel departs from its final position, anchorage, or berth, at the port within Tanzania where such goods are shipped for exportation: Provided that, in the case of goods exported overland the time of exportation shall be deemed to be the time at which such goods pass across the boundaries of Tanzania; - (d) where any aircraft or 3ps. vessel arrives in Tanzania from any foreign port, then, in relation to each port or place within Tanzania where such aircraft or vessel may arrive, such aircraft or vessel shall be deemed to have arrived from a foreign port; (e) - where any aircraft or vessel proposes to depart from Tanzania to any foreign port, then, in relation to each port or place within Tanzania from which such aircraft or vessel may depart, such aircraft or 4ps.
+    questions_and_answers:
+      - question: |
+          What conditions must be met for goods to be deemed 'entered' under this Act?
+        answer: |
+          Goods are deemed 'entered' when the entry, signed by the owner in the prescribed manner, is accepted and signed by the proper officer, and any required duty or deposit has been paid or security has been given for compliance with the Act.
+      - question: |
+          When is the time of importation for goods under this Act?
+        answer: |
+          The time of importation is deemed to be when the goods come within the boundaries of Tanzania.
+      - question: |
+          How is the time of exportation determined for goods exported overland?
+        answer: |
+          For goods exported overland, the time of exportation is deemed to be the time at which the goods pass across the boundaries of Tanzania.
+      - question: |
+          What is the deemed status of an aircraft or vessel arriving in Tanzania from a foreign port, in relation to each port it visits within Tanzania?
+        answer: |
+          An aircraft or vessel arriving in Tanzania from a foreign port is deemed to have arrived from a foreign port at each port or place within Tanzania where it arrives.
+      - question: |
+          How is the time of exportation defined for goods shipped via aircraft or vessel from a Tanzanian port?
+        answer: |
+          For goods shipped via aircraft or vessel, the time of exportation is deemed to be the time at which the aircraft or vessel departs from its final position, anchorage, or berth at the port within Tanzania where the goods are shipped.
+  - context: |
+      1ps. 1ps. of him by the proper officer; - (f) save as otherwise provided in the Customs laws, make due entry of any such goods. - (2) No goods to which this section applies shall be removed from the customs area until after due entry thereof has been made or until permission for removal has been granted by the proper officer. - (3) The Commissioner-General may, subject to 2ps. such conditions as may be specified, exempt any person or class of persons from the provisions of this section. - (4) Any person who contravenes this section commits an offence and any goods in respect of which such offence has been committed shall be liable to forfeiture. 2ps. 1ps. - (2) No goods to which this section applies shall be removed from the customs area until after due entry thereof has been made or until permission for removal has been granted by the proper officer. - (3) The Commissioner-General may, subject to such conditions as may be specified, exempt any person or class of persons from the provisions of this section. - (4) 2ps. Any person who contravenes this section commits an offence and any goods in respect of which such offence has been committed shall be liable to forfeiture. ## Unloading and Removal of Cargo 27. -(1) Subject to this Act, save with the written permission of the proper officer and subject to such conditions as he may impose- - (a) no goods shall be unloaded from any aircraft or vessel arriving from a foreign port unless such goods have first been duly entered; - (b) no goods shall be unloaded or removed from any aircraft 3ps.
+    questions_and_answers:
+      - question: |
+          What must be done before goods can be removed from the customs area according to the context?
+        answer: |
+          Goods cannot be removed from the customs area until due entry has been made or permission for removal has been granted by the proper officer.
+      - question: |
+          Under what conditions can the Commissioner-General exempt individuals from the provisions of this section?
+        answer: |
+          The Commissioner-General may exempt any person or class of persons from the provisions of this section, subject to specified conditions.
+      - question: |
+          What are the consequences of contravening the provisions of this section?
+        answer: |
+          Any person who contravenes this section commits an offence, and the goods in respect of which the offence has been committed will be liable to forfeiture.
+      - question: |
+          What written permission is required for unloading goods from a foreign aircraft or vessel?
+        answer: |
+          No goods can be unloaded from an aircraft or vessel arriving from a foreign port unless they have first been duly entered and written permission is obtained from the proper officer under specified conditions.
+      - question: |
+          What are the general requirements for unloading or removing cargo under this Act?
+        answer: |
+          Goods cannot be unloaded or removed from any aircraft or vessel without due entry and the written permission of the proper officer, subject to any conditions they may impose.
+  - context: |
+      1ps. 1ps. (4) Where, in applying this paragraph, more than one transaction, value of similar goods is found, the lowest such value shall be used to determine the customs value of the imported goods. - (3) Where neither the imported goods nor identical nor similar imported goods are sold in Tanzania in the condition as imported, then, if the importer so requests, the customs value shall be based on the unit price at which the imported goods, after 2ps. further processing, are sold in the greatest aggregate quantity to persons in Tanzania who are not related to the persons from whom they buy such goods, due allowance being made for the value added by such processing and the deductions provided for in subparagraph (1) Computed value Cap.4 s.8 - 7. -(1) The customs value of imported goods under the provisions of this paragraph shall be based on a computed value which shall consist of the sum of: - (a) the cost or value of 3ps. materials and fabrication or other processing employed in producing the imported goods; - (b) an amount for profit and general expenses equal to that usually reflected in sales of goods of the same class or kind as the goods being valued which are made by producers in the country of exportation for export to Tanzania; - (d) the cost or value of all other expenses necessary to reflect the costs added under subparagraph (2) of paragraph 9. - (2) No person not resident in Tanzania 4ps. may be required or compelled to produce for examination, or to allow access to, any account or other record for the purposes of determining a computed value. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What should be done if multiple transaction values of similar goods are found when determining customs value?
+        answer: |
+          The lowest transaction value among the similar goods should be used to determine the customs value of the imported goods.
+      - question: |
+          How is the customs value determined when imported goods are not sold in Tanzania in their original condition?
+        answer: |
+          If requested by the importer, the customs value is based on the unit price at which the processed goods are sold in the greatest aggregate quantity to unrelated buyers in Tanzania, with adjustments for the added processing value and deductions as specified.
+      - question: |
+          What components are included in the computed customs value of imported goods?
+        answer: |
+          The computed customs value consists of the cost or value of materials and fabrication, an amount for profit and general expenses typical for similar goods, and the cost or value of other necessary expenses as outlined.
+      - question: |
+          Can a person not residing in Tanzania be compelled to produce records for determining computed value?
+        answer: |
+          No, a person not residing in Tanzania cannot be required or compelled to produce records or allow access to their accounts for determining computed value.
+      - question: |
+          What is the significance of subparagraph (1) mentioned in the customs valuation process?
+        answer: |
+          Subparagraph (1) outlines the deductions and adjustments to be made when determining the customs value based on sales of processed goods in Tanzania.
+  - context: |
+      1ps. 1ps. The tests set forth in subparagraph (2)(b) are to be used at the initiative of the importer and only for comparison purposes. Substitute values may not be Transaction value of identical goods <!-- image --> established under the provisions of subparagraph (2)(b). - (3) Where the costs and charges referred to in subparagraph (2) of paragraph 9 are included in the transaction value, an adjustment shall be made to take Where the custom value of the goods cannot be determined <!-- image --> account of significant 2ps. differences in such costs and charges between the imported goods and the identical goods in question arising from differences in distances and modes of transport. - (4) Where in applying this paragraph, more than one transaction value of identical goods is found, the lowest such value shall be used to determine the customs value of the imported goods. 2ps. 1ps. - (3) Where the costs and charges referred to in subparagraph (2) of paragraph 9 are included in the transaction value, an adjustment shall be made to take Where the custom value of the goods cannot be determined <!-- image --> account of significant differences in such costs and charges between the imported goods and the identical goods in question arising from differences in distances and modes of transport. - imported 4. -(1)Where the customs value 2ps.
+    questions_and_answers:
+      - question: |
+          What purpose do the tests in subparagraph (2)(b) serve?
+        answer: |
+          The tests in subparagraph (2)(b) are to be used at the initiative of the importer and only for comparison purposes.
+      - question: |
+          Can substitute values based on subparagraph (2)(b) be used to determine the transaction value of identical goods?
+        answer: |
+          No, substitute values may not be used to determine the transaction value of identical goods under the provisions of subparagraph (2)(b).
+      - question: |
+          What adjustment must be made when the transaction value includes costs and charges referred to in subparagraph (2) of paragraph 9?
+        answer: |
+          An adjustment must be made to account for significant differences in such costs and charges, which arise from differences in distances and modes of transport between the imported goods and the identical goods.
+      - question: |
+          What is done if more than one transaction value of identical goods is found during the valuation process?
+        answer: |
+          If more than one transaction value of identical goods is found, the lowest such value must be used to determine the customs value of the imported goods.
+      - question: |
+          What happens if the customs value of goods cannot be determined directly?
+        answer: |
+          If the customs value cannot be determined, adjustments are made to address significant differences in costs and charges due to distances and transport modes, ensuring a fair comparison with identical goods.
+document_outline: |
+  ### Document Outline: "The Customs (Management and Tariff) Act [CAP. 403 R.E. 2019]"
+  This document is the Revised Edition of Tanzania's Customs (Management and Tariff) Act, outlining the legal framework for customs operations, including staff provisions, customs procedures, import/export regulations, warehouse management, tariff guidelines, and enforcement of customs law. It serves as the principal legislation governing customs administration as of November 30, 2019.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_CUSTOMS_MANAGEMENT_AND_TARIFF_ACT_RE_2019.md

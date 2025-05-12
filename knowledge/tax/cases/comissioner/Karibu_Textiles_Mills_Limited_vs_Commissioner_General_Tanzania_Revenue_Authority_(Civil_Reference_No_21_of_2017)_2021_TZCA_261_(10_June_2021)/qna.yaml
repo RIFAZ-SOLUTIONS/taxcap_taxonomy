@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - b) No new facts or evidence can be given by any party without prior leave of the Court; and - c) the single Judge's discretion is wide, unfettered and flexible; it can only be interfered with if there is a misinterpretation of the law." In a subsequent decision in G.A.B. Swale {supra), cited to us by Mr. Luhanga, the Court restated the applicable principles thus: - Y I) Only those issues which were raised 2ps. and considered before the single Justice may be raised in a reference. And if the decision involves the exercise of judicial discretion: - (ii) I f the single Justice has taken into account irrelevant factors or; - (iii) I f the single Justice has failed to take into account relevant matters or; (iv) If there is misapprehension or improper appreciation of the law or facts applicable to that issue or; (v) If, looked at in relation to the available evidence and 3ps. law, the decision is plainly wrong, (see KENYA CANNERS LTD VS TITUS MURIRIDOCTS (1996) LLR 5434, a decision of the Court of Appeal of Kenya, which we find persuasive) (see also MBOGO AND ANOTHER VSHAH [1968] EA 93" We wish to stress the above position by excerpting a passage from Mbogo and Another v. Shah [1968] EA 93, at page 94, a decision of the erstwhile Court of Appeal for East Africa which was cited and applied in numerous decisions including G.A.B. 4ps. Swafe ( supra)'. 2ps. 1ps. In a subsequent decision in G.A.B. Swale {supra), cited to us by Mr. Luhanga, the Court restated the applicable principles thus: - Y I) Only those issues which were raised and considered before the single Justice may be raised in a reference. (See ## GEM AND ROCK VENTURES CO.
+    questions_and_answers:
+      - question: |
+          What requirement must be met for new facts or evidence to be presented in court?
+        answer: |
+          No new facts or evidence can be presented by any party without prior leave of the Court.
+      - question: |
+          Under what circumstances can a single Judge's discretion be interfered with?
+        answer: |
+          A single Judge's discretion can only be interfered with if there is a misinterpretation or improper appreciation of the law.
+      - question: |
+          What principle regarding judicial discretion was reiterated in the G.A.B. Swale decision?
+        answer: |
+          The principle states that only issues raised and considered before the single Justice may be raised in a reference.
+      - question: |
+          What errors by a single Justice can lead to a decision being considered 'plainly wrong'?
+        answer: |
+          Errors include considering irrelevant factors, failing to account for relevant matters, misapprehending the law or facts, or rendering a decision that conflicts with the available evidence and applicable law.
+      - question: |
+          What case law is cited as persuasive in discussing when a decision is 'plainly wrong'?
+        answer: |
+          The cases 'KENYA CANNERS LTD VS TITUS MURIRIDOCTS (1996) LLR 5434' and 'MBOGO AND ANOTHER VS SHAH [1968] EA 93' are cited as persuasive.
+  - context: |
+      1ps. 1ps. Mr. Luhanga also relied on G.A.B. Swale v. Tanzania Zambia Railway Authority, Civil Reference No. 5 of 2011 (unreported), a decision of the Court restating the principles upon which a decision of single Justice can be examined in a reference. Secondly, the learned counsel contended that the learned single Justice rightly dismissed the application for the applicant's failure to account for each of the thirty 2ps. days of delay from 27t h March, 2017. We have examined the material on record and given a careful consideration to the written and oral submissions of the learned counsel for the parties on whether good cause was given in terms of Rule 10 of the Rules to warrant the enlargement of time sought. It is settled that extension of time is a matter of discretion on the part of the Court and that such discretion must be 3ps. exercised judiciously and flexibly with regard to the relevant facts of the particular case. 2ps. 1ps. For the respondent, Mr. Noah Tito, learned State Attorney, adopted the written submissions filed in opposition to the reference and made two points: First, he argued that the Court had jurisdiction to ascertain the facts and reasons adduced in support of an application so as to exercise its discretion judiciously and that the respondent's concession was not a bar to the Court's due consideration of the matter. Admittedly, it has not been 2ps. possible to lay down an invariable definition of good cause so as to guide the exercise of the Court's discretion.
+    questions_and_answers:
+      - question: |
+          What principle was restated in G.A.B. Swale v. Tanzania Zambia Railway Authority, Civil Reference No. 5 of 2011?
+        answer: |
+          The case restated the principles upon which a decision of a single Justice can be examined in a reference.
+      - question: |
+          Why did the single Justice dismiss the application according to Mr. Luhanga?
+        answer: |
+          The single Justice dismissed the application due to the applicant's failure to account for each of the thirty days of delay from 27th March, 2017.
+      - question: |
+          What must the Court consider when exercising discretion to extend time?
+        answer: |
+          The Court must exercise discretion judiciously and flexibly with regard to the relevant facts of the particular case.
+      - question: |
+          What argument did Mr. Noah Tito present regarding the Court's jurisdiction?
+        answer: |
+          Mr. Noah Tito argued that the Court had jurisdiction to ascertain the facts and reasons adduced in support of an application and that the respondent's concession did not bar the Court from exercising its discretion judiciously.
+      - question: |
+          Why is it difficult to define 'good cause' for the purpose of extending time?
+        answer: |
+          It is difficult to define 'good cause' because there is no invariable definition to guide the exercise of the Court's discretion in such matters.
+  - context: |
+      1ps. 1ps. The mere fact that the respondent conceded to the application did not waive the learned single Justice's power as well as duty to ascertain the merits or otherwise of the application and come to his own conclusion as to whether the application had disclosed good cause. We have also examined the complaint that in his consideration of the matter, the learned single Justice brought up new matters on which he decided the application without affording the parties a hearing. It 2ps. is evident from page 6 through page 13 of the typed ruling that the learned single Justice determined the sole issue whether there was good cause for the delay involved, focusing his attention to the period of thirty days of delay that occurred after the applicant had obtained all the certified documents on 27t h March, 2017. This was plainly not a new issue raised by the learned single suo motu but one borne out of 3ps. the material before him. 2ps. 1ps. We have also examined the complaint that in his consideration of the matter, the learned single Justice brought up new matters on which he decided the application without affording the parties a hearing. With respect to Mr. Luhanga, this complaint flies in the face of the record. In resolving the issue before him, the learned single Justice considered nothing else but the supporting affidavit and the submissions of the counsel. He paid special attention to the averment in 2ps. paragraph 17 of the supporting affidavit that by 27t h March, 2017 the applicant had been supplied with all the required documents but that there was no explanation as to why the application before him was filed a month later. Accordingly, we answer the first issue in the negative.
+    questions_and_answers:
+      - question: |
+          What was the duty of the learned single Justice regarding the application?
+        answer: |
+          The learned single Justice had the power and duty to ascertain the merits or otherwise of the application and determine whether it disclosed good cause.
+      - question: |
+          What was the sole issue considered by the learned single Justice in determining the application?
+        answer: |
+          The sole issue considered was whether there was good cause for the delay, specifically focusing on the thirty-day period after the applicant obtained all certified documents on 27th March, 2017.
+      - question: |
+          Did the learned single Justice raise new issues sua motu during the consideration of the application?
+        answer: |
+          No, the issues considered by the learned single Justice arose directly from the material before him and were not new matters raised on his own initiative.
+      - question: |
+          What was the criticism related to the learned single Justice's handling of the application, and how was it addressed?
+        answer: |
+          The criticism was that the learned single Justice brought up new matters without affording the parties a hearing. This was refuted by the record, which showed he only considered the supporting affidavit and counsel submissions.
+      - question: |
+          What specific observation did the learned single Justice make about the timing of the applicant’s filing?
+        answer: |
+          The learned single Justice noted that the applicant had obtained all required documents by 27th March, 2017 but provided no explanation for filing the application a month later.
+  - context: |
+      1ps. 1ps. However, the period between the time the certified exhibits tendered at the tr/'ai were avaiied to the applicant on 27.03.2017 and the time when the present application was lodged on 27.04.2017, has, in my considered view, not only been insufficiently explained but not explained at ail. Nothing is mentioned why the present application was filed one month thereafter; on 27.04.2017, thirty dear days after the endeavours to comply with the decisions of the 2ps. Court were accomplished." Referring to a number of the decisions of the Court including Bushiri Hassan v. Latifa Lukio Mashayo, Civil Application No. 3 of 2007 (unreported) on the imperious requirement in an application for extension of time for each day of delay to be accounted for, the learned single Justice dismissed the application for the applicant's failure to account for a period of one month after she was supplied with all required documents for the intended appeal. 2ps. 1ps. At para 17 of the affidavit supporting the application the applicant deposes through her principal officer that she was supplied with certified copies of exhibits tendered at the trial on 27.03.2017 and that at that moment she was already out of time hence the present application. Nothing is mentioned why the present application was filed one month thereafter; on 27.04.2017, thirty dear days after the endeavours to comply with the 2ps. decisions of the Court were accomplished." At the hearing before us, Mr. Thompson Luhanga, learned advocate, who was assisted by Mr. Gerald Sanga, also learned advocate, highlighted the written submissions filed in support of the application, urging us to reverse the learned single Justice's refusal of extension of time. In the first limb of his submissions, Mr. Luhanga censured the learned single Justice for proceeding to investigate and refuse the application 3ps.
+    questions_and_answers:
+      - question: |
+          What was the specific period of delay mentioned in the application, and why was it relevant?
+        answer: |
+          The period of delay was one month, from March 27, 2017, when the applicant received certified exhibits, to April 27, 2017, when the application was lodged. This delay was relevant because the applicant failed to sufficiently explain or justify it, which led to the application's dismissal.
+      - question: |
+          Which case was cited by the single Justice regarding the requirement to account for each day of delay?
+        answer: |
+          The case cited was Bushiri Hassan v. Latifa Lukio Mashayo, Civil Application No. 3 of 2007 (unreported), which established the requirement for applicants to account for every day of delay in an extension of time application.
+      - question: |
+          What justification did the applicant provide for filing the application after the stipulated time?
+        answer: |
+          The applicant stated in paragraph 17 of the affidavit that she was already out of time when she received the certified exhibits on March 27, 2017. However, no explanation was provided for the one-month delay in filing the application after receiving the documents.
+      - question: |
+          What was the role of Mr. Thompson Luhanga and Mr. Gerald Sanga in this case?
+        answer: |
+          Mr. Thompson Luhanga, assisted by Mr. Gerald Sanga, both learned advocates, represented the applicant at the hearing. They urged the Court to reverse the single Justice's decision to refuse an extension of time.
+      - question: |
+          What was the main criticism made by Mr. Luhanga regarding the single Justice's decision?
+        answer: |
+          Mr. Luhanga criticized the single Justice for proceeding to investigate and refuse the application, implying that the decision was made without fully addressing the issues raised by the applicant’s legal arguments.
+  - context: |
+      1ps. 1ps. The applicant was supplied with a copy of the decree duly signed by members of the Board on 22n d March 2017 and with certified exhibits on 27t h March, 2017. Although at that point the applicant had a complete set of the required documents for appealing, she was already out of time, hence the application before the learned single Justice of the Court for extension 2ps. of time to institute the intended appeal. The applicant relied on Amani Centre for Street Children v. Viso Construction Company Ltd, Civil Application No. 105 of 2013 (unreported) for the proposition that extension of time under Rule 10 of the Rules involves the Court's exercise of its discretion, which must be exercised judiciously in view of the particular circumstances of the matter. 2ps. 1ps. It was submitted for the applicant before the learned single Justice that the application disclosed good cause for the Court to exercise its discretion to grant the extension sought. It was contended that that the initial appeal that the applicant was compelled to withdraw was lodged well within the prescribed time and that all along the applicant was diligently pursuing the matter to make the intended appeal meaningful in 2ps. compliance with the decisions of the Court. Further reliance was placed on Insignia Limited v. Commissioner General (TRA), Civil Application No. 2 of 2007 4 (unreported); and Fortunatus Masha v. William Shija &amp; another [1997] TLR 155. Although the respondent unreservedly conceded to the application, the learned single Justice stated at page 6 of the typed ruling that he still had to investigate and determine if, indeed, the application had 3ps. met the threshold requirement for condonation of the delay involved.
+    questions_and_answers:
+      - question: |
+          What date was the applicant supplied with the signed decree by members of the Board?
+        answer: |
+          The applicant was supplied with a copy of the decree duly signed by members of the Board on 22nd March 2017.
+      - question: |
+          Why did the applicant seek an extension of time to institute the intended appeal?
+        answer: |
+          The applicant sought an extension of time because, by the time she had a complete set of the required documents for appealing on 27th March 2017, she was already out of the allowed timeframe to file the appeal.
+      - question: |
+          What legal precedent did the applicant rely on to argue for the extension of time?
+        answer: |
+          The applicant relied on the case of Amani Centre for Street Children v. Viso Construction Company Ltd, Civil Application No. 105 of 2013, which emphasized that extending time under Rule 10 involves the Court's exercise of discretion in a judicious manner.
+      - question: |
+          What was the applicant’s main argument for disclosing good cause to grant the extension?
+        answer: |
+          The applicant argued that the initial appeal, which she was compelled to withdraw, was lodged within the prescribed time and that she had diligently pursued the matter to make the appeal meaningful in compliance with court decisions.
+      - question: |
+          What action did the learned single Justice take despite the respondent conceding to the application?
+        answer: |
+          The learned single Justice investigated and determined if the application met the threshold requirement for condoning the delay, as stated on page 6 of the typed ruling.
+document_outline: |
+  **Document Outline:**
+  The document is a legal ruling from the Court of Appeal of Tanzania involving Karibu Textile Mills Limited (Applicant) and the Commissioner General, Tanzania Revenue Authority (Respondent). It addresses the applicant's reference under Rule 62(1)(b) of the Court of Appeal Rules, 2009, seeking to overturn a single Justice's decision that dismissed their application for an extension of time to file a memorandum and record of appeal regarding a Tax Revenue Appeals Tribunal judgment from 2010. The ruling outlines the procedural history and legal developments central to the appeal process.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Karibu_Textiles_Mills_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Reference_No_21_of_2017)_2021_TZCA_261_(10_June_2021).md

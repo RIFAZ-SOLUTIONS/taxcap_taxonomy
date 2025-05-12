@@ -1,0 +1,144 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM CIVIL APPLICATION NO. 449/20 OF 2019 PANAFRICAN ENERGY TANZANIA LTD.......................................... APPLICANT VERSUS ## COMMISSIONER GENERAL, ## TANZANIA REVENUE AUTHORITY.......................................... RESPONDENT ## (Application for stay of execution of the Decree of the Tax Revenue Appeal Tribunal at Dar es Salaam) ## (Twaib. Chairman. Bundala and Mwaibula. Memmbers) dated the 2n d day of May, 2017 in Tax Appeal No. 19 of 2015 ## EX PARTE ORDER 31* October &amp; I5 * November, 2019 ## LEVIRA. J.A.: This is an ex-parte application for stay of execution pending hearing 2ps. inter parties before the Court. The Notice of Motion is made under Rule 4(2), 11(4), (4A), (5), (7) and 48(1) of the Tanzania Court of Appeal Rules, 2009 as amended, (the Rules). It is supported by the affidavit affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant. This being an ex-parte application, only Mr. Gaudiosus Ishengoma, learned counsel for the applicant appeared on the date fixed for hearing. 2ps. 1ps. The Notice of Motion is made under Rule 4(2), 11(4), (4A), (5), (7) and 48(1) of the Tanzania
+    questions_and_answers:
+      - question: |
+          What is the case title and application number in the Court of Appeal of Tanzania?
+        answer: |
+          The case is titled 'Panafrican Energy Tanzania Ltd versus Commissioner General, Tanzania Revenue Authority' and is listed as Civil Application No. 449/20 of 2019.
+      - question: |
+          What type of application has been filed by Panafrican Energy Tanzania Ltd?
+        answer: |
+          Panafrican Energy Tanzania Ltd filed an ex-parte application for a stay of execution pending the inter partes hearing before the court.
+      - question: |
+          Under which rules of the Tanzania Court of Appeal Rules, 2009, is the application made?
+        answer: |
+          The application is made under Rule 4(2), 11(4), (4A), (5), (7), and 48(1) of the Tanzania Court of Appeal Rules, 2009 as amended.
+      - question: |
+          Who affirmed the affidavit supporting the application, and what is their role?
+        answer: |
+          The affidavit supporting the application was affirmed by Mwinshehe Said Kibao, who is the Finance Director of the applicant.
+      - question: |
+          Who appeared on behalf of the applicant during the ex-parte hearing?
+        answer: |
+          Mr. Gaudiosus Ishengoma, learned counsel for the applicant, appeared during the ex-parte hearing.
+  - context: |
+      -316/MDM/l 2ps. 76 (served upon the Applicant on 9 October 2019) claiming, among others, payment of TZS 645,612,560.60 on or before 14 October 2019. Attached and marked as Annexure FB3 is a copy of the above mentioned Demand Notice from the Respondent to form part o f this affidavit." Mr. Ishengoma submitted further that, the applicant has complied with all the requirements under Rule 11 of the Rules. She undertook to furnish security in case the application for 3ps. review does not succeed. 4ps. 1ps. Mr. Ishengoma submitted further that, the applicant has complied with all the requirements under Rule 11 of the Rules. She undertook to furnish security in case the application for review does not succeed. Thus, the learned counsel prayed for ex-parte order without fl h f l impnnfr** m* * m y On» wrtor* tm *#** {tanffttjrv FtJJ) w**h ha» been taoutf to the appear* On my part, tevtng gone through the nc«ce 2ps. mc«on, the supporting affidavit, a M the annexed documents, and after hearing the ·ubmisrton by the &lt;pp6anTs counsel, I am of the considered *ew th* the appNcaoon is worthy of consideration try the Fi*
+    questions_and_answers:
+      - question: |
+          What amount of payment is demanded in the Demand Notice mentioned in the context?
+        answer: |
+          The Demand Notice claims a payment of TZS 645,612,560.60.
+      - question: |
+          By what date was the payment of TZS 645,612,560.60 required to be made according to the Demand Notice?
+        answer: |
+          The payment was required to be made on or before 14 October 2019.
+      - question: |
+          When was the Demand Notice served upon the Applicant?
+        answer: |
+          The Demand Notice was served upon the Applicant on 9 October 2019.
+      - question: |
+          What procedural rule is mentioned as being complied with by the applicant?
+        answer: |
+          The applicant has complied with all the requirements under Rule 11 of the Rules.
+      - question: |
+          What undertaking did the applicant make in case the application for review does not succeed?
+        answer: |
+          The applicant undertook to furnish security in case the application for review does not succeed.
+  - context: |
+      Court of Appeal Rules, 2009 as amended, (the Rules). It is supported by the affidavit affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant. This being an ex-parte application, only Mr. Gaudiosus Ishengoma, learned counsel for the applicant appeared on the date fixed for hearing. In his brief submission in support of the application, Mr. Ishengoma stated that the 2ps. application is for ex-parte stay of execution order of the Decree of the Tax Revenue Appeals Tribunal of 2/5/2017 in Income Tax Appeal No. 19 of 2015. According to him, the reasons for ex-parte order are stated under paragraph 19 of the supporting affidavit. 3ps. 1ps. It is supported by the affidavit affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant. This being an ex-parte application, only Mr. Gaudiosus Ishengoma, learned counsel for the applicant appeared on the date fixed for hearing. For ease of reference the said paragraph reads: "I state that despite being fully aware o f the existence o f the Applicant's pending Application for Review, the Respondent, on 7 October 2019\ issued a Demand Notice against the Applicant with reference Number TRA/L TD/101 -181
+    questions_and_answers:
+      - question: |
+          What legal rules govern the context described in the document?
+        answer: |
+          The context is governed by the Court of Appeal Rules, 2009 as amended.
+      - question: |
+          Who affirmed the affidavit in support of the application?
+        answer: |
+          The affidavit in support of the application was affirmed by Mwinshehe Said Kibao, the Finance Director of the applicant.
+      - question: |
+          What type of application is being discussed?
+        answer: |
+          The application being discussed is an ex-parte application for a stay of execution order of the Decree of the Tax Revenue Appeals Tribunal of 2/5/2017 in Income Tax Appeal No. 19 of 2015.
+      - question: |
+          Who represented the applicant during the hearing?
+        answer: |
+          The applicant was represented by Mr. Gaudiosus Ishengoma, a learned counsel, during the hearing.
+      - question: |
+          What specific action by the respondent is mentioned in paragraph 19 of the supporting affidavit?
+        answer: |
+          Paragraph 19 of the supporting affidavit mentions that despite knowing of the applicant's pending application for review, the respondent issued a Demand Notice against the applicant on 7 October 2019 with reference Number TRA/LTD/101-181.
+  - context: |
+      Cout than the Single JufOoe of the Court I w* explain. 5ps. 1ps. Mr. Ishengoma submitted further that, the applicant has complied with all the requirements under Rule 11 of the Rules. She undertook to furnish security in case the application for review does not succeed. The applicant is seeking for an order for stay of execution penefcng hearing and determination of an application for review (Gvtl Application No. 339/20 of 2019) pending before this Court The sakJ application was flied as the applicant was aggrieved by the decision of the Court (Juma, a .# Mwarfja, JA., 2ps. and Mziray, JA.) in CMI Appeal No. 192 of 2018 of 4 July, 2018. The question that follows Is, whether an order for stay of execution can be made pending an application for review as the provision of Rule 1 1 (3) and (7) of the Rules presupposes that an order for Stay of execution is intended to be granted pending appeal. Having considered all the drcumstances of this application, 3ps. 1 refrain from making an ex-parte order for stay of execution.
+    questions_and_answers:
+      - question: |
+          What rule did the applicant comply with according to the submission by Mr. Ishengoma?
+        answer: |
+          The applicant complied with all the requirements under Rule 11 of the Rules.
+      - question: |
+          What action did the applicant undertake in case the application for review does not succeed?
+        answer: |
+          The applicant undertook to furnish security in case the application for review does not succeed.
+      - question: |
+          What specific relief is the applicant seeking in the application?
+        answer: |
+          The applicant is seeking an order for stay of execution pending the hearing and determination of an application for review.
+      - question: |
+          What triggered the application for stay of execution by the applicant?
+        answer: |
+          The application was triggered because the applicant was aggrieved by the decision of the Court in Civil Appeal No. 192 of 2018, decided on 4 July, 2018.
+      - question: |
+          Why did the Court refrain from making an ex-parte order for stay of execution?
+        answer: |
+          The Court refrained from making an ex-parte order for stay of execution after considering all the circumstances of the application.
+  - context: |
+      1ps. 1ps.   Thus,  the  learned  counsel  prayed  for  ex-parte  order  without
+      fl h f l
+         impnnfr**  m*  *   m y On» wrtor*  tm *#** {tanffttjrv FtJJ) w**h ha» been
+         taoutf to the appear*
+      On my  part,  tevtng gone through the  nc«ce mc«on,
+         the supporting affidavit,  a M   the  annexed  documents,  and  after
+         hearing  the ·ubmisrton by the &lt;pp6anTs counsel, I  am of the considered
+         *ew th* the  appNcaoon  is  worthy  of
+      2ps. consideration  try  the  Fi*  Cout  than  the Single JufOoe of the Court I w*
+         explain.   In terms of
+      Rule  60(1)  of the  Rules I  hereby adjourn  hearing
+          of the application  for determination by the Court on a date to be fixed by
+         the Registrar.
+      Order accordingly.
+      DATED at DAR ES SALAAM this 31s t  day
+         of October, 2019.
+      ## M. C. LEVIRA JUSTICE OF APPEAL
+      <!-- image -->
+    questions_and_answers:
+      - question: |
+          What was the learned counsel's prayer before the court?
+        answer: |
+          The learned counsel prayed for an ex-parte order.
+      - question: |
+          What materials did the judge review before making a decision?
+        answer: |
+          The judge reviewed the notice motion, the supporting affidavit, the annexed documents, and the submission by the applicant's counsel.
+      - question: |
+          What was the judge's view of the application after reviewing the materials?
+        answer: |
+          The judge considered the application worthy of further consideration by the Full Court rather than a Single Judge.
+      - question: |
+          What rule was cited in the decision to adjourn the hearing?
+        answer: |
+          Rule 60(1) of the Rules was cited as the basis for adjourning the hearing.
+      - question: |
+          When and where was the order dated?
+        answer: |
+          The order was dated at Dar es Salaam on October 31, 2019.
+document_outline: |
+  **Document Outline:**
+  This document outlines the proceedings of an ex-parte application filed by PanAfrican Energy Tanzania Ltd in the Court of Appeal of Tanzania seeking a stay of execution of a judgment issued by the Tax Revenue Appeals Tribunal. Justice Levira, after reviewing submissions and documents, declined to issue an ex-parte stay and adjourned the matter for inter-parties hearing on a date to be set by the Registrar.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Panafrican_Energy_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_449_of_2019)_2019_TZCA_568_(1_November_2019).md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM ## fCORAM: MKUYE. J.A.. KWARIKO. J.A. And LEVIRA. J.A.) CIVIL APPEAL NO. 217 OF 2019 30VET TANZANIA LIMITED........................................................ APPELLANT ## VERSUS COMMISSIONER GENERAL...................................................... RESPONDENT ## TANZANIA REVENUE AUTHORITY (Appeal from the Decision of the Tax Revenue Appeals Tribunal at Dar es Salaam) ( Miemmas, 3. - Chairman) dated the 24th day of June, 2019 in Tax Appeal No. 8 of 2016 ## JUDGMENT OF THE COURT 16"' February &amp; l u April, 2021 ## KWARSKO, 3.A.: The appellant, JOVET Tanzania Limited was aggrieved by the decision 2ps. of the Tax Revenue Appeals Tribunal (henceforth the Tribunal), (Mjainmas, Chairman) dated 24t h June, 2019 in which, the appellant was found iiab'e to pay taxes and duties on goods not abandoned as assessed by the Commissioner General, Tanzania Revenue Authority (Commissioner) (the respondent). For better understanding of what transpired, the following brief background of the matter will suffice. The appellant 3ps. is a dealer in the business of importation and supply of beverages named Bavaria (the goods). 2ps. 1ps. The appellant, JOVET Tanzania Limited was aggrieved by the decision of the Tax Revenue Appeals Tribunal (henceforth the Tribunal), (Mjainmas, Chairman) dated 24t h June, 2019 in which, the appellant was found iiab'e to pay taxes and duties on goods not abandoned as assessed by the Commissioner General, Tanzania Revenue Authority (Commissioner) (the respondent). For better understanding of what transpired, 2ps. the following brief background of the matter will suffice. The appellant is a dealer in the business of importation and supply of beverages named Bavaria (the goods). She is also the sole agent for the said goods for its Manufacturer Company known as Bavaria N.V, P.O. Box 1 , 5737 ZG Lieshout of Netherlands.
+    questions_and_answers:
+      - question: |
+          What was the core issue in the appeal made by JOVET Tanzania Limited?
+        answer: |
+          The core issue in the appeal was JOVET Tanzania Limited being aggrieved by the Tax Revenue Appeals Tribunal's decision, which found the company liable to pay taxes and duties on goods not abandoned as assessed by the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What specific business does JOVET Tanzania Limited engage in?
+        answer: |
+          JOVET Tanzania Limited is a dealer in the importation and supply of beverages named Bavaria.
+      - question: |
+          Who is the manufacturer of the goods imported by JOVET Tanzania Limited?
+        answer: |
+          The goods, Bavaria beverages, are manufactured by Bavaria N.V., a company based in the Netherlands.
+      - question: |
+          What is JOVET Tanzania Limited's relationship with Bavaria N.V.?
+        answer: |
+          JOVET Tanzania Limited acts as the sole agent for Bavaria N.V., the manufacturer of the beverages.
+      - question: |
+          What tribunal decision was JOVET Tanzania Limited appealing against?
+        answer: |
+          JOVET Tanzania Limited was appealing against the Tax Revenue Appeals Tribunal's decision, dated 24th June 2019, which held the company liable to pay taxes and duties on goods not abandoned.
+  - context: |
+      1ps. 1ps. The appellant was therefore required to pay the custom duties. Following the said refusal, on 18t h November, 2015 the appellant applied for abandonment of the goods which request was also refused. Undaunted, on 1s t March, 2016 the appellant unsuccessfully requested for the respondent to review its decision to refuse abandonment of the goods. On being aggrieved by the refusal, the appellant filed an appeal before the Tax Revenue 2ps. Appeals Board (the Board) on a claim that the respondent's decision for its refusal to review the decision in respect of the application for abandonment of the goods was without reasons thus illegal and unjustified. The issue which was framed for determination before the Board was whether the appellant was liable to pay customs duties and taxes for the abandoned goods. In the end of the hearing, the Board decided that the goods were examined and found to comply with 3ps. all custom requirements before they were cleared to the bonded warehouse so as to give opportunity to the appellant to find means of paying taxes and duties. 2ps. 1ps. On being aggrieved by the refusal, the appellant filed an appeal before the Tax Revenue Appeals Board (the Board) on a claim that the respondent's decision for its refusal to review the decision in respect of the application for abandonment of the goods was without reasons thus illegal and unjustified. The issue which was framed for determination before the Board was whether the appellant was liable to pay customs duties and taxes for the abandoned goods. It was also 2ps. observed that the goods expired following their overstay in the bonded warehouse due to the appellant's default to pay taxes and duties.
+    questions_and_answers:
+      - question: |
+          What action did the appellant take on 18th November 2015 regarding the goods?
+        answer: |
+          The appellant applied for abandonment of the goods on 18th November 2015, but the request was refused.
+      - question: |
+          Why did the appellant file an appeal before the Tax Revenue Appeals Board?
+        answer: |
+          The appellant filed an appeal claiming that the respondent's refusal to review the decision to abandon the goods was without reasons, making it illegal and unjustified.
+      - question: |
+          What issue was framed for determination by the Tax Revenue Appeals Board?
+        answer: |
+          The Board aimed to determine whether the appellant was liable to pay customs duties and taxes for the abandoned goods.
+      - question: |
+          What was the Board’s final decision regarding the compliance of the goods?
+        answer: |
+          The Board decided that the goods were examined and found to comply with all custom requirements before they were cleared to the bonded warehouse.
+      - question: |
+          What reason was given for the expiration of the goods in the bonded warehouse?
+        answer: |
+          The goods expired due to their overstay in the bonded warehouse caused by the appellant's failure to pay the required taxes and duties.
+  - context: |
+      1ps. 1ps. Secondly, through application by the appellant under section 56 of the EACCMA where duties and taxes are remitted. The respondent contended that in the absence of the Commissioner's permission under section 56 (1) (a) of the EACCMA, which permission was refused, there wouldn't be any abandonment of the goods. The foundation of the appellant's complaint is section 56 of the EACCMA which provides thus: ## "56. (1) The Commissioner may, subject to such conditions 2ps. as he or she may impose(a) permit the owner of any warehoused goods to abandon such goods to the Customs; - (b) permit the owner of any warehoused goods which, in the opinion of the proper officer, are not worth the duty payable on them or have become damaged, or are surplus, by reason of any operations in connection with the goods carried out under section 51 to destroy such goods; and in either such case the duty on such goods shail be remitted. 2ps. 1ps. The respondent contended that in the absence of the Commissioner's permission under section 56 (1) (a) of the EACCMA, which permission was refused, there wouldn't be any abandonment of the goods. The foundation of the appellant's complaint is section 56 of the EACCMA which provides thus: ## "56. - (2) Where under subsection (1) any warehoused goods are- - (a) abandoned to the Customs, then such goods may be destroyed or otherwise disposed of in such manner as 2ps. the Commissioner may direct and at the expense of the owner; (b) permitted to be destroyed and such goods were warehoused in a Government warehouse, then the owner of such goods shall nevertheless be liable to pay to the proper officer the rent and other charges due to such goods," (Emphasis ours).
+    questions_and_answers:
+      - question: |
+          What is the primary legal basis for the appellant's complaint in the case discussed?
+        answer: |
+          The primary legal basis for the appellant's complaint is section 56 of the EACCMA, which addresses the conditions under which the Commissioner may permit the abandonment or destruction of warehoused goods.
+      - question: |
+          What does section 56(1)(a) of the EACCMA permit regarding warehoused goods?
+        answer: |
+          Section 56(1)(a) of the EACCMA permits the owner of warehoused goods to abandon them to Customs, provided the Commissioner grants permission and imposes any necessary conditions.
+      - question: |
+          Under what circumstances does section 56(1)(b) of the EACCMA allow the destruction of warehoused goods?
+        answer: |
+          Section 56(1)(b) allows the destruction of warehoused goods if, in the opinion of the proper officer, the goods are not worth the duty payable, have become damaged, or are surplus as a result of operations under section 51.
+      - question: |
+          What additional obligations does section 56(2)(b) impose on the owner of warehoused goods permitted for destruction?
+        answer: |
+          Section 56(2)(b) specifies that even if warehoused goods are permitted for destruction and are stored in a Government warehouse, the owner is still liable to pay rent and other charges associated with the goods.
+      - question: |
+          What is the respondent's argument regarding the appellant's ability to abandon goods under section 56(1)(a)?
+        answer: |
+          The respondent argued that without the Commissioner's permission, as required under section 56(1)(a), there could be no abandonment of the goods, and such permission was explicitly refused.
+  - context: |
+      1ps. 1ps. However, the above position of the law notwithstanding, we have observed the following in relation to this complaint. It is on record that, the goods were examined and found to have complied with all customs requirements and fit for human consumption before they were cleared to the bonded warehouse pending payment of duties and taxes. Hie goods expired because they overstayed in the bonded warehouse as the appellant failed to pay the taxes within the prescribed period. The record further shows that the 2ps. appellant communicated with the manufacturer concerning the said goods who confirmed them to be fit for human consumption. Thus, if at ali the appellant intended to abandon them it was because he wanted to preserve the brand and not otherwise. In the circumstances, she ought to have followed the proper procedure to get the Commissioner's permission as stated above. Since there was no such permission, it cannot be said with certainty that the 3ps. goods were abandoned as correctly, in our view, decided by the Tribunal. This ground too fails. 2ps. 1ps. In the circumstances, she ought to have followed the proper procedure to get the Commissioner's permission as stated above. Since there was no such permission, it cannot be said with certainty that the goods were abandoned as correctly, in our view, decided by the Tribunal. This ground too fails. Before we conclude, we would like to say something about the issue raised by the appellant '' whether there 2ps. is no iaw which empowers the Commissioner to charge duties and taxes on goods which are still in the customs control". We have considered this matter and we are in agreement with the respondent that this is a new issue which was never raised and dealt with by the Board and the Tribunal.
+    questions_and_answers:
+      - question: |
+          Why did the goods expire in the bonded warehouse?
+        answer: |
+          The goods expired because they overstayed in the bonded warehouse as the appellant failed to pay the required duties and taxes within the prescribed period.
+      - question: |
+          What confirmation did the appellant receive from the manufacturer regarding the goods?
+        answer: |
+          The appellant communicated with the manufacturer, who confirmed that the goods were fit for human consumption.
+      - question: |
+          Why was it determined that the goods were not officially abandoned?
+        answer: |
+          The goods were not considered abandoned because the appellant did not follow the proper procedure to get the Commissioner’s permission to abandon them.
+      - question: |
+          What was the Tribunal's decision regarding the abandonment of the goods?
+        answer: |
+          The Tribunal decided, correctly in the view of the reviewing body, that the goods could not be considered abandoned because the required permission from the Commissioner was not obtained.
+      - question: |
+          Why was the appellant's question about the Commissioner’s power to charge duties not addressed?
+        answer: |
+          The question was not addressed because it was a new issue that was not raised or dealt with by the Board and the Tribunal during earlier proceedings.
+  - context: |
+      1ps. 1ps. For ease of reference, we shall reproduce this provision of law as follows: - "57. - (3) Where any goods are sold under the provisions of this section, then the proceeds of such sale shall be applied in the order set out beiow in the discharge of- - (a) the duties; - (b) the expenses of the sale; - (c) any rent and charges due to the Customs or to the warehouse keeper; - (d) the port charges; and - (e) the freight and any other 2ps. charges." (Emphasis ours). While the appellant took refuge under this provision that the goods were abandoned, our understanding of the same is that the provision relates to sale by public auction of the goods which have not been re­ warehoused and how the proceeds of the sale are distributed. The provision does not at alt deal with the abandonment of goods as claimed by the appellant. Furthermore, as correctly stated by the Tribunal, the said provision 3ps. contemplates a situation where the goods are not re-warehoused and are commercially viable. 2ps. 1ps. While the appellant took refuge under this provision that the goods were abandoned, our understanding of the same is that the provision relates to sale by public auction of the goods which have not been re­ warehoused and how the proceeds of the sale are distributed. The provision does not at alt deal with the abandonment of goods as claimed by the appellant. Furthermore, as correctly stated by the Tribunal, the said provision contemplates a 2ps. situation where the goods are not re-warehoused and are commercially viable. The situation is different in the case at hand because the goods in question were not commercially viable.
+    questions_and_answers:
+      - question: |
+          What is the provision of law discussed in the text and what does it regulate?
+        answer: |
+          The provision of law discussed is Section 57(3), which regulates the sale of goods by public auction that have not been re-warehoused. It also specifies the order in which the proceeds from the sale are applied to cover duties, expenses, rent, port charges, and freight.
+      - question: |
+          What misunderstanding did the appellant have regarding the provision?
+        answer: |
+          The appellant claimed that the provision dealt with the abandonment of goods, but it actually describes the sale of un-re-warehoused goods and the distribution of proceeds from such sales.
+      - question: |
+          How does the provision handle the proceeds from the sale of goods?
+        answer: |
+          The proceeds are applied in a specific order: first to duties, then to the expenses of the sale, followed by rent and charges due to Customs or the warehouse keeper, port charges, and finally freight and other charges.
+      - question: |
+          What does the provision of law assume about the goods being sold?
+        answer: |
+          The provision assumes that the goods being sold by public auction are commercially viable and have not been re-warehoused.
+      - question: |
+          Why was the situation in the discussed case different from the scenarios addressed by the provision?
+        answer: |
+          The situation was different because the goods in question were declared not commercially viable, which does not align with the assumptions of the provision.
+document_outline: |
+  **Document Outline:**
+  This court document outlines the civil appeal brought by Jovet Tanzania Limited against the Tanzania Revenue Authority regarding a tax dispute. The appellant disputes decisions requiring them to pay customs duties and taxes on imported goods alleged to be unfit for sale, challenging rulings by the Tax Revenue Appeals Tribunal and related authorities.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Jovet_Tanzania_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_217_of_2019)_2021_TZCA_94_(1_April_2021).md

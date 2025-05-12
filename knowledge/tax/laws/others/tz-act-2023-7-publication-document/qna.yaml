@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 20 | ' - (f) adding in the fifth column of H.S Code 2710.20.00 the rate 'Tshs. | | | | |---------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|-----|-----| | 87.02 | | - With only compression ignition internal combustion piston engine (diesel or semi-diesel) 2ps. | | | | | 87.02 | | --- Four wheel drive vehicles for the 3ps. transport of ten persons: 4ps. | | | | | 87.02 | 8702.10.11 | ---- Unassembled 5ps. 6ps. | | | | | 87.02 | 8702.10.19 | ---- Other (Assembled) 7ps. | u | | 10% | | 8ps. 87.02 | | - With both compression- ignition internal combustion piston engine (diesel or semi-diesel) and electric motor as motors for propulsion: | | | | | 87.02 | 9ps. | --- Four wheel drive vehicles for the transport of ten persons: 10ps. | | | | | 87.02 | 8702.20.11 | ---- Unassembled 11ps. 12ps. | | | | | 87.02 | 8702.20.19 | ---- Other (Assembled) 13ps. 14ps. | u | N/A | 10% | | 87.02 | | - With both spark-ignition internal combustion piston engine and electric motor as motors for propulsion 15ps. | | | | | 87.02 | | --- Four wheel drive vehicles for the transport of ten persons: 16ps. | | | | | 87.02 | 8702.30.11 | ---- Unassembled 17ps. 18ps. | | | | | 87.02 | 8702.30.19 | ---- Other 19ps. 20ps. | u | N/A | 10% | | 87.02 | | - Other: 21ps. 22ps. | | | | | 87.02 | | --- Four wheel drive vehicles for the transport of ten persons: 23ps. 24ps. | | | | | 87.02 | 8702.90.11 | ---- Unassembled 25ps. | | 26ps. | | | 87.02 | 8702.90.19 | ---- Other 27ps.
+    questions_and_answers:
+      - question: |
+          What is the rate added in the fifth column of H.S Code 2710.20.00?
+        answer: |
+          The rate added in the fifth column of H.S Code 2710.20.00 is 'Tshs' (Tanzanian shillings).
+      - question: |
+          What type of engine is specified in the four-wheel drive vehicles under H.S Code 87.02?
+        answer: |
+          The four-wheel drive vehicles under H.S Code 87.02 are specified to have either a compression ignition internal combustion piston engine (diesel or semi-diesel) or both an electric motor and an internal combustion engine (spark-ignition or diesel).
+      - question: |
+          What is the duty rate for assembled four-wheel drive vehicles for the transport of ten persons under H.S Codes 8702.10.19, 8702.20.19, and 8702.30.19?
+        answer: |
+          The duty rate for assembled four-wheel drive vehicles for the transport of ten persons under H.S Codes 8702.10.19, 8702.20.19, and 8702.30.19 is 10%.
+      - question: |
+          What is the distinction between unassembled and assembled vehicles under the specified H.S Codes within the context?
+        answer: |
+          Unassembled vehicles are marked under H.S Codes ending with '.11' (e.g., 8702.10.11), while assembled vehicles are marked under H.S Codes ending with '.19' (e.g., 8702.10.19).
+      - question: |
+          How are 'other' types of four-wheel drive vehicles categorized under H.S Code 87.02?
+        answer: |
+          'Other' types of four-wheel drive vehicles are categorized under H.S Code 87.02 as '8702.90.11' for unassembled vehicles and '8702.90.19' for assembled vehicles.
+  - context: |
+      1ps. 1ps. A supply of locally manufactured garments made from locally grown cotton shall be zero rated from 1 st July, 2023 up to 30 th June, 2024.'. 69. The principal Act is amended in section 69(3) by deleting the figure '70' and substituting for it the figure '68'. ## 71. The principal Act is amended in the Schedule- ## (a) in Part I- - (i) in item 1, by- (aa) deleting HS Code '8701.90.00' appearing in sub-item 1 and substituting for '8701.30.00, it HS Codes 8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00 and 8701.95.00'; (bb) deleting HS Code 2ps. '8424.81.00' appearing in sub-item 4 and substituting for it HS Codes '8424.41.00 and 8424.49.00'; - (cc) deleting HS Code '8424.81.00' appearing in sub-item 5 and substituting for it 'HS Codes 8424.41.00 and 8424.49.00'; - (dd) deleting HS Code '8716.10.10' appearing in sub-item 14 and 1 - substituting for it HS Code '8716.20.90'; - (ee) deleting HS Code '4011.61.00' appearing in sub-item 15 and substituting for it HS Code '4011.70.00'; - (ff) deleting HS Code '8424.81.00' appearing in sub-item 3ps. 18 and substituting for it HS Code '8424.82.00'; - (gg) deleting HS Code '9406.00.10' appearing in sub-item 20 and substituting for it HS Codes '9406.10.10, 9406.20.10 and 9406.90.10'. ## (ii) in item 2, by- - (aa) deleting the phrase '3808.92.10 or 3808.99.90' appearing in sub-item 4 and substituting for it the phrase '3808.92.10 or 3808.92.90'; - (bb) deleting the phrase '3808.92.10 or 3808.99.90' appearing in sub-item 5 and substituting for it the phrase '3808.99.10 or 3808.99.90'; - (cc) deleting 4ps. the phrase '3808.93.10 or 3808.92.90' appearing in sub-item 6 and substituting for it the phrase '3808.93.10 or 3808.93.90'; - (iii) by deleting item 3 and substituting for it the following: - '3: Livestock, basic agricultural products and food for human consumptions: | No.
+    questions_and_answers:
+      - question: |
+          What period will locally manufactured garments made from locally grown cotton be zero-rated?
+        answer: |
+          Locally manufactured garments made from locally grown cotton will be zero-rated from 1st July 2023 to 30th June 2024.
+      - question: |
+          What amendment was made to Section 69(3) of the principal Act?
+        answer: |
+          Section 69(3) of the principal Act was amended by replacing the figure '70' with the figure '68'.
+      - question: |
+          What change was made to HS Code '8701.90.00' in Part I, item 1 of the Schedule?
+        answer: |
+          HS Code '8701.90.00' was replaced with HS Codes '8701.91.00, 8701.92.00, 8701.93.00, 8701.94.00, and 8701.95.00'.
+      - question: |
+          How was the phrase '3808.92.10 or 3808.99.90' revised in Part I, item 2, sub-item 4 of the Schedule?
+        answer: |
+          The phrase '3808.92.10 or 3808.99.90' was substituted with '3808.92.10 or 3808.92.90'.
+      - question: |
+          What new HS Codes replaced '9406.00.10' in sub-item 20 of Part I, item 1 of the Schedule?
+        answer: |
+          The HS Code '9406.00.10' was replaced with HS Codes '9406.10.10, 9406.20.10, and 9406.90.10'.
+  - context: |
+      1ps. 1ps. 4,386.06 | Tshs. 2,466.45 | ' ' ' | to drink of not more than 7% Alcohol By Volume (ABV) | per litre | per litre | |--------------------------------------------------------|--------------------------|--------------------------| | Other/Imported 2ps. | Tshs. 4,386.06 per litre | Tshs. 4,386.06 per litre | ## (c) adding below H.S Code 2402.20.90 the following: | Heading | H.S. Code No. | Description | Unit | Old Excise Rate | New Excise Rate | |-----------|-----------------|----------------------|--------|-------------------|-------------------| | | 2402.90.00 | - Other | kg 3ps. | | | | | | Locally manufactured | | N/A | 30% 4ps. | | | | Imported | | N/A | 30% | ' ## (d) deleting the whole of H.S code 5ps. 2403.11.00 and substituting for it the following: | Heading | H.S. Code No. | Description | Unit | Old Excise Rate | New Excise Rate | |-----------|-----------------|----------------------------------------------------------------------|--------|-------------------|-------------------| | 6ps. | 2403.11.00 | -- Water pipe tobacco specified in Subheading Note 1 to this Chapter | kg | | | | | | Locally manufactured 7ps. | | N/A | 30% | | | 8ps. | Imported | | N/A | 9ps. 30% | ' ## (e) adding below Heading 24.03 the following: | Heading | H.S. Code No. | Description 10ps. | Unit | Old Excise Rate | New Excise Rate | |-----------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------------|-------------------| | 25.23 | 11ps. | Portland cement, aluminous cement, slag cement, supersulphate cement and similar hydraulic cements, whether or not coloured or in the form of clinkers. 2ps. 1ps. 2,466.45 | ' ' ' | to drink of not more than 7% Alcohol By Volume (ABV) | per litre | per litre | |--------------------------------------------------------|--------------------------|--------------------------| | Other/Imported | Tshs. 2ps. 4,386.06 per litre | Tshs. | | | | | | | - Portland cement: 3ps. 4ps.
+    questions_and_answers:
+      - question: |
+          What is the new excise rate for locally manufactured tobacco under H.S. Code 2402.90.00?
+        answer: |
+          The new excise rate for locally manufactured tobacco under H.S. Code 2402.90.00 is 30%.
+      - question: |
+          What is the excise rate for imported products under H.S. Code 2403.11.00 (Water pipe tobacco)?
+        answer: |
+          The excise rate for imported water pipe tobacco under H.S. Code 2403.11.00 is 30%.
+      - question: |
+          Which H.S. Code was deleted and replaced under section (d) of the context?
+        answer: |
+          H.S. Code 2403.11.00 was deleted and replaced under section (d).
+      - question: |
+          What is the description associated with H.S. Code 25.23?
+        answer: |
+          H.S. Code 25.23 is associated with Portland cement, aluminous cement, slag cement, supersulphate cement, and similar hydraulic cements, whether or not coloured or in the form of clinkers.
+      - question: |
+          What is the excise rate per litre for imported drinks with not more than 7% Alcohol By Volume (ABV)?
+        answer: |
+          The excise rate per litre for imported drinks with not more than 7% Alcohol By Volume (ABV) is Tshs. 4,386.06.
+  - context: |
+      1ps. 1ps. 27. The principal Act is amended in section 83(1) by adding immediately after paragraph (d) the following: - '(e) is a buyer of precious metals, gemstones and other precious stones supplied by the holder of a primary mining licence or artisanal miner; - (f) makes payment to a resident person in respect of verified carborn emission reduction.'. - 30. The principal Act is amended in section 90A- - (a) by deleting the words 'services rendered through a digital market place' appearing in subsection (1) and substituting 2ps. for them the words 'an electronic service'; - (b) in subsection (2), by deleting the word 'seventh' and substituting for it the word 'twentieth'; and - (c) by deleting subsection (4) and substituting for it the following: - '(4) For purposes of this section, 'gross payment' means a total amount of payment, excluding value added tax, derived by a non-resident person from an individual, other than a payment made in the course of conducting a business, in respect 3ps. of electronic services.'. 2ps. 1ps. 28 Amendment of section 86 Amendment of section 90 Amendment of section 90A 28. The principal Act is amended in section 86(1) by adding immediately after paragraph (f) the following: - '(g) payment for purchase of minerals made to a primary licence holder or artisanal miner; - (h) payment made to resident person in respect of verified carborn emission reduction.'. Amendment of First Schedule The principal Act is amended in the First 31. Schedule- - (a) in paragraph 2, by deleting subparagraph (5) and substituting for it 2ps.
+    questions_and_answers:
+      - question: |
+          What amendments were made to section 83(1) of the principal Act?
+        answer: |
+          Section 83(1) was amended to include two new provisions: (e) a buyer of precious metals, gemstones, and other precious stones supplied by primary mining licence holders or artisanal miners, and (f) payments to a resident person concerning verified carbon emission reduction.
+      - question: |
+          What changes were made to subsection (1) of section 90A in the principal Act?
+        answer: |
+          The words 'services rendered through a digital marketplace' in subsection (1) were replaced with 'an electronic service.'
+      - question: |
+          How was subsection (4) of section 90A revised?
+        answer: |
+          Subsection (4) was replaced to define 'gross payment' as the total payment amount, excluding value-added tax, derived by a non-resident person from an individual, excluding payments made during business conduct for electronic services.
+      - question: |
+          What new payments were added to section 86(1) of the principal Act?
+        answer: |
+          Two new payments were added: (g) payments for the purchase of minerals made to primary licence holders or artisanal miners, and (h) payments to residents for verified carbon emission reduction.
+      - question: |
+          What update was made in the First Schedule of the principal Act under paragraph 2?
+        answer: |
+          In paragraph 2 of the First Schedule, subparagraph (5) was deleted and replaced with a new provision.
+  - context: |
+      1ps. 1ps. 148 62. This Part shall be read as one with the Value Added Tax Act, hereinafter referred to as the 'principal Act'. Amendment of section 2 63. The principal Act is amended in section 2 by adding in its appropriate alphabetical order the following new definition: ''fiscal receipt' has the meaning ascribed to Cap. 438 it under the Tax Administration Act;'. - 61. The principal Act is amended in section 23A(2) by- Amendment 2ps. of section 6 Amendment of section 11 - 64. The principal Act is amended in section 6- - (a) in subsection (3), by- - (i) adding immediately after paragraph (a) the following: - '(b) importation of raw materials of Heading 39.02 and 39.07 to be used solely in the manufacture of packaging materials of pharmaceutical products; - (c) importation of pre-fabricated structures or supply of locally manufactured pre- fabricated structures of H.S Code 9406.20.90 to be used solely in poultry farming;'; and' - (ii) renaming paragraphs (b) to (e) as 3ps. paragraphs (d) to (g) respectively; - (b) in subsection (8), by- - (i) adding immediately after paragraph (a) the following: - '(b) a local manufacturer of packaging materials of pharmaceutical products having a performance agreement with the Government of the United Republic; - (c) a person engaged in poultry farming in Mainland Tanzania having a performance agreement with the Government of the United Republic;'; and - (ii) renaming paragraphs (b) to (e) as paragraphs (d) to (g) respectively. 2ps. 1ps. Amendment of section 2 63. The principal Act is amended in section 2 by adding in its appropriate alphabetical order the following new definition: ''fiscal receipt' has the meaning ascribed to Cap. 438 it under the Tax Administration Act;'. - 65.
+    questions_and_answers:
+      - question: |
+          What is the relationship between the new Part and the Value Added Tax Act?
+        answer: |
+          The new Part is to be read as one with the Value Added Tax Act, referred to as the 'principal Act'.
+      - question: |
+          What new term is defined in section 2 of the principal Act, and where does its meaning come from?
+        answer: |
+          The term 'fiscal receipt' is newly defined in section 2 of the principal Act, and its meaning is ascribed under the Tax Administration Act, Cap. 438.
+      - question: |
+          What specific importations are added to subsection (3) in section 6 of the principal Act?
+        answer: |
+          Subsection (3) in section 6 includes the importation of raw materials under Heading 39.02 and 39.07 for packaging materials of pharmaceutical products, and the importation or supply of pre-fabricated structures under H.S Code 9406.20.90 for poultry farming.
+      - question: |
+          What criteria must a manufacturer or poultry farmer meet under subsection (8) of section 6 to qualify for the amendments?
+        answer: |
+          A manufacturer of packaging materials for pharmaceutical products or a poultry farmer must have a performance agreement with the Government of the United Republic to qualify under subsection (8) of section 6.
+      - question: |
+          What reorganization of paragraph numbering occurs in section 6 amendments?
+        answer: |
+          In both subsections (3) and (8) of section 6, the paragraphs originally labeled (b) to (e) are renamed as paragraphs (d) to (g).
+document_outline: |
+  **Document Outline:**
+  The Finance Act, 2023, enacted by the Parliament of Tanzania and effective from July 1, 2023, amends various laws to update taxes, duties, levies, fees, and streamline public revenue management. It is organized into nineteen parts, each addressing amendments to specific laws, such as the Copyright and Neighbouring Rights Act, Income Tax Act, Land Act, and Value Added Tax Act, along with provisions for adjustment of regulations on excise duties, gaming, mining, and vocational education, among others.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - tz-act-2023-7-publication-document.md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA AT TANGA DC. CIVIL APPEAL N0.25 OF 2007 (Originating from Civii Case No.30/2007RM's Court Tanga) TANZANIA REVENUE AUTHORITY........................APPELLANT ## VERSUS MNYUKU BROTHERS ENTERPRISES..........................RESPONDENT Date of last order: 5/3/2010 Date of judgment 12/3/2010 ## JUDGMENT ## Mussa, 3 } This appeal originates from civil case No.30 of 2007 instituted in the court of Resident Magistrate, Tanga. The respondent herein was the original plaintiff, whereas, the appellants, a Government Agency, were defendants. The suit was over a seizure 2ps. and subsequent sale by auctioning; as is were, effected by the appellants with respect to certain, motor vehicles, allegedly, owned by the respondent. Accordingly, the trial court was approached for an order that the sale was illegal and; accordingly, null and void. On the premises, it was a further prayer by the respondent that the auctioned property be restituted unto him. 2ps. 1ps. The suit was over
+    questions_and_answers:
+      - question: |
+          What is the origin of the appeal described in the judgment?
+        answer: |
+          The appeal originates from Civil Case No. 30 of 2007, which was instituted in the court of the Resident Magistrate in Tanga.
+      - question: |
+          Who are the parties involved in the High Court appeal?
+        answer: |
+          The appellant is the Tanzania Revenue Authority, and the respondent is Mnyuku Brothers Enterprises.
+      - question: |
+          What action by the appellant led to the dispute in the original case?
+        answer: |
+          The dispute arose from the seizure and subsequent auctioning of certain motor vehicles allegedly owned by the respondent.
+      - question: |
+          What was the respondent's main claim in the trial court?
+        answer: |
+          The respondent claimed that the auction conducted by the appellant was illegal, null, and void, and sought an order to have the auctioned property returned to him.
+      - question: |
+          What were the key dates associated with the High Court judgment?
+        answer: |
+          The date of the last order was March 5, 2010, and the judgment was delivered on March 12, 2010.
+  - context: |
+      a seizure and subsequent sale by auctioning; as is were, effected by the appellants with respect to certain, motor vehicles, allegedly, owned by the respondent. Accordingly, the trial court was approached for an order that the sale was illegal and; accordingly, null and void. On the premises, it was a further prayer by the respondent that the auctioned property be restituted unto him. At some stage whilst the suit was still pending and; it was November 2ps. 6th 2007, the trial court entered judgment in favour the respondent, on account that despite time having been extended; the appellants had neglected and/or refused to file a written" statement of * defence. Although the presiding officer did not go so far as to clearly express the rule on which the order was founded; given the explanation, his 3ps. was clearly an exparte judgment. It is in regard to the order that the appellants are all
+    questions_and_answers:
+      - question: |
+          What action by the appellants initiated the legal dispute described in the context?
+        answer: |
+          The appellants seized and subsequently sold, by auction, certain motor vehicles allegedly owned by the respondent.
+      - question: |
+          What specific order did the respondent seek from the trial court regarding the auctioned property?
+        answer: |
+          The respondent sought an order declaring the sale illegal and null and void, as well as restitution of the auctioned property.
+      - question: |
+          Why did the trial court rule in favor of the respondent?
+        answer: |
+          The trial court ruled in favor of the respondent because the appellants neglected or refused to file a written statement of defense despite receiving an extension of time to do so.
+      - question: |
+          What type of judgment was rendered by the trial court on November 6th, 2007?
+        answer: |
+          The judgment rendered by the trial court was an ex parte judgment, as it was made in favor of the respondent without participation from the appellants.
+      - question: |
+          What ambiguity existed in the trial court’s ruling according to the context?
+        answer: |
+          The presiding officer did not clearly express the rule on which the order was founded, creating ambiguity in the basis of the judgment.
+  - context: |
+      arms against in a petition comprised of two points of grievance. 3ps. 1ps. At some stage whilst the suit was still pending and; it was November 6th 2007, the trial court entered judgment in favour the respondent, on account that despite time having been extended; the appellants had neglected and/or refused to file a written" statement of * defence. Although the presiding officer did not go so far 2ps. as to clearly express the rule on which the order was founded; given the explanation, his was clearly an exparte judgment. The issue is, foremost, whether or not I need consider the substantive merits of the petition at all. It seems to me that, over the years, the parity of reasoning has been that the proper way to go about an exparte Judgment is by having it set 3ps. aside by the same court that issued it. 4ps. 1ps. It is in regard to
+    questions_and_answers:
+      - question: |
+          What was the reason the trial court entered judgment in favor of the respondent on November 6, 2007?
+        answer: |
+          The trial court entered judgment in favor of the respondent because the appellants, despite being granted time extensions, neglected or refused to file a written statement of defense.
+      - question: |
+          What type of judgment was issued by the trial court according to the text?
+        answer: |
+          The judgment issued by the trial court was an ex parte judgment, as the presiding officer's explanation implied that it was made without the participation of the appellants.
+      - question: |
+          What is the primary issue raised regarding the petition?
+        answer: |
+          The primary issue is whether or not the substantive merits of the petition need to be considered at all.
+      - question: |
+          What is the customary approach for handling an ex parte judgment according to the context?
+        answer: |
+          The customary approach for handling an ex parte judgment is to have it set aside by the same court that issued it.
+      - question: |
+          What procedural omission led to the appellants' disadvantage in the trial court ruling?
+        answer: |
+          The appellants' disadvantage in the trial court ruling stemmed from their failure to file a written statement of defense despite being granted extensions of time.
+  - context: |
+      the order that the appellants are all arms against in a petition comprised of two points of grievance. The issue is, foremost, whether or not I need consider the substantive merits of the petition at all. It seems to me that, over the years, the parity of reasoning has been that the proper way to go about 2ps. an exparte Judgment is by having it set aside by the same court that issued it. Such was, indeed, the position of this court as expressed in Mtondo Vs Janmohamed (1970)GCD 326; Mandia s/o Mtaturu Vs Mtinangi (1972) HCD 150. As it turns out, the rules prescribe a remedy for setting aside an exparte decree; just as, there is, by 3ps. way of an appeal, a special remedy against an order refusing to set aside such decree. To an aggrieved judgment debtor, these remedies alone, and none other, can be taken resort to. Having remarked
+    questions_and_answers:
+      - question: |
+          What are the two points of grievance in the petition mentioned?
+        answer: |
+          The two points of grievance involve the appellants challenging an order, with a central issue being whether the merits of the petition need to be substantively considered at all.
+      - question: |
+          What precedent does the text refer to regarding the proper way to address an ex parte judgment?
+        answer: |
+          The text refers to precedents such as Mtondo Vs Janmohamed (1970) GCD 326 and Mandia s/o Mtaturu Vs Mtinangi (1972) HCD 150, which state that an ex parte judgment should be set aside by the same court that issued it.
+      - question: |
+          What remedies are prescribed for challenging an ex parte decree?
+        answer: |
+          The prescribed remedies for challenging an ex parte decree are setting it aside by the same court that issued it or appealing an order that refuses to set it aside.
+      - question: |
+          Who can utilize the remedies mentioned in the text for an ex parte decree?
+        answer: |
+          The remedies for an ex parte decree are available exclusively to an aggrieved judgment debtor.
+      - question: |
+          What reasoning has historically guided the approach to ex parte judgments?
+        answer: |
+          Historically, the reasoning has been that the proper approach to address ex parte judgments is to have them set aside by the issuing court, as established through legal precedents.
+  - context: |
+      so much by way of a prelude; needless to have to glean over the substantive merits of the appeal. 5ps. 1ps. Such was, indeed, the position of this court as expressed in Mtondo Vs Janmohamed (1970)GCD 326; Mandia s/o Mtaturu Vs Mtinangi (1972) HCD 150. As it turns out, the rules prescribe a remedy for setting aside an exparte decree; just as, there is, by way of an appeal, a special remedy against an order refusing to set aside 2ps. such decree. To an aggrieved judgment debtor, these remedies alone, and none other, can be taken resort to. The appeal of' which is prematurely resorted to, is struck out with costs. Order accordingly. <!-- image --> 12 3/2010 / Coram: Mussa, J; Appellants: absent Respondent: present Order: Judgment delivered. <!-- image --> <!-- image -->
+    questions_and_answers:
+      - question: |
+          What remedies are prescribed by the rules for a judgment debtor aggrieved by an ex parte decree?
+        answer: |
+          The rules prescribe remedies for setting aside an ex parte decree or appealing against an order refusing to set aside such a decree.
+      - question: |
+          What was the precedent cited by the court in this case concerning appeals?
+        answer: |
+          The court cited two precedents: Mtondo Vs Janmohamed (1970) GCD 326 and Mandia s/o Mtaturu Vs Mtinangi (1972) HCD 150.
+      - question: |
+          What action did the court take regarding the prematurely filed appeal?
+        answer: |
+          The court struck out the appeal with costs.
+      - question: |
+          Who was present and who was absent at the time of the judgment delivery?
+        answer: |
+          The appellant was absent, and the respondent was present during the judgment delivery.
+      - question: |
+          What is the significance of the court's statement regarding remedies for judgment debtors?
+        answer: |
+          The court emphasized that the prescribed remedies for judgment debtors are exclusive, meaning no other remedies can be pursued.
+document_outline: |
+  **Document Outline:**
+  This document contains a judgment from the High Court of Tanzania, Tanga, in Civil Appeal No. 25 of 2007, initiated by the Tanzania Revenue Authority (appellant) against Mnyuku Brothers Enterprises (respondent). The appeal challenges an ex parte judgment from a lower court that declared the seizure and auctioning of the respondent's property illegal, but the High Court struck out the appeal on procedural grounds, emphasizing that ex parte judgments should first be set aside by the trial court.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tanzania_Revenue_Authority_vs_Mnyuku_BrOthers_Enterprises_(Civil_Appeal_25_of_2007)_2010_TZHC_212_(10_March_2010).md

@@ -1,0 +1,4 @@
+Title of work: tz-act-2022-5-publication-document.md
+Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
+License of the work: MIT
+Creator names: RIFAZ-SOLUTIONS

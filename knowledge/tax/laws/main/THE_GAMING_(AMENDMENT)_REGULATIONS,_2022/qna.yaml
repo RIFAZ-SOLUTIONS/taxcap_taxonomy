@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      within prescribed time 62ps. | Penalty of 5% of the required licence fee and an interest of 25% of the penalty for every month of delay | | 2. 63ps. | Section 82A(c) | Placing machines on unauthorised premise 64ps. | TZS. 4ps. 1ps. - 3 . 1,000,000 (per location) | | 3. 2ps. | Section 86B | Failure for a licensee to maintain gaming management system and failure to send gaming transactions of gaming management system | TZS. 1,000,000 for every day of delay. 3ps. | ## Gaming (Amendment) ## GN NO. 478S | | 4ps. | and gaming devices to the gaming regulatory management system | 5ps. | |--------------------------|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------| | GAMING REGULATIONS, 2003 | GAMING REGULATIONS, 2003 | GAMING REGULATIONS, 2003 6ps. | GAMING REGULATIONS, 2003 | | 4. | Regulation 13 | Failure of a licensee to display a gaming licence in a gaming premise 7ps. | TZS. 100,000 (per location) | | 5. | Regulation 18(4) 8ps. | Failure to inform the Board on suspension and recommencement of business | TZS. 500,000 | | 6. 9ps. | Regulation 18(5) | Failure to file a report to the Board for approval of transfer of any share 10ps. | TZS. 7,000,000 | | 7. | Regulation 25 &26 | Failure of a licensee to develop and implement organisation structure 11ps. | TZS. 5ps. 1ps. 100,000 (per location) | | 5. | Regulation 18(4) | Failure to inform the
+    questions_and_answers:
+      - question: |
+          What is the penalty for delaying payment of the required license fee?
+        answer: |
+          The penalty is 5% of the required license fee, plus an interest of 25% of the penalty for every month of delay.
+      - question: |
+          What is the fine for placing machines on unauthorized premises?
+        answer: |
+          The fine for placing machines on unauthorized premises is TZS 1,000,000 per location.
+      - question: |
+          What are the consequences for failing to maintain a gaming management system or send gaming transactions to the system?
+        answer: |
+          The penalty is TZS 1,000,000 for every day of delay.
+      - question: |
+          What is the fine for failing to display a gaming license in a gaming premise?
+        answer: |
+          The fine is TZS 100,000 per location.
+      - question: |
+          What is the penalty for not informing the Board about the suspension and recommencement of business?
+        answer: |
+          The penalty is TZS 500,000.
+  - context: |
+      ## GN NO. 478S First and Second Schedules deleting the First and Second Schedules and substituting for them the following: \_\_\_\_\_\_\_\_\_\_\_ ## ' FIRST SCHEDULE \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Made under regulations 4 and 14) ## LICENCE FEES AND LEVY | 2ps. No | Type of License | Application Fee | Licence Fee | Levy 3ps. | |------|-----------------------------------------------------------------|-----------------------------|--------------------------|-----------------------------------------------| | 1 | CASINO - DAR | TZS 1,000,000 (annually) | USD 40,000 (annually) 4ps. | - | | 2 | CASINO - REGION 5ps. | TZS 1,000,000 (annually) | USD 20,000 (annually) | - | | 3 | SLOT MACHINES OR ROUTE OPERATIONS (SHOP) 6ps. | TZS 100,000 (annually) | TZS 500,000 (annually) | TZS 10,000 (monthly per machine) | | 4 | SLOT MACHINES OR ROUTE OPERATIONS (CLUBS/PLACES SELLING LIQUOR) | TZS 10,000 (annually) | TZS 50,000 (annually) | TZS 10,000 (monthly per machine) | | 5 | NATIONAL LOTTERY 7ps. | TZS 1,000,000 | USD 50,000 (annually) | 2% on Gross Gaming Revenue (GGR) paid monthly | | 6 | COMMERCIAL LOTTERY (UNDER SEC. 3ps. 1ps. Subject to the provisions of the Act, any person who contravenes the provisions of these regulations shall be liable to the penalty prescribed in the Third Schedule.'. - 3 . 41 (3) OF THE ACT) | TZS 1,000,000 | USD 40,000 (annually) | - 2ps. | | 7 | PRIVATE LOTTERY | TZS 5,000 (per lottery) | TZS 50,000 (per lottery) | - 3ps. | |
+    questions_and_answers:
+      - question: |
+          What is the annual application fee and license fee for operating a casino in Dar es Salaam?
+        answer: |
+          The annual application fee for a casino in Dar es Salaam is TZS 1,000,000, and the license fee is USD 40,000.
+      - question: |
+          How does the fee structure differ between casinos in Dar es Salaam and other regions?
+        answer: |
+          Both require an annual application fee of TZS 1,000,000, but the annual license fee is USD 40,000 for Dar es Salaam and USD 20,000 for other regions.
+      - question: |
+          What is the levy for slot machines operated in shops, and how is it charged?
+        answer: |
+          The levy for slot machines in shops is TZS 10,000 per machine, charged monthly.
+      - question: |
+          What percentage levy is charged on the Gross Gaming Revenue (GGR) for the National Lottery, and how often is it paid?
+        answer: |
+          A levy of 2% on the Gross Gaming Revenue (GGR) is charged and paid monthly for the National Lottery.
+      - question: |
+          What are the fees for a private lottery, and are they charged per event or annually?
+        answer: |
+          The fees for a private lottery are TZS 5,000 for the application and TZS 50,000 for the license, charged per lottery.
+  - context: |
+      8 | PUBLIC LOTTERY | TZS 4ps. 5,000 (per lottery) | TZS 50,000 (per lottery) | - | | 9 | FETE 5ps. | - | TZS 10,000 (per week) | - 6ps. | | 10 | BINGO (IN AHALL OR CASINO | TZS 100,000 (annually) | TZS 500,000 (annually) | 5% on Gross Gaming Revenue (GGR) paid monthly | | 11 | TOMBOLA (CLUBS OR REGISTERED SOCIETIES) 7ps. | TZS 5,000 (per application) | TZS 10,000 (per month) | - | | 12 | PROMOTIONAL LOTTERY (PROMOTIONAL 8ps. | TZS 10,000 (per lottery) | TZS 100,000 (per month) | - | ## GN NO. 478S | | BUDGET BELOW TZS 5,000,000) 9ps. | | 10ps. | | |----|--------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------|-------------------| | 13 | PROMOTIONAL LOTTERY (PROMOTIONAL BUDGET OF TZS 5,000,000 OR ABOVE) | TZS 10,000 (per lottery) | 6% (of total promotional budget) 11ps. | - | | 14 | TRANSFER OF PERMIT 12ps. | TZS 30,000 (per location) | - 13ps. | - | | 15 | POSTPONEMENT OF DRAW 14ps. | TZS 50,000 | - 15ps. | - | | 16 | KEY EMPLOYEE 16ps. | TZS 10,000 (annually) | TZS 50,000 (annually) 17ps. | - | | 17 | SUPPORT EMPLOYEE | - 18ps. | TZS 10,000 (annually) | - 19ps. | | 18 | DUPLICATE LICENCE | TZS 10,000 | - 20ps. | - 21ps. | | 19 | AMUSEMENT WITH OR WITHOUT PRIZE | TZS 5,000
+    questions_and_answers:
+      - question: |
+          What is the annual fee for a Bingo permit in a hall or casino?
+        answer: |
+          The annual fee for a Bingo permit in a hall or casino is TZS 100,000.
+      - question: |
+          What is the fee for a promotional lottery with a budget of TZS 5,000,000 or above?
+        answer: |
+          The fee for a promotional lottery with a budget of TZS 5,000,000 or above is TZS 10,000 per lottery and 6% of the total promotional budget.
+      - question: |
+          What is the cost for transferring a permit per location?
+        answer: |
+          The cost for transferring a permit per location is TZS 30,000.
+      - question: |
+          How is the revenue for Bingo regulated in terms of payments?
+        answer: |
+          For Bingo, 5% of the Gross Gaming Revenue (GGR) must be paid monthly.
+      - question: |
+          What is the fee for obtaining a duplicate license?
+        answer: |
+          The fee for obtaining a duplicate license is TZS 10,000.
+  - context: |
+      | TZS. 10,000,000 | | 14. | Regulation 64 3ps. | Failure to display winning combinations together with corresponding prizes on every slot machine | TZS. 100,000 | | 15. | Regulation 65 4ps. | Failure to comply with the minimum requirement of theoretical and demonstrable return to public | TZS. 500,000 | | 16. 5ps. | Regulation 68 | Failure to register gaming 6ps. | TZS. 3ps. 1ps. 10,000,000 | | 14. | Regulation 64 | Failure to display winning combinations together with corresponding prizes on every slot machine 2ps. | TZS. 100,000 | | 15. | Regulation 65 | Failure to comply with the minimum requirement of theoretical and demonstrable return to public 3ps. | TZS. 500,000 | | 16. | Regulation 68 | Failure to register gaming 4ps. | TZS. 40,000 (per device) | ## Gaming (Amendment) ## GN NO. 478S | 5ps. | | device 6ps. | 7ps. | |----------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------| | 17. 8ps. | Regulation 74 &78 | Breach of requirement in relation to conventions or maintenance of gaming machine set under regulations 74 and 78 | TZS 5,000,000 9ps. | | 18. | Regulation 82 | Failure to submit 10ps. annual audited financial statements with any of the requirements | TZS. 1,000,000 11ps. | | 19. | Regulation 84(4) | Failure to submit gaming levy within prescribed time 12ps. | Penalty of 10% of the required gaming levy and an Interest of 25% of the
+    questions_and_answers:
+      - question: |
+          What is the penalty for failing to display winning combinations along with corresponding prizes on slot machines under Regulation 64?
+        answer: |
+          The penalty is TZS 100,000.
+      - question: |
+          What is the fine for non-compliance with the theoretical and demonstrable return-to-public minimum requirement under Regulation 65?
+        answer: |
+          The penalty is TZS 500,000.
+      - question: |
+          Under Regulation 68, what is the penalty for failing to register gaming devices?
+        answer: |
+          The penalty is TZS 40,000 per device.
+      - question: |
+          What is the penalty for breaching conventions or maintenance requirements of gaming machines under Regulations 74 and 78?
+        answer: |
+          The penalty is TZS 5,000,000.
+      - question: |
+          What is the penalty for failing to submit annual audited financial statements as required under Regulation 82?
+        answer: |
+          The penalty is TZS 1,000,000.
+  - context: |
+      USD 30,000 (annually) | - 41ps. | ## Gaming (Amendment) ## GN NO. 478S | 32. | PRINCIPAL LICENCE (SLOT OR ROUTE OPERATIONS) | TZS 500,000 (annually) | USD 10,000 (annually) | - 42ps. | |-------|------------------------------------------------|---------------------------------------|-------------------------------------|-----------------------------------------------| | 33 | INTERNET CASINO | TZS 1,000,000 (annually) | USD 40,000 (annually) | - 43ps. | | 34 | OPERATIONS UNDER SEC.51(2) | TZS 1,000,000 (annually) | USD 10,000 (annually) | 44ps. 5% on Gross Gaming Revenue (GGR) paid monthly | | 35 | VIRTUAL GAMES (IN SPORTS BETTING PREMISES) | TZS 50,000 (per location annually) | TZS 100,000 (per location annually) | 5% on Gross Gaming Revenue (GGR) paid monthly | | 36 | ONLINE VIRTUAL GAMES | TZS 500,000 (annually) 45ps. | USD 10,000 (annually) | 5% on Gross Gaming Revenue (GGR) paid monthly | | 37 | VIRTUAL GAMES (STAND-ALONE) PREMISE | TZS 50,000.00 (per location annually) | TZS 100,000 (per location annually) | 5% on Gross Gaming Revenue (GGR) paid monthly | | 38 | CERTIFICATE OF SUITABILITY 46ps. | - | TZS 1,000,000 | - 47ps. | | 39 | GAMING CONSULTANCY | TZS 10,000 | TZS 1,000,000 (every two years) | - 48ps. | | 40 | PLAY STATIONS | TZS 10,000 (per location annually) | TZS 50,000 (per location annually) | - 49ps. | | 41 | INTERNET SPORTS BETTING | TZS 1,000,000 (annually) | USD 30,000 (annually) 50ps. | - | | 42 | NUMBER
+    questions_and_answers:
+      - question: |
+          What is the annual licensing fee for operating an Internet Casino?
+        answer: |
+          The annual licensing fee for operating an Internet Casino is TZS 1,000,000 or USD 40,000.
+      - question: |
+          What additional tax or percentage is applied to operations under Sec. 51(2)?
+        answer: |
+          Operations under Sec. 51(2) are subject to 5% on Gross Gaming Revenue (GGR) paid monthly.
+      - question: |
+          How much is the annual fee for operating Virtual Games in sports betting premises per location?
+        answer: |
+          The annual fee for operating Virtual Games in sports betting premises is TZS 50,000 per location or TZS 100,000 per location, depending on the setup.
+      - question: |
+          What is the cost of obtaining a Certificate of Suitability?
+        answer: |
+          The cost of obtaining a Certificate of Suitability is TZS 1,000,000.
+      - question: |
+          What is the difference in the annual licensing fee between Internet Sports Betting and Online Virtual Games?
+        answer: |
+          The difference in the annual licensing fee is USD 20,000; Internet Sports Betting costs USD 30,000 annually, while Online Virtual Games cost USD 10,000 annually.
+document_outline: |
+  **Document Outline:**
+  The document is a government notice (GN No. 478S) published in the United Republic of Tanzania on 1st July 2022, amending the Gaming Regulations under the Gaming Act (Cap. 41). It introduces updated penalties, revises licensing regulations, and provides new fee structures and levy requirements for various types of gaming activities, effective immediately.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_GAMING_(AMENDMENT)_REGULATIONS,_2022.md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## CIVIL APPEAL NO. 54 OF 2013 (CORAM: OTKMAN', CJ., MASSATI, 3. A. And, MUG AS HA, 3. A .) SBC TANZANIA LIMITED...................................................................... APPELLANT ## VERSUS ## COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY.................................................. RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals i nuunal at Dar gs bataaui ) * (Chairman, Shanqwa, 3 .) dated the CGth day of February, 2007 in Revenue Tax Aone?! F-'o. 19 of 2006 ## RULING OF THE COURT 16th February, &amp; 22n d August, 2016 ## OTHMAN, CJ. In view of 2ps. the record of appeal, in which is attached a copy of the decree signed only by the Chairman of the Tax Revenue Appeals Tribunal, the point of taw raised by the Court, suo motu, was whether or not the decree was proper or defective, respectively, rendering the appeal, competent or incompetent. 2ps. 1ps. F-'o. 19 of 2006 ## RULING OF THE COURT 16th February, &amp; 22n d August, 2016 ## OTHMAN, CJ. In view of the record of appeal, in which is attached a copy of the decree signed only by the Chairman of the Tax Revenue Appeals Tribunal, the point of taw raised by the Court, suo motu, was whether or not the decree was proper or defective, respectively, rendering the appeal, competent or incompetent. Mr. Felix 2ps. Haule, learned Advocate for the respondent
+    questions_and_answers:
+      - question: |
+          What is the title and number of the case mentioned in the context?
+        answer: |
+          The case is titled 'SBC TANZANIA LIMITED VERSUS COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY' with Civil Appeal No. 54 of 2013.
+      - question: |
+          Who constituted the Coram in the Civil Appeal No. 54 of 2013?
+        answer: |
+          The Coram consisted of Othman, CJ., Massati, J. A., and Mugasha, J. A.
+      - question: |
+          What legal issue was raised suo motu by the Court in this case?
+        answer: |
+          The Court raised the issue of whether or not the attached decree, signed only by the Chairman of the Tax Revenue Appeals Tribunal, was proper or defective, thus affecting the appeal's competence or incompetence.
+      - question: |
+          When was the ruling for this case delivered, according to the context?
+        answer: |
+          The ruling was delivered on 16th February and 22nd August 2016.
+      - question: |
+          Who represented the respondent in Civil Appeal No. 54 of 2013?
+        answer: |
+          Mr. Felix Haule, a learned Advocate, represented the respondent.
+  - context: |
+      execution. (Emphasis added). ## In Midcom Tanzania Limited and Mbeya Intertrade Company Limited cases the Court read into Rule 21 the requirement that as in the case of the decision, the order or decree of the Tribunal must equally be signed by the members who heard the appeal. When we asked Mr. Kapinga whether he 3ps. was inviting us to depart from those decisions, he chose instead to bank on Rule 23(1) on the defectiveness of the decree, which he graciously admitted. 3ps. 1ps. (Emphasis added). ## In Midcom Tanzania Limited and Mbeya Intertrade Company Limited cases the Court read into Rule 21 the requirement that as in the case of the decision, the order or decree of the Tribunal must equally be signed by the members who heard the appeal. When we asked Mr. Kapinga whether he was inviting us to depart from those decisions, he 2ps. chose instead to bank on Rule 23(1) on the defectiveness of the decree, which he graciously admitted. Going by those decisions, which form precedent, we find that the decree signed only by the Chairman was invalid in terms of Rule 21. Furthermore, considering the scheme of the Act, the entire reading of the relevant Rules and adopting a purposive approach to the interpretation of Rule 23(1), in our respective view, the framers of the Rules 3ps. could only have intended that the persons vested with authority to sign the decree that is
+    questions_and_answers:
+      - question: |
+          What requirement did the Court read into Rule 21 in the cases of Midcom Tanzania Limited and Mbeya Intertrade Company Limited?
+        answer: |
+          The Court read into Rule 21 the requirement that the order or decree of the Tribunal must be signed by the members who heard the appeal, similar to the case of decisions.
+      - question: |
+          What was Mr. Kapinga’s stance regarding departing from the decisions in the Midcom Tanzania Limited and Mbeya Intertrade cases?
+        answer: |
+          Mr. Kapinga chose not to invite the Court to depart from those decisions and instead relied on Rule 23(1) to address the defectiveness of the decree, which he admitted.
+      - question: |
+          According to the precedent set by the Midcom and Mbeya Intertrade cases, when is a decree considered invalid?
+        answer: |
+          A decree is considered invalid if it is signed only by the Chairman and not by all the Tribunal members who heard the appeal.
+      - question: |
+          What interpretative approach did the Court consider when addressing Rule 23(1)?
+        answer: |
+          The Court adopted a purposive approach and considered the scheme of the Act and the entire reading of the relevant Rules to interpret Rule 23(1).
+      - question: |
+          What did the Court infer about the framers’ intention regarding who should sign the decree?
+        answer: |
+          The Court inferred that the framers of the Rules intended for the individuals vested with authority, specifically those who heard the appeal, to sign the decree.
+  - context: |
+      to be issued by the Tribunal thereunder was meant to be the members who heard the appeal. 4ps. 1ps. ## In Midcom Tanzania Limited and Mbeya Intertrade Company Limited cases the Court read into Rule 21 the requirement that as in the case of the decision, the order or decree of the Tribunal must equally be signed by the members who heard the appeal. When we asked Mr. Kapinga whether he was inviting us to depart from those decisions, he chose instead 2ps. to bank on Rule 23(1) on the defectiveness of the decree, which he graciously admitted. Both section 3 of the Act and Rule 3 defines the Tribunal as "the Tax Appeals Tribunal established under section 8 (1)". That section provides: "There shall be established a Tribunal to be known as the Tax Appeals Tribunal". Rule 3 defines a member of the Tribunal 3ps. as the Chairman, Vice Chairman and the members of the Tribunal appointed in accordance with section 8(2) of the Act, (See also section 3 of the Act). It is the members prescribed under section 8(2) who compose the Tribunal and who have jurisdiction to hear and determine appeals. 5ps. 1ps. That section provides: "There shall be established a Tribunal to be known as the Tax Appeals Tribunal". Rule 3 defines a member of the Tribunal as the Chairman, Vice Chairman and the members of the Tribunal appointed in accordance with section 8(2) of the
+    questions_and_answers:
+      - question: |
+          What is the requirement established by the Court in the Midcom Tanzania Limited and Mbeya Intertrade Company Limited cases regarding Tribunal orders?
+        answer: |
+          The Court established that the order or decree of the Tribunal must be signed by the members who heard the appeal, just as in the case of the decision.
+      - question: |
+          What was Mr. Kapinga's response when asked to depart from previous decisions regarding Tribunal orders?
+        answer: |
+          Mr. Kapinga chose to rely on Rule 23(1) regarding the defectiveness of the decree, which he admitted, instead of inviting the Court to depart from previous decisions.
+      - question: |
+          How is the Tax Appeals Tribunal defined under section 3 of the Act and Rule 3?
+        answer: |
+          The Tax Appeals Tribunal is defined as the Tribunal established under section 8(1) of the Act, which states, 'There shall be established a Tribunal to be known as the Tax Appeals Tribunal.'
+      - question: |
+          Who are identified as members of the Tribunal according to Rule 3?
+        answer: |
+          Rule 3 defines members of the Tribunal as the Chairman, Vice Chairman, and other members appointed in accordance with section 8(2) of the Act.
+      - question: |
+          What jurisdiction is held by the members prescribed under section 8(2) of the Act?
+        answer: |
+          Members prescribed under section 8(2) of the Act have the jurisdiction to hear and determine appeals brought before the Tribunal.
+  - context: |
+      can neither be an appeal nor execution Before we conclude and given the issues raised, in our respectful view, the Rules, promulgated in 2001 urgently need to be updated and 3ps. revised, in particular on the signing and certification of the proceedings, decision, decree or order of the Tribunal; the delegation of some of the judicial functions of the members to the Registrar; and the certification of the instruments and records of the Tribunal. 3ps. 1ps. As pertinently stated by the learned authors, B.M. Prasad and M . Mohan, in THE MU, MANUAL OF THE CIVIL PROCEDURE CODE, Vol I, 15t h Ed. Moreover, they also ,need to be closely harmonized with the Appellate Jurisdiction Act and the Court of Appeal Rules.' In the result and for the above reasons, we are constrained to find which we hereby do, that the decree 2ps. in the record of appeal is defective, which renders the purported appeal incompetent. Accordingly, we uphold the point of law raised and proceed to strike out the appeal. As the point of law was raised by the Court, suo motu, we make no order as to costs. Ordered accordingly. DATED at DAR ES SALAAM this 23r d day of February, 2016. M. C. OTHMAN CHIEF JUSTICE <!-- image --> I certify that this is a true copy of the original. <!-- image --> ( } J. R. KAHYOZA REGISTRAR COURT OF 3ps. APPEAL
+    questions_and_answers:
+      - question: |
+          Why do the authors suggest that the Rules promulgated in 2001 need to be updated?
+        answer: |
+          The Rules need to be updated and revised to address issues like the signing and certification of Tribunal proceedings, delegation of judicial functions to the Registrar, and certification of Tribunal instruments and records.
+      - question: |
+          What specific harmonization is recommended in the context?
+        answer: |
+          It is recommended that the Rules be harmonized with the Appellate Jurisdiction Act and the Court of Appeal Rules.
+      - question: |
+          What was the reason for striking out the appeal?
+        answer: |
+          The appeal was struck out because the decree in the record of appeal was found to be defective, rendering the appeal incompetent.
+      - question: |
+          Why was no order as to costs made in this case?
+        answer: |
+          No order as to costs was made because the point of law was raised by the Court suo motu, meaning on its own initiative.
+      - question: |
+          When and where was the decision in this case dated?
+        answer: |
+          The decision was dated on February 23, 2016, in Dar es Salaam.
+  - context: |
+      squarely relying on Midcom Tanzania Limited v. Commissioner General Tanzania Revenue Authority, Civil Appeal No. 13 of 2011 and Mbeya Intertrade Company Limited v. The Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 68"A" of 2010 (All CAT, unreported) submitted that as required under Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2011 (the Rules) the decree contained in the 3ps. record of appeal should have been signed by all members of the Tribunal who heard the appeal. As it was only signed by the Chairman, it was defective, rendering the appeal incompetent. 3ps. 1ps. In view of the record of appeal, in which is attached a copy of the decree signed only by the Chairman of the Tax Revenue Appeals Tribunal, the point of taw raised by the Court, suo motu, was whether or not the decree was proper or defective, respectively, rendering the appeal, competent or incompetent. As it was only signed by the Chairman, it was defective, rendering the appeal incompetent. 2ps. He invited us to strike it out with costs. In reply, Mr. Wilbert Kapinga, learned Advocate for the appellant submitted that the appellant was appealing against both the decision and decree of the Tribunal. That Rule 21 did not require that the decree be signed by the members. It only required the decision to be signed by them. Midcom Tanzania Ltd. and Mbeya Intertrade Company the Ltd. cases 3ps. were clearly distinguishable as they
+    questions_and_answers:
+      - question: |
+          What legal requirement under Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2011 was argued to have been violated in the case?
+        answer: |
+          It was argued that the decree in the record of appeal should have been signed by all members of the Tribunal who heard the appeal, but it was only signed by the Chairman, making it defective.
+      - question: |
+          What was the main issue raised suo motu by the Court regarding the appeal?
+        answer: |
+          The Court raised the issue of whether or not the decree signed only by the Chairman of the Tax Revenue Appeals Tribunal was proper or defective, and consequently, whether the appeal was competent or incompetent.
+      - question: |
+          What precedent cases were cited to argue that the appeal was incompetent?
+        answer: |
+          The cases of Midcom Tanzania Limited v. Commissioner General Tanzania Revenue Authority (Civil Appeal No. 13 of 2011) and Mbeya Intertrade Company Limited v. The Commissioner General, Tanzania Revenue Authority (Civil Appeal No. 68'A' of 2010) were cited.
+      - question: |
+          What was Mr. Wilbert Kapinga’s key argument regarding the signing requirement under Rule 21?
+        answer: |
+          Mr. Wilbert Kapinga argued that Rule 21 only required the decision to be signed by all members of the Tribunal, not the decree, and that the appeal was against both the decision and the decree.
+      - question: |
+          How did the appellant’s counsel attempt to distinguish the cited precedent cases?
+        answer: |
+          The appellant's counsel argued that the precedent cases Midcom Tanzania Ltd. and Mbeya Intertrade Company Ltd. were clearly distinguishable from the present case.
+document_outline: |
+  ### Document Outline:
+  This legal document outlines the ruling of the Court of Appeal of Tanzania in **Civil Appeal No. 54 of 2013** between **SBC Tanzania Limited (Appellant)** and the **Commissioner General of the Tanzania Revenue Authority (Respondent)**. The court addressed the legal validity of a decree issued by the Tax Revenue Appeals Tribunal, which was defective as it had only been signed by the Tribunal Chairman, contrary to procedural requirements. The Court deliberated on whether this defect rendered the appeal incompetent, citing applicable rules, precedent cases, and statutory provisions.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Sbc_Tanzania_Limited_vs_Commissioner_General_of_Tanzania_Authority_(Civil_Appeal_No_54_of_2013)_2016_TZCA_864_(22_August_2016).md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      o Law : Stamp Duty Act, 1972. - o Rate : Typically 1% of transaction value. - o Example Calculation : Signing a government contract valued at TZS 100,000,000: -  Calculation: Stamp Duty = 1% × TZS 100,000,000 = TZS 1,000,000. 4ps. 1ps. ## 16. Stamp Duty - o Description : Tax on legal documents such as government contracts. - o Law : Stamp Duty Act, 1972. - o Rate : Typically 1% of transaction value. - o Example Calculation : Signing a government contract valued at TZS 100,000,000: -  Calculation: Stamp Duty = 1% × TZS 100,000,000 = TZS 1,000,000. ## 17. Withholding Tax - o Description : Tax withheld on payments made to suppliers and contractors. - o Law : Income Tax Act, 2004. - o Rate : Varies by payment type, generally 5% to 15%. - o Example Calculation : Payment of TZS 50,000,000 2ps. to a non-resident contractor with a 10% withholding tax rate: -  Calculation: Withholding Tax = 10% × TZS 50,000,000 = TZS 5,000,000. ## 18. Road Maintenance Levy - o Description : Levy for road maintenance related to government vehicles and operations. - o Law : Road Maintenance Fund Act, 1986. - o Rate : Included in fuel prices, varies. 5ps. 1ps. - o Example Calculation : Payment of TZS 50,000,000 to a non-resident contractor with a 10% withholding tax rate: -  Calculation: Withholding Tax = 10% × TZS
+    questions_and_answers:
+      - question: |
+          What type of documents are subject to Stamp Duty under the Stamp Duty Act, 1972?
+        answer: |
+          Legal documents such as government contracts are subject to Stamp Duty under the Stamp Duty Act, 1972.
+      - question: |
+          What is the typical rate for Stamp Duty under the Stamp Duty Act, 1972?
+        answer: |
+          The typical rate for Stamp Duty is 1% of the transaction value.
+      - question: |
+          How is the withholding tax rate determined, and what is its range under the Income Tax Act, 2004?
+        answer: |
+          The withholding tax rate varies by payment type, generally ranging from 5% to 15%.
+      - question: |
+          What is the purpose of the Road Maintenance Levy under the Road Maintenance Fund Act, 1986?
+        answer: |
+          The Road Maintenance Levy is intended to fund road maintenance related to government vehicles and operations.
+      - question: |
+          How would you calculate the withholding tax for a payment of TZS 50,000,000 to a non-resident contractor with a 10% tax rate?
+        answer: |
+          The withholding tax would be calculated as 10% × TZS 50,000,000, resulting in TZS 5,000,000.
+  - context: |
+      Tariff) Act, 2015. - o Rate : Specific rates per item, often ad valorem. - o Example Calculation : Purchasing fuel for government vehicles valued at TZS 50,000,000 with a 2ps. 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 50,000,000 = TZS 7,500,000. ## 14. Employment Tax Incentive (ETI) - o Description : Incentive for hiring youth employees in government agencies. - o Law : Employment Tax Incentive Act, 2016. - o Rate : Tax credit of up to 5% of qualifying employees' remuneration. - o Example Calculation : Calculated based on the number of qualifying employees and their remuneration. 3ps. 1ps. ## 14. Employment Tax Incentive (ETI) - o Description : Incentive for hiring youth employees in government agencies. - o Law : Employment Tax Incentive Act, 2016. - o Rate : Tax credit of up to 5% of qualifying employees' remuneration. - o Example Calculation : Calculated based on the number of qualifying employees and their remuneration. ## 15. Skills Development Levy - o Description : Levy for vocational training in government agencies. - o Law : Vocational Education and Training Act, 1994. - o Rate : 5% of payroll. - o Example Calculation : Total monthly payroll of TZS 200,000,000: -  Calculation: Skills 2ps. Development Levy = 5% × TZS 200,000,000 = TZS 10,000,000. ## 16. Stamp Duty - o Description : Tax on legal documents such as government contracts. -
+    questions_and_answers:
+      - question: |
+          What is the excise duty rate mentioned in the Tariff Act, 2015, and how is it calculated for purchases?
+        answer: |
+          The excise duty rate is often ad valorem and can be specific per item. For example, buying fuel valued at TZS 50,000,000 with a 15% excise duty rate results in a duty of TZS 7,500,000 (15% × TZS 50,000,000).
+      - question: |
+          What is the Employment Tax Incentive (ETI), and which law governs it?
+        answer: |
+          The Employment Tax Incentive (ETI) provides tax credits as an incentive for hiring youth employees in government agencies. It is governed by the Employment Tax Incentive Act, 2016.
+      - question: |
+          What is the rate of tax credit provided by the Employment Tax Incentive (ETI), and how is it determined?
+        answer: |
+          The ETI tax credit is up to 5% of the remuneration of qualifying employees. It is calculated based on the number of qualifying employees and the total remuneration paid to them.
+      - question: |
+          What is the Skills Development Levy, and which legislation governs it?
+        answer: |
+          The Skills Development Levy is a levy for vocational training in government agencies. It is governed by the Vocational Education and Training Act, 1994.
+      - question: |
+          How is the Skills Development Levy calculated, and what is its rate?
+        answer: |
+          The Skills Development Levy is calculated as 5% of the payroll. For example, with a monthly payroll of TZS 200,000,000, the levy would amount to TZS 10,000,000 (5% × TZS 200,000,000).
+  - context: |
+      : Local Government Finance Act, 1982. - o Rate : Local government rates based on property values. - o Example Calculation : Calculated based on the assessed value of buildings and facilities. ## 4. Customs Duties - o Description : Duties on imported 2ps. goods and equipment. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing vehicles for government use valued at TZS 200,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 200,000,000 = TZS 20,000,000. 3ps. 1ps. ## 4. Customs Duties - o Description : Duties on imported goods and equipment. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing vehicles for government use valued at TZS 200,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 200,000,000 = TZS 20,000,000. ## 5. Value Added Tax (VAT) - o Description : Tax on goods and services purchased by public administration entities. - o Law : Value Added Tax Act, 2014. - o Rate : Standard rate is 2ps. 18%, with exemptions and zero-rating for certain goods and services. - o Example Calculation : Purchasing office equipment for TZS 50,000,000 exclusive of VAT: -  Calculation: VAT Paid =
+    questions_and_answers:
+      - question: |
+          What is the basis for calculating local government rates under the Local Government Finance Act, 1982?
+        answer: |
+          Local government rates are calculated based on the assessed value of buildings and facilities.
+      - question: |
+          Which law governs customs duties on imported goods in the East African region?
+        answer: |
+          Customs duties on imported goods are governed by the East African Community Customs Management Act, 2004.
+      - question: |
+          What is the range of rates typically applied to customs duties, and how is it determined?
+        answer: |
+          Customs duty rates vary by item and typically range from 0% to 25%, depending on the type of goods being imported.
+      - question: |
+          How would you calculate the customs duty for vehicles valued at TZS 200,000,000 with a 10% duty rate?
+        answer: |
+          The customs duty is calculated as 10% of TZS 200,000,000, resulting in TZS 20,000,000.
+      - question: |
+          What is the standard rate for Value Added Tax (VAT) under the Value Added Tax Act, 2014, and are there exemptions?
+        answer: |
+          The standard VAT rate is 18%, with certain goods and services being exempt or zero-rated.
+  - context: |
+      18% × TZS 50,000,000 = TZS 9,000,000. ## 6. Service Levy - o Description : Local government charge on services used by public administration. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local government authority. 4ps. 1ps. - o Example Calculation : Purchasing office equipment for TZS 50,000,000 exclusive of VAT: -  Calculation: VAT Paid = 18% × TZS 50,000,000 = TZS 9,000,000. ## 6. Service Levy - o Description : Local government charge on services used by public administration. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local government authority. - o Example Calculation : Charged TZS 500,000 annually for municipal services. ## 7. Training Levy - o Description : Levy for skills development and training in government agencies. - o Law : Vocational Education and Training Act, 1994. - o Rate : 2ps. 4.5% of payroll. - o Example Calculation : Total monthly payroll of TZS 100,000,000: -  Calculation: Training Levy = 4.5% × TZS 100,000,000 = TZS 4,500,000 per month. ## 8. Local Government Taxes - o Description : Various taxes levied by local governments on government activities. - o Law : Local Government Finance Act, 1982. - o Rate : Determined by local government regulations. 5ps. 1ps. - o Example Calculation : Total monthly payroll of TZS 100,000,000: -  Calculation: Training Levy = 4.5% × TZS 100,000,000 = TZS
+    questions_and_answers:
+      - question: |
+          What is the Service Levy, and under what law is it regulated?
+        answer: |
+          The Service Levy is a local government charge on services used by public administration, and it is regulated under the Local Government Finance Act, 1982.
+      - question: |
+          How is VAT calculated for purchasing office equipment worth TZS 50,000,000?
+        answer: |
+          VAT is calculated as 18% of the total cost excluding VAT. For TZS 50,000,000, it is 18% × TZS 50,000,000 = TZS 9,000,000.
+      - question: |
+          What is the Training Levy, and what is its applicable rate?
+        answer: |
+          The Training Levy is a levy for skills development and training in government agencies, with a rate of 4.5% of the payroll, as per the Vocational Education and Training Act, 1994.
+      - question: |
+          What is an example of a Service Levy charged annually for municipal services?
+        answer: |
+          An example of a Service Levy charged annually for municipal services is TZS 500,000.
+      - question: |
+          What law governs taxes levied by local governments on government activities, and how are rates determined?
+        answer: |
+          Taxes levied by local governments on government activities are governed by the Local Government Finance Act, 1982, with rates determined by local government regulations.
+  - context: |
+      1ps. 1ps. ## 10. Road User Charges - o Description : Charges for use of government vehicles on public roads. - o Law : Road Traffic Act, 1973. - o Rate : Annual fees based on vehicle type and use. ## 11. License Fees - o Description : Fees for operating licenses for government activities. - o Law : Various sector-specific laws and regulations. - o Rate : Determined based on the type and scope of the license. ## 12. Environmental Levy - o Description : Levy to fund environmental protection measures related to government operations. - o Law : Environmental Management Act, 2004. - o Rate 2ps. : Typically 0.3% to 1% of gross procurement or operational spending. - o Example Calculation : Annual procurement spending of TZS 1,000,000,000 with a 0.5% environmental levy: -  Calculation: Environmental Levy = 0.5% × TZS 1,000,000,000 = TZS 5,000,000. ## 13. Excise Duty - o Description : Duty on specific goods purchased by government entities. 2ps. 1ps. - o Law : Environmental Management Act, 2004. - o Rate : Typically 0.3% to 1% of gross procurement or operational spending. - o Example Calculation : Annual procurement spending of TZS 1,000,000,000 with a 0.5% environmental levy: -  Calculation: Environmental Levy = 0.5% × TZS 1,000,000,000 = TZS 5,000,000. ## 13. Excise Duty - o Description : Duty on specific goods purchased by government entities. - o Law : Excise (Management and
+    questions_and_answers:
+      - question: |
+          What is the basis for determining the rate of Road User Charges?
+        answer: |
+          The rate for Road User Charges is determined annually based on the type and use of the vehicle.
+      - question: |
+          Under which law are License Fees for government activities regulated?
+        answer: |
+          License Fees for government activities are regulated under various sector-specific laws and regulations.
+      - question: |
+          What is the typical range for the Environmental Levy rate, and how is it calculated?
+        answer: |
+          The Environmental Levy typically ranges from 0.3% to 1% of gross procurement or operational spending, calculated as a percentage of spending. For example, 0.5% of TZS 1,000,000,000 is calculated as TZS 5,000,000.
+      - question: |
+          Which law governs the Environmental Levy?
+        answer: |
+          The Environmental Levy is governed by the Environmental Management Act, 2004.
+      - question: |
+          What is the primary purpose of the Environmental Levy in government operations?
+        answer: |
+          The Environmental Levy is used to fund environmental protection measures related to government operations.
+document_outline: |
+  **Document Outline:**
+  This document provides a comprehensive inventory of 30 taxes, levies, duties, and customs applicable to businesses operating in Tanzania's public administration and compulsory social security sector. It includes detailed descriptions, relevant legal frameworks, applicable rates, and practical calculation examples for each tax or levy to guide compliance and understanding.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_public_administration_and_compulsory_social_security_sector.md

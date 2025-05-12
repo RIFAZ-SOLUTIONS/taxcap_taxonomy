@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (4) Any change to the fiscal rules shall require support of not less than two thirds of the total number of Members of Parliament. - (5) Any change of the rates stipulated in the fiscal rules may be made after every five years commencing from 1 July, 2015. st - (6) Subject to subsection (4), the fiscal rules may only be amended, altered or otherwise changed once after every five years. - 17 .-(1)The following shall be the fiscal rules applicable 2ps. under this Act- - (a) exclusion of designated oil and gas revenue from the domestic revenue source in estimating fiscal deficit from the year 2016/17 onwards (that means, treating the designated oil and gas revenue as part of financing); - (b) maintenance of fiscal deficit excluding designated oil and gas revenue at 3% of the GDP when such revenue attains a level of at least 3 % of the GDP; - (c) operation of 3ps. the Fund shall be in the manner that- - (i) all designated revenue are deposited into Revenue Holding Account where- - (aa) in any fiscal year, at most an amount equal to 3% of the GDP is transferred to the Consolidated Fund for budgetary use, and at least 60% of such transfer is dedicated to funding strategic development expenditure including human capital development, particularly in the area of science and technology; - (bb) any amount of money in Revenue Holding Account 4ps.
+    questions_and_answers:
+      - question: |
+          What majority is required in Parliament to make changes to the fiscal rules?
+        answer: |
+          Any change to the fiscal rules requires the support of not less than two-thirds of the total number of Members of Parliament.
+      - question: |
+          How often can changes to the rates stipulated in the fiscal rules be made?
+        answer: |
+          Changes to the rates in the fiscal rules can be made every five years, starting from 1 July, 2015.
+      - question: |
+          What is the rule regarding the exclusion of designated oil and gas revenue from domestic revenue in estimating fiscal deficits?
+        answer: |
+          From the fiscal year 2016/17 onward, designated oil and gas revenue is excluded from the domestic revenue source when estimating fiscal deficits and is treated as part of financing.
+      - question: |
+          What is the fiscal deficit limit when designated oil and gas revenue reaches at least 3% of GDP?
+        answer: |
+          The fiscal deficit, excluding designated oil and gas revenue, must be maintained at 3% of GDP when such revenue reaches a level of at least 3% of GDP.
+      - question: |
+          How must revenue from designated oil and gas be allocated within the Fund's operations?
+        answer: |
+          At most 3% of GDP from designated revenue can be transferred to the Consolidated Fund for budgetary use annually, with at least 60% of this transfer dedicated to strategic development expenditures, including human capital development in science and technology.
+  - context: |
+      1ps. 1ps. - (2) Oil and gas revenues derived from oil and gas operations or activities undertaken within Tanzania Zanzibar shall be governed and administered in accordance with the laws of Tanzania Zanzibar. - 3 . In this Act, unless the context otherwise requires'additional profit tax' means a tax imposed on additional gains due to higher price or lower cost of production; 'Bank' means the Bank of Tanzania established by the Bank of Tanzania Act; 'Board' means the Investment Advisory Board established under section 12; 'contractor' means a company or group of companies 2ps. that have entered into a production sharing agreement with the Government; 'fiscal rules' means the fiscal rules stipulated by section 16; 'Fund' means the Oil and Gas Fund established under section 8 of this Act; 'government profit share' means the remaining balance of profit gas or profit oil payable to the Government after deducting contractor's profits of oil or gas; 'Minister' means the Minister responsible for finance; 'oil and gas revenues' include- - (a) royalty in cash payable by a licensed producer or its subsidiaries or a company under a Production Sharing Agreement; - (b) Government 3ps. profit share; - (c) taxes payable by licensed upstream, midstream and downstream operators; - (d) Government participating interest; Functions of Minister Functions of Bank - (e) dividends from the National Oil Company for Government's equity interest; - (f) returns on investment income derived from the Fund; - (g) signature bonus, training fees and surface rentals paid by licensed producers; or - (h) any other revenue determined by the Minister to constitute gas revenue, derived from upstream, midstream and downstream operations; - 'participating interest' means the interest held in petroleum operations by a party to production sharing 4ps.
+    questions_and_answers:
+      - question: |
+          Who governs and administers oil and gas revenues from operations in Tanzania Zanzibar?
+        answer: |
+          Oil and gas revenues from operations in Tanzania Zanzibar are governed and administered in accordance with the laws of Tanzania Zanzibar.
+      - question: |
+          What constitutes 'additional profit tax' as described in the Act?
+        answer: |
+          'Additional profit tax' is defined as a tax imposed on additional gains due to higher prices or lower costs of production.
+      - question: |
+          What are the sources of oil and gas revenues listed in the Act?
+        answer: |
+          The sources of oil and gas revenues include royalties, government profit shares, taxes from operators, government participation interests, dividends from the National Oil Company, investment returns from the Oil and Gas Fund, signature bonuses, training fees, surface rentals, and other revenues determined by the Minister.
+      - question: |
+          What is the 'Government profit share' in the context of oil and gas operations?
+        answer: |
+          The 'Government profit share' refers to the remaining balance of profit gas or profit oil payable to the Government after deducting the contractor's profits.
+      - question: |
+          What is the role of the Bank of Tanzania in this context?
+        answer: |
+          The Bank of Tanzania, established under the Bank of Tanzania Act, serves as the 'Bank' referenced in the context, although its specific functions related to oil and gas operations are not detailed in the provided text.
+  - context: |
+      1ps. 1ps. - (3) The Chairman and other four members shall be appointed by the President. - (4) The provisions of the Schedule shall apply to the Board in the conduct of its business. - 13 .-(1) The functions of the Board shall be to- - (a) advise the Minister on portfolio investment strategy of the Revenue Saving Account of the Fund; and - (b) report periodically to the Minister responsible for finance on the governance and overall performance of the Revenue Saving Account of the Fund. 2ps. - (2) Any advice by the Investment Advisory Board on investment strategy of the Revenue Saving Account of the Fund shall take into account- - (a) overall objective for the benefit of current and future generations; - (b) current economic conditions, opportunities and constrains in the investment markets and constrains under which the Bank and other relevant institutions operate; and Portfolio Investment Advisory Board Functions of Board Secretariat of Board Oversight of and reporting on Fund Objectives and principles of fiscal rules - (c) the need to ensure sufficient funds 3ps. are available when the need for transfer to meet unanticipated oil and gas revenue shortfall arises. 2ps. 1ps. - (4) The provisions of the Schedule shall apply to the Board in the conduct of its business. - 13 .-(1) The functions of the Board shall be to- - (a) advise the Minister on portfolio investment strategy of the Revenue Saving Account of the Fund; and - (b) report periodically to the Minister responsible for finance on the governance and overall performance of the Revenue Saving Account of the Fund. - (3) Where the Minister declines to take the advice of the 2ps. Board he shall refer the matter to the President for determination. - 14 .
+    questions_and_answers:
+      - question: |
+          Who is responsible for appointing the Chairman and members of the Board?
+        answer: |
+          The Chairman and the other four members of the Board shall be appointed by the President.
+      - question: |
+          What principles must the Investment Advisory Board consider when providing advice on the Revenue Saving Account's portfolio strategy?
+        answer: |
+          The Board must consider the overall objective to benefit current and future generations, current economic conditions, opportunities and constraints in investment markets, and the need to ensure sufficient funds are available for unanticipated oil and gas revenue shortfalls.
+      - question: |
+          What are the two primary functions of the Board as outlined in the context?
+        answer: |
+          The Board's primary functions are to advise the Minister on the portfolio investment strategy for the Revenue Saving Account of the Fund and to report periodically on the governance and overall performance of the Revenue Saving Account.
+      - question: |
+          What action must the Minister take if they decline the Board's advice on investment strategy?
+        answer: |
+          If the Minister declines the Board's advice, they must refer the matter to the President for determination.
+      - question: |
+          What document governs the conduct of the Board’s business procedures?
+        answer: |
+          The provisions of the Schedule shall apply to the Board in the conduct of its business.
+  - context: |
+      1ps. 1ps. - (2) The oil and gas revenues derived from- - (a) taxes and levies shall be assessed, collected and accounted for by the Tanzania Revenue Authority; - (b) non-tax oil and gas revenues shall be collected and accounted for by the National Oil Company. - (3) Subject to section 8, surface rentals or annual block fees, signature bonuses and training fees shall be retained by the National Oil Company for 2ps. purposes of enhancing development of oil and gas subsector. 7.-( 1) The regulator shall conduct audit of cost recovery on exploration, development, production and sale of oil and gas to determine Government profit share and royalty. - (2) For purposes of this section 'regulator' means the Petroleum Upstream Regulator Authority established pursuant to the Petroleum Act. Oil and Gas Fund Sources of Fund Management of Fund ## PART IV ESTABLISHMENT, SOURCES AND MANAGEMENT 3ps. OF THE FUND - 8.-( 1) There shall be the Oil and Gas Fund. - (2) The Fund shall consist of the Revenue Holding Account and the Revenue Saving Account. 2ps. 1ps. - (2) For purposes of this section 'regulator' means the Petroleum Upstream Regulator Authority established pursuant to the Petroleum Act. Oil and Gas Fund Sources of Fund Management of Fund ## PART IV ESTABLISHMENT, SOURCES AND MANAGEMENT OF THE FUND - 8.-( 1) There shall be the Oil and Gas Fund. - (2) The Fund shall consist of the Revenue Holding Account and the Revenue Saving Account. - (3) The objectives of the Fund shall be to ensure that- - (a) fiscal and macroeconomic 2ps. stability is maintained; - (b) the financing of investment in oil and gas is guaranteed; - (c) social and economic development is enhanced; and - (d) resource for future generations is safeguarded. - 9.
+    questions_and_answers:
+      - question: |
+          Who is responsible for assessing, collecting, and accounting for taxes and levies derived from oil and gas revenues?
+        answer: |
+          The Tanzania Revenue Authority is responsible for assessing, collecting, and accounting for taxes and levies derived from oil and gas revenues.
+      - question: |
+          What are the roles of the National Oil Company regarding non-tax oil and gas revenues?
+        answer: |
+          The National Oil Company is responsible for collecting and accounting for non-tax oil and gas revenues.
+      - question: |
+          What is the purpose of retaining surface rentals, signature bonuses, and training fees by the National Oil Company?
+        answer: |
+          These funds are retained by the National Oil Company to enhance the development of the oil and gas subsector.
+      - question: |
+          What is the role of the Petroleum Upstream Regulator Authority as described in the context?
+        answer: |
+          The Petroleum Upstream Regulator Authority conducts audits of cost recovery in oil and gas exploration, development, production, and sale to determine the Government's profit share and royalties.
+      - question: |
+          What are the objectives of the Oil and Gas Fund as outlined in the context?
+        answer: |
+          The objectives of the Oil and Gas Fund are to maintain fiscal and macroeconomic stability, guarantee financing for oil and gas investments, enhance social and economic development, and safeguard resources for future generations.
+  - context: |
+      1ps. 1ps. - (5) The Minister shall, after receiving the report, lay before the National Assembly the audited accounts of the Fund together with the auditor's report. ## PART VII GENERAL PROVISIONS 21 .-(1) A person who misapropriates the proceeds of the Fund commits an offence and shall be liable, on conviction, to a fine of not less than the amount that the 2ps. person has misappropriated or to imprisonment for a term of not less than thirty years or to both. - (3) In addition to the penalty imposed under paragraph (a), the court may make an order for forfeiture of assets or freezing bank accounts in relation to the offence which was committed. Cap. 200 Inconsistence with other laws Minister to make regulations - (4) An offence commited under this Act shall be deemed to be an 3ps. economic offence triable in accordance with the Economic and Organised Crimes Control Act. 2ps. 1ps. - (3) In addition to the penalty imposed under paragraph (a), the court may make an order for forfeiture of assets or freezing bank accounts in relation to the offence which was committed. Cap. 200 Inconsistence with other laws Minister to make regulations - (4) An offence commited under this Act shall be deemed to be an economic offence triable in accordance with the Economic and Organised Crimes Control Act. 2ps. - 22. Where there is inconsistence between this Act and any other written law relating to management of oil and gas revenues to which this Act applies, the provisions of this Act shall prevail over to the extent of such inconsistence. - 23 .-(1) The Minister may make regulations for better implementation of the provisions of this Act.
+    questions_and_answers:
+      - question: |
+          What is the responsibility of the Minister after receiving the report on the Fund?
+        answer: |
+          The Minister must lay before the National Assembly the audited accounts of the Fund along with the auditor's report.
+      - question: |
+          What are the penalties for a person found guilty of misappropriating proceeds from the Fund?
+        answer: |
+          The person is liable to a fine of not less than the misappropriated amount, imprisonment for not less than thirty years, or both.
+      - question: |
+          What additional actions can a court take in cases of misappropriation under this Act?
+        answer: |
+          The court may order the forfeiture of assets or the freezing of bank accounts related to the offence.
+      - question: |
+          How are offences under this Act classified, and which law governs their trial?
+        answer: |
+          Offences under this Act are classified as economic offences and are triable under the Economic and Organised Crimes Control Act.
+      - question: |
+          What happens if there is an inconsistency between this Act and other laws related to oil and gas revenue management?
+        answer: |
+          The provisions of this Act prevail to the extent of the inconsistency.
+document_outline: |
+  **Document Outline:**
+  The *Oil and Gas Revenues Management Act* [CAP. 328 R.E. 2019] provides a legal framework for the collection, management, and oversight of revenues from oil and gas activities in Tanzania. It includes provisions for the establishment of the Oil and Gas Fund, fiscal rules, transparency measures, administrative roles, and financial accountability, with its application extending to both Mainland Tanzania and Tanzania Zanzibar under specific guidelines.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - CHAPTER_328-THE_OILD_AND_GAS_REVENUES_MANAGEMENT_ACT-01.md

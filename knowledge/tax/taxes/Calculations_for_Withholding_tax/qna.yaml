@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. -  Royalties: The company pays royalties to FinTech Solutions Inc. for the use of their financial software. -  Interest payment (10%): - o Total interest payment: TZS 75 million - o WHT: 10% of TZS 75 million = TZS 7.5 million - o Net interest to be paid: TZS 75 million - TZS 7.5 million = TZS 67.5 million - 3. Royalties Payments: Assume FinSecure Ltd. pays TZS 55 million in royalties to FinTech Solutions Inc. -  Royalties payment (15%): - o Total royalties payment: TZS 55 million - o WHT: 15% of TZS 55 million = TZS 8.25 million - o Net royalties to 2ps. be paid: TZS 55 million - TZS 8.25 million = TZS 46.75 million ## Summary  Dividends (Resident): TZS 10 million WHT  Dividends (Non-Resident): TZS 20 million WHT  Interest: TZS 7.5 million WHT  Royalties: TZS 8.25 million WHT ## Total WHT paid by FinSecure Ltd. for the respective payments: -  Total WHT on dividends: TZS 10 million (resident) + TZS 20 million (non-resident) = TZS 30 million -  Total WHT on interest: TZS 7.5 million -  - Total WHT on royalties: TZS 8.25 million Overall WHT: TZS 30 million + TZS 7.5 million + TZS 8.25 million = TZS 45.75 million 4o mini next ChatGPT ## Scenario: 3ps. A Business Company in the Real Estate Activities Sector Company Name: RealEstate Ltd. Sector: Real estate activities (L 68) Operations: RealEstate Ltd. is a Tanzanian-based company engaged in buying, selling, and renting residential and commercial properties. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the withholding tax (WHT) rate applied to interest payments, and how much WHT did FinSecure Ltd. pay on an interest payment of TZS 75 million?
+        answer: |
+          The WHT rate on interest payments is 10%. FinSecure Ltd. paid TZS 7.5 million in WHT on the interest payment of TZS 75 million.
+      - question: |
+          How much net royalties payment did FinSecure Ltd. make to FinTech Solutions Inc. after withholding tax deductions?
+        answer: |
+          FinSecure Ltd. made a net royalties payment of TZS 46.75 million after deducting the 15% WHT of TZS 8.25 million from the total royalties payment of TZS 55 million.
+      - question: |
+          What is the total WHT FinSecure Ltd. paid on dividends for resident and non-resident shareholders combined?
+        answer: |
+          The total WHT paid on dividends is TZS 30 million, comprising TZS 10 million for resident shareholders and TZS 20 million for non-resident shareholders.
+      - question: |
+          What is the total amount of WHT paid by FinSecure Ltd. across all payment categories (dividends, interest, and royalties)?
+        answer: |
+          The total WHT paid by FinSecure Ltd. is TZS 45.75 million, which includes TZS 30 million for dividends, TZS 7.5 million for interest, and TZS 8.25 million for royalties.
+      - question: |
+          What is the primary business activity of RealEstate Ltd., and in which sector does it operate?
+        answer: |
+          RealEstate Ltd. operates in the real estate activities sector (L 68) and is engaged in buying, selling, and renting residential and commercial properties in Tanzania.
+  - context: |
+      1ps. 1ps. -  Royalties: The company pays royalties to LearnTech Inc. for the use of their elearning software. -  Interest payment (10%): - o Total interest payment: TZS 90 million - o WHT: 10% of TZS 90 million = TZS 9 million - o Net interest to be paid: TZS 90 million - TZS 9 million = TZS 81 million - 3. Royalties Payments: Assume EduWorld Ltd. pays TZS 60 million in royalties to LearnTech Inc. -  Royalties payment (15%): - o Total royalties payment: TZS 60 million - o WHT: 15% of TZS 60 million = TZS 9 million - o Net royalties to be paid: 2ps. TZS 60 million - TZS 9 million = TZS 51 million ## Summary -  Dividends (Resident): TZS 13.75 million WHT -  Dividends (Non-Resident): TZS 27.5 million WHT  Interest: TZS 9 million WHT  Royalties: TZS 9 million WHT ## Total WHT paid by EduWorld Ltd. for the respective payments: -  Total WHT on dividends: TZS 13.75 million (resident) + TZS 27.5 million (nonresident) = TZS 41.25 million -  Total WHT on interest: TZS 9 million -  Total WHT on royalties: TZS 9 million Overall WHT: TZS 41.25 million + TZS 9 million + TZS 9 million = TZS 59.25 million 4o mini next ChatGPT ## Scenario: 3ps. A Business Company in the Human Health and Social Work Activities Sector Company Name: HealthCare Ltd. Sector: Human health and social work activities (Q 86-88) Operations: HealthCare Ltd. is a Tanzanian-based company providing healthcare services including hospitals, clinics, and specialized medical care. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the total interest payment made by EduWorld Ltd., and how much was withheld as WHT?
+        answer: |
+          The total interest payment made by EduWorld Ltd. was TZS 90 million, with TZS 9 million withheld as WHT.
+      - question: |
+          What is the net royalties amount payable to LearnTech Inc. after withholding tax?
+        answer: |
+          After withholding 15% WHT (TZS 9 million), the net royalties amount payable to LearnTech Inc. is TZS 51 million.
+      - question: |
+          How much WHT did EduWorld Ltd. pay in total for dividends, interest, and royalties?
+        answer: |
+          EduWorld Ltd. paid a total WHT of TZS 59.25 million, comprising TZS 41.25 million on dividends, TZS 9 million on interest, and TZS 9 million on royalties.
+      - question: |
+          What is the WHT breakdown for dividends paid to resident and non-resident shareholders?
+        answer: |
+          The WHT for dividends paid to resident shareholders is TZS 13.75 million, and for non-resident shareholders, it is TZS 27.5 million.
+      - question: |
+          What sector does HealthCare Ltd. operate in, and what services does it provide?
+        answer: |
+          HealthCare Ltd. operates in the Human Health and Social Work Activities sector, providing services such as hospitals, clinics, and specialized medical care.
+  - context: |
+      1ps. 1ps. ## Withholding Tax (WHT) Rates under Tanzanian Tax Laws ## Dividends: -  Resident shareholders: 5% or 10% (depending on the type of dividends) -  Non-resident shareholders: 5% or 10% (depending on the type of dividends) ## Interest: -  Resident and non-resident lenders: 10% ## Royalties: -  Resident and non-resident recipients: 15% ## Calculations of WHT for AquaClean Ltd. - 1. Dividends Distribution: Assume AquaClean Ltd. declares a dividend of TZS 250 million. ##  Royalties payment (15%): - o Total royalties payment: TZS 30 million - o WHT: 15% of TZS 30 million = TZS 4.5 million - o Net royalties to be paid: TZS 30 million - 2ps. TZS 4.5 million = TZS 25.5 million ## Summary -  Dividends (Resident): TZS 6.25 million WHT -  Dividends (Non-Resident): TZS 12.5 million WHT -  Interest: TZS 4 million WHT -  Royalties: TZS 4.5 million WHT ## Total WHT paid by AquaClean Ltd. for the respective payments: -  Total WHT on dividends: TZS 6.25 million (resident) + TZS 12.5 million (nonresident) = TZS 18.75 million -  Total WHT on interest: TZS 4 million -  Total WHT on royalties: TZS 4.5 million Overall WHT: TZS 18.75 million + TZS 4 million + TZS 4.5 million = TZS 27.25 million ## 6. Scenario: A Business Company in 3ps. the Construction Sector Company Name: BuildTanzania Ltd. ## Sector: Construction (F 41-43) Operations: BuildTanzania Ltd. is a Tanzanian-based company that engages in constructing residential, commercial, and industrial buildings. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What are the withholding tax (WHT) rates for dividends under Tanzanian tax laws?
+        answer: |
+          The WHT rates for dividends are 5% or 10% for both resident and non-resident shareholders, depending on the type of dividends.
+      - question: |
+          How is the WHT on royalties calculated for AquaClean Ltd. in the provided context?
+        answer: |
+          The WHT on royalties is calculated as 15% of the total royalties payment. For a TZS 30 million payment, the WHT is TZS 4.5 million.
+      - question: |
+          What is the total WHT paid on dividends by AquaClean Ltd. for both resident and non-resident shareholders?
+        answer: |
+          The total WHT paid on dividends by AquaClean Ltd. is TZS 6.25 million for resident shareholders and TZS 12.5 million for non-resident shareholders, amounting to TZS 18.75 million.
+      - question: |
+          What is the overall WHT paid by AquaClean Ltd. for dividends, interest, and royalties combined?
+        answer: |
+          The overall WHT paid by AquaClean Ltd. is TZS 27.25 million, which includes TZS 18.75 million for dividends, TZS 4 million for interest, and TZS 4.5 million for royalties.
+      - question: |
+          What type of operations does BuildTanzania Ltd. engage in?
+        answer: |
+          BuildTanzania Ltd. is a Tanzanian-based company that engages in constructing residential, commercial, and industrial buildings.
+  - context: |
+      1ps. 1ps. -  Interest: HomeCare Ltd. has taken a loan from a local bank, which incurs interest payments. -  Royalties: The company pays royalties to HomeTech Solutions Inc. for the use of their household management software. -  Resident shareholders (at 5%): - o Dividend declared: TZS 200 million - o WHT: 5% of TZS 200 million = TZS 10 million - o Net dividend to be paid: TZS 200 million - TZS 10 million = TZS 190 million -  Non-resident shareholders (at 10%): - o Dividend declared: TZS 200 million - o WHT: 10% of TZS 200 million = TZS 20 million - o Net 2ps. dividend to be paid: TZS 200 million - TZS 20 million = TZS 180 million ## 2. Interest Payments: Assume HomeCare Ltd. pays TZS 50 million as interest on a loan. 2ps. 1ps. -  Royalties: The company pays royalties to HomeTech Solutions Inc. for the use of their household management software. -  Interest payment (10%): - o Total interest payment: TZS 50 million - o WHT: 10% of TZS 50 million = TZS 5 million - o Net interest to be paid: TZS 50 million - TZS 5 million = TZS 45 million ## 3. Royalties Payments: Assume HomeCare Ltd. pays TZS 30 million in royalties to HomeTech Solutions Inc. -  Royalties payment (15%): - o Total royalties payment: TZS 30 million - o WHT: 15% of TZS 30 million = TZS 4.5 million - o Net royalties to 2ps. be paid: TZS 30 million - TZS 4.5 million = TZS 25.5 million ## Summary  Dividends (Resident): TZS 10 million WHT  Dividends (Non-Resident): TZS 20 million WHT  Interest: TZS 5 million WHT  Royalties: TZS 4.
+    questions_and_answers:
+      - question: |
+          What is the net dividend paid to resident shareholders after withholding tax (WHT)?
+        answer: |
+          The net dividend paid to resident shareholders is TZS 190 million (TZS 200 million declared dividend minus TZS 10 million WHT).
+      - question: |
+          How much withholding tax (WHT) is applied to dividends for non-resident shareholders?
+        answer: |
+          A 10% WHT is applied to dividends for non-resident shareholders, resulting in TZS 20 million in tax on a dividend of TZS 200 million.
+      - question: |
+          What is the net amount of royalties paid to HomeTech Solutions Inc. after withholding tax?
+        answer: |
+          The net amount of royalties paid to HomeTech Solutions Inc. is TZS 25.5 million (TZS 30 million minus TZS 4.5 million WHT).
+      - question: |
+          What is the withholding tax rate on interest payments, and how much tax is deducted when HomeCare Ltd. pays TZS 50 million in interest?
+        answer: |
+          The withholding tax rate on interest payments is 10%, resulting in TZS 5 million being deducted when paying TZS 50 million in interest.
+      - question: |
+          What are the total withholding taxes (WHT) for dividends, interest, and royalties combined?
+        answer: |
+          The total withholding taxes are TZS 10 million (resident dividends) + TZS 20 million (non-resident dividends) + TZS 5 million (interest) + TZS 4.5 million (royalties) = TZS 39.5 million.
+  - context: |
+      1ps. 1ps. ## Withholding Tax (WHT) Rates under Tanzanian Tax Laws ## Dividends: -  Resident shareholders: 5% or 10% (depending on the type of dividends) -  Non-resident shareholders: 5% or 10% (depending on the type of dividends) ## Interest: -  Resident and non-resident lenders: 10% ## Royalties: -  Resident and non-resident recipients: 15% ## Calculations of WHT for RealEstate Ltd. - 1. Dividends Distribution: Assume RealEstate Ltd. declares a dividend of TZS 500 million. The company has a blend of local and international shareholders. They have secured a loan from a foreign bank to fund the expansion of their research facilities. Additionally, they pay 2ps. royalties to a foreign company, SciTech Innovations Inc., for the use of specialized technical software. ## Financial Details: -  Dividends: The company plans to distribute dividends to its shareholders, both residents and non-residents. -  Interest: ProTech Consultants Ltd. has taken a loan from a foreign bank, which incurs interest payments. -  Royalties: The company pays royalties to SciTech Innovations Inc. for the use of their technical software. 2ps. 1ps. ## Financial Details: -  Dividends: The company plans to distribute dividends to its shareholders, both residents and non-residents. -  Interest: ProTech Consultants Ltd. has taken a loan from a foreign bank, which incurs interest payments. -  Royalties: The company pays royalties to SciTech Innovations Inc. for the use of their technical software. ## Withholding Tax (WHT) Rates under Tanzanian Tax Laws ## Dividends: -  Resident shareholders: 5% or 10% (depending on the type of dividends) -  Non-resident shareholders: 5% or 10% (depending on the type of dividends) ## Interest: -  Resident and non-resident lenders: 10% ## Royalties: -  Resident and non-resident 2ps. recipients: 15% ## Calculations of WHT for ProTech Consultants Ltd.
+    questions_and_answers:
+      - question: |
+          What are the withholding tax (WHT) rates for dividends under Tanzanian tax laws?
+        answer: |
+          The WHT rates for dividends are either 5% or 10%, depending on the type of dividends, for both resident and non-resident shareholders.
+      - question: |
+          What is the WHT rate applied to interest payments in Tanzania?
+        answer: |
+          The withholding tax rate for interest payments is 10%, applicable to both resident and non-resident lenders.
+      - question: |
+          What is the WHT rate for royalties under Tanzanian tax regulations?
+        answer: |
+          The withholding tax rate for royalties is 15%, applicable to both resident and non-resident recipients.
+      - question: |
+          How would WHT be calculated for RealEstate Ltd.'s dividends amounting to TZS 500 million?
+        answer: |
+          The WHT on the TZS 500 million dividends would depend on the type of dividends and the residency of the shareholders, with rates of either 5% or 10% applied accordingly.
+      - question: |
+          What are the payments subject to WHT for ProTech Consultants Ltd. as described in the context?
+        answer: |
+          ProTech Consultants Ltd. is subject to WHT on interest payments for loans from a foreign bank (10%) and royalties paid to SciTech Innovations Inc. for technical software use (15%).
+document_outline: |
+  **Document Outline:**
+  This document provides a detailed guide on the calculations for Withholding Tax (WHT) in Tanzania, focusing on two business scenarios: Green Harvest Ltd. in the agriculture sector and Tanzanite Mining Co. in the mining sector. It outlines the financial operations of each company (dividends, interest, and royalties) and applies Tanzanian WHT rates to calculate the tax obligations, presenting a clear breakdown of WHT amounts on payments to resident and non-resident stakeholders.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Calculations_for_Withholding_tax.md

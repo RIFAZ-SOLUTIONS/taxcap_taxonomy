@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      COURT 16th February, &amp; 2 2 nd August, 2016 ## OTBMAN, CJ. Mr. Juma Beleko, learned Advocate for the respondent submitted that the words "Sgn" appearing after the name 2ps. of each of the members of the Tribunal in the copy of the decision contained in the record of appeal did not amount to the decision having been signed by them. For a decision to be a proper decision in law, it must bear the signature of the members. 3ps. 1ps. The respondent, relying on Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2001 (the Rules) raises a preliminary objection to the effect that the appellant's appeal is bad in law as neither the decision nor the decree incorporated in the record of appeal were signed by all the members of the Tribunal who heard the appeal. For a decision to be a proper decision in law, it must bear 2ps. the signature of the members. The words " Sgif , he urged, were insufficient to constitute a signature under Rule 21. Furthermore, Mr. Beieko submitted that a valid decree of the Tribunal is also one that must bear the signatures of all the members who heard the appeal. The decree in the record of appeal only contained the signature of the Vice-Chairman. As the record of appeal must contain a decree, the one included was invalid for lack of the members' signatures. This rendered the 3ps. purported appeal
+    questions_and_answers:
+      - question: |
+          What does Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2001 require for a decision to be considered valid?
+        answer: |
+          Rule 21 requires that a decision must bear the signatures of all the members who participated in the hearing for it to be considered valid.
+      - question: |
+          Why did Mr. Juma Beleko argue that the appellant's appeal was invalid?
+        answer: |
+          Mr. Beleko argued that the appeal was invalid because neither the decision nor the decree incorporated in the record of appeal was signed by all the members of the Tribunal, as required by law.
+      - question: |
+          What was the specific issue with the use of the term 'Sgn' according to Mr. Juma Beleko?
+        answer: |
+          Mr. Beleko argued that the term 'Sgn' was insufficient to constitute a valid signature under Rule 21.
+      - question: |
+          What was the problem with the decree included in the record of appeal?
+        answer: |
+          The decree included in the record of appeal was invalid because it only contained the signature of the Vice-Chairman, rather than the signatures of all Tribunal members.
+      - question: |
+          What is the significance of signatures on a decision or decree of the Tribunal, according to the respondent?
+        answer: |
+          Signatures on a decision or decree are required to ensure that it is legally valid and properly reflects the consensus of all Tribunal members who participated in the hearing.
+  - context: |
+      of Appeal Rules, 2009 the requirement that a decree must be signed by the members. In addition, Mr. Mtafya submitted that the decree was also valid under section 32(2) and (3) of the Act, because it had the Tribunal's seal affixed on it, which authenticated and rendered it a valid instrument. He invited us to dismiss the preliminary objection with 3ps. costs. 3ps. 1ps. That in Mbeya Intertrade Company Limited case, the learned Advocate for the respondent had misled the Court in relying on Rule 21 and importing under Rule 24(3), the Appellate Jurisdiction Act, Cap 141 R.E. 2002 and the Court of Appeal Rules, 2009 the requirement that a decree must be signed by the members. In addition, Mr. Mtafya submitted that the decree was also valid under section 32(2) and 2ps. (3) of the Act, because it had the Tribunal's seal affixed on it, which authenticated and rendered it a valid instrument. * The first issue to be resolved is whether the typed words " Sgrf' on the certified copy of the decision are sufficient to constitute a signature under Rule 21. The Black's Law Dictionary defines the word sign as: "To identify (a record) by means of a signature, mark or other symbol with intent to authenticate it as an 3ps. act or a ■ judgment of a person identifying it"; and ## a signature as: "Any name, mark , or writing used with the intention of
+    questions_and_answers:
+      - question: |
+          What was Mr. Mtafya's argument regarding the validity of the decree under the Act?
+        answer: |
+          Mr. Mtafya argued that the decree was valid under section 32(2) and (3) of the Act because it had the Tribunal's seal affixed on it, which authenticated and rendered it a valid instrument.
+      - question: |
+          What precedent or case was referenced regarding misleading the Court on rule interpretation?
+        answer: |
+          The Mbeya Intertrade Company Limited case was referenced, where it was argued that the respondent's Advocate misled the Court by relying on Rule 21 and incorrectly importing Rule 24(3) of the Appellate Jurisdiction Act.
+      - question: |
+          What specific issue had to be resolved regarding the certified copy of the decision?
+        answer: |
+          The issue to be resolved was whether the typed words 'Sgrf' on the certified copy of the decision were sufficient to constitute a signature under Rule 21.
+      - question: |
+          How does Black's Law Dictionary define the act of signing?
+        answer: |
+          Black's Law Dictionary defines signing as 'To identify (a record) by means of a signature, mark or other symbol with intent to authenticate it as an act or a judgment of a person identifying it.'
+      - question: |
+          What is the definition of a signature according to Black's Law Dictionary?
+        answer: |
+          According to Black's Law Dictionary, a signature is defined as 'Any name, mark, or writing used with the intention of authenticating it.'
+  - context: |
+      1ps. 1ps. ## I I S THE COURT OF APPEAL OF TANZANIA ! AT PAR ES SALAAM ## CIVIL APPEAL NO. 5 "B" OF 2015 f CO RAM: QTHMAN, CJ., MASSATI, 3. A. And, MU GASH A, 3. A.) KILOMBERO SUGAR COMPANY LIMITED...... ........................................APPELLANT VERSUS ## COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY.................................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal of Tanzania at Dsr es Salaam ) /Hon. H. Mataka, Vice Chairman, Mr. W. Nyetabula and Prof. 3. Derive, Members) dated the 30th day of April, 2.014 in Tax Appeal No. 52 of 2013 ## 2ps. RULING OF THE COURT 16th February, &amp; 2 2 nd August, 2016 ## OTBMAN, CJ. The respondent, relying on Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2001 (the Rules) raises a preliminary objection to the effect that the appellant's appeal is bad in law as neither the decision nor the decree incorporated in the record of appeal were signed by all the members of the Tribunal who heard the 3ps. appeal. 2ps. 1ps. KILOMBERO SUGAR COMPANY LIMITED...... ........................................APPELLANT VERSUS ## COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY.................................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal of Tanzania at Dsr es Salaam ) /Hon. H. Mataka, Vice Chairman, Mr. W. Nyetabula and Prof. 3. Derive, Members) dated the 30th day of April, 2.014 in Tax Appeal No. 52 of 2013 ## RULING OF THE
+    questions_and_answers:
+      - question: |
+          What was the main issue raised by the respondent in this appeal?
+        answer: |
+          The respondent argued that the appeal was bad in law because neither the decision nor the decree in the record of appeal were signed by all the members of the Tax Revenue Appeals Tribunal who heard the case.
+      - question: |
+          What rule did the respondent rely on to raise the preliminary objection?
+        answer: |
+          The respondent relied on Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2001.
+      - question: |
+          Who were the members of the Tax Revenue Appeals Tribunal in the original case?
+        answer: |
+          The tribunal members were Hon. H. Mataka (Vice Chairman), Mr. W. Nyetabula, and Prof. J. Derive.
+      - question: |
+          What was the case being appealed by Kilombero Sugar Company Limited?
+        answer: |
+          Kilombero Sugar Company Limited appealed the judgment and decree of the Tax Revenue Appeals Tribunal of Tanzania in Tax Appeal No. 52 of 2013, dated 30th April 2014.
+      - question: |
+          Who presided over the appeal at the Court of Appeal of Tanzania?
+        answer: |
+          The appeal was presided over by a panel comprising Othman, CJ., Massati, JA., and Mugasha, JA.
+  - context: |
+      1ps. 1ps. Second, in an attempt to scheme around the mandatory requirement of incorporating a decree in the record of appeal as an essential document, Mr. Mtafya submitted that because section 25(1) of the Act and Rule 24(1) grants a party a right of appeal to the Court against a decision of the Tribunal, a decree was not an essential document in the record of appeal. With 2ps. respect, this proposition is untenable. The Black's Law Dictionary, 9t h Ed; defines a decision as: "A judicial or agency determination after consideration of the facts and the law; esp) a ruling, order or judgment pronounced by a court when considering or disposing of a case", * ## and an appellable decision as: "A decree or order that is sufficiently final to receive appellate review. Succinctly put by B.M. Prasad and M. Mohan in The MU, MANUAL OF THE CIVIL PROCEDURE CODE, Vol. 3ps. I, 15t h Ed, pp. 1630: "a decision does not operate as a decree". 2ps. 1ps. Succinctly put by B.M. Prasad and M. Mohan in The MU, MANUAL OF THE CIVIL PROCEDURE CODE, Vol. I, 15t h Ed, pp. 1630: "a decision does not operate as a decree". .................... " unless and until decree is formally drawn up in terms of the Judgment, there can neither be an appeal nor execution". In The Registered Trustees of the Mariam Faith Healing Centre @ WANAMAOMBIV. The Registered Trustees of the
+    questions_and_answers:
+      - question: |
+          What argument did Mr. Mtafya present to circumvent the requirement of a decree in the record of appeal?
+        answer: |
+          Mr. Mtafya argued that since section 25(1) of the Act and Rule 24(1) grant a party the right to appeal against a Tribunal decision, a decree was not an essential document in the record of appeal.
+      - question: |
+          How does Black's Law Dictionary define a 'decision'?
+        answer: |
+          Black's Law Dictionary, 9th Edition, defines a 'decision' as 'A judicial or agency determination after consideration of the facts and the law; especially a ruling, order, or judgment pronounced by a court when considering or disposing of a case.'
+      - question: |
+          What is the distinction between a decision and a decree according to B.M. Prasad and M. Mohan?
+        answer: |
+          B.M. Prasad and M. Mohan clarify that a 'decision does not operate as a decree' unless a decree is formally drawn up in terms of the judgment.
+      - question: |
+          What is required for an appeal or execution to proceed according to legal principles mentioned in the text?
+        answer: |
+          A decree must be formally drawn up in terms of the judgment before an appeal or execution can proceed.
+      - question: |
+          What type of decision is eligible for appellate review according to the context?
+        answer: |
+          An appellable decision is defined as 'A decree or order that is sufficiently final to receive appellate review.'
+  - context: |
+      Court of Appeal Rules, 2009. Third, Mr. 3ps. Mtafya submitted that a decree issued under Rule 23(2) is only for the purpose of execution and not for an appeal. With respect, this cannot find favour with us. 4ps. 1ps. More precisely, in Zepharia Letashu v Moruo Ndelamia, Civil Appeal No. 31 of 1998, (CAT, unreported) the Court stated: "A decree is a vital and central part o f the record o f appeal since the appeal is granted on it, hence its absence is fatal to the whole exercise". With respect, this cannot find favour with us. Rule 23(2) does not limit 2ps. the end use of the decree by a party. No doubt, a party can only enforce a valid decree. However, a plain reading of Rule 23(2) shows that it does not bar a party from applying to the Tribunal for the issuance of a valid decree for an appeal or any other purpose. To say that it does, is to stretch the construction of Rule 23(2) beyond 3ps. its breaking point. Fourth, in our considered view, section 32(2) and (3) of the Act cannot save the defective decree, signed only by the Vice-Chairman and not all the members. 5ps. 1ps. However, a plain reading of Rule 23(2) shows that it does not bar a party from applying to the Tribunal for the issuance of a valid decree for an appeal or any other purpose. To say that
+    questions_and_answers:
+      - question: |
+          What does Mr. 3ps. Mtafya argue about the purpose of a decree issued under Rule 23(2)?
+        answer: |
+          Mr. 3ps. Mtafya submitted that a decree issued under Rule 23(2) is only for the purpose of execution and not for an appeal.
+      - question: |
+          What did the Court conclude about Mr. Mtafya's argument regarding Rule 23(2)?
+        answer: |
+          The Court rejected Mr. Mtafya's argument, stating that Rule 23(2) does not bar a party from applying to the Tribunal for the issuance of a valid decree for an appeal or other purposes.
+      - question: |
+          What does the case of Zepharia Letashu v Moruo Ndelamia highlight about the importance of a decree in an appeal?
+        answer: |
+          The case highlights that a decree is a vital and central part of the record of appeal since the appeal is granted based on it, and its absence can be fatal to the appeal.
+      - question: |
+          Why does the Court consider a defective decree signed only by the Vice-Chairman problematic?
+        answer: |
+          The Court considers it problematic because section 32(2) and (3) of the Act cannot save a defective decree that is not signed by all members.
+      - question: |
+          What is the Court's stance on interpreting Rule 23(2) in relation to the issuance of decrees?
+        answer: |
+          The Court stated that a plain reading of Rule 23(2) shows it does not limit the end use of the decree, and stretching its construction to impose such a limitation would be unwarranted.
+document_outline: |
+  ### Document Outline:
+  This document outlines a legal dispute in **Civil Appeal No. 5 "B" of 2015** heard by the Court of Appeal of Tanzania involving **Kilombero Sugar Company Limited (Appellant)** and the **Commissioner General of the Tanzania Revenue Authority (Respondent)**. The case centers on a preliminary objection regarding the validity of the Tribunal's decision and decree due to alleged improper signatures, with opposing arguments presented by both parties referencing relevant legal provisions and past case law.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Kilombero_Sugar_Company_Limited_vs_Commissioner_General_Tanzania_Authority_(Civil_Appeal_No_5_of_2015)_2016_TZCA_854_(22_August_2016).md

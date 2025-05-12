@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. We reckon that sections 25(4), (5) of the ITA, 2004 on one hand, and sections 18 and 39(d) of the ITA, 2004 are not in conflicting positions. They are harmonious in so far as they provide for distinct matters. While sections 25( 4 ), (5) provide for the preparation of accounts, returns and proposal for deductions, sections 18 and 39(d) 2ps. of the ITA, 2004 gives the respondent the leverage to receive returns and accounts from taxpayers and enjoys finality in the assessment, allowing or disallowing deductions. Much as the appellant has sought refuge under section 25(5) (a) of the ITA, 2004, we must point out here that the appellant did not discharge its evidential burden to prove that it complied with any one of 3ps. the two options the appellant claimed to have complied with under section 25 (5) (a) of the ITA, 2004. The appellant has not shown which option it had complied with. There is no evidence to show whether the appellant exercised the option of disclaiming any entitlement to receive the amount (which it described as charge off). 2ps. 1ps. While sections 25( 4 ), (5) provide for the preparation of accounts, returns and proposal for deductions, sections 18 and 39(d) of the ITA, 2004 gives the respondent the leverage to receive returns and accounts from taxpayers and enjoys finality in the assessment, allowing or disallowing deductions. There is no evidence to show whether the appellant exercised the option of disclaiming any entitlement to 2ps. receive the amount (which it described as charge off).
+    questions_and_answers:
+      - question: |
+          What is the relationship between sections 25(4), (5) and sections 18 and 39(d) of the ITA, 2004?
+        answer: |
+          Sections 25(4), (5) and sections 18 and 39(d) of the ITA, 2004 are harmonious as they address distinct matters. While sections 25(4), (5) deal with preparing accounts, returns, and proposals for deductions, sections 18 and 39(d) allow the respondent to receive returns and accounts and determine finality in assessments, including granting or denying deductions.
+      - question: |
+          What evidential burden did the appellant fail to discharge under section 25(5)(a) of the ITA, 2004?
+        answer: |
+          The appellant failed to prove that it complied with either of the two options under section 25(5)(a). Specifically, there was no evidence showing that the appellant had exercised the option of disclaiming entitlement to receive the amount described as a charge-off.
+      - question: |
+          What leverage is provided to the respondent under sections 18 and 39(d) of the ITA, 2004?
+        answer: |
+          Sections 18 and 39(d) provide the respondent with the leverage to receive returns and accounts from taxpayers and to exercise finality in assessments, which includes the authority to allow or disallow deductions.
+      - question: |
+          What distinct matter is covered under sections 25(4), (5) of the ITA, 2004?
+        answer: |
+          Sections 25(4), (5) of the ITA, 2004 specifically cover the preparation of accounts, the filing of returns, and the proposal for deductions.
+      - question: |
+          What specific evidence was missing in the appellant's claim related to the charge-off amount?
+        answer: |
+          The appellant did not provide evidence to demonstrate that it exercised the option of disclaiming entitlement to the amount described as a charge-off under section 25(5)(a) of the ITA, 2004.
+  - context: |
+      1ps. 1ps. He insisted that this is the provision which guides taxpayers like the appellant, when they incur loss, on how to make deductions for that loss. He referred us to section 3 of the ITA, 2004, which defines what a debt claim is. Mr. Beleko similarly underscored the significance of section 36 of the same Act, which guides taxpayers like the appellant, in calculating gains and losses so 2ps. important in determining the taxpayers' respective tax liabilities. Mr. Beleko went on to submit that for a financial institution like the appellant, section 39(d) of the ITA, 2004 provides the ultimate guide for deduction of bad debts. He urged us to find that the provisions of section 25(5) (a) of the ITA, 2004 which was suggested to us by the appellant's learned advocate, are not 3ps. applicable because no other provision is as significant as section 39( d) of the ITA, 2004 in deductions of bad debts. Section 39( d), he went on, sets out the basic conditions precedent before deductions of bad debts can be accepted by the respondent. 2ps. 1ps. Mr. Beleko went on to submit that for a financial institution like the appellant, section 39(d) of the ITA, 2004 provides the ultimate guide for deduction of bad debts. He urged us to find that the provisions of section 25(5) (a) of the ITA, 2004 which was suggested to us by the appellant's learned advocate, are not applicable because no other provision is as significant 2ps. as section 39( d) of the ITA, 2004 in deductions of bad debts. In so far as Mr.
+    questions_and_answers:
+      - question: |
+          What does section 3 of the ITA, 2004 define?
+        answer: |
+          Section 3 of the ITA, 2004 defines what a debt claim is.
+      - question: |
+          What is the significance of section 36 of the ITA, 2004 according to Mr. Beleko?
+        answer: |
+          Section 36 of the ITA, 2004 is significant because it guides taxpayers in calculating gains and losses, which is crucial for determining their tax liabilities.
+      - question: |
+          What does section 39(d) of the ITA, 2004 pertain to for financial institutions like the appellant?
+        answer: |
+          Section 39(d) of the ITA, 2004 provides the ultimate guide for financial institutions in deducting bad debts.
+      - question: |
+          Why did Mr. Beleko argue against the applicability of section 25(5)(a) of the ITA, 2004?
+        answer: |
+          Mr. Beleko argued that section 25(5)(a) of the ITA, 2004 is not applicable because no other provision is as significant as section 39(d) of the ITA, 2004 in the context of deductions for bad debts.
+      - question: |
+          What does section 39(d) of the ITA, 2004 establish for bad debt deductions?
+        answer: |
+          Section 39(d) of the ITA, 2004 sets out the basic conditions that must be met before bad debt deductions can be accepted by the respondent.
+  - context: |
+      1ps. 1ps. Mukebezi extended his regrets to the Board, which had earlier on supported the respondent's position. Mr. Mukebezi urged us to accept the appellant's position that section 25(4) and 25 (5) of the ITA, 2004 should be applied and that we should reject the respondent's reliance on sections 18(b) and 39(d) of the ITA, 2004. The learned advocate for the appellant 2ps. also submitted that it is wrong to hold that deductable bad debts must be written off. He referred us to regulations 20 and 21 of the BoT Regulations which allow banks to provide for 100% deduction on loans which are classified as loss, and that these BoT regulations are reflected in section 25 (S)(a) of the ITA which provides: 'J1 person may disclaim the entitlement to 3ps. receive an amount or write off as bad debt claim of a person- (a )-in the case of a debt claim of a financial institution only after the debt claim has become a bad debt as determined in accordance with the relevant standards established by the Bank of Tanzania. 2ps. 1ps. Mukebezi extended his regrets to the Board, which had earlier on supported the respondent's position. Mr. Mukebezi urged us to accept the appellant's position that section 25(4) and 25 (5) of the ITA, 2004 should be applied and that we should reject the respondent's reliance on sections 18(b) and 39(d) of the ITA, 2004. The learned advocate for the appellant 2ps. also submitted that it is wrong to hold that deductable bad debts must be written off.
+    questions_and_answers:
+      - question: |
+          What position did Mr. Mukebezi urge the Board to accept?
+        answer: |
+          Mr. Mukebezi urged the Board to accept the appellant's position that sections 25(4) and 25(5) of the ITA, 2004 should be applied, rejecting the respondent's reliance on sections 18(b) and 39(d) of the ITA, 2004.
+      - question: |
+          What argument did the appellant's advocate make about deductable bad debts?
+        answer: |
+          The appellant's advocate argued that it is wrong to hold that deductable bad debts must be written off.
+      - question: |
+          Which regulations allow banks to claim a 100% deduction for loans classified as loss?
+        answer: |
+          Regulations 20 and 21 of the BoT Regulations allow banks to provide for a 100% deduction on loans classified as loss.
+      - question: |
+          What is required for a financial institution's debt claim to be written off as a bad debt under section 25(S)(a) of the ITA, 2004?
+        answer: |
+          Under section 25(S)(a) of the ITA, 2004, a financial institution's debt claim can only be written off as a bad debt after it is determined to be a bad debt in accordance with the relevant standards established by the Bank of Tanzania.
+      - question: |
+          What prior position did the Board support before Mr. Mukebezi's submission?
+        answer: |
+          The Board had earlier supported the respondent's position.
+  - context: |
+      1ps. 1ps. Mr. Juma Salum Beleko, learned advocate, appeared for the Respondent. Mr. Mukebezi premised his submissions by explaining why he thought the Tribunal was wrong to rely on the provisions of section 39( d) of ITA, 2004 to conclude that realization of a debt by a financial institution like the appellant is predicated on two conditions. First condition is that the debt must 2ps. have become a bad debt in accordance with standards set by the Bank of Tanzania (BoT). The second condition is that the financial institution concerned must have written off the debt as bad. And that the appellant had not shown that the debt had been written off from its books. Beginning from section 21 (1) of the ITA, 2004, the learned advocate for the appellant demonstrated 3ps. why he thinks the Tribunal erred. This provision, he submitted, oblige taxpayers to account for their income in accordance with generally accepted accounting principles. 2ps. 1ps. And that the appellant had not shown that the debt had been written off from its books. Beginning from section 21 (1) of the ITA, 2004, the learned advocate for the appellant demonstrated why he thinks the Tribunal erred. This provision, he submitted, oblige taxpayers to account for their income in accordance with generally accepted accounting principles. Amongst these generally acceptable accounting principles, he 2ps. continued, include regulation 15 ( 4) of the Banking and Financial Institutions (Management of Risk Assets) Regulations, 2001 (which he referred to as "the BoT Regulations"). According to the BoT Regulations, once a loan is classified as a loss, it has to be taken out in the period in which it appears as uncollectible. In other words, that loss has either to be charged 3ps.
+    questions_and_answers:
+      - question: |
+          What were the two conditions stated in section 39(d) of the ITA, 2004 for a debt to be considered realized by a financial institution?
+        answer: |
+          The two conditions are that the debt must have become a bad debt in accordance with standards set by the Bank of Tanzania (BoT) and that the financial institution concerned must have written off the debt as bad.
+      - question: |
+          What argument did Mr. Mukebezi make about the appellant regarding the debt write-off?
+        answer: |
+          Mr. Mukebezi argued that the appellant had not shown evidence that the debt had been written off from its books, which the Tribunal relied on to conclude its decision.
+      - question: |
+          According to section 21(1) of the ITA, 2004, what obligation is placed on taxpayers regarding their income?
+        answer: |
+          Section 21(1) of the ITA, 2004 obligates taxpayers to account for their income in accordance with generally accepted accounting principles.
+      - question: |
+          What does regulation 15(4) of the Banking and Financial Institutions (Management of Risk Assets) Regulations, 2001 specify about loans classified as a loss?
+        answer: |
+          Regulation 15(4) specifies that once a loan is classified as a loss, it must be taken out in the period in which it appears as uncollectible.
+      - question: |
+          What did the learned advocate for the appellant use as a basis to argue that the Tribunal erred?
+        answer: |
+          The learned advocate for the appellant used section 21(1) of the ITA, 2004 and regulation 15(4) of the BoT Regulations, emphasizing generally accepted accounting principles, to argue that the Tribunal erred in its reliance on section 39(d) of the ITA, 2004.
+  - context: |
+      1ps. 1ps. Courts in Tanzania are bound to apply plain language of a Statute to give effect to the intention of the Legislature. In CHIRIKO HARUNA DAVID V. KANGI ALPHAXARD LUGORA &amp; TWO OTHERS, Civil Appeal No. 36 of 2012 (unreported), the Full Bench of this Court at page 17, reiterated the need to employ the plain meaning of the words to discover the intention of the Legislature in a Statute:- " .. 2ps. . r/ It is noteworthy to observe that the ITA, 2004 is divided into Parts, Divisions and sub-divisions, each is further divided into sections, sub› sections, paragraphs etc, catering for various aspects of the income taxing regime in Tanzania. Every provision under these provisions must be given effect to. As was stated in COLORADO GENERAL ASSEMBLY, Office of Legislative Legal Services, "Common Applied Rules of Statute Construction:" "Statutes are to be read 3ps. as a whole 1 in context, and, if possible 1 the court is to give effect to every word of the statute. 2ps. 1ps. r/ It is noteworthy to observe that the ITA, 2004 is divided into Parts, Divisions and sub-divisions, each is further divided into sections, sub› sections, paragraphs etc, catering for various aspects of the income taxing regime in Tanzania. Every provision under these provisions must be given effect to. The court is bound to give consistent, harmonious,, and sensible effect to all of the parts of a statute/ to the extent possible. // ## In 2ps. CHIRIKO HARUNA DAVID V. KANGI ALPHAXARD LUGORA (supra) the Full Bench of the Court added: 11 The traditional wisdom is that the search for legislative intent is central to statutory interpretation. And the legislatures intent is normally ascertained from the words it has used.
+    questions_and_answers:
+      - question: |
+          What principle of statutory interpretation are courts in Tanzania bound to follow?
+        answer: |
+          Courts in Tanzania are bound to apply the plain language of a statute to give effect to the intention of the Legislature.
+      - question: |
+          What case emphasized the need to employ the plain meaning of words in statutory interpretation?
+        answer: |
+          The case CHIRIKO HARUNA DAVID V. KANGI ALPHAXARD LUGORA & TWO OTHERS, Civil Appeal No. 36 of 2012, emphasized this principle.
+      - question: |
+          How is the Income Tax Act (ITA), 2004 organized?
+        answer: |
+          The ITA, 2004 is divided into Parts, Divisions, and sub-divisions, which are further broken into sections, sub-sections, and paragraphs, addressing various aspects of the income taxing regime in Tanzania.
+      - question: |
+          What additional guidance was provided by the Colorado General Assembly regarding statutory interpretation?
+        answer: |
+          They stated that statutes are to be read as a whole in context, and courts should give effect to every word of the statute if possible.
+      - question: |
+          How do courts determine legislative intent according to the Full Bench in the case CHIRIKO HARUNA DAVID V. KANGI ALPHAXARD LUGORA?
+        answer: |
+          The courts ascertain legislative intent from the words used in the statute, emphasizing the importance of interpreting the text as written.
+document_outline: |
+  **Document Outline:**
+  The document outlines a civil appeal (Civil Appeal No. 52 of 2018) brought before the Court of Appeal of Tanzania by the National Bank of Commerce (appellant) against the Commissioner General of the Tanzania Revenue Authority (respondent). The dispute revolves around the respondent's refusal to allow tax deductions for provisions for impairment of bad debts for the years 2005, 2006, and 2007. The appellant contested the assessments, arguing that such deductions are allowable under the Income Tax Act, 2004, and financial regulations. The case involved prior hearings before the Tax Revenue Appeals Board and Tribunal, focusing on the interpretation of relevant laws and precedents.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - National_Bank_of_Commerce_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_52_of_2018)_2018_TZCA_83_(9_July_2018).md

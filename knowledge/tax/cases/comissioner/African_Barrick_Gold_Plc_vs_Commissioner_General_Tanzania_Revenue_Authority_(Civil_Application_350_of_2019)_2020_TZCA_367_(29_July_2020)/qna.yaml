@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. It was therefore his view that the application was properly before the Court. In response, Mr. Noah Tito, who appeared for the respondent opposed the application and, among others argued that since the applicant seeks leave to adduce additional evidence in respect of Civil Appeal No. 144 of 2018 she was supposed to predicate her application under Rule 36 (1) (b) of 2ps. the Rules which is a specific Rule on that aspect. The Court having heard both sides, at pages 1 1 to 13 of its Ruling stated that: - "Having considered the position of the iaw as to when the additionai evidence may be adduced and the reiated pre-conditions our answer is in the negative. Moreover, we are inclined to say so, because, One, in the wake of the pending Civil Appeal No. 144 of 2018 that would be the proper forum for the applicant to address the 3ps. Court on the question of adducing additional evidence in terms of Rules 36 (1) (b) of the Rules. 2ps. 1ps. Mr. Tito added that, because the said application was lodged after the filing of the said appeal the applicant ought to have sought the guidance of the Court on that matter at the hearing of the pending appeal. The Court having heard both sides, at pages 1 1 to 13 of its Ruling stated that: - "Having considered the position of the iaw as to when the additionai 2ps. evidence may be adduced and the reiated pre-conditions our answer is in the negative. Two, to entertain and determine this application is tantamount to pre-empting and rendering superfluous the pending Civil Appeal No. 144 of 2018 where the applicant may utilize the opportunity to pursue an application for leave to adduce additional evidence.
+    questions_and_answers:
+      - question: |
+          What was the primary argument made by Mr. Noah Tito against the application?
+        answer: |
+          Mr. Noah Tito argued that the applicant should have based her application under Rule 36 (1) (b) of the Rules, which specifically addresses adducing additional evidence in relation to Civil Appeal No. 144 of 2018.
+      - question: |
+          What was the Court's conclusion about whether the applicant could proceed with adducing additional evidence?
+        answer: |
+          The Court concluded that the addition of evidence was not permissible, noting that the proper forum for addressing this matter was the pending Civil Appeal No. 144 of 2018.
+      - question: |
+          Why did the Court believe entertaining the application would be inappropriate?
+        answer: |
+          The Court stated that determining the application would pre-empt and render the pending Civil Appeal No. 144 of 2018 superfluous, as the applicant could pursue leave to adduce additional evidence during the appeal.
+      - question: |
+          What opportunity was the applicant expected to utilize regarding her appeal?
+        answer: |
+          The applicant was expected to address the question of adducing additional evidence during the hearing of the pending Civil Appeal No. 144 of 2018.
+      - question: |
+          What key precondition did the Court refer to in rejecting the request for additional evidence?
+        answer: |
+          The Court referred to legal preconditions for when additional evidence may be adduced, concluding that these conditions were not met in this case and that the proper process was not followed.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## ( CORAM: MUGASHA. J.A.. W AM BALI, J.A.. and KEREFU. J.A.^ CIVIL APPLICATION NO. 350/01 OF 2019 AFRICAN BARRICK GOLD PLC............................ ......................APPLICANT VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY....... ............................... RESPONDENT (Application for review of the Ruling of the Court of Appeal of Tanzania, at Dar es Salaam) (Muoasha. Wambali and Kerefu. J3A.1 ) dated the 24th day of June, 2019 in Civil Application No. 177/20 of 2019 ## RULING OF THE COURT 22n d &amp; 29th July, 2020 KEREFU. J.A.: This ruling is 2ps. in respect of the application for review lodged by the applicant inviting the Court to review its own decision dated 24t h June, 2019 in Civil Application No. 177/20 of 2019 dismissing the applicant's application for being misconceived. The application is made under section 4 (4) of the Appellate Jurisdiction Act, [Cap. 141 R.E 2019] (the AJA) and Rules 66 (1) (a) and 3ps. (b) of the Tanzania Court of Appeal Rules, 2009 (the Rules). 2ps. 1ps. This ruling is in respect of the application for review lodged by the applicant inviting the Court to review its own decision dated 24t h June, 2019 in Civil Application No. 177/20 of 2019 dismissing the applicant's application for being misconceived. The application is made under section 4 (4) of the Appellate Jurisdiction Act, [Cap. 141 R.E 2019] (the AJA) 2ps. and Rules 66 (1) (a) and (b) of the Tanzania Court of Appeal Rules, 2009 (the Rules). The notice of motion is supported by an affidavit which was duly sworn by Mr. John Daniel Kamugisha, learned counsel for the applicant. The respondent, on the other hand/ opted not to file an affidavit in reply.
+    questions_and_answers:
+      - question: |
+          What is the case title and application number of the case discussed in the context?
+        answer: |
+          The case is titled 'AFRICAN BARRICK GOLD PLC v. COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY,' and it is Civil Application No. 350/01 of 2019.
+      - question: |
+          Under which laws or sections is the application for review filed?
+        answer: |
+          The application for review is filed under section 4(4) of the Appellate Jurisdiction Act [Cap. 141 R.E. 2019] and Rules 66(1)(a) and (b) of the Tanzania Court of Appeal Rules, 2009.
+      - question: |
+          What was the original decision that the applicant sought to review?
+        answer: |
+          The applicant sought to review the Court's decision dated 24th June 2019 in Civil Application No. 177/20 of 2019, which dismissed the applicant's application for being misconceived.
+      - question: |
+          Who represented the applicant in the review, and what document did the representative submit?
+        answer: |
+          The applicant was represented by Mr. John Daniel Kamugisha, learned counsel, who submitted a sworn affidavit supporting the notice of motion for the review.
+      - question: |
+          Did the respondent file any affidavit in reply to the application for review?
+        answer: |
+          No, the respondent opted not to file an affidavit in reply to the application for review.
+  - context: |
+      1ps. 1ps. He then finally prayed for the application to be granted with costs and urged the Court to modify its impugned decision and restore the Civil Application No. 177/20 of 2019. On his part, Mr. Tito strongly opposed the application by arguing that the same is not befitting the provision of Rule 66 (1) (a) of the Rules because none of the applicant's grounds exposes any manifest error on the face of record. He 2ps. clarified that in that application the applicant believed that there is no applicable provision to address her matter that is why she predicated it under Rule 4 (2) (a) but the Court after hearing the parties, it found the application misconceived and directed the applicant to submit her request at the hearing of the pending appeal under Rule 36 (1) (b). 2ps. 1ps. He contended that, the manner in which the application is crafted signifies the applicant's dissatisfaction with the impugned decision which he said, in any case, does not qualify to be a ground for review. It was the strong argument by Mr. Tito that, since the issue of applicability of Rules 4 (2) (a) and 36 (1) (b) in the applicant's application had already been determined by the Court, when considering Civil Application No. 177/20 of 2019, 2ps. it was improper for the applicants to reopen the same. As such, he found all the authorities cited by Mr. Kamugisha in Joseph Ntongwisangu and Another (supra) and Emmanuel Luoga (supra) irrelevant and distinguishable from the current application. As for the 2n d , 3r d and 4t h grounds, M r. Tito argued that it was proper for the Court to dismiss the application because it was submitted at the wrong forum as the Court was not seized with the record 3ps.
+    questions_and_answers:
+      - question: |
+          What did the applicant pray for in the case?
+        answer: |
+          The applicant prayed for the application to be granted with costs and urged the Court to modify its impugned decision to restore Civil Application No. 177/20 of 2019.
+      - question: |
+          What was Mr. Tito's primary argument against the application?
+        answer: |
+          Mr. Tito argued that the application was not befitting the provision of Rule 66 (1) (a) because none of the applicant's grounds exposed any manifest error on the face of the record.
+      - question: |
+          Why did the Court dismiss the applicant's prior application under Rule 4 (2) (a)?
+        answer: |
+          The Court found the prior application misconceived, as the applicant believed there was no applicable provision to address her matter, but was directed to present her request during the hearing of the pending appeal under Rule 36 (1) (b).
+      - question: |
+          What did Mr. Tito say about reopening issues determined in Civil Application No. 177/20 of 2019?
+        answer: |
+          Mr. Tito contended that it was improper for the applicant to reopen issues that the Court had already determined regarding the applicability of Rules 4 (2) (a) and 36 (1) (b).
+      - question: |
+          Why were the authorities cited by Mr. Kamugisha deemed irrelevant by Mr. Tito?
+        answer: |
+          Mr. Tito argued that the authorities cited in Joseph Ntongwisangu and Another (supra) and Emmanuel Luoga (supra) were irrelevant and distinguishable from the current application.
+  - context: |
+      1ps. 1ps. Having carefully considered the submissions made by the counsel for the parties and examined the record before us and in particular the impugned decision, the issue for our determination is whether the applicant has made out a case warranting a review on account of a manifest error on the face of record resulting in the miscarriage of justice. Therefore, since in the application at hand the review sought against the impugned decision is on the ground of a manifest error on the face of the record, we 2ps. deem it prudent to restate what does such an error constitute. In the case of Nguza Vikings @ Babu Seya and Another v. Republic, Criminal Appeal No. 5 of 2010 (unreported) we said: - "There is no dispute as to what constitutes a manifest error apparent on the face of record. It has to be such an error that is obvious and patent mistake and not something which can be established by a 3ps. iong-drawn process of reasoning on points which may be conceivably be two opinions... 2ps. 1ps. Therefore, since in the application at hand the review sought against the impugned decision is on the ground of a manifest error on the face of the record, we deem it prudent to restate what does such an error constitute. In the case of Nguza Vikings @ Babu Seya and Another v. Republic, Criminal Appeal No. 5 of 2010 (unreported) we said: - "There is no dispute as to what constitutes a manifest error apparent on the face of record. Moreover, MULLA, Commentary on the Indian 2ps.
+    questions_and_answers:
+      - question: |
+          What is the main issue for determination in the reviewed application?
+        answer: |
+          The main issue is whether the applicant has made out a case for a review based on a manifest error on the face of the record that resulted in a miscarriage of justice.
+      - question: |
+          What characterizes a manifest error on the face of the record?
+        answer: |
+          A manifest error on the face of the record is an obvious and patent mistake that does not require a long-drawn reasoning process or the possibility of two differing opinions.
+      - question: |
+          Which case is cited to support the definition of a manifest error?
+        answer: |
+          The case cited is Nguza Vikings @ Babu Seya and Another v. Republic, Criminal Appeal No. 5 of 2010 (unreported).
+      - question: |
+          Why is the concept of manifest error restated in the context of the application at hand?
+        answer: |
+          It is restated because the review sought in the application is specifically on the ground of a manifest error on the face of the record.
+      - question: |
+          What does the commentary by MULLA contribute to the discussion on manifest error?
+        answer: |
+          The context mentions MULLA's commentary on the Indian law, but it does not explicitly elaborate on its contribution beyond reiterating the concept of manifest error.
+  - context: |
+      1ps. 1ps. At the hearing of the application, the applicant was represented by Mr. John Daniel Kamugisha, learned counsel while the respondent was represented by Mr. Noah Tito, learned State Attorney assisted by Ms. Grace Makao, also learned State Attorney. Mr. Kamugisha commenced his oral submission by first adopting his written submissions he filed on 18t h October, 2019. He then opted to jointly argue the grounds of his complaints in two categories. Submitting in support of the 1 2ps. s t , 5 t h and 6t h grounds and in trying to show an error apparent on the face of record in the impugned Ruling, Mr. Kamugisha argued that, the Court after hearing the parties on the propriety or otherwise of the application, ought to have struck out the application for being incompetent instead of dismissing it because it did not hear the same on its merits. 2ps. 1ps. Mr. Kamugisha commenced his oral submission by first adopting his written submissions he filed on 18t h October, 2019. He then opted to jointly argue the grounds of his complaints in two categories. One, the 1s t , 5 t h and 6t h and two, the 2n d , 3r d and 4t h grounds. He added that, the Court did not only erroneously dismiss the application but it also imposed a condition to the applicant 2ps. to apply to adduce additional evidence at the hearing of the pending Civil Appeal No. 144 of 2018 in terms of Rules 36 (1) (b) of the Rules. He said, Rule 36 (1) (b) of the Rules is not applicable, because the decision of the TRAT which is subject of the pending appeal was determined by the TRAT while acting on its appellate jurisdiction and not original jurisdiction envisaged 3ps.
+    questions_and_answers:
+      - question: |
+          Who represented the applicant and the respondent during the hearing of the application?
+        answer: |
+          The applicant was represented by Mr. John Daniel Kamugisha, learned counsel, while the respondent was represented by Mr. Noah Tito, learned State Attorney, assisted by Ms. Grace Makao, also a learned State Attorney.
+      - question: |
+          What initial step did Mr. Kamugisha take during his oral submission at the hearing?
+        answer: |
+          Mr. Kamugisha commenced his oral submission by adopting his written submissions, which he had filed on 18th October 2019.
+      - question: |
+          How did Mr. Kamugisha categorize the grounds of his complaints during the oral submission?
+        answer: |
+          Mr. Kamugisha grouped the grounds of his complaints into two categories: the 1st, 5th, and 6th grounds as one category, and the 2nd, 3rd, and 4th grounds as another.
+      - question: |
+          What error did Mr. Kamugisha argue the Court had made in its ruling?
+        answer: |
+          Mr. Kamugisha argued that the Court erred by dismissing the application for being incompetent rather than striking it out, as the Court did not hear the application on its merits.
+      - question: |
+          Why did Mr. Kamugisha argue that Rule 36(1)(b) of the Rules was not applicable in this case?
+        answer: |
+          Mr. Kamugisha contended that Rule 36(1)(b) was not applicable because the decision of the TRAT, which was the subject of the pending appeal, was determined by the TRAT in its appellate jurisdiction, not its original jurisdiction, as envisaged by the Rule.
+document_outline: |
+  **Document Outline:**
+  This document outlines the Ruling of the Court of Appeal of Tanzania in *Civil Application No. 350/01 of 2019*, where African Barrick Gold PLC sought a review of the Court’s prior decision dismissing its application for leave to adduce additional evidence in an ongoing tax-related appeal. The Court examines procedural issues around the applicability of the rules governing additional evidence in appellate cases and concludes that the prior decision was properly rendered, emphasizing the appropriateness of addressing such matters in the pending appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - African_Barrick_Gold_Plc_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_350_of_2019)_2020_TZCA_367_(29_July_2020).md

@@ -25,7 +25,7 @@ assignees: ''
 
 **Response from the current model**
 
-<!-- What you received from the current model in response to your input, 
+<!-- What you received from the current model in response to your input,
 replace "..." -->
 
 ```

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. In the circumstances, he said, the payments made by the appellant amounted to a purchase of goods. To bolster his argument that in this case, the payments did not constitute royalty, the learned counsel referred the Court to the decision of the Income Tax Appellate Tribunal of India, Delhi Bench in the case of Infra Soft Ltd. v. Assistant Director of Tax India, 2009 which 2ps. he cited during the hearing before the Board as a persuasive authority. On the cases of Bulyanhulu Gold Mine Ltd v. Commissioner General (TRA), Consolidated Civil Appeals No. 89 and 90 of 2015, Tullow Tanzania BV v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 24 of 2018 (both unreported) cited by the respondent's counsel in his reply submission and the case of BP Tanzania ## v. The Commissioner General 3ps. of the Tanzania Revenue Authority, Civil Appeal No. 125 of 2015 (unreported) which was cited by the said learned counsel at the hearing of the appeal, Dr. Nguluma submitted that the decisions do not apply to the particular facts of the present case because while in Bulyanhulu Gold Mine Ltd (supra) case the claimed tax was in respect of disallowance of expenditure, in the other two cases, the tax related to 4ps. consultancy services. 2ps. 1ps. To bolster his argument that in this case, the payments did not constitute royalty, the learned counsel referred the Court to the decision of the Income Tax Appellate Tribunal of India, Delhi Bench in the case of Infra Soft Ltd. v. Assistant Director of Tax India, 2009 which he cited during the hearing before the Board as a persuasive authority. He stressed that, like in that case, the position in the present case is that 2ps.
+    questions_and_answers:
+      - question: |
+          What was the appellant's position regarding the nature of the payments made?
+        answer: |
+          The appellant argued that the payments made amounted to a purchase of goods rather than constituting royalty.
+      - question: |
+          Which case was cited by the appellant's counsel to support their argument about payments not constituting royalty?
+        answer: |
+          The appellant's counsel referred to the decision of the Income Tax Appellate Tribunal of India, Delhi Bench in the case of Infra Soft Ltd. v. Assistant Director of Tax India, 2009.
+      - question: |
+          What distinction did Dr. Nguluma make to refute the applicability of the cases cited by the respondent's counsel?
+        answer: |
+          Dr. Nguluma argued that the cases cited by the respondent's counsel—Bulyanhulu Gold Mine Ltd and two others—were not applicable because they dealt with disallowance of expenditure and tax on consultancy services, unlike the present case.
+      - question: |
+          What cases were cited by the respondent's counsel in their reply submission?
+        answer: |
+          The respondent's counsel cited the cases of Bulyanhulu Gold Mine Ltd v. Commissioner General (TRA), Consolidated Civil Appeals Nos. 89 and 90 of 2015, Tullow Tanzania BV v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 24 of 2018, and BP Tanzania v. The Commissioner General, Civil Appeal No. 125 of 2015.
+      - question: |
+          What emphasis did the appellant's counsel place on the Infra Soft Ltd. decision?
+        answer: |
+          The appellant's counsel emphasized that, like in the Infra Soft Ltd. case, the payments in the present case should not be treated as royalty but as payments for the purchase of goods.
+  - context: |
+      1ps. 1ps. Citing the cases of Tullow Tanzania BV and Bulyanhulu Gold Mine Limited (supra), the learned counsel stressed that the Tribunal adopted a correct interpretation of the provisions of S. 2 (1) (a) and (d) of the ITA 1973 and S. 3 (a) of the ITA 2004 thereby arriving at a correct decision that the payments constituted royalty. From the rival submissions made by the learned 2ps. advocates for the parties, we agree with Dr. Nguluma's proposition that the grounds of appeal raise the following issues. - 1. Whether the Tribunal erred in fact and/or law by ignoring to determine an issue brought before it namely; the relevance of the authorities placed before it which if considered the Tribunal would have decided the matter in favour of the Appellant; - 2. Alternatively-f 3ps. whether the Tribunal erred in law and fact in holding that the computer software in issue purchased from two foreign companies are intangible intellectual property which is protected through patent arrangement; - 3. Whether the Tribunal erred in law by holding that the mere right to use software program constituted use of copyright, giving rise to royalty; and - 4. Whether the Tribunal erred in fact and law by holding that payment made for the purchase of computer software licence were subject to withholding Tax on Royalty in terms of 4ps. section 2(1) (a). 2ps. 1ps. He also relied on the case of BP Tanzania (supra) to emphasize his argument that a payment for consultancy services which is in the form of an intangible thing constitute royalty when such payment having its source within the United Republic of Tanzania, is paid to an off-shore company. From the rival submissions made by the learned advocates for the parties, we agree with Dr.
+    questions_and_answers:
+      - question: |
+          What legal provisions did the Tribunal use to determine that the payments constituted royalty?
+        answer: |
+          The Tribunal relied on the interpretation of S. 2 (1) (a) and (d) of the ITA 1973 and S. 3 (a) of the ITA 2004.
+      - question: |
+          What was one of the key issues raised in the appeal regarding the Tribunal's decision?
+        answer: |
+          One key issue was whether the Tribunal erred by failing to consider the relevance of the authorities presented to it, which could have led to a decision in favor of the Appellant.
+      - question: |
+          Why did the Tribunal consider computer software an intangible intellectual property?
+        answer: |
+          The Tribunal held that the software in question, purchased from foreign companies, constituted intangible intellectual property protected through a patent arrangement.
+      - question: |
+          How did the Tribunal justify treating payments for software licenses as royalties?
+        answer: |
+          The Tribunal based its decision on the view that the right to use a software program constituted the use of a copyright, which gave rise to royalty payments subject to withholding tax.
+      - question: |
+          What precedent was cited to argue that payments for consultancy services could constitute royalty?
+        answer: |
+          The case of BP Tanzania was cited to support the argument that payments for intangible consultancy services, sourced in Tanzania and paid to an offshore company, can constitute royalty.
+  - context: |
+      1ps. 1ps. In determining the last two issues stated above, we find it instructive, as a starting point, to reproduce the relevant parts of S. 2 of the ITA 1973 and S. 3 of the ITA 2004 which define the term royalty. In the subsequent Act, the ITA 2004, the term is defined as follows: ## " 'royalty' means:- - (a) the use of, or the right to use, a copyright, patent, design, model, plan, secret formula or process or trademark; - (b) the supply of know-how including information concerning industrial, 2ps. commercial or scientific equipment or experience; - (c) the use of, or right to use, a cinematography film, videotape, sound recording or any other like medium; - (d) the use of, or right to use, industrial, commercial or scientific equipment; - (e) the supply of assistance ancillary to a matter referred to in paragraphs (a) to (d); or - (f) a total or partial forbearance with respect to a matter referred to in paragraphs (a) to (e), but excludes a natural resource payment " As stated above, the Tribunal held that the 3ps. payments made for the use of the computer software constituted royalty under both provisions of the ITA 1973 [S. 2ps. 1ps. In determining the last two issues stated above, we find it instructive, as a starting point, to reproduce the relevant parts of S. 2 of the ITA 1973 and S. 3 of the ITA 2004 which define the term royalty. 2 (1) (a) and (d)] and the ITA 2004 [S.3 (a) and (d)]. In its judgment at page 262 of the record of appeal, the Tribunal had this to say:- "... we concur with the Appellant counsel that software was intellectual property much like artistic, literary or scientific work referred to 2ps.
+    questions_and_answers:
+      - question: |
+          What are the key elements included in the definition of 'royalty' as per the ITA 2004?
+        answer: |
+          The ITA 2004 defines 'royalty' as the use of or right to use a copyright, patent, design, model, plan, secret formula, process, or trademark; the supply of know-how; the use of certain media; the use of industrial, commercial, or scientific equipment; assistance related to these matters; and total or partial forbearance concerning these issues, excluding natural resource payments.
+      - question: |
+          What examples of intellectual property are regarded as 'royalty' under the ITA 2004?
+        answer: |
+          Examples include copyright, patent, design, model, plan, secret formula or process, and trademark, as well as information or know-how related to industrial, commercial, or scientific endeavors.
+      - question: |
+          How did the Tribunal rule regarding payments for the use of computer software?
+        answer: |
+          The Tribunal held that payments for the use of computer software constituted royalty under both the ITA 1973 [S.2 (1) (a) and (d)] and the ITA 2004 [S.3 (a) and (d)].
+      - question: |
+          What did the Tribunal equate software to in its judgment?
+        answer: |
+          The Tribunal equated software to intellectual property, similar to artistic, literary, or scientific works.
+      - question: |
+          What is explicitly excluded from the definition of 'royalty' under the ITA 2004?
+        answer: |
+          Natural resource payments are explicitly excluded from the definition of 'royalty' under the ITA 2004.
+  - context: |
+      1ps. 1ps. In the East African jurisdiction, it has been held, in the Kenyan case of Kenya Commercial Bank Limited v. Kenya Revenue Authority [2016] eKLR, that a payment for the right to use a computer software constitutes royalty. Like in the present case, upon payment for a licence, the appellant bank was provided with computer software by a foreign company for use in banking services. The 2ps. issue was whether or not the payment was in the nature of royalty. The decision was arrived at by the Court of Appeal of Kenya after having considered the definition of the term royalty under S. 2 of the Kenya Income Tax Act which is similar to the same section of our ITA 1973. The court answered the issue in the affirmative as follows:- "...the agreement between the parties was for grant of a li cence to 3ps. the bank to use Infosys computer software program and for provision of other services. 2ps. 1ps. Like in the present case, upon payment for a licence, the appellant bank was provided with computer software by a foreign company for use in banking services. The issue was whether or not the payment was in the nature of royalty. The agreement specifically provided, inter alia that Infosys would at all times retain all title, copyright and other proprietary rights in software and that the bank would not acquire any rights other than those specified in the agreement... 2ps. It is plain from the agreement that the payment of licence fees was a consideration or the right to use Infosys intellectual property in the form of computer software program which is within the definition of royalty under clause (c) of S . 2 o f the Act .
+    questions_and_answers:
+      - question: |
+          What was the legal issue addressed in the Kenyan case of Kenya Commercial Bank Limited v. Kenya Revenue Authority [2016] eKLR?
+        answer: |
+          The legal issue was whether payment for the right to use computer software constituted a royalty under the Kenya Income Tax Act.
+      - question: |
+          What type of software did the appellant bank receive in the Kenya Commercial Bank Limited case?
+        answer: |
+          The appellant bank received computer software provided by a foreign company for use in banking services.
+      - question: |
+          What was the court's decision regarding the nature of the payment for the license in the Kenya Commercial Bank Limited case?
+        answer: |
+          The court held that the payment for the license constituted a royalty as defined under clause (c) of Section 2 of the Kenya Income Tax Act.
+      - question: |
+          What rights did Infosys retain in the agreement with the appellant bank?
+        answer: |
+          Infosys retained all title, copyright, and other proprietary rights in the software, and the bank did not acquire any rights beyond those specified in the agreement.
+      - question: |
+          What legal basis did the court use to determine that the payment was a royalty?
+        answer: |
+          The court relied on the definition of 'royalty' under Section 2 of the Kenya Income Tax Act, which included payment for the right to use intellectual property such as software.
+  - context: |
+      1ps. 1ps. 25th March, &amp; 6th May, 2019 ## MWARIJA. J.A.: The appellant, Celtel Tanzania Limited (currently known as Airtel Tanzania Limited) is a company which is incorporated in Tanzania. It deals with telecommunications business. In the year 2004, it made two payments to two foreign companies, Alcatel France and Ericsson AB for software and software licence at a total cost of TZS 830,115,584.00. The use of the purchased software 2ps. was subject to Service Levy Agreement (SLA) and a Country Frame Contracts (hereinafter "the Agreement"). A ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: MWARIJA, J.A., MKUYE. 2ps. 1ps. In the year 2004, it made two payments to two foreign companies, Alcatel France and Ericsson AB for software and software licence at a total cost of TZS 830,115,584.00. The use of the purchased software was subject to Service Levy Agreement (SLA) and a Country Frame Contracts (hereinafter "the Agreement"). A ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: MWARIJA, J.A., MKUYE. 2ps. J.A And WAMBALI J.A^ &gt; ## CIVIL APPEAL NO. 56 OF 2018 CELTEL TANZANIA LIMITED........................................................ APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY.............................. ........ RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam ## (Mataka- Vice Chairman) Dated the 4th day of August, 2011 in Tax Appeal No. 5 of 2011 ## JUDGMENT OF THE COURT copy of the software and software licence of Ericsson AB which is similar to that of Alcatel France was admitted in evidence by the Tax Revenue Appeals Board (the 3ps. Board) as exhibit Al. 3ps. 1ps. The use of the purchased software was subject to Service Levy Agreement (SLA) and a Country Frame Contracts (hereinafter "the Agreement").
+    questions_and_answers:
+      - question: |
+          Who is the appellant in Civil Appeal No. 56 of 2018?
+        answer: |
+          The appellant is Celtel Tanzania Limited, which is now known as Airtel Tanzania Limited.
+      - question: |
+          What was the total cost of the payments made in 2004 by Celtel Tanzania Limited for software and software licenses?
+        answer: |
+          The total cost of the payments was TZS 830,115,584.00.
+      - question: |
+          Which two foreign companies did Celtel Tanzania Limited make payments to in 2004 for software and software licenses?
+        answer: |
+          The two foreign companies were Alcatel France and Ericsson AB.
+      - question: |
+          What agreements regulated the use of the purchased software by Celtel Tanzania Limited?
+        answer: |
+          The use of the purchased software was subject to a Service Levy Agreement (SLA) and a Country Frame Contract.
+      - question: |
+          What exhibit was accepted as evidence by the Tax Revenue Appeals Board in relation to the software from Ericsson AB?
+        answer: |
+          A copy of the software and software licence of Ericsson AB, which was similar to that of Alcatel France, was admitted as Exhibit Al.
+document_outline: |
+  ### Document Outline:
+  The document details a legal dispute between Celtel Tanzania Limited (now Airtel Tanzania Limited) and the Commissioner General of the Tanzania Revenue Authority, revolving around a withholding tax demand on payments made to foreign companies for software and software licenses in 2004. Initially resolved in favor of Celtel by the Tax Revenue Appeals Board, the Tribunal later ruled against Celtel, holding the payments as royalties subject to withholding tax, prompting Celtel to appeal the Tribunal's decision in the Court of Appeal of Tanzania.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Celtel_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_56_of_2018)_2019_TZCA_563_(6_May_2019).md

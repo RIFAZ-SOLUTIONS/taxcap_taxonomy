@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Public Finance GON NO. 478K (Contd) ## THE UNITED REPUBLIC OF TANZANIA Supplement No. 25 1 st July, 2022 ## SPECIAL SUPPLEMENT to the Special Gazette of the United Republic of Tanzania No.25. Vol.103 dated 1 st July, 2022 Printed by the Government Printer, Dodoma by Order of Governme nt GOVERNMENT NOTICE NO. 478K published on 01/07/2022 ## THE PUBLIC FINANCE ACT, (CAP. 348) \_\_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_\_ (Made under section 348) ## THE PUBLIC FINANCE (AMENDMENT) REGULATIONS, 2022 Citation and commencement GN No. 132 of 2001 - 1 . 2ps. 1ps. Public Finance GON NO. 478K (Contd) ## THE UNITED REPUBLIC OF TANZANIA Supplement No. 25 1 st July, 2022 ## SPECIAL SUPPLEMENT to the Special Gazette of the United Republic of Tanzania No.25. Vol.103 dated 1 st July, 2022 Printed by the Government Printer, Dodoma by Order of Governme nt GOVERNMENT NOTICE NO. 478K published on 01/07/2022 ## THE PUBLIC FINANCE ACT, (CAP. 348) \_\_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_\_ (Made under section 348) ## THE PUBLIC FINANCE (AMENDMENT) REGULATIONS, 2022 Citation and commencement GN No. 132 of 2001 - 1 . These Regulations may be cited as the Public
+    questions_and_answers:
+      - question: |
+          What is the name and purpose of the document discussed in the context?
+        answer: |
+          The document is titled 'The Public Finance (Amendment) Regulations, 2022,' and it amends regulations under the Public Finance Act (CAP. 348).
+      - question: |
+          When was the government notice regarding the Public Finance (Amendment) Regulations published?
+        answer: |
+          The government notice, No. 478K, was published on 1st July, 2022.
+      - question: |
+          Under which legal provision were 'The Public Finance (Amendment) Regulations, 2022' made?
+        answer: |
+          The regulations were made under section 348 of the Public Finance Act (CAP. 348).
+      - question: |
+          In what publication was the document officially released to the public?
+        answer: |
+          It was released in the Special Supplement to the Special Gazette of the United Republic of Tanzania No. 25, Vol. 103, dated 1st July, 2022.
+      - question: |
+          Where was the document printed, and who authorized its printing?
+        answer: |
+          The document was printed by the Government Printer in Dodoma under the order of the government.
+  - context: |
+      Finance (Amendment) Regulations, 2022 and shall be read as 2ps. one with the Public Finance Regulations, hereinafter referred to as the 'principal Regulations' shall come into effect on the 1 st day of July, 2022. Deletion and substitution of regulation 31 - 2. The principal Regulations are amended by deleting regulation 31 and substituting for it the following: 'Audit Committees membership 31 .-(1) The Audit Committee shall be composed of five members as follows: - (a) two senior members from the respective Ministry, agency, department or region who shall be appointed by the accounting GON NO. 478K 3ps. (Contd) officer; - (b) two senior members from outside the Ministry, agency, department or region who shall be appointed by the respective accounting officer, one of whom shall be appointed as a Chairperson; and - (c) one senior member appointed by the Permanent Secretary Treasury from outside the Ministry, agency, department or region. 3ps. 1ps. Public Finance GON NO. 478K (Contd) ## THE UNITED REPUBLIC OF TANZANIA Supplement No. 25 1 st July, 2022 ## SPECIAL SUPPLEMENT to the Special Gazette of the United Republic of Tanzania No.25. Vol.103 dated 1 st July, 2022
+    questions_and_answers:
+      - question: |
+          When did the Finance (Amendment) Regulations, 2022 come into effect?
+        answer: |
+          The Finance (Amendment) Regulations, 2022 came into effect on the 1st day of July, 2022.
+      - question: |
+          What change was made to regulation 31 in the principal Regulations?
+        answer: |
+          Regulation 31 in the principal Regulations was deleted and replaced with new provisions specifying the composition of Audit Committees.
+      - question: |
+          How many members are required to compose an Audit Committee under the amended regulations?
+        answer: |
+          The Audit Committee must consist of five members under the amended regulations.
+      - question: |
+          Who appoints the two senior members from outside the Ministry, agency, department, or region for the Audit Committee?
+        answer: |
+          The respective accounting officer appoints the two senior members from outside the Ministry, agency, department, or region, one of whom is designated as the Chairperson.
+      - question: |
+          What role does the Permanent Secretary Treasury play in appointing Audit Committee members?
+        answer: |
+          The Permanent Secretary Treasury appoints one senior member to the Audit Committee from outside the Ministry, agency, department, or region.
+  - context: |
+      Printed by the Government Printer, Dodoma by Order of Governme nt GOVERNMENT NOTICE NO. 478K published on 01/07/2022 ## THE PUBLIC FINANCE ACT, (CAP. 348) \_\_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_\_ (Made under section 348) ## THE PUBLIC FINANCE (AMENDMENT) REGULATIONS, 2022 Citation and commencement GN No. 132 of 2001 - 1 . - (2) Members of Audit Committee shall be senior persons who have knowledge and experience in finance, accounting, auditing, 2ps. technology, legal expertise, industry expertise. - (3) The accounting officer shall appoint a senior officer from the respective Ministry, agency, department or region to be the Secretary to the Audit Committee.' Amendment of regulation 32 - 3 . 4ps. 1ps. - (2) Members of Audit Committee shall be senior persons who have knowledge and experience in finance, accounting, auditing, technology, legal expertise, industry expertise. - (3) The accounting officer shall appoint a senior officer from the respective Ministry, agency, department or region to be the Secretary to the Audit Committee.' Amendment of regulation 32 - 3 . The principal Regulations are amended in regulation 32(1), by- - (a) deleting paragraphs (b) and (e) and substituting for them the following: - '(b)
+    questions_and_answers:
+      - question: |
+          What is the title of the document under discussion?
+        answer: |
+          The document is titled 'The Public Finance (Amendment) Regulations, 2022.'
+      - question: |
+          Who is eligible to become a member of the Audit Committee according to the regulations?
+        answer: |
+          Members of the Audit Committee must be senior persons with knowledge and experience in finance, accounting, auditing, technology, legal expertise, and industry expertise.
+      - question: |
+          Who is responsible for appointing the Secretary to the Audit Committee?
+        answer: |
+          The accounting officer is responsible for appointing a senior officer from the respective Ministry, agency, department, or region as the Secretary to the Audit Committee.
+      - question: |
+          Which paragraphs in regulation 32(1) have been amended?
+        answer: |
+          Paragraphs (b) and (e) in regulation 32(1) have been deleted and substituted with new provisions.
+      - question: |
+          When was the amendment to the Public Finance Regulations published?
+        answer: |
+          The amendment was published on 01/07/2022.
+  - context: |
+      approve the Annual risk-based internal audit plans; - (e) 2ps. receive feedback from the chief audit executive on the internal audit activity's performance relative to its plan and other matters including internal audit report;'; - (b) deleting the words 'Accountant-General' appearing in paragraph (g) and substituting for | GON NO. 478K (Contd) | them the words 'Internal Auditor General'; and (c) adding immediately after paragraph (g) the following: '(h) approve the internal audit charter; (i) approve the internal audit budget and resource plan; (j) make appropriate inquiries of management and the chief audit executive to determine 3ps. whether there are inappropriate scope or resource limitations; (k) be responsible for overseeing the risk management, control and governance processes.'. 5ps. 1ps. - (3) The accounting officer shall appoint a senior officer from the respective Ministry, agency, department or region to be the Secretary to the Audit Committee.' Amendment of regulation 32 - 3 . 2ps. 3ps. | |----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Amendment of regulation 34 | 4 . The principal Regulations are amended in regulation 34,- (a) in subregulation (1) by adding immediately after paragraph (h) the following: '(i) submit quarterly and annual internal audit reports
+    questions_and_answers:
+      - question: |
+          What is the role of the chief audit executive in relation to the internal audit activity's performance?
+        answer: |
+          The chief audit executive provides feedback on the internal audit activity's performance relative to its plan and other matters, including internal audit reports.
+      - question: |
+          What change was made regarding the term 'Accountant-General' in the amendment?
+        answer: |
+          The amendment replaced the term 'Accountant-General' with 'Internal Auditor General' in paragraph (g).
+      - question: |
+          What responsibilities does the audit committee have in overseeing internal auditing?
+        answer: |
+          The audit committee is responsible for approving the internal audit charter, budget, and resource plan, making inquiries about scope or resource limitations, and overseeing risk management, control, and governance processes.
+      - question: |
+          What requirement is imposed on the accounting officer concerning the audit committee?
+        answer: |
+          The accounting officer is required to appoint a senior officer from the respective Ministry, agency, department, or region to serve as the Secretary to the Audit Committee.
+      - question: |
+          What additional reporting requirement was introduced in the amendment of regulation 34?
+        answer: |
+          The amendment added a requirement for quarterly and annual internal audit reports to be submitted.
+  - context: |
+      and risk based plans to the Internal Auditor General within the prescribed time.'; (b) by adding immediately after subregulation (2) the following: '(3) For purposes of subregulation (1)(i), the internal audit service unit shall submit the report directly to the Internal Auditor General where the accounting officer or audit committee has not reviewed the report 4ps. five days before expiry of the prescribed time.'. | | Dodoma, 1 st July, 2022 | MWIGULU LAMECK NCHEMBA MADELU Minister for Finance and Planning 5ps. 6ps. 7ps. 8ps. 9ps. |
+    questions_and_answers:
+      - question: |
+          What is required of the internal audit service unit under subregulation (1)(i)?
+        answer: |
+          The internal audit service unit must submit risk-based plans to the Internal Auditor General within the prescribed time.
+      - question: |
+          What happens if the accounting officer or audit committee has not reviewed the report within the prescribed time frame?
+        answer: |
+          If the accounting officer or audit committee has not reviewed the report five days before the expiry of the prescribed time, the internal audit service unit must submit the report directly to the Internal Auditor General.
+      - question: |
+          Who issued the regulation amendment and when?
+        answer: |
+          The regulation amendment was issued by Mwigulu Lameck Nchemba Madelu, the Minister for Finance and Planning, on 1st July 2022.
+      - question: |
+          What specific addition was made immediately after subregulation (2)?
+        answer: |
+          Immediately after subregulation (2), a new provision, subregulation (3), was added to address the submission of reports when the accounting officer or audit committee fails to review them in time.
+      - question: |
+          What does subregulation (3) specify in relation to submission timeframes?
+        answer: |
+          Subregulation (3) specifies that reports must be directly submitted to the Internal Auditor General if they are not reviewed five days before the prescribed deadline.
+document_outline: |
+  **Document Outline:**
+  The document outlines amendments to the Public Finance Regulations (Cap. 348) of Tanzania, effective 1st July 2022, as stipulated in Government Notice No. 478K. Key changes include revisions to Audit Committee membership structure, expanded responsibilities in internal auditing processes, and updates to regulations governing risk management, governance, and oversight practices in public finance.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - GN-478K_THE_PUBLIC_FINANCE_AMENDMENT_REGULATIONS_2022.md

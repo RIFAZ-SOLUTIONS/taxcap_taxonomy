@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      charge fees for the services rendered under subregulation (2). 4ps. 1ps. Amendment of regulation 8 Amendment of regulation 9 - 6. The principal Regulations are amended in regulation 8 by deleting the word 'approval' and substituting for it the words 'a licence'. - (2) A licensed tax consultant shall be entitled to charge fees for the services rendered under subregulation (2). - (3) Notwithstanding subregulation (1), no tax consultant or any person shall be allowed to act as a tax consultant under these 2ps. Regulations unless such tax consultant has- - (a) his name on the register; - (b) a valid practicing licence; and - (c) a valid business licence. 5ps. 1ps. - 7. The principal Regulations are amended by deleting regulation 9 and substituting for it the following: ## 'Right to practice and charge fees 9. -(1) Every tax consultant may practice as a tax consultant in any offices of the Tanzania Revenue Authority, Tax Revenue Appeals Board or Tax Revenue Appeals Tribunal or any other place where the services of the tax consultant shall be required. - (2) A licensed tax consultant shall be entitled to charge 2ps. fees for the services rendered under subregulation (2). - (4) Any tax consultant who undertakes to assist or act on behalf of a taxpayer shall be deemed to be in a binding contractual relationship of agency with that taxpayer, even if in their dealings there was no formal or written
+    questions_and_answers:
+      - question: |
+          What change was made to regulation 8 under the amendments?
+        answer: |
+          The word 'approval' was deleted and substituted with the words 'a licence' in regulation 8 under the amendments.
+      - question: |
+          What are the prerequisites for someone to act as a tax consultant under the amended regulations?
+        answer: |
+          A tax consultant must have their name on the register, hold a valid practicing licence, and possess a valid business licence to act under the amended regulations.
+      - question: |
+          Where is a licensed tax consultant authorized to practice according to the updated regulations?
+        answer: |
+          A licensed tax consultant may practice in offices of the Tanzania Revenue Authority, Tax Revenue Appeals Board, Tax Revenue Appeals Tribunal, or any other place where their services are required.
+      - question: |
+          What is the entitlement of a licensed tax consultant regarding fees?
+        answer: |
+          A licensed tax consultant is entitled to charge fees for the services they render under subregulation (2).
+      - question: |
+          What formal relationship is implied when a tax consultant assists or acts on behalf of a taxpayer?
+        answer: |
+          The tax consultant is deemed to be in a binding contractual agency relationship with the taxpayer, even if there is no formal or written agreement.
+  - context: |
+      ACT, (CAP. 438) \_\_\_\_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_\_\_\_ (Made under sections 28, 30, 35, 92, 94 and 98) ## THE TAX ADMINISTRATION (GENERAL) (AMENDMENT) REGULATIONS, 2022 Citation GN. - 3. The principal Regulations are amended in regulation 5 by inserting the words 'licensed and' between the words 'been' 2ps. and 'registered'. 3ps. 1ps. 438) \_\_\_\_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_\_\_\_\_ (Made under sections 28, 30, 35, 92, 94 and 98) ## THE TAX ADMINISTRATION (GENERAL) (AMENDMENT) REGULATIONS, 2022 Citation GN. - 3. The principal Regulations are amended in regulation 5 by inserting the words 'licensed and' between the words 'been' and 'registered'. - 4. The principal Regulations are amended in regulation 6 by- GN NO.478W (Contd) Amendment of regulation 7 7- - (a) deleting subregulation (1) and substituting for it the following: - '(1) As soon as practicable after a person has been accepted for licensing and registration, the 2ps. Commissioner General shall, in respect of that person, enter the following particulars in the tax consultants register- - (a) name and address; - (b) Taxpayer Identification Number; - (c) qualifications; and - (d) such other particulars as the Commissioner General may direct.'; and - (b) adding immediately after subregulation (3) the following: - '(4) The Commissioner General shall remove the name of any person from the register on grounds of failure to renew his licence or occurrence of any of the circumstances stated under regulation 10.'. 4ps. 1ps. - 3. The principal Regulations
+    questions_and_answers:
+      - question: |
+          What specific change was made to regulation 5 in the Tax Administration (General) (Amendment) Regulations, 2022?
+        answer: |
+          The words 'licensed and' were inserted between the words 'been' and 'registered' in regulation 5.
+      - question: |
+          What new details must the Commissioner General record in the tax consultants register under the amended regulation 6(1)?
+        answer: |
+          The Commissioner General must record the name and address, Taxpayer Identification Number, qualifications, and other particulars as directed for individuals accepted for licensing and registration.
+      - question: |
+          Under what circumstances is the Commissioner General required to remove a person's name from the tax consultants register?
+        answer: |
+          The Commissioner General must remove a name due to a failure to renew their licence or the occurrence of circumstances stated under regulation 10.
+      - question: |
+          Which sections of the parent Act were cited as the basis for making the Tax Administration (General) (Amendment) Regulations, 2022?
+        answer: |
+          The regulations were made under sections 28, 30, 35, 92, 94, and 98 of the parent Act.
+      - question: |
+          What addition was made to regulation 6 after subregulation (3) in the amendments?
+        answer: |
+          A new subregulation (4) was added, stating that the Commissioner General shall remove a person's name from the register on grounds such as failure to renew their licence or specific circumstances under regulation 10.
+  - context: |
+      licence; and - (c) a valid business licence. - (6) A foreign tax consultant who intends to practice in the country shall practice under local tax consultant. - (7) Any person, not being a tax consultant or whose licence has 2ps. expired, who deliberately acts like a tax consultant, or takes the title or name in the like manner of a practicing tax consultant commits an offence and shall, upon conviction, be liable GN NO.478W (Contd) to a fine not less than five million shillings or imprisonment for a term of not less than six months.'. Addition of Part IIA 8 . The principal Regulations are amended by adding immediately after regulation 12 the following: 'PART IIA ## REGISTRATION OF STORAGE FACILITIES 'Registra tion of storage facilities 12A. 3ps. 1ps. - (7) Any person, not being a tax consultant or whose licence has expired, who deliberately acts like a tax consultant, or takes the title or name in the like manner of a practicing tax consultant commits an offence and shall, upon conviction, be liable GN NO.478W (Contd) to a fine not less than five million shillings or imprisonment for a term of not less than six months.'. Addition of Part IIA 8 . -(1) The Commissioner General shall establish and keep a register 2ps. of storage facilities as required by the Act. (2) A person shall not establish a business storage facility which keeps goods for business purposes unless
+    questions_and_answers:
+      - question: |
+          What is required for a foreign tax consultant to practice in the country?
+        answer: |
+          A foreign tax consultant must practice under a local tax consultant to work in the country.
+      - question: |
+          What are the penalties for someone acting as a tax consultant without a valid license?
+        answer: |
+          The person commits an offence and, upon conviction, is liable to a fine of not less than five million shillings or imprisonment for a term of not less than six months.
+      - question: |
+          What is the responsibility of the Commissioner General regarding storage facilities?
+        answer: |
+          The Commissioner General is required to establish and maintain a register of storage facilities as mandated by the Act.
+      - question: |
+          What restriction is placed on establishing business storage facilities?
+        answer: |
+          A person is prohibited from establishing a business storage facility to keep goods for business purposes without proper authorization.
+      - question: |
+          What section was added to the principal regulations regarding registration of storage facilities?
+        answer: |
+          Part IIA, which includes provisions for the registration of storage facilities, was added to the principal regulations.
+  - context: |
+      that person registers the storage facility with the Commissioner General in accordance with the provisions of the Act and these Regulations. 4ps. 1ps. The principal Regulations are amended by adding immediately after regulation 12 the following: 'PART IIA ## REGISTRATION OF STORAGE FACILITIES 'Registra tion of storage facilities 12A. -(1) The Commissioner General shall establish and keep a register of storage facilities as required by the Act. (2) A person shall not establish a business storage facility which keeps goods for business purposes unless that person registers the storage facility with the Commissioner General in accordance with the provisions of the Act and these Regulations. - 2ps. (3) The Commissioner General shall enter the following particulars in the storage facility register- - (a) storage facility number; - (b) name and address of the owner of the storage facility; - (c) TIN number of the owner; - (d) details of nature of goods which are kept in the storage facility; and - (e) such other particulars as the Commissioner General may direct. 5ps. 1ps. -(1) The Commissioner General shall establish and keep a register of storage facilities as required by the Act. (2) A person shall not establish a business storage facility which keeps goods for business purposes unless that person registers the storage facility with the Commissioner General in accordance with the provisions of the Act and these Regulations. - (4) Every change in the particulars under subregulation (3) shall
+    questions_and_answers:
+      - question: |
+          What must a person do before establishing a business storage facility that keeps goods for business purposes?
+        answer: |
+          A person must register the storage facility with the Commissioner General in accordance with the provisions of the Act and these Regulations.
+      - question: |
+          What are the details that the Commissioner General must include in the storage facility register?
+        answer: |
+          The storage facility register must include the storage facility number, the name and address of the owner, the TIN number of the owner, details of the nature of goods kept in the facility, and any other particulars as directed by the Commissioner General.
+      - question: |
+          Who is responsible for establishing and maintaining the register of storage facilities?
+        answer: |
+          The Commissioner General is responsible for establishing and maintaining the register of storage facilities as required by the Act.
+      - question: |
+          What happens if there are changes to the particulars mentioned in the storage facility register?
+        answer: |
+          Every change in the particulars under subregulation (3) must be updated in the storage facility register.
+      - question: |
+          What section of the principal Regulations was amended to address the registration of storage facilities?
+        answer: |
+          The principal Regulations were amended by adding a new section immediately after regulation 12, titled 'PART IIA - REGISTRATION OF STORAGE FACILITIES.'
+  - context: |
+      'circulation' appearing at the end of the opening phrase; and - (f) by adding immediately after subregulation (6) the following: - '(7) The Commissioner General may prescribe penalties for failure by a tax consultant to adhere to the requirements under this subregulation.'. Amendment of regulation 8 Amendment of regulation 9 - 6. The principal Regulations are amended in regulation 8 by deleting the 3ps. word 'approval' and substituting for it the words 'a licence'. 3ps. 1ps. - (b) in subregulation (3) by deleting the word 'genuinity' and substituting for it the words 'Commissioner General's verification'; - (c) in subregulation (4) by deleting the words 'An approval as a tax consultant' and substituting for them the words 'A licence'; - (d) by deleting subregulation (5) and substituting for it the following: - '(5) A person registered under subregulation (1) shall be issued with a tax GN NO.478W (Contd) consultant practicing licence which shall contain conditions as shall be prescribed by the 2ps. Commissioner General.'; - 7. The principal Regulations are amended by deleting regulation 9 and substituting for it the following: ## 'Right to practice and charge fees 9. -(1) Every tax consultant may practice as a tax consultant in any offices of the Tanzania Revenue Authority, Tax Revenue Appeals Board or Tax Revenue Appeals Tribunal or any other place where the services of the tax consultant shall be required. - (2) A licensed tax consultant shall be entitled to 3ps.
+    questions_and_answers:
+      - question: |
+          What penalty-related provision was added to the regulations?
+        answer: |
+          The Commissioner General may prescribe penalties for failure by a tax consultant to adhere to the requirements under subregulation (7).
+      - question: |
+          What change was made to the term used in regulation 8?
+        answer: |
+          In regulation 8, the word 'approval' was replaced with the words 'a licence'.
+      - question: |
+          What term replaced 'genuinity' in subregulation (3)?
+        answer: |
+          The word 'genuinity' was replaced with 'Commissioner General's verification' in subregulation (3).
+      - question: |
+          According to the amendments, where is a tax consultant allowed to practice?
+        answer: |
+          A tax consultant may practice in any offices of the Tanzania Revenue Authority, the Tax Revenue Appeals Board, the Tax Revenue Appeals Tribunal, or any other place where their services are required.
+      - question: |
+          What document will a registered tax consultant be issued under subregulation (1)?
+        answer: |
+          A registered tax consultant under subregulation (1) will be issued a tax consultant practicing licence with conditions prescribed by the Commissioner General.
+document_outline: |
+  ### Document Outline:
+  This document is a government-issued regulation update titled *The Tax Administration (General) (Amendment) Regulations, 2022*, published as part of the Special Gazette of the United Republic of Tanzania on 1st July, 2022. It outlines amendments to the Tax Administration (General) Regulations, 2016, including changes to regulations on licensing and registration of tax consultants, qualifications required, the role of the Commissioner General in maintaining the tax consultants register, and specific provisions for application and assessment procedures.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - GN-478W_THE_TAX_ADMINISTRATION_GENERAL_AMENDMEN_220715_082221.md

@@ -1,0 +1,126 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      o Rate : Varies by local government authority. - o Example Calculation : Charged TZS 1,000,000 annually for municipal services. ## 6. Property Tax - o Description : Tax on buildings and facilities owned by healthcare and social work businesses. 4ps. 1ps. - o Law : Local Government Finance Act, 1982. - o Rate : Varies by local government authority. - o Example Calculation : Charged TZS 1,000,000 annually for municipal services. ## 6. Property Tax - o Description : Tax on buildings and facilities owned by healthcare and social work businesses. - o Law : Local Government Finance Act, 1982. - o Rate : Local government rates based on property values. - o Example Calculation : Calculated based on the assessed value of hospital buildings and facilities. ## 7. Withholding Tax - o Description : Tax withheld on payments made to suppliers and contractors. - 2ps. o Law : Income Tax Act, 2004. - o Rate : Varies by payment type, generally 5% to 15%. - : Payment of TZS 20,000,000 to a contractor with a - o Example Calculation 10% withholding tax rate: -  Calculation: Withholding Tax = 10% × TZS 20,000,000 = TZS 2,000,000. ## 8. Stamp Duty - o Description : Tax on legal documents such as contracts and agreements. 5ps. 1ps. - o Law : Income Tax Act, 2004. - o Rate : Varies by payment type, generally 5% to 15%. - : Payment
+    questions_and_answers:
+      - question: |
+          What law governs property tax for healthcare and social work businesses?
+        answer: |
+          The Local Government Finance Act, 1982 governs property tax for healthcare and social work businesses.
+      - question: |
+          How is the property tax rate determined for healthcare businesses?
+        answer: |
+          The property tax rate is determined by local government authorities and is based on the assessed value of buildings and facilities.
+      - question: |
+          What is an example of a withholding tax calculation for a contractor payment?
+        answer: |
+          If the payment to a contractor is TZS 20,000,000 and the withholding tax rate is 10%, the withholding tax is calculated as 10% × TZS 20,000,000 = TZS 2,000,000.
+      - question: |
+          What types of legal documents are subject to stamp duty?
+        answer: |
+          Legal documents such as contracts and agreements are subject to stamp duty.
+      - question: |
+          What is the general range of withholding tax rates and on what payments can it apply?
+        answer: |
+          Withholding tax rates generally range from 5% to 15%, and they apply to payments made to suppliers and contractors.
+  - context: |
+      Rate : Fixed or variable rates based on registration type. - o Example Calculation : A fixed registration fee of TZS 1,000,000 for a new clinic. ## 14. License Fees - o Description : Fees for operating licenses for healthcare and social work institutions. 4ps. 1ps. - o Law : Health Facility Registration Act, 1999. - o Rate : Fixed or variable rates based on registration type. - o Example Calculation : A fixed registration fee of TZS 1,000,000 for a new clinic. ## 14. License Fees - o Description : Fees for operating licenses for healthcare and social work institutions. - o Law : Health Facility Registration Act, 1999. - o Rate : Determined based on the type and scope of the license. - o Example Calculation : License fee of TZS 2,500,000 for operating a residential care facility. ## 15. Health and Safety Levy - o Description : 2ps. Levy for health and safety measures in healthcare and social work institutions. - o Law : Occupational Health and Safety Act, 2003. - o Rate : Typically 0.3% of payroll. - o Example Calculation : Total monthly payroll of TZS 25,000,000: -  Calculation: Health and Safety Levy = 0.3% × TZS 25,000,000 = TZS 75,000. 5ps. 1ps. ## 15. Health and Safety Levy - o Description : Levy for health and safety measures in healthcare and social work institutions. - o Law : Occupational Health and Safety Act,
+    questions_and_answers:
+      - question: |
+          What is the registration fee for a new clinic under the Health Facility Registration Act, 1999?
+        answer: |
+          The registration fee is a fixed amount of TZS 1,000,000 for a new clinic.
+      - question: |
+          How are license fees for healthcare and social work institutions determined?
+        answer: |
+          License fees are determined based on the type and scope of the license.
+      - question: |
+          What is an example of a license fee for operating a residential care facility?
+        answer: |
+          An example license fee for operating a residential care facility is TZS 2,500,000.
+      - question: |
+          Under which law is the Health and Safety Levy mandated, and what is its typical rate?
+        answer: |
+          The Health and Safety Levy is mandated under the Occupational Health and Safety Act, 2003, and its typical rate is 0.3% of payroll.
+      - question: |
+          How is the Health and Safety Levy calculated for a monthly payroll of TZS 25,000,000?
+        answer: |
+          The Health and Safety Levy is calculated as 0.3% of the payroll, which equals TZS 75,000 for a payroll of TZS 25,000,000.
+  - context: |
+      -  Calculation: Corporate Income Tax = 30% × TZS 50,000,000 = TZS 15,000,000. ## 3. Value Added Tax (VAT) - o Description : Tax on 2ps. goods and services purchased by healthcare and social work businesses. - o Law : Value Added Tax Act, 2014. - o Rate : Standard rate is 18%, with some exemptions for certain health services. - o Example Calculation : Purchasing medical supplies for TZS 10,000,000 exclusive of VAT: -  Calculation: VAT Paid = 18% × TZS 10,000,000 = TZS 1,800,000. ## 4. Skills Development Levy (SDL) - o Description : Levy for vocational training. 3ps. 1ps. - o Law : Value Added Tax Act, 2014. - o Rate : Standard rate is 18%, with some exemptions for certain health services. - o Example Calculation : Purchasing medical supplies for TZS 10,000,000 exclusive of VAT: -  Calculation: VAT Paid = 18% × TZS 10,000,000 = TZS 1,800,000. ## 4. Skills Development Levy (SDL) - o Description : Levy for vocational training. - o Law : Vocational Education and Training Act, 1994. - o Rate : 4% of payroll. - o Example Calculation : Total monthly payroll of TZS 20,000,000: -  Calculation: SDL = 4% × TZS 20,000,000 = TZS 800,000. 2ps. ## 5. Service Levy - o Description : Local government charge on services used by healthcare and social work businesses. - o Law : Local Government Finance Act, 1982. -
+    questions_and_answers:
+      - question: |
+          How is the corporate income tax on TZS 50,000,000 calculated, and what is the result?
+        answer: |
+          Corporate income tax is calculated as 30% of TZS 50,000,000, resulting in TZS 15,000,000.
+      - question: |
+          What is the standard rate of VAT, and are there any exemptions?
+        answer: |
+          The standard rate of VAT is 18%, with exemptions for certain health services.
+      - question: |
+          According to an example provided, how much VAT would be paid on medical supplies costing TZS 10,000,000 exclusive of VAT?
+        answer: |
+          The VAT paid on medical supplies costing TZS 10,000,000 exclusive of VAT would be TZS 1,800,000, calculated as 18% of TZS 10,000,000.
+      - question: |
+          What is the Skills Development Levy (SDL) rate, and how is it calculated according to the example provided?
+        answer: |
+          The Skills Development Levy (SDL) rate is 4% of the payroll. For a monthly payroll of TZS 20,000,000, SDL is calculated as 4% × TZS 20,000,000, resulting in TZS 800,000.
+      - question: |
+          Under which law is the service levy regulated for healthcare and social work businesses?
+        answer: |
+          The service levy is regulated under the Local Government Finance Act, 1982.
+  - context: |
+      1ps. 1ps. - o Example Calculation : Annual revenue of TZS 150,000,000 with a 1% levy: -  Calculation: R&amp;D Levy = 1% × TZS 150,000,000 = TZS 1,500,000. ## 27. Social Security Contributions - o Description : Contributions to social security for employees in healthcare and social work. - o Law : National Social Security Fund Act, 1997. - o Rate : 20% of payroll (employer and employee combined). - o Example Calculation : Total monthly payroll of TZS 60,000,000: -  Calculation: Social Security Contributions = 20% × TZS 60,000,000 = TZS 12,000,000. ## 28. Land Rent - o Description : Rent paid for land 2ps. leased for healthcare and social work purposes. - o Law : Land Act, 1999. - o Rate : Varies by location and land size. - o Example Calculation : Determined based on specific lease agreements. ## 29. Accreditation Fees - o Description : Fees for accrediting healthcare and social work programs and institutions. - o Law : Health Facility Registration Act, 1999. - o Rate : Varies based on program and institution type. 2ps. 1ps. - o Example Calculation : Determined based on specific lease agreements. ## 29. Accreditation Fees - o Description : Fees for accrediting healthcare and social work programs and institutions. - o Law : Health Facility Registration Act, 1999. - o Rate : Varies based on program and institution type. - o Example Calculation : Accreditation fee of
+    questions_and_answers:
+      - question: |
+          What is the rate of the R&D levy for annual revenue calculations, and how is it computed?
+        answer: |
+          The R&D levy is 1% of the annual revenue. For example, if the revenue is TZS 150,000,000, the levy is calculated as 1% × TZS 150,000,000 = TZS 1,500,000.
+      - question: |
+          What legislation governs social security contributions for employees in healthcare and social work, and what is the contribution rate?
+        answer: |
+          Social security contributions are governed by the National Social Security Fund Act, 1997, and the rate is 20% of the payroll (employer and employee combined).
+      - question: |
+          How are land rent payments for healthcare and social work determined, and which law regulates them?
+        answer: |
+          Land rent payments are determined based on specific lease agreements depending on location and land size, and they are governed by the Land Act, 1999.
+      - question: |
+          What are accreditation fees in the context of healthcare and social work, and what legislation governs them?
+        answer: |
+          Accreditation fees are payments made for accrediting healthcare and social work programs and institutions. They are governed by the Health Facility Registration Act, 1999.
+      - question: |
+          Provide an example calculation for social security contributions based on a payroll of TZS 60,000,000.
+        answer: |
+          For a total monthly payroll of TZS 60,000,000, the social security contributions are 20% × TZS 60,000,000 = TZS 12,000,000.
+  - context: |
+      1ps. 1ps. - o Example Calculation : Signing a contract valued at TZS 5,000,000: -  Calculation: Stamp Duty = 1% × TZS 5,000,000 = TZS 50,000. ## 9. Customs Duties - o Description : Duties on imported goods and equipment for healthcare and social work use. - o Law : East African Community Customs Management Act, 2004. - o Rate : Varies by item, typically 0% to 25%. - o Example Calculation : Importing medical equipment valued at TZS 15,000,000 with a 10% customs duty rate: -  Calculation: Customs Duty = 10% × TZS 15,000,000 = TZS 1,500,000. ## 10. Excise Duty - o Description 2ps. : Duty on specific goods purchased by healthcare and social work businesses. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per item, often ad valorem. - o Example Calculation : Purchasing fuel for hospital generators valued at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise Duty = 15% × TZS 5,000,000 = TZS 750,000. 2ps. 1ps. ## 10. Excise Duty - o Description : Duty on specific goods purchased by healthcare and social work businesses. - o Law : Excise (Management and Tariff) Act, 2015. - o Rate : Specific rates per item, often ad valorem. - o Example Calculation : Purchasing fuel for hospital generators valued at TZS 5,000,000 with a 15% excise duty rate: -  Calculation: Excise
+    questions_and_answers:
+      - question: |
+          What is the rate used to calculate Stamp Duty on a contract valued at TZS 5,000,000?
+        answer: |
+          The Stamp Duty is calculated at a rate of 1% of the contract value.
+      - question: |
+          Under which law are customs duties on imported goods and equipment for healthcare governed?
+        answer: |
+          Customs duties are governed by the East African Community Customs Management Act, 2004.
+      - question: |
+          What range of rates typically applies to customs duties for imported goods?
+        answer: |
+          The rates for customs duties typically range from 0% to 25%, depending on the item.
+      - question: |
+          How much excise duty is owed on a fuel purchase valued at TZS 5,000,000 with a 15% duty rate?
+        answer: |
+          The excise duty owed would be TZS 750,000 (calculated as 15% × TZS 5,000,000).
+      - question: |
+          What type of law governs excise duties on goods purchased by healthcare businesses?
+        answer: |
+          Excise duties are governed by the Excise (Management and Tariff) Act, 2015.
+document_outline: |
+  The document provides a detailed overview of the various taxes, levies, duties, and customs applicable to businesses in the human health and social work sector in Tanzania. It includes descriptions, legal references, applicable rates, and example calculations for each tax type, such as PAYE, corporate income tax, VAT, skills development levy, and more.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_human_health_and_social_work_sector.md

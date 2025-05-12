@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. | | | (3) A person who contravenes this regulation commits an offence. 2ps. 3ps. | Conditions under which goods deemed to be put on board Exportation by overland routes Goods in transit. 4ps. ## Departure Overland 103. (1) Vehicles and goods, other than vehicles and goods to which the provisions of regulations 132, 133, 134 and135 apply, which are exported overland shall be entered using Form C 17. - (2) A person in charge of a vehicle, whether or not the vehicle is conveying goods, shall report to a proper officer, the full particulars of the vehicle and the goods, if any, using Form C2. - (3) A person who contravenes this regulation commits an offence. ## Goods in Transit or for Transhipment ## 5ps. Goods in Transit 104. (1) Goods in transit to a foreign port shall be entered at the port of importation using Form C. 17. - (2) An owner of the goods in transit shall at the time of entering the goods produce documents relating to the goods to a proper officer. 2ps. 1ps. ## Departure Overland 103. (1) Vehicles and goods, other than vehicles and goods to which the provisions of regulations 132, 133, 134 and135 apply, which are exported overland shall be entered using Form C 17. - (2) A person in charge of a vehicle, whether or not the vehicle is conveying goods, shall report to a proper officer, the full particulars of the vehicle and the goods, if any, using Form C2. - (3) A person who contravenes this regulation commits an offence. - (3) An owner 2ps. of goods to be entered for transit shall furnish a bond using the Customs Bond Form. or any other security in such amounts as the Commissioner may require.
+    questions_and_answers:
+      - question: |
+          What form must be used to enter vehicles and goods exported overland, excluding those under specific regulations?
+        answer: |
+          Vehicles and goods exported overland, except those covered by regulations 132, 133, 134, and 135, must be entered using Form C 17.
+      - question: |
+          What are the reporting requirements for a person in charge of a vehicle exported overland?
+        answer: |
+          A person in charge of a vehicle must report to a proper officer the full particulars of the vehicle and the goods, if any, using Form C2.
+      - question: |
+          What is required from an owner of goods in transit to a foreign port at the time of entry?
+        answer: |
+          The owner of goods in transit to a foreign port must produce documents relating to the goods to a proper officer at the time of entry.
+      - question: |
+          What are the consequences of contravening the overland export regulations?
+        answer: |
+          A person who contravenes the overland export regulations commits an offence.
+      - question: |
+          What is required for an owner of goods to be entered for transit to ensure compliance?
+        answer: |
+          An owner of goods to be entered for transit must furnish a bond using the Customs Bond Form or provide any other security in amounts as required by the Commissioner.
+  - context: |
+      1ps. 1ps. - (6) Customs shall not give warranty on the quality, quantity, packaging condition or any other particulars of the goods offered for sale. - (7) A non-refundable deposit of twenty five per cent of the bid price shall be paid in cash at the fall of the hammer, and the balance shall be backed by a bank guarantee or paid by a banker's cheque within forty eight hours after the sale. - (9) Goods purchased at an auction shall be removed from the warehouse within three days and where the purchaser fails to remove the goods, he or she shall 2ps. be liable to pay the warehouse rent and any other charges with effect from the date of sale up to the date of removal. 2ps. 1ps. - (7) A non-refundable deposit of twenty five per cent of the bid price shall be paid in cash at the fall of the hammer, and the balance shall be backed by a bank guarantee or paid by a banker's cheque within forty eight hours after the sale. - (8) Where the balance due under sub regulation (7) is not paid as specified, the bid shall lapse and the lot in respect of which the balance is outstanding shall be re-offered for sale at the next auction. - (10) Where the goods referred to 2ps.
+    questions_and_answers:
+      - question: |
+          What responsibility does customs decline regarding the goods offered for sale?
+        answer: |
+          Customs does not provide any warranty on the quality, quantity, packaging condition, or any other particulars of the goods offered for sale.
+      - question: |
+          What is required from the buyer immediately after winning a bid at the auction?
+        answer: |
+          The buyer must pay a non-refundable deposit of twenty-five percent of the bid price in cash at the fall of the hammer.
+      - question: |
+          How must the remaining balance of the bid price be settled after the deposit is paid?
+        answer: |
+          The remaining balance must be backed by a bank guarantee or paid using a banker's cheque within forty-eight hours after the sale.
+      - question: |
+          What happens if the purchaser fails to pay the balance within the specified time frame?
+        answer: |
+          If the balance is not paid within forty-eight hours, the bid lapses, and the lot will be re-offered for sale at the next auction.
+      - question: |
+          What consequences does a purchaser face if they fail to remove goods from the warehouse within three days after the sale?
+        answer: |
+          The purchaser will be liable to pay warehouse rent and any other charges from the date of the sale until the date the goods are removed.
+  - context: |
+      1ps. 1ps. - (2) The allowances provided for in sub-regulation (1) may be issued in respect of every eight days or part of the days during the vessel's stay in port, for cigarettes and tobacco in any form in respect of every four days or part of the days for alcohol and liquor. - (5) A master, officer or member of the crew of a vessel shall not land any stores issued to him or her under the provisions of this regulation without the payment of duty and the master, officer or member of the crew shall, upon 2ps. request by a proper officer, produce any stores of the categories provided for in table 1 of which he or she is in possession at the time of that request. - (6) A person who contravenes this regulation commits an offence. 25. The crew of an aircraft or vessel shall give all possible assistance to the officers engaged in rummaging the aircraft or vessel. 2ps. 1ps. - (5) A master, officer or member of the crew of a vessel shall not land any stores issued to him or her under the provisions of this regulation without the payment of duty and the master, officer or member of the crew shall, upon request by a proper officer, produce any stores of the categories provided for in table 1 of which he or she is in possession at the time of that request. - (6) A person who contravenes this regulation commits an offence. 26. Where cargo reported for discharge at a port or 2ps.
+    questions_and_answers:
+      - question: |
+          What is the frequency of allowances provided for cigarettes and tobacco during a vessel's stay in port?
+        answer: |
+          Allowances for cigarettes and tobacco may be issued every eight days or part thereof during the vessel's stay in port.
+      - question: |
+          What requirement must a master, officer, or crew member fulfill to land stores issued under this regulation?
+        answer: |
+          They must pay the required duty before landing the stores issued to them under the provisions of the regulation.
+      - question: |
+          What obligation does a master, officer, or crew member have when requested by a proper officer regarding possession of stores?
+        answer: |
+          They must produce any stores of the categories provided in table 1 that they are in possession of upon request by a proper officer.
+      - question: |
+          What is the penalty for contravening this regulation regarding the handling of stores on a vessel?
+        answer: |
+          A person who contravenes this regulation commits an offence.
+      - question: |
+          What assistance must the crew of an aircraft or vessel provide during rummaging operations?
+        answer: |
+          The crew must give all possible assistance to the officers engaged in rummaging the aircraft or vessel.
+  - context: |
+      1ps. 1ps. Community, as the case may be, or at any other place in the Community as the Commissioner may direct. (2) For the purpose of production of courier consignments under sub regulation (1), the officer of the courier shall be deemed to be the agent of the importer or exporter. - (2) Imported goods not entered within the prescribed period, shall be detained by the Customs and shall be dealt with in accordance with section 34 of the Act. ## PART X ## CARRIAGE COASTWISE AND TRANSFER OF 2ps. GOODS - 123. The transire for coastwise cargo carried by aircraft and vessels under section 98 of the Act, and the combined clearance and transire for coasting aircraft and vessels and their cargoes under section 100 of the Act shall be declared using Form. C 27. 124. Where cargo is loaded in an aircraft or vessel for carriage coastwise to more than one port or place, separate transires shall be prepared for each port or place. 2ps. 1ps. - (2) Imported goods not entered within the prescribed period, shall be detained by the Customs and shall be dealt with in accordance with section 34 of the Act. ## PART X ## CARRIAGE COASTWISE AND TRANSFER OF GOODS - 123. The transire for coastwise cargo carried by aircraft and vessels under section 98 of the Act, and the combined clearance and transire for coasting aircraft and vessels and their cargoes under section 100 of the Act shall be declared using Form. - 125. (1) Coastwise cargo shall not be loaded on an 2ps. aircraft or vessel for carriage coastwise or removed from a Customs area or a transit shed after it is unloaded or landed, without the prior permission of a proper officer.
+    questions_and_answers:
+      - question: |
+          What happens to imported goods that are not entered within the prescribed period?
+        answer: |
+          Imported goods not entered within the prescribed period shall be detained by Customs and dealt with in accordance with section 34 of the Act.
+      - question: |
+          Who is deemed to be the agent of the importer or exporter for courier consignments?
+        answer: |
+          The officer of the courier is deemed to be the agent of the importer or exporter for the purpose of production of courier consignments.
+      - question: |
+          What form is required for the declaration of transire for coastwise cargo carried by aircraft and vessels under section 98 of the Act?
+        answer: |
+          The declaration of transire for coastwise cargo carried by aircraft and vessels under section 98 of the Act requires the use of Form C 27.
+      - question: |
+          What is required if coastwise cargo is loaded for multiple ports or places?
+        answer: |
+          Separate transires must be prepared for each port or place if coastwise cargo is loaded for more than one port or place.
+      - question: |
+          What is needed before coastwise cargo can be loaded or removed from a Customs area or transit shed?
+        answer: |
+          Prior permission from a proper officer is required before coastwise cargo can be loaded or removed from a Customs area or transit shed.
+  - context: |
+      1ps. 1ps. Where a vehicle that has been temporarily admitted cannot be re-exported as the result of a seizure, other than an attachment made as a result of a suit by private person, the period shall be suspended for the duration of the seizure. - (6) The guaranteeing association shall be allowed a period of one year as from the notification of non-discharge of the temporary importation papers, to furnish proof of the re-exportation of the vehicle or goods. - (7) Where proof is not 2ps. furnished within the time allowed, under sub regulation (6), the guaranteeing association shall immediately pay the duty payable and the payment shall not be refundable after a period of one year from the date of the payment. - (8) A person importing a vehicle or goods under the provisions of this regulation shall- - (a) before re-exportation produce the temporary importation papers and satisfy a proper officer that the vehicle or goods correspond with the description of 3ps. the vehicle or goods; and - (b) re-export the vehicle or goods during the validity of the temporary importation papers. 2ps. 1ps. - (6) The guaranteeing association shall be allowed a period of one year as from the notification of non-discharge of the temporary importation papers, to furnish proof of the re-exportation of the vehicle or goods. - (7) Where proof is not furnished within the time allowed, under sub regulation (6), the guaranteeing association shall immediately pay the duty payable and the payment shall not be refundable after a period of one year from the date of 2ps. the payment. - 135.
+    questions_and_answers:
+      - question: |
+          What happens if a temporarily admitted vehicle cannot be re-exported due to a seizure?
+        answer: |
+          The period for re-exportation is suspended for the duration of the seizure unless the seizure results from a suit by a private person.
+      - question: |
+          How much time does the guaranteeing association have to provide proof of re-exportation after notification of non-discharge?
+        answer: |
+          The guaranteeing association is allowed one year from the notification of non-discharge to furnish proof of re-exportation of the vehicle or goods.
+      - question: |
+          What must the guaranteeing association do if proof of re-exportation is not provided within the allowed one-year period?
+        answer: |
+          The guaranteeing association must immediately pay the payable duty, and this payment becomes non-refundable after one year from the date of payment.
+      - question: |
+          What are the requirements for a person importing a vehicle or goods under these regulations before re-exportation?
+        answer: |
+          They must produce the temporary importation papers and satisfy a proper officer that the vehicle or goods match the described details, and they must re-export the vehicle or goods during the validity of the papers.
+      - question: |
+          What happens to the duty payment if it is not refunded within a year from the payment date?
+        answer: |
+          The payment becomes non-refundable after the one-year period from the date of payment.
+document_outline: |
+  **Document Outline:**
+  The document outlines the **East African Community Customs Management Regulations 2010**, detailing the structure of customs processes through categorized regulations. It spans provisions for administration, importation procedures, internal container depots, and warehousing systems, including licensing, entry requirements, fee structures, and operational controls for customs-related activities within the East African Community.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - EAC_Customs_Regulations.md

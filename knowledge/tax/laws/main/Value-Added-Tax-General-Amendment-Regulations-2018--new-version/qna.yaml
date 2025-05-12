@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## THE UNITED REPUBLIC OF TANZANIA Supplement No. 40 october, 2018 19h ## SUBSIDIARY LEGISLATION to the Gazette of the United Republic of Tanzania No.42. Vol.99 dated october; 2018 Printed by the Government Printer; Dodoma by Order of Government: GOVERNMENT NOTICE 608 published on. 19/10/2018 No. ## THE VALUE ADDED TAX ACT (CAP. 148) ## REGULATION (Made under sections 94) THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2018 Cilation GN. 2ps. 1ps. ## THE UNITED REPUBLIC OF TANZANIA Supplement No. 40 october, 2018 19h ## SUBSIDIARY LEGISLATION to the Gazette of the United Republic of Tanzania No.42. Vol.99 dated october; 2018 Printed by the Government Printer; Dodoma by Order of Government: GOVERNMENT NOTICE 608 published on. 19/10/2018 No. ## THE VALUE ADDED TAX ACT (CAP. 148) ## REGULATION (Made under sections 94) THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2018 Cilation GN. No. 225 of 2015 - 1 These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations; 2018 and shall be read together with the Value Added Tax Regulations; 2015, hereinafter referred to as the "principal Regulations Interpretation Amendment 2ps. of - 2. The principal Regulations are amended in regulation 2, by inserting in their appropriate alphabetical orders the following new definitions - 'payment service means service of money transfer through a payment system; - 'supplier of financial services' means a person who provides any of the services prescribed in the definition of ~financial
+    questions_and_answers:
+      - question: |
+          What legislative document is discussed in this context, and when was it published?
+        answer: |
+          The legislative document discussed is 'The Value Added Tax (General) (Amendment) Regulations, 2018,' which was published on October 19, 2018, as Government Notice 608.
+      - question: |
+          What is the primary legal framework under which these regulations were made?
+        answer: |
+          These regulations were made under the Value Added Tax Act (Cap. 148), specifically under section 94.
+      - question: |
+          How are the 2018 Amended Regulations related to previous regulations?
+        answer: |
+          The 2018 amended regulations are to be read together with the Value Added Tax Regulations of 2015, referred to as the 'principal Regulations.'
+      - question: |
+          What new definitions were introduced in the principal Regulations under the amendments?
+        answer: |
+          The amendments introduced new definitions, including 'payment service' (defined as the service of money transfer through a payment system) and 'supplier of financial services' (defined as a person providing services prescribed in the definition of financial services).
+      - question: |
+          Who was responsible for the printing of the legal document, and where did it take place?
+        answer: |
+          The legal document was printed by the Government Printer in Dodoma, under the order of the government.
+  - context: |
+      services under section 2 of the Act; - 'payment system has thc mcaning as ascribed to it under the National Payment System Act, 2015; 3.The principal Regulations are amended in regulation 5, GN. 3ps. 1ps. 19/10/2018 No. ## THE VALUE ADDED TAX ACT (CAP. 148) ## REGULATION (Made under sections 94) THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2018 Cilation GN. No. 608 (Contd.) regulation 5 by- Anendment of regulation 20 Amcndment of regulation 27 by- - (a) designating the contents of regulation 5 as subregulation (1); - (c) by adding immediately after subregulation (1) as designated the following: - (b) deleting the word 'twenty" appearing the words "capital goods is' and and substituting for it the word cten '(2) The tax exemption granted under items 17, 18, 19, and 20 of II of the Schedule to the Act shall 2ps. not apply to a taxable person who qualifies for value added tax deferment granted under section ]] of the Act. 4ps. 1ps. 148) ## REGULATION (Made under sections 94) THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2018 Cilation GN. part 4.The principal Regulations are amended in regulation 20, - a) deleting subregulation (1); - (c) deleting the figure "33" appearing in subregulation (3) as renumbered and substituting for it the figure "32" - (b) renumbering subregulations (2),(3),(4) and (5) as subregulations (1),(2),(3), and (4) respectively; and 5 .The principal Regulations arc amended by deleting regulation 27 and substituting for
+    questions_and_answers:
+      - question: |
+          What is the meaning of 'payment system' as referenced in the text?
+        answer: |
+          'Payment system' has the meaning ascribed to it under the National Payment System Act, 2015.
+      - question: |
+          What modification was made to regulation 5 in the amendment?
+        answer: |
+          Regulation 5 was modified by designating its existing content as subregulation (1) and adding additional content immediately after it.
+      - question: |
+          Which tax exemptions no longer apply to taxable persons qualifying for VAT deferment?
+        answer: |
+          Tax exemptions granted under items 17, 18, 19, and 20 of II of the Schedule to the Act do not apply to taxable persons who qualify for value-added tax deferment.
+      - question: |
+          How were subregulations renumbered in the amendments to regulation 20?
+        answer: |
+          Subregulations (2), (3), (4), and (5) were renumbered as subregulations (1), (2), (3), and (4) respectively.
+      - question: |
+          What change was made to regulation 27 in the amendments?
+        answer: |
+          Regulation 27 was deleted and substituted with a new provision, though the specifics of the substitution were not detailed in the provided context.
+  - context: |
+      GN. 4ps. 1ps. filing 35B.-(1) Subject to section 70 of the Act and regulation 27, a supplier of financial services who makes both taxable and exempt shall apportion input tax in accordance with the formula provided for hereunder: supplies IxI A - T: total value of taxable (standard + zero rated) excluding VAT supplies A: - I: total input tax to which section 70 refers for which credit is sought in the tax period. No. 608 (Contd ) Zero Jocally manufactured goods rating Dodoma, 1st October; 2018 - 9) Or Single Administrative Document for transfer of goods from Tanzania Zanzibar to Mainland Tanzania accompanied by tax 2ps. invoice; transire and any other documcnt as the Commissioner General may require; and - (b) the goods to be transferred shall be subjected customs procedure for clearance of the consignment and payment of taxes - (2) For purposes of this regulation stransfer" means transfer of goods manufactured in Tanzania Zanzibar to Mainland Tanzania. 5ps. 1ps. filing 35B.-(1) Subject to section 70 of the Act and regulation 27, a supplier of financial services who makes both taxable and exempt shall apportion input tax in accordance with the formula provided for hereunder: supplies IxI A - T: total value of taxable (standard + zero rated) excluding VAT supplies A: - I: total input tax to which section 70 refers for which credit is sought in the tax period. 36B For purposes of proving that locally
+    questions_and_answers:
+      - question: |
+          What is required for a supplier of financial services making both taxable and exempt supplies?
+        answer: |
+          The supplier must apportion input tax according to a specific formula, as per section 70 of the Act and regulation 27.
+      - question: |
+          What does 'A' represent in the input tax apportionment formula?
+        answer: |
+          'A' represents the total input tax referred to in section 70 for which credit is sought in the tax period.
+      - question: |
+          What documentation is required for the transfer of goods from Tanzania Zanzibar to Mainland Tanzania?
+        answer: |
+          The required documents include a tax invoice, transire, a single administrative document, and any other document as required by the Commissioner General.
+      - question: |
+          What does the term 'transfer' refer to in the context of this regulation?
+        answer: |
+          In this regulation, 'transfer' refers to the movement of goods manufactured in Tanzania Zanzibar to Mainland Tanzania.
+      - question: |
+          What customs procedures apply to goods transferred from Zanzibar to Mainland Tanzania?
+        answer: |
+          The goods must undergo customs clearance procedures, and any applicable taxes must be paid.
+  - context: |
+      1ps. 1ps. (4) Notwithstanding subregulation (3), the accounting and record packaging services referred to in subregulation (2)(b)(i) may include - - (a) services related to a financial clearing system that may be part of the settlement process; - (b) posting of afinancial transaction Or the maintenance of the account of customers of supplier of financial service; or GN No 608 (Contd.) - rendering of services ancillary to the services under sub paragraph (a) and (b)". price - (e) applicable VAT rate (standard, exempt, Or zero) and total VAT charged; and - (3) Without prejudice to the conditions stipulated under section 86 of 2ps. the the periodic statement issued under subregulation (1) may not bear the followingAct, - sequential numbering. 2ps. 1ps. Addition of 7 The principal Regulations are amended by adding regulations immediately after Regulation 35 the following new regulations: 35A and 35B ~Periodic statement - (2) The periodic statement issued under subregulation (1) shall have the following particulars- - 35A.-(1) of financial services shall issue a periodic statement to customers which shall be deemed to be a tax invoice. - (a) the words invoice" in the header; or - Where a of financial supplier Apportionment of input tax by supplier of financial scrviccs services transacts with a non-taxable person the supplier 2ps. shall issue normal statcment which may not necessarily contain the particulars prescribed under subregulation (2) - (6) For purposes of this regulation 'periodic statement" means a statement
+    questions_and_answers:
+      - question: |
+          What types of services are included under 'accounting and record packaging services' as described in subregulation (2)(b)(i)?
+        answer: |
+          These services may include services related to a financial clearing system that is part of the settlement process, posting of a financial transaction or maintenance of customer accounts, and services ancillary to these activities.
+      - question: |
+          What conditions must periodic statements meet to be considered valid under subregulation (1)?
+        answer: |
+          Periodic statements must include specific particulars such as the applicable VAT rate (standard, exempt, or zero) and the total VAT charged. However, they cannot include sequential numbering.
+      - question: |
+          What does regulation 35A state about the issuance of periodic statements for financial services?
+        answer: |
+          Regulation 35A(1) states that suppliers of financial services must issue periodic statements to customers, and these statements shall be deemed to be tax invoices.
+      - question: |
+          What must not appear in the periodic statement header according to the new regulations?
+        answer: |
+          The words 'invoice' must not appear in the header of the periodic statement.
+      - question: |
+          How should suppliers of financial services handle transactions with non-taxable persons?
+        answer: |
+          When transacting with a non-taxable person, suppliers of financial services must issue a normal statement that does not necessarily contain the particulars prescribed under subregulation (2).
+  - context: |
+      1ps. 1ps. 27.-(1) A taxable person who both taxable and exempt supplies shall apportion input tax in accordance with the provisions of the Act. - (a) may claim the whole of input tax under subregulation (3) (a); - A taxable person - - (b) shall not claim input tax under subregulation (3) (b); and - (5) The accounting referred to under section 70 of the Act may include a lesser for the purpose of annual adjustment of input tax credit where a taxable person in given year, conducted an economic activity for twelve 2ps. months . year period has, - (c) shall apportion input tax under subregulation (3)(c), according to the formula provided for under section 70 of the Act. 2ps. 1ps. 27.-(1) A taxable person who both taxable and exempt supplies shall apportion input tax in accordance with the provisions of the Act. 6 The principal Regulations are amended by deleting regulation 35 and substituting for it the following- ~Valuc Added Tax on financial services 35.-(1) Value Added Tax shall be imposed, in accordance with section 3 of the Act, on a fee charged for supply of financial services - (2) For avoidance of doubt - (a) a supply made in relation GN No. 608 (Contd ) to a payment system or for payment servicc is not 2ps. exempt if consideration is based on a fee. - (b) financial service does not include the following services - - legal,
+    questions_and_answers:
+      - question: |
+          What must a taxable person who provides both taxable and exempt supplies do under regulation 27(1)?
+        answer: |
+          A taxable person who provides both taxable and exempt supplies must apportion input tax in accordance with the provisions of the Act.
+      - question: |
+          What does subregulation (3)(c) specify about input tax apportionment?
+        answer: |
+          Subregulation (3)(c) specifies that a taxable person shall apportion input tax according to the formula provided under section 70 of the Act.
+      - question: |
+          What adjustment can be made under section 70 for input tax credit in a given year?
+        answer: |
+          The accounting under section 70 may include a lesser adjustment for the annual input tax credit if the taxable person conducted economic activity for a full twelve-month period.
+      - question: |
+          What is the rule regarding Value Added Tax (VAT) on financial services under regulation 35(1)?
+        answer: |
+          VAT shall be imposed on a fee charged for the supply of financial services, in accordance with section 3 of the Act.
+      - question: |
+          What types of services are explicitly excluded from the definition of financial services in the context of VAT?
+        answer: |
+          Legal services and services made for payment systems or payment services where consideration is based on a fee are excluded from the definition of financial services.
+document_outline: |
+  **Document Outline:**
+  The document outlines the *Value Added Tax (General) (Amendment) Regulations, 2018* of Tanzania, which amend the 2015 VAT regulations under the Value Added Tax Act (Cap. 148). It specifies changes to definitions, tax exemptions, apportionment of input tax, and the application of VAT on financial services, detailing adjustments to various regulations to enhance clarity and compliance.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Value-Added-Tax-General-Amendment-Regulations-2018--new-version.md

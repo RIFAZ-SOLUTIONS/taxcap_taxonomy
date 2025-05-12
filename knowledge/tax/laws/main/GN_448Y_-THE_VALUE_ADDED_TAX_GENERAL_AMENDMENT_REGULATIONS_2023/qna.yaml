@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      Clubl Chama Cooperative Socely or Association/ Ushirka Partnershipl Ubia Senkali Limited Company/ Parastatal/ Sole Proprietor/ Binafsi Other/ Kampuni yenye dhima ya kikomo Shirika la Umma Nyingine 18 JDesaiption of business Activity(s) 19, Jrrading commenced(or will commenœ) Dayl Siku Monthl Mwezi Yearl 20. Nalue of the estimated taxable turnover (Tshs) at least 9096 be taxable) 21 [Desciption of Capital goods 22 Nalue of capital goods 23. | Amount of Tax Delerred ## DECLARATION (FULL NAME OF APPLICANT), DO HEREBY dedare that the goods are for use in the business spectied under this application and shall not be disposed of in any manner or form, and further 5ps. declare that all the particulars given above are true to the best of my knowledge 25, Signed 26. Date FOR OFFICIAL USE ONLY <!-- image --> ## Value Added Tax (General) GN NO.448Y (Contd) 24 Comments and Recommendation(s) by the Verification Officer: Date Name and Signature of the Verification Officer 25. Commissioner General Decision or Decision by the Head of Department/Manager on behalf of the Commissioner General Approval has been/not been granted for VAT Deferment on locally manufactured /imported Date Name and Signature QUADRUPLICAIES ## Value Added Tax (General) ## GN NO.448Y (Contd) 2. VAT registration number Namba ya usajili wa VAT 3. Full name of business IJina kamili la biashara 4. Trading name (if different from above) 5. Postal Addressl Anuani ya 6ps. Posta: 6. Postal City Jina la Mji 9. Street or
+    questions_and_answers:
+      - question: |
+          What is the purpose of the declaration in the provided application?
+        answer: |
+          The declaration states that the goods are for use in the specified business and will not be disposed of in any manner, while confirming that all provided particulars are true to the applicant's knowledge.
+      - question: |
+          What details are required about the business activity in the application?
+        answer: |
+          Details required include the description of the business activities, the start date of trading, and the value of estimated taxable turnover.
+      - question: |
+          Who has the authority to approve or deny VAT deferment according to the context?
+        answer: |
+          The VAT deferment can be approved or denied by the Commissioner General or the Head of Department/Manager on behalf of the Commissioner General.
+      - question: |
+          What information must be provided regarding capital goods?
+        answer: |
+          The applicant must provide a description of the capital goods and their value.
+      - question: |
+          What is the role of the verification officer in this process?
+        answer: |
+          The verification officer is responsible for providing comments and recommendations, and they must also sign and date their input in the application.
+  - context: |
+      1ps. 1ps. (2) Notwithstanding the provisions of any written law, the period of record keeping in respect of imported or locally manufactured capital goods in which tax is deferred shall be ten years. | | | Accounting for deferred capital goods 2ps. 3ps. | 8. The deferred tax on imported or locally manufactured capital goods shall be treated as output tax and input tax of a person, and shall be accounted for in the same Value Added tax return of the tax period in which the capital goods were imported or locally purchased. 4ps. 5ps. | | Amendment of regulations 14 | 4. The principal Regulations are amended in 6ps. regulation 14 by deleting the phrase 'one hundred million shillings' and substituting for it the phrase 'two hundred million shillings'. | 4. The principal Regulations are amended in regulation 14 by deleting the phrase 'one hundred million shillings' and substituting for it the phrase 'two hundred million shillings'. 7ps. 8ps. | ## GN NO.448Y (Contd) Amendment of Schedule 5 . 2ps. 1ps. 2ps. 3ps. | | Amendment of regulations 14 | 4. The principal Regulations are amended in regulation 14 by deleting the phrase 'one hundred million shillings' and substituting for it the phrase 'two hundred million shillings'. | 4. The principal Regulations are amended in regulation 14 by deleting the phrase 'one hundred million shillings' and substituting for it the phrase 'two hundred million shillings'. 4ps. 5ps. | ##
+    questions_and_answers:
+      - question: |
+          What is the required record-keeping period for deferred tax on imported or locally manufactured capital goods?
+        answer: |
+          The record-keeping period for deferred tax on imported or locally manufactured capital goods is ten years, notwithstanding the provisions of any written law.
+      - question: |
+          How should deferred tax on imported or locally manufactured capital goods be accounted for?
+        answer: |
+          The deferred tax on imported or locally manufactured capital goods must be treated as both output tax and input tax and accounted for in the same Value Added Tax (VAT) return of the tax period in which the goods were imported or locally purchased.
+      - question: |
+          What amendment was made to regulation 14 of the principal regulations regarding the monetary threshold?
+        answer: |
+          The amendment to regulation 14 changes the monetary threshold from 'one hundred million shillings' to 'two hundred million shillings.'
+      - question: |
+          Which part of the principal regulations was amended to increase the monetary limit in regulation 14?
+        answer: |
+          Regulation 14 of the principal regulations was amended to replace 'one hundred million shillings' with 'two hundred million shillings.'
+      - question: |
+          In which tax document should the deferred tax on capital goods be included?
+        answer: |
+          The deferred tax on capital goods should be included in the Value Added Tax (VAT) return for the tax period in which the goods were imported or locally purchased.
+  - context: |
+      GN NO.448Y (Contd) Amendment of Schedule 5 . The principal Regulations are amended in the Schedule by deleting Form ITX.247.02. E and substituting for it the following new Form: GN NO.448Y (Contd) ITX247.02.E Application For VAT Deferment <!-- image --> ## ANZANIA ## VALUE ADDED TAX ## APPLICATION FOR VAT DEFERMENT /MAOMBI 6ps. YA KUAHIRISHA MALIPO YA KODI YA ONGEZEKO LA THAMANI. 3ps. 1ps. 2ps. | ## GN NO.448Y (Contd) Amendment of Schedule 5 . The principal Regulations are amended in the Schedule by deleting Form ITX.247.02. E and substituting for it the following new Form: GN NO.448Y (Contd) ITX247.02.E Application For VAT 3ps. Deferment <!-- image --> ## ANZANIA ## VALUE ADDED TAX ## APPLICATION FOR VAT DEFERMENT /MAOMBI YA KUAHIRISHA MALIPO YA KODI YA ONGEZEKO LA THAMANI. (U nder Regulation 4(2)) Taxpayer Identification Number (TIN) Namba ya Utambulisho 2 NAT registration number Namba ya usajili wa VAT 2 ull name of business IJina kamili la blashara JTrading name (if different from above) 5. PPostal Address' Anuani ya Posta: P0 Box / SLP Postal City Jina la Mji Physical Address' Anuani ya Sehemu ya Biashara: jBlock numberl Namba ya Kitalu 10. District or Town/ Wilaya au Mji: 11. JRegion or City Mkoa au Contact Numbers' Namba za mawasiliano: Phone numberl Namba ya Simu ISecond Phone Simu ya Pili 14, Simu ya Tatu 5.JFax 4ps. numberl Namba ya Faksi 16. Anuani ya E-mail 17fTaxpayer Categoryl Aina ya Mlipako Govemment Agencyl
+    questions_and_answers:
+      - question: |
+          What specific change was made to Schedule 5 in the principal Regulations?
+        answer: |
+          In Schedule 5, Form ITX.247.02.E was deleted and replaced with a new version of Form ITX.247.02.E for VAT deferment applications.
+      - question: |
+          What is the purpose of Form ITX.247.02.E in the new amendment?
+        answer: |
+          The purpose of Form ITX.247.02.E is for applications to defer Value Added Tax (VAT) payments.
+      - question: |
+          What taxpayer information is required on the new VAT deferment form?
+        answer: |
+          The form requires the Taxpayer Identification Number (TIN), VAT registration number, full business name, trading name (if different), postal address, physical address, contact numbers, and taxpayer category.
+      - question: |
+          Under which regulation is the new VAT deferment form filed?
+        answer: |
+          The new VAT deferment form is filed under Regulation 4(2).
+      - question: |
+          What additional business location details are requested on the form?
+        answer: |
+          The form requests details such as block number, district or town, and region or city for the physical business location.
+  - context: |
+      1ps. 1ps. GN NO.448Y (Contd) GOVERNMENT NOTICE NO. 448Y published on 30/6/2023 THE VALUE ADDED TAX ACT, (CAP.148) \_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_ (Made under section 94) THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2023 Citation GN No. 225 of 2015 - 1 . These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations, 2023 and shall be read as one with the Value Added Tax Regulations, 2015, hereinafter referred to as the 'principal Regulations'. Commencement Amendment of regulations 4, 5, 6, 7, 8 and 9 - 2 . These Regulations 2ps. shall be deemed to have come into operation on the 1 st day of July, 2023 - 3 . The principal Regulations are amended by deleting regulations 4, 5, 6, 7, 8 and 9 and substituting for them the following respectively: 'Application for deferment - 4. -(1) A person may apply to the Commissioner General to defer the payment of tax due in respect of imported or locally manufactured capital goods. 2ps. 1ps. Commencement Amendment of regulations 4, 5, 6, 7, 8 and 9 - 2 . These Regulations shall be deemed to have come into operation on the 1 st day of July, 2023 - 3 . The principal Regulations are amended by deleting regulations 4, 5, 6, 7, 8 and 9 and substituting for them the following respectively: 'Application for deferment - 4. -(1) A person may apply to the Commissioner General to defer
+    questions_and_answers:
+      - question: |
+          What is the title of the amendment regulation published on June 30, 2023?
+        answer: |
+          The title of the regulation is 'The Value Added Tax (General) (Amendment) Regulations, 2023'.
+      - question: |
+          When do the amended regulations come into operation?
+        answer: |
+          The amended regulations are deemed to have come into operation on July 1, 2023.
+      - question: |
+          Which regulations from the principal Regulations are being deleted and amended?
+        answer: |
+          Regulations 4, 5, 6, 7, 8, and 9 of the principal Regulations are being deleted and replaced.
+      - question: |
+          Who is authorized to apply for tax deferment under the amended Regulation 4?
+        answer: |
+          A person may apply to the Commissioner General for deferment of tax payment on imported or locally manufactured capital goods.
+      - question: |
+          What is the principal legislation these amendments relate to?
+        answer: |
+          The amendments relate to the Value Added Tax Regulations, 2015.
+  - context: |
+      the payment 2ps. of tax due in respect of imported or locally manufactured capital goods. - (2) An application for deferment of value added tax shall be in Form ITX.247.02. E as prescribed in the Schedule, and shall incorporate a declaration by the applicant that the goods are for use in the business of the applicant. 3ps. 1ps. These Regulations shall be deemed to have come into operation on the 1 st day of July, 2023 - 3 . The principal Regulations are amended by deleting regulations 4, 5, 6, 7, 8 and 9 and substituting for them the following respectively: 'Application for deferment - 4. -(1) A person may apply to the Commissioner General to defer the payment of tax due in respect of imported or locally 2ps. manufactured capital goods. - 5. Subject to section 11 of the Act, the Commissioner General shall not approve an application for deferment of value added tax on imported or locally manufactured capital goods unless the value added tax payable in respect of each unit of the capital Conditions for approval GN NO.448Y (Contd) | | 3ps. 4ps. | goods is ten million shillings. 6. The Commissioner General may, at any time during the period of deferment, inspect the capital goods in respect of which the 5ps. value added tax was deferred to ascertain whether it is duly installed and utilized for the purpose specified in the | |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | 6ps. |
+    questions_and_answers:
+      - question: |
+          What form must be used to apply for deferment of value added tax under these regulations?
+        answer: |
+          The application for deferment of value added tax must be made using Form ITX.247.02.E as prescribed in the Schedule.
+      - question: |
+          What declaration must an applicant include in their application for tax deferment?
+        answer: |
+          The applicant must declare that the goods are for use in the business of the applicant.
+      - question: |
+          When did these regulations come into effect?
+        answer: |
+          These regulations came into operation on the 1st day of July, 2023.
+      - question: |
+          What is the minimum value added tax payable per unit of capital goods for an application to be approved?
+        answer: |
+          The value added tax payable in respect of each unit of the capital goods must be ten million shillings.
+      - question: |
+          What authority does the Commissioner General have during the deferment period?
+        answer: |
+          The Commissioner General may inspect the capital goods during the deferment period to ensure they are installed and utilized for their specified purpose.
+document_outline: |
+  **Document Outline:**
+  This document details Government Notice No. 448Y, published on June 30, 2023, which announces the Value Added Tax (General) (Amendment) Regulations, 2023, under the Value Added Tax Act (CAP.148). The amendments address updates to VAT regulations, including application procedures, conditions, and periods for deferment of VAT on capital goods, with changes retroactively effective from July 1, 2023.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - GN_448Y_-THE_VALUE_ADDED_TAX_GENERAL_AMENDMENT_REGULATIONS_2023.md

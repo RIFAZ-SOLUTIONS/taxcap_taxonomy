@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. 2ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. Box ................................................... 2ps. **VRN:** . **APPLICATION FOR UTILIZATION OF VAT RELIEF GRANTED TO EXPLORERS AND PROSPECTORS OF MINERALS, GAS OR OIL, AND TO INVESTOR LICENSED UNDER** **THE EXPORT PROCESSING ZONES ACT OR SPECIAL ECONOMIC ZONES ACT** **PART A** : (To be completed by applicant) The (name of the Organisation)......................................................................................................... is applying for VAT relief on supplies of goods/services as detailed below: | Details of the goods/services | Details of the goods/services | Value exclusive of VAT (in shs.) | VAT Amount | Supplier | |----------------------------------|----------------------------------|------------------------------------|--------------|------------| | Description 3ps. | Quantity | | |
+    questions_and_answers:
+      - question: |
+          What is the purpose of the ITX263.02.E Form provided by the Tanzania Revenue Authority?
+        answer: |
+          The ITX263.02.E Form is used to apply for VAT relief granted to explorers and prospectors of minerals, gas, or oil, as well as investors licensed under the Export Processing Zones Act or Special Economic Zones Act.
+      - question: |
+          Who can apply for VAT relief using the ITX263.02.E Form?
+        answer: |
+          Explorers and prospectors of minerals, gas, or oil, and investors licensed under the Export Processing Zones Act or Special Economic Zones Act can apply for VAT relief using this form.
+      - question: |
+          What information is required in Part A of the VAT relief application form?
+        answer: |
+          Part A of the form requires the applicant to provide their organization’s name and details about the goods or services for which VAT relief is being sought, including a description, quantity, value exclusive of VAT, VAT amount, and supplier.
+      - question: |
+          What is the significance of completing the form in quadruplicate?
+        answer: |
+          The requirement to complete the form in quadruplicate ensures that multiple copies are available for processing, record-keeping, and distribution to relevant departments or stakeholders within the Tanzania Revenue Authority.
+      - question: |
+          What does VAT relief specifically apply to in the context of this form?
+        answer: |
+          VAT relief applies to supplies of goods and services listed by the applicant, which are intended for use in exploration, prospecting, and activities falling under the Export Processing Zones Act or Special Economic Zones Act.
+  - context: |
+      | | 4ps. | | 5ps. | | | | | | 6ps. | | | | | 7ps. | | | | | 8ps. | | | 9ps. | | | | | 10ps. | | | **NB:** *In case the space provided above is not sufficient please attach the list of additional items in the same format/ for motor vehicle give the following details for each vehicle or attach the detailed Schedule of all vehicles applied for. 3ps. 1ps. ITX263.02.E Application For Utilization Of VAT Relief **TANZANIA REVENUE AUTHORITY** **VALUE ADDED TAX FORM** *(Under Regulation 33)* Complete In Quadruplicate Serial No...................... To: Regional Manager TIN: P. O. Make....................................................... 2ps. Engine No............................................... Chassis No........................................................... Type......................................................... Cubic Capacity....................................... Tare weight...................................... Year of Manufacture............................................ Propulsion Petrol/Diesel/Other...................................................................... The goods/services are going to be used by the (Name of the project or undertaking) ....................................................................................................................................................... ................................................................................................................................................................... Which is a project/undertaking pursuant to PSA / EPZ or SEZ
+    questions_and_answers:
+      - question: |
+          What document is being referred to in the context and under which regulation does it fall?
+        answer: |
+          The document is the 'Application For Utilization Of VAT Relief' form under Regulation 33.
+      - question: |
+          What authority oversees the handling of the VAT relief application in Tanzania?
+        answer: |
+          The Tanzania Revenue Authority oversees the handling of the VAT relief application.
+      - question: |
+          What vehicle-specific details are required to be provided in the application form?
+        answer: |
+          The required vehicle-specific details include make, engine number, chassis number, type, cubic capacity, tare weight, year of manufacture, and propulsion (petrol/diesel/other).
+      - question: |
+          What should be done if the space provided in the form is insufficient for the list of additional items or motor vehicles?
+        answer: |
+          If the space is insufficient, the list of additional items or motor vehicles should be attached in the same format.
+      - question: |
+          For what type of projects or undertakings is the VAT relief form intended to be used?
+        answer: |
+          The VAT relief form is intended for projects or undertakings pursuant to PSA, EPZ, or SEZ.
+  - context: |
+      is to certify that 2ps. (Name of project/undertaking)........................................................................................... .... .... ......................... is project/ undertaking which is under our Ministry/Organisation (name)........................................................................................................................................under the agreement/lisence ...................................................................................................................................... We do confirm that the above goods/services are project materials/services and we request that they be supplied free of VAT. ................... ....................................................... ......................................................... **Date (Full name of endorsing Executive) 3ps. Signature and stamp of Permanent Secretary/** **Chief Executive 4ps. Officer** **PRECAUTION NOTE:** - This Authority is only valid when tendered in its original form. - Payment should be made strictly by recipient’s cheque(s). 5ps. 1ps. This is to certify that (Name of project/undertaking)........................................................................................... .... .... ......................... is project/ undertaking which is under our Ministry/Organisation (name)........................................................................................................................................under the agreement/lisence ...................................................................................................................................... We do confirm that the above goods/services are project materials/services and we request that they be supplied free of VAT. ................... ....................................................... ......................................................... **Date (Full name of endorsing Executive) 2ps. Signature and stamp of 3ps. Permanent Secretary/** **Chief Executive Officer** **PRECAUTION NOTE:**
+    questions_and_answers:
+      - question: |
+          What does the certification confirm about the project materials or services?
+        answer: |
+          The certification confirms that the goods or services are project materials or services under the specified Ministry or Organisation and requests that they be supplied free of VAT.
+      - question: |
+          Who is responsible for signing and stamping the certification document?
+        answer: |
+          The Permanent Secretary or Chief Executive Officer is responsible for signing and stamping the certification document.
+      - question: |
+          What precaution note is included regarding the validity of the certification?
+        answer: |
+          The precaution note states that the authority is only valid when tendered in its original form.
+      - question: |
+          What method of payment is specified in the document?
+        answer: |
+          The document specifies that payment should be made strictly by the recipient’s cheque(s).
+      - question: |
+          Under what conditions does the project or undertaking fall under the Ministry/Organisation?
+        answer: |
+          The project or undertaking falls under the Ministry/Organisation based on an agreement or license mentioned in the certification.
+  - context: |
+      license ................................................................................................................................................................... dated...........................................for (state the use of the goods/services) ....................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................... **WE DO CERTIFY** that the above information/data are correct. We undertake not to sell, transfer or dispose of in any way the said goods unless and until 3ps. VAT is fully paid. .................... ................................................... ..................................... ...................... **Date (Name of Authorized Officer) Signature Official Stamp** **PART B:** B(To be completed by the recommending Organisation/Ministry). This is to certify that (Name of project/undertaking)........................................................................................... .... .... ......................... is project/ undertaking which is under our Ministry/Organisation (name)........................................................................................................................................under the agreement/lisence ...................................................................................................................................... We do 4ps. confirm that the above goods/services are project materials/services and we request that they be supplied free of VAT. 4ps. 1ps. We undertake not to sell, transfer or dispose of in any way the said goods unless and until VAT is fully paid. .................... ................................................... ..................................... ...................... **Date (Name of Authorized Officer) Signature Official Stamp** **PART B:** B(To be completed by the recommending Organisation/Ministry). This
+    questions_and_answers:
+      - question: |
+          What is the purpose of the certification mentioned in the text?
+        answer: |
+          The certification confirms that the provided information is correct and that the goods will not be sold, transferred, or disposed of until VAT is fully paid.
+      - question: |
+          What specific action is required regarding VAT before disposing of the goods?
+        answer: |
+          The VAT must be fully paid before selling, transferring, or disposing of the goods.
+      - question: |
+          What is the role of the recommending Organisation/Ministry in PART B?
+        answer: |
+          The recommending Organisation/Ministry certifies that the goods or services are materials for a project or undertaking under their jurisdiction and requests that they be supplied without VAT.
+      - question: |
+          What additional assurance does the recommending Organisation/Ministry provide in PART B?
+        answer: |
+          The Organisation/Ministry undertakes not to sell, transfer, or dispose of the goods unless VAT is fully paid.
+      - question: |
+          What are the required components of the certification process in terms of documentation?
+        answer: |
+          The certification process requires the date, name of the authorized officer, their signature, and the organization's official stamp.
+  - context: |
+      - This Authority is only valid when tendered in its original form. - Payment should be made strictly by recipient’s cheque(s). **FOR OFFICIAL USE** (a) **Comments and Recommendation(s) by the Verification Officer:** ...................................................................................................................................................... ........................................................................................................................................... ....................................................................................................................................................................................................................................................................................................................................................................................................................................................... ......................... .................................................................................... **Date Name and Signature of the Verification Officer** (b) **Commissioner General’s Decision** Approval has been/not been granted for VAT relief to: ........................................................................................................................................................ ............................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................ .............................. ....................................................................... **Date 4ps. Signature and Stamp of the Commissioner General** **NOTE: This authority is valid for 30 days from the date of approval** Distribution: Original – Supplier of goods/services {To be retained for your record/ Verification by TRA} Duplicate – Applicant Triplicate – TRA Office Quadriplicate – recommending Ministry/ Organisation.
+    questions_and_answers:
+      - question: |
+          What is required for the authority to be considered valid?
+        answer: |
+          The authority is only valid when tendered in its original form.
+      - question: |
+          How should payment be made according to the context?
+        answer: |
+          Payment should be made strictly by recipient’s cheque(s).
+      - question: |
+          What is the validity period of this authority after approval?
+        answer: |
+          The authority is valid for 30 days from the date of approval.
+      - question: |
+          Who provides comments and recommendations in the verification process?
+        answer: |
+          Comments and recommendations are provided by the Verification Officer.
+      - question: |
+          How is the authority document distributed after approval?
+        answer: |
+          The distribution is as follows: Original to the supplier of goods/services, Duplicate to the applicant, Triplicate to the TRA Office, and Quadriplicate to the recommending ministry or organization.
+document_outline: |
+  **Document Outline:**
+  This document is the ITX263.02.E application form issued by the Tanzania Revenue Authority, designed for applicants requesting VAT relief. It focuses on the utilization of VAT exemptions for explorers, prospectors, and investors operating under specific licenses, including the Export Processing Zones Act and Special Economic Zones Act, and requires detailed information about the goods/services and their intended use.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - ITX263.02.E_-_Application_For_Utilization_Of_VAT_Relief.md

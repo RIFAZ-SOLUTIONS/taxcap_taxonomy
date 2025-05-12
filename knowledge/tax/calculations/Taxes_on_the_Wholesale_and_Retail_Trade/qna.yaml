@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Taxes on the Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles sector in Tanzania Here's a comprehensive list of 30 taxes, levies, duties, and customs that apply to the business activities in the Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles sector in Tanzania. Each item includes a description, the rate applicable, the law applicable, and an example to illustrate how it is calculated and applied. ## 1. Value Added Tax (VAT) -  Description: A tax on the value added at each stage of the production and distribution chain. -  Rate Applicable: 18% -  Law 2ps. Applicable: Value Added Tax Act, 2014 -  Example: If a motor vehicle is sold for TZS 10,000,000, the VAT would be 1,800,000 (10,000,000 * 18%). ## 2. Corporate Income Tax -  Description: Tax on the profits of incorporated businesses. -  Rate Applicable: 30% -  Law Applicable: Income Tax Act, 2004 -  Example: If a company's profit is TZS 50,000,000, the tax payable would be TZS 15,000,000 (50,000,000 * 30%). 2ps. 1ps. -  Rate Applicable: 18% -  Law Applicable: Value Added Tax Act, 2014 -  Example: If a motor vehicle is sold for TZS 10,000,000, the VAT would be 1,800,000 (10,000,000 * 18%). ## 2. Corporate Income Tax -  Description: Tax on the profits of incorporated businesses. -  Rate Applicable: 30% -  Law Applicable: Income
+    questions_and_answers:
+      - question: |
+          What is the rate of Value Added Tax (VAT) in Tanzania for the Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles sector?
+        answer: |
+          The rate of Value Added Tax (VAT) in Tanzania for this sector is 18%.
+      - question: |
+          Under which law is the Value Added Tax (VAT) governed in Tanzania?
+        answer: |
+          The Value Added Tax (VAT) is governed under the Value Added Tax Act, 2014.
+      - question: |
+          How is the Corporate Income Tax calculated for businesses in the Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles sector in Tanzania?
+        answer: |
+          Corporate Income Tax is calculated at a rate of 30% on the profits of incorporated businesses. For example, if a company's profit is TZS 50,000,000, the tax payable would be TZS 15,000,000.
+      - question: |
+          What does the term 'Value Added Tax (VAT)' mean in the context of this sector?
+        answer: |
+          Value Added Tax (VAT) is a tax applied on the added value at each stage of the production and distribution chain.
+      - question: |
+          Which law governs Corporate Income Tax for this sector in Tanzania?
+        answer: |
+          Corporate Income Tax is governed by the Income Tax Act, 2004.
+  - context: |
+      Tax Act, 2004 -  Example: If a company's profit is TZS 50,000,000, the tax payable would be TZS 15,000,000 (50,000,000 * 30%). ## 3. Import Duty -  Description: Tax on goods imported into Tanzania. -  Rate Applicable: Varies by product, generally 0%-25% -  Law 2ps. Applicable: East African Community Customs Management Act, 2004 -  Example: If importing motor vehicle parts worth TZS 1,000,000 with a duty rate of 20%, the duty would be TZS 200,000. ## 4. Excise Duty -  Description: Tax on specific goods and services like fuel, alcohol, and tobacco. 3ps. 1ps. ## 3. Import Duty -  Description: Tax on goods imported into Tanzania. -  Rate Applicable: Varies by product, generally 0%-25% -  Law Applicable: East African Community Customs Management Act, 2004 -  Example: If importing motor vehicle parts worth TZS 1,000,000 with a duty rate of 20%, the duty would be TZS 200,000. ## 4. Excise Duty -  Description: Tax on specific goods and services like fuel, alcohol, and tobacco. -  Rate Applicable: Varies; motor vehicle fuel 315 TZS per litre -  Law Applicable: Excise (Management and Tariff) Act, 2008 -  Example: For 1,000 litres of automotive fuel, the 2ps. duty is TZS 315,000 (1,000 * 315). ## 5. Withholding Tax on Services -  Description: Tax withheld at source on payments for specific services. -  Rate Applicable: 5%-10% -  Law
+    questions_and_answers:
+      - question: |
+          What is the corporate tax rate on profits according to the Tax Act, 2004?
+        answer: |
+          The corporate tax rate on profits is 30%, as shown in the example where a company's profit of TZS 50,000,000 results in a tax payable of TZS 15,000,000.
+      - question: |
+          What is the general range for import duty rates in Tanzania as per the East African Community Customs Management Act, 2004?
+        answer: |
+          The import duty rates generally range from 0% to 25%, depending on the product being imported.
+      - question: |
+          What would be the import duty on motor vehicle parts worth TZS 1,000,000 at a rate of 20%?
+        answer: |
+          The import duty would be TZS 200,000, calculated as TZS 1,000,000 multiplied by 20%.
+      - question: |
+          Which goods and services are subject to excise duty in Tanzania, and what is an example rate for automotive fuel?
+        answer: |
+          Excise duty applies to specific goods and services like fuel, alcohol, and tobacco. For automotive fuel, the rate is TZS 315 per litre.
+      - question: |
+          What is the range of withholding tax on services in Tanzania, and how is it collected?
+        answer: |
+          The withholding tax on services ranges from 5% to 10% and is collected at the source on payments made for specific services.
+  - context: |
+      Applicable: Income Tax Act, 2004 -  Example: On a TZS 1,000,000 maintenance service fee, 5% withholding tax is TZS 50,000. ## 6. Stamp Duty -  Description: Tax on certain legal documents and transactions. 4ps. 1ps. ## 5. Withholding Tax on Services -  Description: Tax withheld at source on payments for specific services. -  Rate Applicable: 5%-10% -  Law Applicable: Income Tax Act, 2004 -  Example: On a TZS 1,000,000 maintenance service fee, 5% withholding tax is TZS 50,000. ## 6. Stamp Duty -  Description: Tax on certain legal documents and transactions. -  Rate Applicable: Varies; typically TZS 500 to 10,000 -  Law Applicable: Stamp Duty Act, 1972 -  Example: For a sale agreement of TZS 10,000,000, the duty might be TZS 10,000. ## 7. Skills and Development Levy (SDL) -  Description: Levy on 2ps. gross emoluments paid to employees. -  Rate Applicable: 4% -  Law Applicable: Vocational Education and Training Act, 1994 -  Example: For TZS 10,000,000 in employee salaries, SDL is TZS 400,000 (10,000,000 * 4%). ## 8. Pay-As-You-Earn (PAYE) -  Description: Tax on employees' income withheld by employers. 5ps. 1ps. ## 7. Skills and Development Levy (SDL) -  Description: Levy on gross emoluments paid to employees. -  Rate Applicable: 4% -  Law Applicable: Vocational Education and Training Act, 1994 -  Example: For TZS 10,000,000 in employee salaries, SDL is
+    questions_and_answers:
+      - question: |
+          What is the rate of withholding tax on a maintenance service fee under the Income Tax Act, 2004?
+        answer: |
+          The withholding tax rate is 5%-10%, with an example of a 5% rate resulting in a TZS 50,000 tax on a TZS 1,000,000 maintenance service fee.
+      - question: |
+          Under which law is stamp duty regulated, and what is the typical range of rates?
+        answer: |
+          Stamp duty is regulated under the Stamp Duty Act, 1972, with rates typically ranging from TZS 500 to 10,000.
+      - question: |
+          How is the Skills and Development Levy (SDL) calculated and what is the applicable rate?
+        answer: |
+          The SDL is calculated at a rate of 4% on gross emoluments paid to employees. For example, TZS 10,000,000 in salaries would result in an SDL of TZS 400,000.
+      - question: |
+          What is the purpose of Pay-As-You-Earn (PAYE) tax?
+        answer: |
+          PAYE is a tax on employees' income that is withheld by employers.
+      - question: |
+          Can you provide an example of how stamp duty is applied to a sale agreement?
+        answer: |
+          For a sale agreement of TZS 10,000,000, the stamp duty might be TZS 10,000.
+  - context: |
+      An individual earning TZS 2,000,000 monthly might pay TZS 300,000 in income tax. ## 24. Local Government Levy -  Description: Levy imposed by local governments for services. -  Rate Applicable: Varies -  Law Applicable: Local Government Finance Act, 1982 -  2ps. Example: A shop might pay TZS 50,000 annually to the local council. ## 25. Capital Gains Tax -  Description: Tax on the profit from the sale of assets. -  Rate Applicable: 10% for residents, 30% for non-residents -  Law Applicable: Income Tax Act, 2004 -  Example: If an asset is sold for TZS 10,000,000 with a gain of TZS 2,000,000, the tax for a resident is TZS 200,000. 3ps. 1ps. -  Rate Applicable: Varies -  Law Applicable: Local Government Finance Act, 1982 -  Example: A shop might pay TZS 50,000 annually to the local council. ## 25. Capital Gains Tax -  Description: Tax on the profit from the sale of assets. -  Rate Applicable: 10% for residents, 30% for non-residents -  Law Applicable: Income Tax Act, 2004 -  Example: If an asset is sold for TZS 10,000,000 with a gain of TZS 2,000,000, the tax for a resident is TZS 200,000. ## 26. Vehicle Inspection Fee -  Description: Fee for mandatory vehicle inspections. -  Rate Applicable: Varies 2ps. by vehicle type -  Law Applicable: Road Traffic Act, 1973 -  Example:
+    questions_and_answers:
+      - question: |
+          What is the Local Government Levy, and how is it applied?
+        answer: |
+          The Local Government Levy is imposed by local governments for services, with rates that vary. It is governed by the Local Government Finance Act of 1982, and an example is a shop paying TZS 50,000 annually to the local council.
+      - question: |
+          What is the rate of Capital Gains Tax for residents and non-residents?
+        answer: |
+          The Capital Gains Tax rate is 10% for residents and 30% for non-residents, as outlined in the Income Tax Act of 2004.
+      - question: |
+          If a resident sells an asset with a gain of TZS 2,000,000, how much Capital Gains Tax would they pay?
+        answer: |
+          A resident would pay TZS 200,000 in Capital Gains Tax on a gain of TZS 2,000,000.
+      - question: |
+          What law governs the collection of Vehicle Inspection Fees and how do the rates vary?
+        answer: |
+          Vehicle Inspection Fees are governed by the Road Traffic Act of 1973, and the rates vary depending on the type of vehicle.
+      - question: |
+          How much income tax might an individual earning TZS 2,000,000 per month pay?
+        answer: |
+          An individual earning TZS 2,000,000 monthly might pay TZS 300,000 in income tax.
+  - context: |
+      1ps. 1ps. ## 9. Property Tax -  Description: Annual tax on property based on its value. -  Rate Applicable: Varies by municipality -  Law Applicable: Local Government Finance Act, 1982 -  Example: For a commercial property valued at TZS 50,000,000, a rate of 0.15% would be TZS 75,000 annually. ## 10. Customs Processing Fee -  Description: Fee for customs processing of imported goods. -  Rate Applicable: 0.6% of CIF value -  Law Applicable: East African Community Customs Management Act, 2004 -  Example: On goods valued at TZS 1,000,000 CIF, the fee is TZS 6,000. ## 11. Motor Vehicle License Fee - 2ps.  Description: Annual fee for motor vehicle licenses. -  Rate Applicable: Varies by vehicle type -  Law Applicable: Road Traffic Act, 1973 -  Example: For a private car, the fee might be TZS 150,000 annually. ## 12. Fuel Levy -  Description: Tax on fuel sold within the country. 2ps. 1ps. ## 11. Motor Vehicle License Fee -  Description: Annual fee for motor vehicle licenses. -  Rate Applicable: Varies by vehicle type -  Law Applicable: Road Traffic Act, 1973 -  Example: For a private car, the fee might be TZS 150,000 annually. ## 12. Fuel Levy -  Description: Tax on fuel sold within the country. -  Rate Applicable: 150 TZS per litre -  Law Applicable: Road and Fuel Tolls Act,
+    questions_and_answers:
+      - question: |
+          What is the basis for calculating property tax, and how does the rate vary?
+        answer: |
+          Property tax is an annual tax based on the value of the property, and the rate varies by municipality as per the Local Government Finance Act, 1982.
+      - question: |
+          How is the customs processing fee determined, and what legislation governs it?
+        answer: |
+          The customs processing fee is determined as 0.6% of the CIF value of imported goods, as stipulated in the East African Community Customs Management Act, 2004.
+      - question: |
+          What factors influence the motor vehicle license fee, and under which law is it regulated?
+        answer: |
+          The motor vehicle license fee varies by vehicle type and is regulated by the Road Traffic Act, 1973.
+      - question: |
+          What is the tax rate for the fuel levy, and which law governs its application?
+        answer: |
+          The fuel levy is taxed at a rate of 150 TZS per litre and is governed by the Road and Fuel Tolls Act.
+      - question: |
+          Can you provide an example of how property tax is calculated for a commercial property?
+        answer: |
+          For a commercial property valued at TZS 50,000,000, with a rate of 0.15%, the annual property tax would be TZS 75,000.
+document_outline: |
+  **Outline of Document:**
+  The document provides a detailed overview of the various taxes, levies, duties, and customs applicable to the Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles sector in Tanzania. It outlines 30 different charges, offering descriptions, applicable rates, relevant legal frameworks, and illustrative examples to demonstrate their calculation and application.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_the_Wholesale_and_Retail_Trade.md

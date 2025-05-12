@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Taxes on Electricity, gas, steam, and air conditioning supply sector Here is a comprehensive list of 30 taxes, levies, duties, and customs that a business or company in the Electricity, gas, steam, and air conditioning supply sector in Tanzania is obliged to pay, along with their descriptions, the applicable laws, the rates, and examples of how they are calculated: ## 1. Corporate Income Tax (CIT) - o Description : Tax on the company's profits. - o Law : Income Tax Act, 2004 - o Rate : 30% - o Example : If a company has a profit of TZS 1,000,000, the CIT would be 2ps. TZS 300,000 (1,000,000 * 30%). ## 2. Value Added Tax (VAT) - o Description : Tax on the value added to goods and services. - o Law : VAT Act, 2014 - o Rate : 18% - o Example : If a service costs TZS 1,000,000, the VAT would be TZS 180,000 (1,000,000 * 18%). ## 3. Withholding Tax (WHT) on Services - o Description : Tax withheld on payments for services. 2ps. 1ps. ## 2. Value Added Tax (VAT) - o Description : Tax on the value added to goods and services. - o Law : VAT Act, 2014 - o Rate : 18% - o Example : If a service costs TZS 1,000,000, the VAT would be TZS 180,000 (1,000,000 * 18%). ## 3. Withholding Tax (WHT) on Services -
+    questions_and_answers:
+      - question: |
+          What is the corporate income tax (CIT) rate for companies in the Electricity, gas, steam, and air conditioning supply sector in Tanzania?
+        answer: |
+          The corporate income tax (CIT) rate is 30% on the company's profits.
+      - question: |
+          Under which law is the Value Added Tax (VAT) governed for the Electricity, gas, steam, and air conditioning supply sector in Tanzania?
+        answer: |
+          Value Added Tax (VAT) is governed under the VAT Act, 2014.
+      - question: |
+          How is the Value Added Tax (VAT) calculated for a service costing TZS 1,000,000?
+        answer: |
+          The VAT would be TZS 180,000, calculated as 18% of TZS 1,000,000.
+      - question: |
+          What is the purpose of Withholding Tax (WHT) on services in this sector?
+        answer: |
+          The purpose of Withholding Tax (WHT) on services is to tax payments made for services by withholding a portion of the payment.
+      - question: |
+          Which law governs the Corporate Income Tax (CIT) in Tanzania for the Electricity, gas, steam, and air conditioning supply sector?
+        answer: |
+          The Corporate Income Tax (CIT) is governed under the Income Tax Act, 2004.
+  - context: |
+      1ps. 1ps. ## 27. Infrastructure Development Levy - o Description : Levy for infrastructure projects. - o Law : Infrastructure Development Levy Act, 2015 - o Rate : 1.5% of CIF value of imports. - o Example : For imports worth TZS 1,000,000, the levy would be TZS 15,000 (1,000,000 * 1.5%). ## 28. Solid Waste Management Fee - o Description : Fee for waste management services. - o Law : Environmental Management Act, 2004 - o Rate : Varies by waste type and volume. - o Example : TZS 30,000 for industrial waste. ## 29. Public Lighting Levy - o Description : Levy for public lighting 2ps. maintenance. - o Law : Local Government Finances Act, 1982 - o Rate : Varies by location. - o Example : TZS 10,000 per month for urban areas. ## 30. Emission Control Levy - o Description : Levy for air pollution control. - o Law : Environmental Management Act, 2004 - o Rate : Varies by emission level. - o Example : TZS 5,000 per ton of CO2 emitted. 2ps. 1ps. ## 30. Emission Control Levy - o Description : Levy for air pollution control. - o Law : Environmental Management Act, 2004 - o Rate : Varies by emission level. - o Example : TZS 5,000 per ton of CO2 emitted. This list includes taxes, levies, duties, and customs that a business or company in the specified sector must adhere to
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Infrastructure Development Levy as described in the context?
+        answer: |
+          The Infrastructure Development Levy is specifically for funding infrastructure projects.
+      - question: |
+          Under which law is the Solid Waste Management Fee governed, and what does it depend on for calculation?
+        answer: |
+          The Solid Waste Management Fee is governed by the Environmental Management Act, 2004, and its rate varies based on the type and volume of waste.
+      - question: |
+          What is an example of how the Public Lighting Levy is applied in urban areas?
+        answer: |
+          In urban areas, the Public Lighting Levy can cost TZS 10,000 per month.
+      - question: |
+          How is the rate of the Emission Control Levy determined, and can you provide an example?
+        answer: |
+          The rate of the Emission Control Levy is determined by the level of emissions, such as TZS 5,000 per ton of CO2 emitted.
+      - question: |
+          How is the Infrastructure Development Levy calculated for imports worth TZS 1,000,000?
+        answer: |
+          The levy is calculated at 1.5% of the CIF value, which means for imports worth TZS 1,000,000, the levy would be TZS 15,000.
+  - context: |
+      o Description : Tax withheld on payments for services. - o Law : Income Tax Act, 2004 - o Rate : 5% - o Example : If a company pays TZS 1,000,000 for services, the WHT would be TZS 50,000 (1,000,000 * 5%). ## 4. Skills and Development 2ps. Levy (SDL) - o Description : Levy for employee training and development. - o Law : Vocational Education and Training Act, 1994 - o Rate : 4.5% of the gross wage. - o Example : If the total wages are TZS 1,000,000, the SDL would be TZS 45,000 (1,000,000 * 4.5%). ## 5. Pay As You Earn (PAYE) - o Description : Tax on employee earnings. 3ps. 1ps. - o Law : Vocational Education and Training Act, 1994 - o Rate : 4.5% of the gross wage. - o Example : If the total wages are TZS 1,000,000, the SDL would be TZS 45,000 (1,000,000 * 4.5%). ## 5. Pay As You Earn (PAYE) - o Description : Tax on employee earnings. - o Law : Income Tax Act, 2004 - o Rate : Graduated scale from 9% to 30%. - o Example : If an employee earns TZS 1,000,000, the PAYE could range from TZS 90,000 to TZS 300,000 depending on the income bracket. ## 6. Excise Duty on Petroleum 2ps. Products - o Description : Tax on petroleum products. - o Law : Excise (Management and Tariff) Act, 1952
+    questions_and_answers:
+      - question: |
+          What percentage of payment for services is withheld as tax according to the Income Tax Act, 2004?
+        answer: |
+          The tax withheld is 5% of the payment for services under the Income Tax Act, 2004.
+      - question: |
+          How is the Skills and Development Levy (SDL) calculated and under which law is it governed?
+        answer: |
+          The SDL is calculated as 4.5% of the gross wage and is governed by the Vocational Education and Training Act, 1994.
+      - question: |
+          What is the tax rate range for Pay As You Earn (PAYE) and what law establishes it?
+        answer: |
+          The PAYE rate ranges from 9% to 30% based on a graduated scale, and it is established under the Income Tax Act, 2004.
+      - question: |
+          What example demonstrates the calculation of Withholding Tax (WHT) on services?
+        answer: |
+          If a company pays TZS 1,000,000 for services, the WHT would be TZS 50,000 (1,000,000 * 5%).
+      - question: |
+          Which law governs the Excise Duty on Petroleum Products and what does this tax apply to?
+        answer: |
+          The Excise Duty on Petroleum Products is governed by the Excise (Management and Tariff) Act, 1952, and it applies to petroleum products.
+  - context: |
+      1ps. 1ps. ## 12. Export Duty - o Description : Tax on exported goods. - o Law : East African Community Customs Management Act, 2004 - o Rate : Varies by product. - o Example : TZS 200 per ton for certain minerals. ## 13. Customs Processing Fee - o Description : Fee for customs processing. - o Law : East African Community Customs Management Act, 2004 - o Rate : 0.6% of CIF value. - o Example : For goods valued at TZS 1,000,000, the fee would be TZS 6,000 (1,000,000 * 0.6%). ## 14. Environmental Levy - o Description : Levy for environmental protection. - 2ps. o Law : Environmental Management Act, 2004 - o Rate : Varies by activity. - o Example : TZS 10,000 for waste disposal. ## 15. Property Tax - o Description : Tax on property ownership. - o Law : Local Government Finance Act, 1982 - o Rate : Varies by property value. - o Example : 0.15% of the property value. ## 16. Fire Inspection Fee - o Description : Fee for fire safety inspection. 2ps. 1ps. - o Law : Local Government Finance Act, 1982 - o Rate : Varies by property value. - o Example : 0.15% of the property value. ## 16. Fire Inspection Fee - o Description : Fee for fire safety inspection. - o Law : Fire and Rescue Force Act, 2007 - o Rate : Varies
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Export Duty mentioned in the context?
+        answer: |
+          The Export Duty is a tax on exported goods, as outlined in the East African Community Customs Management Act, 2004.
+      - question: |
+          How is the Customs Processing Fee calculated?
+        answer: |
+          The Customs Processing Fee is calculated as 0.6% of the CIF (Cost, Insurance, and Freight) value of goods; for example, goods valued at TZS 1,000,000 would incur a fee of TZS 6,000.
+      - question: |
+          Under which law is the Environmental Levy imposed, and what is its purpose?
+        answer: |
+          The Environmental Levy is imposed under the Environmental Management Act, 2004, and it serves as a levy for environmental protection.
+      - question: |
+          What legislation governs the Property Tax, and how is it determined?
+        answer: |
+          The Property Tax is governed by the Local Government Finance Act, 1982, and it is determined based on the value of the property, such as 0.15% of the property value.
+      - question: |
+          Which law regulates the Fire Inspection Fee, and what does it depend on?
+        answer: |
+          The Fire Inspection Fee is regulated under the Fire and Rescue Force Act, 2007, and its rate varies depending on the property value.
+  - context: |
+      by premises size. - o Example : TZS 50,000 for a medium-sized office. ## 17. Health and Safety Levy - o Description : Levy for workplace safety. - o Law : Occupational Health and Safety Act, 2003 - o Rate : Varies by industry. - o Example : TZS 20,000 2ps. for a factory. ## 18. National Social Security Fund (NSSF) - o Description : Social security contributions. - o Law : NSSF Act, 1997 - o Rate : 20% of employee's gross salary. - o Example : If an employee earns TZS 1,000,000, the contribution would be TZS 200,000 (1,000,000 * 20%). ## 19. Workers Compensation Fund (WCF) - o Description : Fund for employee injury compensation. 3ps. 1ps. - o Law : NSSF Act, 1997 - o Rate : 20% of employee's gross salary. - o Example : If an employee earns TZS 1,000,000, the contribution would be TZS 200,000 (1,000,000 * 20%). ## 19. Workers Compensation Fund (WCF) - o Description : Fund for employee injury compensation. - o Law : Workers Compensation Act, 2008 - o Rate : 1% of the total wage bill. - o Example : For total wages of TZS 1,000,000, the contribution would be TZS 10,000 (1,000,000 * 1%). ## 20. Corporate License Fee - o Description : Fee for business operation license. - o Law 2ps. : Business Activities Registration Act, 2007 - o Rate : Varies by business size. -
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Health and Safety Levy?
+        answer: |
+          The Health and Safety Levy is meant to ensure workplace safety as mandated by the Occupational Health and Safety Act, 2003.
+      - question: |
+          What percentage of an employee's gross salary is contributed to the National Social Security Fund (NSSF)?
+        answer: |
+          The contribution to the NSSF is 20% of an employee's gross salary, as required by the NSSF Act, 1997.
+      - question: |
+          Under which act is the Workers Compensation Fund (WCF) regulated, and what is its contribution rate?
+        answer: |
+          The Workers Compensation Fund is regulated under the Workers Compensation Act, 2008, and its contribution rate is 1% of the total wage bill.
+      - question: |
+          How does the Corporate License Fee vary for businesses?
+        answer: |
+          The Corporate License Fee varies based on the size of the business, as outlined by the Business Activities Registration Act, 2007.
+      - question: |
+          What is the required contribution for the Workers Compensation Fund (WCF) if the total wage bill is TZS 1,000,000?
+        answer: |
+          The required contribution for the Workers Compensation Fund is TZS 10,000, calculated as 1% of the total wage bill (1,000,000 * 1%).
+document_outline: |
+  **Document Outline:**
+  This document provides a detailed guide to the various taxes, levies, duties, and fees applicable to businesses in Tanzania’s Electricity, gas, steam, and air conditioning supply sector. It covers 30 different tax types, outlining their descriptions, legal frameworks, rates, and calculation examples to ensure businesses understand their financial and legal obligations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_Electricity.md

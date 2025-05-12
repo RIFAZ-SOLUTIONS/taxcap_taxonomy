@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. The Roads and Fuel Tolls Act [CAP. 220 R.E. 2019] ## THE UNITED REPUBLIC OF TANZANIA <!-- image --> CHAPTER 220 ## THE ROADS AND FUELS TOLLS ACT [PRINCIPAL LEGISLATION] REVISED EDITION 2019 This Edition of the Roads and Fuel Tolls Act, Cap. 220 up to and including 30 th November, 2019 and is printed under the authority of section 4 of the Laws Revision Act, Cap. 4. Dodoma, 30 th November, 2019 ADELARDUS L. KILANGI Attorney General PRINTED BY THE GOVERNMENT 2ps. PRINTER , DAR ES SALAAM -TANZANIA The Roads and Fuel Tolls Act [CAP. 220 R.E. 2019] 2 Section Title ## PART I PRELIMINARY PROVISIONS - 1. Short title and application. - 2. Omitted. - 3. Interpretation. \_\_\_\_\_\_\_\_ ## CHAPTER 220 \_\_\_\_\_\_\_\_\_ ## THE ROADS AND FUEL TOLLS ACT [PRINCIPAL LEGISLATION] ## ARRANGEMENT OF SECTIONS ## PART II ## THE ROADS FUND - 4. Establishment of Roads Fund. - 4A. Division of roads and fuel tolls. ## PART III ## THE BOARD AND THE ROADS FUND MANAGER (a) The Board - 5. Establishment of Board. 2ps. 1ps. - 4A. Division of roads and fuel tolls. ## PART III ## THE BOARD AND THE ROADS FUND MANAGER (a) The Board - 5. Establishment of Board. - (b) The Roads Fund Manager and Roads Fund Accountant - 6. Appointment of Roads Fund Manager and Roads Fund Accountant. 1 ## PART IV IMPOSITION OF ROADS AND FUEL TOLLS - 7. Imposition of tolls. - 8. Exemptions. ## PART V ADMINISTRATION AND COLLECTION - 9. Scheduled toll stations. - 10. Suit for recovery. - 11. Toll collectors. - 12. Issue of receipt. - 13. Power to inspect. - 14. Prohibited conduct. - 14A. 2ps. Misuse of Fund. - 15. Repealed. - 16. Regulations.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Roads and Fuel Tolls Act [CAP. 220 R.E. 2019]?
+        answer: |
+          The Roads and Fuel Tolls Act regulates the establishment and management of funds for roads and fuel tolls, including their administration, collection, and usage across Tanzania.
+      - question: |
+          What authority oversees the publication of the revised edition of this Act?
+        answer: |
+          The revised edition of the Act is printed under the authority of section 4 of the Laws Revision Act, Cap. 4.
+      - question: |
+          What does Section 4 of the Act address?
+        answer: |
+          Section 4 of the Act outlines the establishment of the Roads Fund.
+      - question: |
+          Which section covers the appointment of key personnel involved in managing the Roads Fund?
+        answer: |
+          Section 6 addresses the appointment of the Roads Fund Manager and the Roads Fund Accountant.
+      - question: |
+          What are some provisions under Part IV of the Act related to tolls?
+        answer: |
+          Part IV of the Act includes the imposition of tolls, exemptions, and details about prohibited conduct, along with regulations for administration and collection.
+  - context: |
+      1ps. 1ps. Notwithstanding section 4(3), the moneys collected as roads and fuel tolls on petrol and diesel shall be distributed as follows- - (a) Tanzania shillings 263 per litre imposed on petrol and diesel shall be deposited into the account of the Fund; and - (b) Tanzania shillings 50 per litre imposed on diesel and Tanzania shillings 50 imposed on petrol shall both be deposited into the National Water Investment Fund established under 2ps. the Water Supply and Sanitation Act. Act No. 11 of 1998 s.3 Establishment of Board Acts Nos. (2) Subject to paragraph (f) of subsection (1), the roads Minister shall call for nominations from the sectors, institutions or associations and on receiving the nominations, he shall publish a list of nominated members in one English and one Kiswahili local newspaper for persons wishing to object or comment on the nominations, to make such objections or comments to the roads Minister. - (3) Taking into account the objections and comments 3ps. in accordance with subsection (2), the roads Minister shall, by notice published in the Gazette , make the appointments. 2ps. 1ps. (2) Subject to paragraph (f) of subsection (1), the roads Minister shall call for nominations from the sectors, institutions or associations and on receiving the nominations, he shall publish a list of nominated members in one English and one Kiswahili local newspaper for persons wishing to object or comment on the nominations, to make such objections or comments to the roads Minister. - (3) Taking into account the objections and comments in accordance with subsection (2), the roads Minister shall, 2ps. by notice published in the Gazette , make the appointments.
+    questions_and_answers:
+      - question: |
+          How are the funds collected from petrol and diesel distributed according to the context?
+        answer: |
+          Tanzania shillings 263 per litre of petrol and diesel are deposited into the account of the Fund, while Tanzania shillings 50 per litre from both petrol and diesel are allocated to the National Water Investment Fund.
+      - question: |
+          What is the National Water Investment Fund, and under which act is it established?
+        answer: |
+          The National Water Investment Fund is established under the Water Supply and Sanitation Act, Act No. 11 of 1998.
+      - question: |
+          How does the roads Minister manage nominations for board appointments?
+        answer: |
+          The roads Minister calls for nominations from sectors, institutions, or associations, publishes the list of nominated members in one English and one Kiswahili local newspaper, and invites objections or comments from the public.
+      - question: |
+          What steps does the roads Minister take after receiving public objections and comments on nominees?
+        answer: |
+          The roads Minister considers the objections and comments and then makes the appointments by publishing a notice in the Gazette.
+      - question: |
+          In what languages must the list of nominated members for board appointments be published?
+        answer: |
+          The list of nominated members must be published in one English and one Kiswahili local newspaper.
+  - context: |
+      1ps. 1ps. Misuse of Fund Act No. 4 of 2018 s.56 ## Repealed Regulations Act No. 6 of 1998 s. 2 14A . Any person who misuses money deposited in the Fund upon conviction shall be liable to a fine equivalent to the amount misused or for imprisonment for a term of not less than five years or to both. ## 15 . Repealed by Act No.10 of 2015 s.130. 16. The Minister may, either of his own accord or upon advice by the Commissioner, make regulations, to be published in the Gazette - - (a) prescribing matters required or 2ps. permitted by this Act to be prescribed; - (b) providing in any other way for the better and more effective for carrying out of the purposes and provisions of this Act. [s. 2ps. 1ps. ## 15 . Repealed by Act No.10 of 2015 s.130. 16. The Minister may, either of his own accord or upon advice by the Commissioner, make regulations, to be published in the Gazette - - (a) prescribing matters required or permitted by this Act to be prescribed; - (b) providing in any other way for the better and more effective for carrying out of the purposes and provisions of this Act. [s. 11] \_\_\_\_\_\_\_\_\_\_\_\_ ## FIRST SCHEDULE \_\_\_\_\_\_\_\_\_\_\_\_ ## RATE OF TOLL PER VEHICLE OF VEHICLE REGISTRATION ( Made under section 7(5)) Act No. 2ps. 17 of 1995 s.31 | Vehicle | Vehicle 3ps. | Rate of Toll | |-----------|------------------------------------------------------------------------------------------------------------------------|----------------| | 1 | Cars, including saloon or estate cars not including combis, landrovers and similar vehicles | US dollars 3 | | 2 | Pickups and passenger carrying vehicles of 4ps.
+    questions_and_answers:
+      - question: |
+          What are the penalties for misusing money deposited in the Fund under the Misuse of Fund Act No. 4 of 2018 s.56?
+        answer: |
+          Anyone convicted of misusing money from the Fund is liable to a fine equivalent to the amount misused, imprisonment for at least five years, or both.
+      - question: |
+          What authority does the Minister have under Section 16 of the regulations?
+        answer: |
+          The Minister has the authority to make regulations, either independently or based on the advice of the Commissioner, to support the effective implementation of the Act. These regulations must be published in the Gazette.
+      - question: |
+          Which section of the Act allows for prescribing matters required for better implementation of the Act?
+        answer: |
+          Section 16 enables the Minister to prescribe matters for better and more effective implementation of the Act.
+      - question: |
+          What is the rate of toll for cars, including saloon and estate cars, as per the First Schedule under section 7(5)?
+        answer: |
+          The rate of toll for cars, including saloon and estate cars (excluding combis and landrovers), is 3 US dollars.
+      - question: |
+          What does it mean when a section is noted as repealed, such as Section 15 being repealed by Act No. 10 of 2015 s.130?
+        answer: |
+          When a section is noted as repealed, it means that the specific provision has been officially removed or annulled by subsequent legislation.
+  - context: |
+      1ps. 1ps. (2) This Act shall apply to all public roads in Tanzania. ## 2. Omitted. ## PART II THE ROADS FUND Establishment of Roads Fund Acts Nos. 6 of 1998 s. 2 11 of 1998 s. 3 14 of 2001 4 .-(1) There is hereby established a Fund to be known as the Roads Fund into which shall be paid all monies collected as roads and fuel tolls imposed on diesel and petrol, 2ps. transit fees, heavy vehicle licences, vehicle overloading fees, or from any other source at the rate or rates to be determined by Parliament from time to time. s. 24(c) 4 of 2018 s. 52 Division of road and fuel tolls Act No. 16 of 2015 s.43 Cap.272 - (2) All monies collected as roads and fuel tolls shall be deposited in the account of the Fund. 2ps. 1ps. ## PART II THE ROADS FUND Establishment of Roads Fund Acts Nos. 6 of 1998 s. 2 11 of 1998 s. 3 14 of 2001 4 .-(1) There is hereby established a Fund to be known as the Roads Fund into which shall be paid all monies collected as roads and fuel tolls imposed on diesel and petrol, transit fees, heavy vehicle licences, vehicle overloading fees, or from any other source at the rate or rates 2ps. to be determined by Parliament from time to time. - (3) At least ninety percent of the money deposited in the Fund shall be used for maintenance and emergency repair of classified roads and related administrative costs in the Mainland Tanzania in accordance with approved operational plans and budget of the road agency as approved by the Parliament.
+    questions_and_answers:
+      - question: |
+          What types of revenues are deposited into the Roads Fund established in Tanzania?
+        answer: |
+          The Roads Fund collects revenues from roads and fuel tolls on diesel and petrol, transit fees, heavy vehicle licenses, vehicle overloading fees, and other sources as determined by Parliament.
+      - question: |
+          What percentage of the Roads Fund must be used for maintenance and emergency repair of roads in Mainland Tanzania?
+        answer: |
+          At least ninety percent of the money deposited in the Roads Fund must be used for maintenance and emergency repair of classified roads and related administrative costs in Mainland Tanzania.
+      - question: |
+          Who determines the rates of tolls and fees collected for the Roads Fund in Tanzania?
+        answer: |
+          The rates of tolls and fees for the Roads Fund are determined by Parliament from time to time.
+      - question: |
+          Where are the monies collected as roads and fuel tolls deposited?
+        answer: |
+          All monies collected as roads and fuel tolls are deposited into the account of the Roads Fund.
+      - question: |
+          What is the purpose of the Roads Fund according to the context provided?
+        answer: |
+          The Roads Fund is established to finance the maintenance and emergency repair of classified roads, as well as related administrative costs, in accordance with the approved operational plans and budgets.
+  - context: |
+      1ps. 1ps. - (2) Every person or body of persons supplying fuel in bulk to a fuel filling station shall be a toll collector in Issue of receipt Act No. 6 of 1998 s.2 Power to inspect Acts Nos. 6 of 1998 s.2 14 of 2001 relation to that station, and shall collect from the owner or operator in the fuel filling station the roads and fuel tolls payable in respect of the fuel he supplies to him together with the payment due to him for the supply of the fuel. - (4) The amount of money subsequently realised as roads and 2ps. fuel tolls by the owner or operator of a fuel filling station paid upon purchase of fuel by owners or drivers of vehicles shall be retained by such owners or operators of a fuel filling station as refund for the money previously paid by him as roads and fuel tolls to the toll collector. 2ps. 1ps. 6 of 1998 s.2 14 of 2001 relation to that station, and shall collect from the owner or operator in the fuel filling station the roads and fuel tolls payable in respect of the fuel he supplies to him together with the payment due to him for the supply of the fuel. - (3) Subject to subsections (1) and (2), the collector shall pay over the roads and fuel tolls so collected to the Commissioner in such manner as the Minister may prescribe. - (5) The Commissioner may appoint in respect of 2ps. every scheduled toll station a station manager to be responsible for the management, conduct and supervision of the affairs of the toll station. [s. 7] - 12 .-(1) Every person collecting a toll under this Act shall forthwith issue a receipt or a ticket in the prescribed form.
+    questions_and_answers:
+      - question: |
+          Who is responsible for acting as a toll collector at a fuel filling station?
+        answer: |
+          Every person or body of persons supplying fuel in bulk to a fuel filling station is responsible for acting as the toll collector in relation to that station.
+      - question: |
+          What happens to the roads and fuel tolls collected by the owner or operator of a fuel filling station?
+        answer: |
+          The roads and fuel tolls collected by the owner or operator of a fuel filling station are retained as a refund for the money previously paid to the toll collector.
+      - question: |
+          What is the toll collector required to do with the tolls they collect?
+        answer: |
+          The toll collector is required to pay over the roads and fuel tolls they collect to the Commissioner as prescribed by the Minister.
+      - question: |
+          What is the role of a station manager at a scheduled toll station?
+        answer: |
+          The Commissioner may appoint a station manager for every scheduled toll station to manage, conduct, and supervise its affairs.
+      - question: |
+          What must every person collecting a toll do under this Act?
+        answer: |
+          Every person collecting a toll under the Act must issue a receipt or a ticket in the prescribed form immediately.
+document_outline: |
+  **Document Outline: The Roads and Fuel Tolls Act [CAP. 220 R.E. 2019]**
+  This document from the United Republic of Tanzania outlines the Roads and Fuel Tolls Act, revised as of November 30, 2019. It includes provisions for the establishment of the Roads Fund, the imposition and collection of road and fuel tolls, administrative structures such as the Board and Roads Fund Manager, exemptions, regulations, and definitions related to public road usage, toll collection, and road fund management.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - CHAPTER_220-THE__ROAD_AND_FUELS_TOLLS_ACT2019-01.md

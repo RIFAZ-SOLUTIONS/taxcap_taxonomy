@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      definition of 'application' given in the Law of Limitation Act I would agree with Mr. Maro that it is wide enough to include the filing of a Bill of Costs. 'Application' is defined as: * ^ ## "application" means an application made to a court, which is of, or in relation to any proceeding of, a civil nature;" &gt;/; ■ * A Bill of Costs is no doubt a prdceeclifi§ of a civil nature. It involves, as I have herein 3ps. before stated, the hearing of parties and a determination on the hearing. 3ps. 1ps. Going by the definition of 'application' given in the Law of Limitation Act I would agree with Mr. Maro that it is wide enough to include the filing of a Bill of Costs. 'Application' is defined as: * ^ ## "application" means an application made to a court, which is of, or in relation to any proceeding of, a civil nature;" &gt;/; ■ * A Bill of Costs is no doubt a prdceeclifi§ of a civil nature. I am of the settled mind that a Bill 2ps. of Costs does not fall under an application for enforcement of a court's decision. Though the matter in issue in the Ebeneza case supra ,was a Bill of Costs in the Court of Appeal, which set a time limit within which it had to be filed, by inference there also must be a time limit within which a
+    questions_and_answers:
+      - question: |
+          What is the definition of 'application' according to the Law of Limitation Act?
+        answer: |
+          'Application' is defined as an application made to a court, which is of, or in relation to any proceeding of, a civil nature.
+      - question: |
+          Why is a Bill of Costs considered a proceeding of a civil nature?
+        answer: |
+          A Bill of Costs is considered a proceeding of a civil nature because it involves the hearing of parties and a determination on the hearing.
+      - question: |
+          Does a Bill of Costs fall under an application for enforcement of a court's decision?
+        answer: |
+          No, a Bill of Costs does not fall under an application for enforcement of a court's decision.
+      - question: |
+          What inference can be made about time limits related to filing a Bill of Costs?
+        answer: |
+          By inference, there must be a time limit within which a Bill of Costs has to be filed, as indicated by the case involving the Court of Appeal.
+      - question: |
+          What was the relevance of the Ebeneza case in discussing the Bill of Costs?
+        answer: |
+          The Ebeneza case involved a Bill of Costs in the Court of Appeal, which highlighted that there is a time limit within which such a filing must occur.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT ARUSHA ## f CORAM: MUNUO. J.A.. KILEO. 3. A.. And MAN PI A. J. A.) CIVIL APPEAL NO. 25 OF 2010 M/S SOPA MANAGEMENT LIMITED.................................................... APPELLANT ## AND M/S TANZANIA REVENUE AUTHORITY..,......................................RESPONDENT (Appeal from the decision and order of the High Court of Tanzania at Arusha) (Chocha, 3.) Dated the 30th day of August 2007 in Civil Reference No 9 of 2006 ## JUDGMENT OF KILEO. J. A. (Under Rule 39 (3) of the Court of Appeal Rules, 2009) 29th February &amp; 05th March, 2012 ## KILEO, J. A. 2ps. On 10th June 2004 the Tanzania Revenue Authority who is the present respondent, filed a Bill of Costs (Taxation Cause No. 13 of 2004) in the High Court pursuant to Civil Cause No. 22 of 1998 of the High Court of Tanzania, Arusha Registry. The £illriwa$ filed three years and nine months from the date costs 3ps. were awarded. Ar preliminary objection was raised against the lodgment of the Bill on the ground that it was time barred. 2ps. 1ps. On 10th June 2004 the Tanzania Revenue Authority who is the present respondent, filed a Bill of Costs (Taxation Cause No. 13 of 2004) in the High Court pursuant to Civil Cause No. 22 of 1998 of the High Court of Tanzania, Arusha Registry. The £illriwa$ filed three years and nine months from the date costs 2ps. were awarded.
+    questions_and_answers:
+      - question: |
+          What was the main legal issue raised as a preliminary objection in this appeal?
+        answer: |
+          The main legal issue raised was that the Bill of Costs filed by the Tanzania Revenue Authority was time-barred because it was lodged three years and nine months after costs were awarded.
+      - question: |
+          Who were the appellant and respondent in Civil Appeal No. 25 of 2010?
+        answer: |
+          The appellant was M/S Sopa Management Limited, and the respondent was the Tanzania Revenue Authority.
+      - question: |
+          On what date was the Bill of Costs filed in the High Court by the Tanzania Revenue Authority?
+        answer: |
+          The Bill of Costs was filed on 10th June 2004.
+      - question: |
+          Which judge authored the judgment in this Court of Appeal case?
+        answer: |
+          The judgment was authored by Justice Kileo, J.A.
+      - question: |
+          What was the original High Court case associated with the Bill of Costs filed in 2004?
+        answer: |
+          The Bill of Costs was filed pursuant to Civil Cause No. 22 of 1998 of the High Court of Tanzania, Arusha Registry.
+  - context: |
+      Ar preliminary objection was raised against the lodgment of the Bill on the ground that it was time barred. The Taxing Master upheld the preliminary objection and dismissed it under section 3 (1) of the Law of Limitation Act. On a Reference to a judge, the Taxing Master's decision was reversed. In his ruling the judge stated: "Taxation of costs is only a step towards enforcement of the entire judgment. It is dependent 3ps. on the orders flowing from the judgment It cannot stand independently. Upon finding that taxation complements the judgment and or decree, Art. 3ps. 1ps. In his ruling the judge stated: "Taxation of costs is only a step towards enforcement of the entire judgment. It is dependent on the orders flowing from the judgment It cannot stand independently. Upon finding that taxation complements the judgment and or decree, Art. 20 of the 1 st Schedule, Part III of the Law of Limitation Act is of proper application for the purposes of computing limitation within which to process the bill o f costs. 2ps. The time provided for under this article is 12 years." Following the finding above an order was made for the hearing of the 'application' on merit. Being dissatisfied with this decision, the appellant, having obtained the requisite leave has come to this Court. The appellant who is represented by Mr. Maro, learned advocate has filed the following two grounds of appeal:1 j . -
+    questions_and_answers:
+      - question: |
+          What was the preliminary objection raised against the lodgment of the Bill?
+        answer: |
+          The preliminary objection was that the lodgment of the Bill was time barred under section 3 (1) of the Law of Limitation Act.
+      - question: |
+          What was the Taxing Master's decision regarding the preliminary objection?
+        answer: |
+          The Taxing Master upheld the preliminary objection and dismissed the Bill for being time barred.
+      - question: |
+          How did the judge's ruling differ from the Taxing Master’s decision?
+        answer: |
+          The judge reversed the Taxing Master’s decision, stating that taxation of costs is a step toward enforcing the judgment and that Article 20 of the 1st Schedule, Part III of the Law of Limitation Act, with a 12-year time limit, applies to the computation of limitation.
+      - question: |
+          What conclusion did the judge reach regarding taxation and its relation to judgments?
+        answer: |
+          The judge concluded that taxation complements the judgment or decree and is dependent on the orders flowing from the judgment, making it inapplicable for independent limitation computation.
+      - question: |
+          What recourse did the appellant take after the judge’s ruling?
+        answer: |
+          The appellant, represented by Mr. Maro, obtained the requisite leave and appealed to the Court, filing two grounds of appeal.
+  - context: |
+      Court for guidelines. 4ps. 1ps. Dr. Mapunda also kindly brought to Court's attention the provisions of item 2 (2) of the Third Schedule to the Cpurt of Appeal Rules which enjoins a party to file a Bill of Costs as soon practicable from the date of making the costs or within 21 days after a request in writing by the party liable. He asked the Court for guidelines. Item 20 of Part III of the Schedule to the Law of limitation Act provides: "20. 2ps. To enforce a judgment, decree or order of any court where the period of limitation is not provided for in this Act or any other written law ........................................................................... twelve years" And item 21 provides "21. Application under the Civil Procedure Code, the Magistrates' Courts Act or other written law for which no period of limitation is provided in this Act or any other written law................. /.sixty days" It is clear that 3ps. item 20 provides for the time within which a decision of the Court has to be enforced. 5ps. 1ps. Item 20 of Part III of the Schedule to the Law of limitation Act provides: "20. To enforce a judgment, decree or order of any court where the period of limitation is not provided for in this Act or any other written law ........................................................................... twelve years" And item 21 provides "21. The question that must be answered is whether the determination of a Bill
+    questions_and_answers:
+      - question: |
+          What does item 2 (2) of the Third Schedule to the Court of Appeal Rules require?
+        answer: |
+          It requires a party to file a Bill of Costs as soon as practicable from the date of making the costs or within 21 days after a written request by the party liable.
+      - question: |
+          What period of limitation does item 20 of Part III of the Schedule to the Law of Limitation Act provide?
+        answer: |
+          Item 20 provides a period of twelve years to enforce a judgment, decree, or order of any court where no other period is specified in the Act or any other written law.
+      - question: |
+          What period of limitation is specified in item 21 of the Law of Limitation Act for certain applications?
+        answer: |
+          Item 21 specifies a period of sixty days for applications under the Civil Procedure Code, the Magistrates' Courts Act, or other written laws where no specific period of limitation is provided.
+      - question: |
+          What is the relevance of item 20 in enforcing judicial decisions?
+        answer: |
+          Item 20 is relevant because it provides the timeframe within which a decision, judgment, or order of the Court must be enforced if no specific limitation period is otherwise provided.
+      - question: |
+          What question arises concerning the determination of a Bill of Costs?
+        answer: |
+          The question is whether the determination of a Bill of Costs falls under the provisions of the limitation periods outlined in the Law of Limitation Act or other applicable laws.
+  - context: |
+      1. That the High Court erred in 3ps. law in treating as and holding that a Bill o f Costs constitutes an application for execution. 4ps. 1ps. Following the finding above an order was made for the hearing of the 'application' on merit. Being dissatisfied with this decision, the appellant, having obtained the requisite leave has come to this Court. The appellant who is represented by Mr. Maro, learned advocate has filed the following two grounds of appeal:1 j . - 1. That the High Court erred in law in treating as and holding that a Bill o f Costs constitutes 2ps. an application for execution. - 2. That the High Court erred in law in holding that, Taxation Cause No. 13 o f2004 was not time barred. The respondent is represented by Dr. Angelo Mapunda, learned advocate. The bone of contention in this appeal centers on the question whether a Bill of Costs filed in the High Court falls under item 20 or item 21 of Part III of the Schedule to the Law of limitation Act. 5ps. 1ps. - 2. That the High Court erred in law in holding that, Taxation Cause No. 13 o f2004 was not time barred. The respondent is represented by Dr. Angelo Mapunda, learned advocate. The bone of contention in this appeal centers on the question whether a Bill of Costs filed in the High Court falls under item 20 or item 21
+    questions_and_answers:
+      - question: |
+          What was the primary legal issue raised by the appellant in this case?
+        answer: |
+          The primary legal issue raised was whether a Bill of Costs constitutes an application for execution and whether Taxation Cause No. 13 of 2004 was time-barred.
+      - question: |
+          What grounds of appeal did the appellant present to the court?
+        answer: |
+          The appellant presented two grounds of appeal: 1) that the High Court erred in holding that a Bill of Costs constitutes an application for execution, and 2) that the High Court erred in holding that Taxation Cause No. 13 of 2004 was not time-barred.
+      - question: |
+          Who represented the appellant and the respondent in this case?
+        answer: |
+          The appellant was represented by Mr. Maro, a learned advocate, while the respondent was represented by Dr. Angelo Mapunda, a learned advocate.
+      - question: |
+          What portion of the law was in contention regarding the Bill of Costs in this appeal?
+        answer: |
+          The contention was whether a Bill of Costs filed in the High Court falls under item 20 or item 21 of Part III of the Schedule to the Law of Limitation Act.
+      - question: |
+          Why did the appellant seek leave to bring the case to this Court?
+        answer: |
+          The appellant sought leave to appeal because they were dissatisfied with the High Court's decision, particularly its treatment of the Bill of Costs as an application for execution and the finding that Taxation Cause No. 13 of 2004 was not time-barred.
+document_outline: |
+  **Document Outline:**
+  This document presents the judgment of the Court of Appeal of Tanzania in Civil Appeal No. 25 of 2010 between M/S Sopa Management Limited (Appellant) and the Tanzania Revenue Authority (Respondent). The appeal arises from a dispute over whether a Bill of Costs is time-barred under the Law of Limitation Act, centering on whether such a Bill constitutes an application for execution of a judgment or is subject to different time limitations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Ms_Sopa_Management_Limited_vs_Ms_Tanzania_Revenue_Authority_(Civil_Appeal_25_of_2010)_2012_TZCA_226_(5_March_2012).md

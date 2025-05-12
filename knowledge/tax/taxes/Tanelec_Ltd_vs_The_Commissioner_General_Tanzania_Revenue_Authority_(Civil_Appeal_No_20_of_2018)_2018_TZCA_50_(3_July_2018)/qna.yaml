@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: lUMA, C.l .• MWARIJA, l.A. And MZIRAY,l.A.) CIVIL APPEAL NO 20 OF 2018 TAN ELEC LIM ITED •••••• 11 ••••••••• I ••••••••••••••••••••••••••••• 1 •• 1 ••••••••••• APPELLANT ## VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY •.••••••••.•.••••••.••••••••••.•••. ESPONDENT R (Appeal from the ludgment and Decree of the Tax Revenue Appeals Tribunal at Arusha) (Hon. G. l. K. Mjemmas, l.) dated the 4th day of December, 2017 in Income Tax Appeal Number 30 of 2016 ## RULING OF THE COURT 25th June, 2ps. &amp; 3rd JulYr 2018 ## lUMA, C.l.: The appellant TANELEC LIMITED (the taxpayer) is a limited liability company in the business of manufacturing and distribution of electrical transformers and switchgears. Its head quarters is in the city of Arusha. THE COMMISSIONER GENERAL (Tanzania Revenue Authority) (the respondent) is, on the other hand, a body corporate established under section 4 of the Tanzania Revenue Authority Act (Cap 399) for purposes of assessment and collection of 3ps. taxes and other revenues. 2ps. 1ps. The appellant TANELEC LIMITED (the taxpayer) is a limited liability company in the business of manufacturing and distribution of electrical transformers and switchgears. Its head quarters is in the city of Arusha. THE COMMISSIONER GENERAL (Tanzania Revenue Authority) (the respondent) is, on the other hand, a body corporate established under section 4 of the Tanzania Revenue Authority Act (Cap 399) for purposes of assessment and collection of taxes and other revenues. On 31 2ps. st December 2014 the respondent, acting under section 28 of the Value Added Tax Act, 1997, issued and served the appellant with a notice of Value Added Tax Certificate/Interest No. 429663074 for the years 2009 to 2012.
+    questions_and_answers:
+      - question: |
+          What is the primary business of Tanelec Limited, the appellant in this case?
+        answer: |
+          Tanelec Limited is a limited liability company engaged in the manufacturing and distribution of electrical transformers and switchgears.
+      - question: |
+          Who is the respondent in this case, and under which law is it established?
+        answer: |
+          The respondent is the Commissioner General of the Tanzania Revenue Authority, a body corporate established under section 4 of the Tanzania Revenue Authority Act (Cap 399).
+      - question: |
+          What specific action by the Tanzania Revenue Authority prompted the legal case?
+        answer: |
+          The Tanzania Revenue Authority issued and served Tanelec Limited with a Value Added Tax Certificate/Interest notice (No. 429663074) for the tax years 2009 to 2012 on December 31, 2014, under section 28 of the Value Added Tax Act, 1997.
+      - question: |
+          In which court and appeal number was this case heard?
+        answer: |
+          The case was heard in the Court of Appeal of Tanzania at Dodoma under Civil Appeal No. 20 of 2018.
+      - question: |
+          Who presided over the Tax Revenue Appeals Tribunal's judgment that was appealed in this case?
+        answer: |
+          The judgment appealed in this case was delivered by Hon. G. J. K. Mjemmas of the Tax Revenue Appeals Tribunal in Arusha.
+  - context: |
+      1ps. 1ps. Mr. Maro submitted that ideally, after the Board had called for the additional documents while composing its Judgment, the Board should have accorded the Appellant an opportunity to be heard before making comments and conclusions adverse to the appellant. In cementing his stand against the decision of the Board using extra documents and raising new issues without hearing the parties, Mr. Maro, cited to us several decisions where this Court has taken a firm stand to reiterate the 2ps. mandatory duty of courts to observe the rules of natural justice. It later transpired that the trial Judge did not decide the outcome of the case on the issues which were framed and submitted on by the parties, but on an issue which the trial Judge had framed suo motu. 2ps. 1ps. In cementing his stand against the decision of the Board using extra documents and raising new issues without hearing the parties, Mr. Maro, cited to us several decisions where this Court has taken a firm stand to reiterate the mandatory duty of courts to observe the rules of natural justice. It later transpired that the trial Judge did not decide the outcome of the case on the issues which were framed and submitted on by the parties, but on an issue 2ps. which the trial Judge had framed suo motu. The Court made the following observations which are pertinent to the instant appeal before us: " .. we wish to say that it is an elementary nd . a fundamental principle of determination of disputes between the parties that courts of law must limit themselves o the issues aised y the parties in the t r b pleadings as to act otherwise might well result in denying ny of the 3ps. arties he right to fair hearing.
+    questions_and_answers:
+      - question: |
+          What was Mr. Maro's main argument regarding the Board's decision-making process?
+        answer: |
+          Mr. Maro argued that the Board should have given the Appellant an opportunity to be heard before making comments and conclusions adverse to them, as the Board used extra documents and raised new issues without hearing the parties.
+      - question: |
+          What principle did Mr. Maro emphasize through his arguments and citations?
+        answer: |
+          Mr. Maro emphasized the mandatory duty of courts to observe the rules of natural justice, which require that all parties have a fair chance to present their case before decisions are made.
+      - question: |
+          What issue did the trial Judge focus on while deciding the case?
+        answer: |
+          The trial Judge based the decision on an issue that they had framed suo motu, rather than on the issues framed and submitted by the parties.
+      - question: |
+          What concern did the Court raise about deciding on issues not presented by the parties?
+        answer: |
+          The Court observed that courts must limit themselves to the issues raised by the parties in their pleadings, as addressing issues outside those could deny any party the right to a fair hearing.
+      - question: |
+          Why did the observations made by the Court relate specifically to the instant appeal?
+        answer: |
+          The observations highlighted the importance of adhering to fundamental principles of fair dispute resolution, which was pertinent to the appeal involving the Board's failure to ensure a fair hearing for the Appellant.
+  - context: |
+      1ps. 1ps. The case of SAMSON NG'WALIDA VS THE COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY, CIVIL APPEAL NO. 86 OF 2008 (unreported) is perhaps, a reminder to the Boards and Tribunals, that they too are bound by the constitutional principle of the right to be heard. On appeal, this Court stated: "The last ground of appeal is that the Tribunal in arriving at its decision that it had no jurisdiction to hear the appeal did not give the parties an opportunity 2ps. to be heard on the matter. This issue was raised by the Tax Revenue Appeals Tribunal suo motu and a decision made without hearing the parties. The case of Highlands Estate Ltd v. Kampuni ya Uchukuzi Dodoma Ltd &amp; Another, Civil Application No. 183 of 2004 (unreported) was cited to support the complainant by the appel/ant that the Tribunal erred in this respect On this ground of appeal there is no need to waste time. 2ps. 1ps. On appeal, this Court stated: "The last ground of appeal is that the Tribunal in arriving at its decision that it had no jurisdiction to hear the appeal did not give the parties an opportunity to be heard on the matter. This issue was raised by the Tax Revenue Appeals Tribunal suo motu and a decision made without hearing the parties. In the case of Highlands supra, the Court cited the case of VIP Engineering and Marketing Limited and Others Vs City Bank Tanzania 2ps. Limited, CA T Consolidated Civil References No 6, 7, and 8 of 2006 (unreported) to emphasize the importance of giving a party the right of hearing before making an adverse decision against that party.
+    questions_and_answers:
+      - question: |
+          What was the main issue raised in the case of SAMSON NG'WALIDA VS THE COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY?
+        answer: |
+          The main issue was that the Tax Revenue Appeals Tribunal decided it had no jurisdiction to hear the appeal without giving the parties an opportunity to be heard on the matter.
+      - question: |
+          What principle did the Court emphasize in its decision regarding the SAMSON NG'WALIDA case?
+        answer: |
+          The Court emphasized the constitutional principle of the right to be heard, highlighting that even Boards and Tribunals are bound by this principle before making adverse decisions.
+      - question: |
+          Which related case did the appellant cite to support the claim of a violation of the right to be heard?
+        answer: |
+          The appellant cited the case of Highlands Estate Ltd v. Kampuni ya Uchukuzi Dodoma Ltd & Another, Civil Application No. 183 of 2004, to support the claim.
+      - question: |
+          What precedent did the case of VIP Engineering and Marketing Limited and Others Vs City Bank Tanzania Limited establish applicable to the SAMSON NG'WALIDA case?
+        answer: |
+          The VIP Engineering case emphasized the importance of giving a party the right to be heard before making an adverse decision against them.
+      - question: |
+          What error did the Tax Revenue Appeals Tribunal make according to the Court in the SAMSON NG'WALIDA case?
+        answer: |
+          The Tribunal raised the jurisdiction issue suo motu and made a decision on it without hearing the parties, which violated the parties' right to a fair hearing.
+  - context: |
+      1ps. 1ps. .. " b Mr. Maro blamed the Tribunal for failing to rectify the fundamental error of denying the appellant its right to be heard by the Tribunal condon ng the decision of the Boa rd . i Mr. Maro also took particular exception to the Tribunal's holding that the Board has wide powers, including not being bound by a rules of evidence applicable to ordinary courts. Powers of the Board are neither 2ps. absolute nor arbitrary, but must be exercised judicially, Mr. Maro submitted. In so far as the learned advocate is concerned, the powers of the Board and the Tribunal when receiving evidence, is not as wide as suggested by the Tribunal in this appeal. He submitted that section 17(2) of the Tax Revenue Appeals Act, Cap 408 directs the Board and the Tribunal, when receiving evidence, they are to act as if they are ordinary courts exercising jurisdiction in 3ps. a civil case in accordance with the provisions of the Civil Procedure Code. 2ps. 1ps. Powers of the Board are neither absolute nor arbitrary, but must be exercised judicially, Mr. Maro submitted. In so far as the learned advocate is concerned, the powers of the Board and the Tribunal when receiving evidence, is not as wide as suggested by the Tribunal in this appeal. Mr. Maro urged us to find that the Board is not vested with such a wide power as to violate the principles of natural justice. For the respondent, Mr. Manyanga, urged the 2ps. Court to dismiss the appeal maintaining that it is devoid of merit.
+    questions_and_answers:
+      - question: |
+          What fundamental error did Mr. Maro accuse the Tribunal of committing?
+        answer: |
+          Mr. Maro accused the Tribunal of committing the error of denying the appellant its right to be heard and condoning the decision of the Board.
+      - question: |
+          What specific concern did Mr. Maro raise about the Tribunal's interpretation of the Board's powers?
+        answer: |
+          Mr. Maro took exception to the Tribunal's claim that the Board has wide powers, including not being bound by rules of evidence applicable to ordinary courts, and argued that these powers are neither absolute nor arbitrary and must be exercised judicially.
+      - question: |
+          What legal provision did Mr. Maro reference to dispute the Tribunal's view on evidentiary powers?
+        answer: |
+          Mr. Maro referenced section 17(2) of the Tax Revenue Appeals Act, Cap 408, which directs the Board and Tribunal to act as if they are ordinary courts exercising jurisdiction in a civil case according to the Civil Procedure Code.
+      - question: |
+          What principle did Mr. Maro argue the Board must respect when exercising its powers?
+        answer: |
+          Mr. Maro argued that the Board must respect the principles of natural justice and cannot exercise its powers in a way that violates these principles.
+      - question: |
+          What was Mr. Manyanga's position regarding the appeal?
+        answer: |
+          Mr. Manyanga urged the Court to dismiss the appeal, arguing that it was devoid of merit.
+  - context: |
+      1ps. 1ps. But the following day on 18/11/2016, while deliberating in the absence of parties, the Board invoked Rule 17(1) of the Tax Revenue Appeals Board Rules, 2001 and ordered the parties to submit new documents. Mr. Maro refuted the claim that the appellant was invited to deliberate on the documents. From our perusal of the record,we think Mr. Maro is right to express his deep concern over the way the Board, and later the Tribunal, 2ps. relied on documents the Board had received and acted on, while in the boardroom composing its judgment. Excerpts from the Judgment of the Board on pages 69 to 72 of the record of appeal, illustrate how the Board analysed the appellant's tax returns and invoices, casting doubt on such matters as the identity of the suppliers of management fees, nature of imported services which the appellant would probably have clarified had he been summoned for hearing. 2ps. 1ps. From submissions of the two learned counsel we feel obligated, before considering the opposing submissions on other grounds of appeal, to address ourselves first to the complaint over the denial of fundamental right of the appellant to be heard by the Board. From our perusal of the record,we think Mr. Maro is right to express his deep concern over the way the Board, and later the Tribunal, relied on documents the Board had received 2ps. and acted on, while in the boardroom composing its judgment. So adverse to the appellant was the analysis of the Board, that the Board made such conclusions as: ..
+    questions_and_answers:
+      - question: |
+          What action did the Board take on 18/11/2016 under Rule 17(1) of the Tax Revenue Appeals Board Rules, 2001?
+        answer: |
+          The Board ordered the parties to submit new documents while deliberating in the absence of the parties.
+      - question: |
+          What specific concern did Mr. Maro raise regarding the Board's deliberation process?
+        answer: |
+          Mr. Maro expressed deep concern over the Board and later the Tribunal relying on documents they received and analyzed while in the boardroom, without involving the appellant.
+      - question: |
+          What aspect of the appellant's tax records was questioned in the Board's judgment?
+        answer: |
+          The Board questioned the identity of the suppliers of management fees and the nature of imported services, which the appellant might have clarified if summoned for a hearing.
+      - question: |
+          Why did the court feel obligated to address the appellant’s complaint before other grounds of appeal?
+        answer: |
+          The court felt obligated because the complaint involved a fundamental right of the appellant—the denial of the right to be heard by the Board.
+      - question: |
+          What kind of conclusions did the Board reach in its analysis of the appellant’s tax returns and invoices?
+        answer: |
+          The Board's analysis led to adverse conclusions for the appellant, based on the documents they received and relied upon during their deliberations.
+document_outline: |
+  ### Document Outline
+  The document outlines the proceedings of a civil appeal case in the Court of Appeal of Tanzania involving TANELEC Limited (the appellant) and the Tanzania Revenue Authority (the respondent). The case centers on a dispute over the assessment and payment of Value Added Tax (VAT) on imported services for the years 2009–2012, with decisions from the Tax Revenue Appeals Board and Tribunal being contested, ultimately leading to further appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tanelec_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_20_of_2018)_2018_TZCA_50_(3_July_2018).md

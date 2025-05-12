@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - o Law : Customs Act, Cap 403. - o Rate : Varies depending on the product. - o Example Calculation : For goods exported worth TZS 200,000 with an export duty of 5%, the duty would be TZS 10,000 (5% of TZS 200,000). ## 5. Stamp Duty - o Description : Tax on legal documents such as contracts and deeds. - o Law : Stamp Duty Act, Cap 189. - o Rate : Varies based on the document and transaction value. - o Example Calculation : For a property sale document valued at TZS 50 million with a stamp duty rate of 2ps. 1%, the duty would be TZS 500,000 (1% of TZS 50 million). ## Other Taxes ## 1. Fuel Levy - o Description : Tax imposed on fuel products to fund infrastructure projects. - o Law : The Energy Act, 2003 and related regulations. - o Rate : 0.1 TZS per liter. - o Example Calculation : For 1,000 liters of petrol, the fuel levy would be TZS 100 (0.1 TZS per liter). 2ps. 1ps. - o Law : The Energy Act, 2003 and related regulations. - o Rate : 0.1 TZS per liter. - o Example Calculation : For 1,000 liters of petrol, the fuel levy would be TZS 100 (0.1 TZS per liter). ## 2. Road Toll - o Description : Fee charged for using certain roads or highways. - o Law :
+    questions_and_answers:
+      - question: |
+          What is the governing law for export duty under the Customs Act?
+        answer: |
+          The governing law for export duty is the Customs Act, Cap 403.
+      - question: |
+          How is the export duty calculated for goods worth TZS 200,000 with a rate of 5%?
+        answer: |
+          The export duty would be TZS 10,000, calculated as 5% of TZS 200,000.
+      - question: |
+          What types of documents are subject to stamp duty under the Stamp Duty Act?
+        answer: |
+          Legal documents such as contracts and deeds are subject to stamp duty under the Stamp Duty Act, Cap 189.
+      - question: |
+          How much would a fuel levy be for 1,000 liters of petrol based on the specified rate?
+        answer: |
+          The fuel levy would be TZS 100, calculated at 0.1 TZS per liter for 1,000 liters.
+      - question: |
+          What is the purpose of the fuel levy as described in the context?
+        answer: |
+          The fuel levy is imposed on fuel products to fund infrastructure projects.
+  - context: |
+      o Example Calculation : For a product priced at TZS 1 million before VAT, the VAT would be TZS 180,000 (18% of TZS 1 million). 4ps. 1ps. ## Indirect Taxes ## 1. Value-added Tax (VAT) - o Description : A consumption tax on the sale of goods and services. - o Law : Value Added Tax Act, Cap 148. - o Rate : 18%. - o Example Calculation : For a product priced at TZS 1 million before VAT, the VAT would be TZS 180,000 (18% of TZS 1 million). ## 2. Excise Duty - o Description : Tax on specific goods such as alcohol, tobacco, and fuel. - o Law : Excise Duty Act, Cap 147. - o Rate : Varies by product. - o Example Calculation : For a bottle 2ps. of alcohol costing TZS 10,000 with an excise duty rate of 50%, the excise duty would be TZS 5,000 (50% of TZS 10,000). ## 3. Import Duty - o Description : Tax on goods imported into Tanzania. - o Law : Customs Act, Cap 403. - o Rate : Varies depending on the product and trade agreements. 5ps. 1ps. - o Example Calculation : For a bottle of alcohol costing TZS 10,000 with an excise duty rate of 50%, the excise duty would be TZS 5,000 (50% of TZS 10,000). ## 3. Import Duty - o Description : Tax on goods imported into Tanzania. - o Law
+    questions_and_answers:
+      - question: |
+          What is the description of Value-Added Tax (VAT) according to the context?
+        answer: |
+          VAT is described as a consumption tax on the sale of goods and services.
+      - question: |
+          What is the VAT rate in Tanzania as outlined in the context?
+        answer: |
+          The VAT rate in Tanzania is 18%.
+      - question: |
+          How is excise duty defined, and which goods are typically subject to it?
+        answer: |
+          Excise duty is defined as a tax on specific goods such as alcohol, tobacco, and fuel.
+      - question: |
+          What law governs Import Duty in Tanzania?
+        answer: |
+          Import Duty in Tanzania is governed by the Customs Act, Cap 403.
+      - question: |
+          How is the VAT for a product priced at TZS 1 million calculated, and what is the result?
+        answer: |
+          The VAT is calculated as 18% of TZS 1 million, which results in TZS 180,000.
+  - context: |
+      amount would be TZS 1 million (5% of TZS 20 million). ## 5. Capital Gains Tax - o Description : Tax on the profit from the sale of assets such as property or shares. - o Law : Income Tax Act, Cap 332. - o Rate : 10%. 4ps. 1ps. - o Example Calculation : If an employee receives a car worth TZS 20 million as a benefit and the applicable fringe benefit rate is 5%, the taxable amount would be TZS 1 million (5% of TZS 20 million). ## 5. Capital Gains Tax - o Description : Tax on the profit from the sale of assets such as property or shares. - o Law : Income Tax Act, Cap 332. - o Rate : 10%. - o Example Calculation : If a company sells a piece of property for TZS 50 million that was bought for TZS 30 million, the capital 2ps. gain is TZS 20 million. The tax due would be TZS 2 million (10% of TZS 20 million). ## 6. Branch Tax - o Description : Tax imposed on the profits of a branch of a foreign company that is remitted abroad. - o Law : Income Tax Act, Cap 332. - o Rate : 10%. 5ps. 1ps. The tax due would be TZS 2 million (10% of TZS 20 million). ## 6. Branch Tax - o Description : Tax imposed on the profits of a branch
+    questions_and_answers:
+      - question: |
+          What is the taxable amount if an employee receives a car worth TZS 20 million as a fringe benefit and the fringe benefit rate is 5%?
+        answer: |
+          The taxable amount would be TZS 1 million, which is 5% of TZS 20 million.
+      - question: |
+          What is the Capital Gains Tax, and what assets does it typically apply to?
+        answer: |
+          Capital Gains Tax is a tax on the profit from the sale of assets such as property or shares.
+      - question: |
+          What is the legal framework governing Capital Gains Tax and its applicable rate?
+        answer: |
+          Capital Gains Tax is governed by the Income Tax Act, Cap 332, and the applicable rate is 10%.
+      - question: |
+          How is the Capital Gains Tax calculated if a company sells a property for TZS 50 million that it bought for TZS 30 million?
+        answer: |
+          The capital gain is TZS 20 million, and the tax due would be TZS 2 million (10% of TZS 20 million).
+      - question: |
+          What is a Branch Tax, and what is its applicable tax rate?
+        answer: |
+          Branch Tax is a tax on the profits of a branch of a foreign company that is remitted abroad, and its applicable rate is 10%.
+  - context: |
+      would be TZS 450,000 (4.5% of TZS 10 million). ## 3. Payroll Tax - o Description : A local tax imposed on businesses based on their payroll, often used to fund local services. - o Law : Local Government Revenue Act, Cap 290. - o Rate 2ps. : Varies by local authority regulations. - o Example Calculation : In a locality where the payroll tax rate is 1%, if a company's payroll is TZS 5 million, the tax would be TZS 50,000 (1% of TZS 5 million). ## 4. Fringe Benefits Tax - o Description : A tax on non-cash benefits provided by an employer to an employee. 3ps. 1ps. - o Law : Local Government Revenue Act, Cap 290. - o Rate : Varies by local authority regulations. - o Example Calculation : In a locality where the payroll tax rate is 1%, if a company's payroll is TZS 5 million, the tax would be TZS 50,000 (1% of TZS 5 million). ## 4. Fringe Benefits Tax - o Description : A tax on non-cash benefits provided by an employer to an employee. - o Law : Income Tax Act, Cap 332. - o Rate : Incorporated within the CIT regime, specific rates for different types of benefits may vary. - o 2ps. Example Calculation : If an employee receives a car worth TZS 20 million as a benefit and the applicable fringe benefit rate is 5%, the taxable
+    questions_and_answers:
+      - question: |
+          What is the Payroll Tax, and what is it used for?
+        answer: |
+          The Payroll Tax is a local tax imposed on businesses based on their payroll, and it is often used to fund local services.
+      - question: |
+          Under which legal framework is the Payroll Tax governed?
+        answer: |
+          The Payroll Tax is governed by the Local Government Revenue Act, Cap 290.
+      - question: |
+          How is the Payroll Tax rate determined, and can you provide an example calculation?
+        answer: |
+          The Payroll Tax rate varies by local authority regulations. For example, if the payroll tax rate is 1% in a locality and a company's payroll is TZS 5 million, the tax would be TZS 50,000.
+      - question: |
+          What is Fringe Benefits Tax, and how is it applied?
+        answer: |
+          Fringe Benefits Tax is a tax on non-cash benefits provided by an employer to an employee, with specific rates varying for different types of benefits.
+      - question: |
+          How does the Fringe Benefits Tax example calculate the tax on a car provided to an employee?
+        answer: |
+          If an employee receives a car worth TZS 20 million as a benefit and the applicable fringe benefit rate is 5%, the taxable amount would be TZS 1 million (5% of TZS 20 million).
+  - context: |
+      Road Toll Act, Cap 168. - o Rate : Varies by vehicle type and road. - o Example Calculation : For a truck using a toll road with a fee of TZS 20,000, the road toll would be TZS 20,000. ## 3. 2ps. Airport Service Charge - o Description : Fee for airport services, typically included in the ticket price. - o Law : Regulations by the Tanzania Civil Aviation Authority (TCAA). - o Rate : Varies based on the service and destination. 3ps. 1ps. ## 3. Airport Service Charge - o Description : Fee for airport services, typically included in the ticket price. - o Law : Regulations by the Tanzania Civil Aviation Authority (TCAA). - o Rate : Varies based on the service and destination. - o Example Calculation : For an international flight with a service charge of USD 50, the charge would be USD 50. ## 4. Tourism Development Levy - o Description : Levy on accommodation services to support tourism development. - o Law : Tourism Act, 2008. - o Rate : 1% of the total accommodation cost. - o Example Calculation : For 2ps. a hotel stay costing TZS 200,000, the levy would be TZS 2,000 (1% of TZS 200,000). ## 5. Withholding Tax - o Description : Tax withheld at source on various types of income. - o Law : Income Tax Act, Cap 332. - o Rate : 10% on dividends, 10%
+    questions_and_answers:
+      - question: |
+          What determines the rate of road tolls under the Road Toll Act, Cap 168?
+        answer: |
+          The rate of road tolls varies depending on the vehicle type and the specific road being used.
+      - question: |
+          Who regulates the airport service charge and where is it typically included?
+        answer: |
+          The airport service charge is regulated by the Tanzania Civil Aviation Authority (TCAA) and is typically included in the ticket price.
+      - question: |
+          What is the Tourism Development Levy, and how is its rate calculated?
+        answer: |
+          The Tourism Development Levy is a 1% levy on accommodation services to support tourism development. It is calculated as 1% of the total accommodation cost.
+      - question: |
+          Under the Income Tax Act, Cap 332, what is the withholding tax rate on dividends?
+        answer: |
+          The withholding tax rate on dividends under the Income Tax Act, Cap 332, is 10%.
+      - question: |
+          How would you calculate the Tourism Development Levy for a hotel stay costing TZS 200,000?
+        answer: |
+          For a hotel stay costing TZS 200,000, the Tourism Development Levy would be TZS 2,000, which is 1% of the total accommodation cost.
+document_outline: |
+  **Document Outline:**
+  The document provides a comprehensive overview of applicable taxes, duties, levies, and customs, detailing their descriptions, governing laws, applicable rates, and illustrative calculation examples. It is divided into two main sections—Corporate Taxes and Individual Taxes—with specific subsections covering various tax types such as income tax, payroll tax, skills and development levy, fringe benefits tax, capital gains tax, and branch tax.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Applicable_Taxes_Overview.md

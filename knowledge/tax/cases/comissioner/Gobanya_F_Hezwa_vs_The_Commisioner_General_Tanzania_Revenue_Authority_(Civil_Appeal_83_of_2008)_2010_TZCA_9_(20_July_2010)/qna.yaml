@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 20th &amp; 23r d July, 2010 ## LUANDA. J.A.: The above named appellant is dissatisfied with the finding of the High Court sitting at Mbeya in Civil Case.No. 2 of 2002. He duly processed his appeal by first lodging his notice of appeal and eventually on 23/11/2007 filed his appeal. ## IN THE COURT OF APPEAL OF TANZANIA AT MBEYA ## fCORAM: MUNUO. J.A.. LUANDA. J.A., And MJASIRI, J.A. CIVIL APPEAL NO. 83 OF 2008 GOBANYA F. HEZWA............................................................................ APPELLANT VERSUS THE COMMISIONER GENERAL TANZANIA REVENUE AUTHORITY...............................................RESPONDENTS ## (Appeal 2ps. from Judgment of the High Court of Tanzania at Mbeya) ## (Mrema. J.^ Dated the 20th day of September, 2007 in Civil Case No. 2 of 2002 ## RULING OF THE COURT On 7th March, 2008 the respondent filed a preliminary objection under the then Rule 100 of the Court of Appeal Rules, 1979 to the effect that the appeal is incompetent for failure to comply with Order XX, Rule 7 of the Civil Procedure Act, Cap 33. The above 3ps. stated Rule deals with decree. 2ps. 1ps. J.A.. LUANDA. J.A., And MJASIRI, J.A. CIVIL APPEAL NO. 83 OF 2008 GOBANYA F. HEZWA............................................................................ APPELLANT VERSUS THE COMMISIONER GENERAL TANZANIA REVENUE AUTHORITY...............................................RESPONDENTS ## (Appeal from Judgment of the High Court of Tanzania at Mbeya) ## (Mrema. When the matter came up for hearing, Mr. Evarist Mashiba, Legal Officer with the respondent informed the Court that their counsel has travelled outside
+    questions_and_answers:
+      - question: |
+          What was the appellant dissatisfied with in the context provided?
+        answer: |
+          The appellant, Gobanya F. Hezwa, was dissatisfied with the judgment of the High Court of Tanzania at Mbeya in Civil Case No. 2 of 2002.
+      - question: |
+          When did Gobanya F. Hezwa file his notice of appeal and appeal?
+        answer: |
+          He filed his notice of appeal prior to eventually filing his appeal on November 23, 2007.
+      - question: |
+          What was the respondent's preliminary objection to the appeal?
+        answer: |
+          The respondent filed a preliminary objection on March 7, 2008, stating that the appeal was incompetent for failure to comply with Order XX, Rule 7 of the Civil Procedure Act, Cap 33, which deals with decrees.
+      - question: |
+          Who were the Justices of Appeal presiding over Civil Appeal No. 83 of 2008?
+        answer: |
+          The Justices of Appeal presiding were Munuo, J.A., Luanda, J.A., and Mjasiri, J.A.
+      - question: |
+          What was the respondent's explanation for their counsel's absence during the hearing?
+        answer: |
+          Mr. Evarist Mashiba, a Legal Officer with the respondent, informed the Court that their counsel had traveled outside.
+  - context: |
+      the date o f compulsory retirem ent which is 3Cfh day 2ps. o f June, 2004. - Costs o f this suit paid by the defendant. - Any other order(s) this court deems fit to grant This case coming on this 2(fh day of September, 2007 for final disposal before Honorable A. C. Mrema, Judge in the presence o f the Plaintiff his Advocate Mr. Mashiba learned counsel for Tanzania Revenue Authority Defendant. 3ps. 1ps. - (c) An order that the Plaintiff was wrongfully retired by the Defendant. - (d) An order that the Plaintiff be reinstated in service at fu ll pay from the date o f retirem ent till the date o f compulsory retirem ent which is 3Cfh day o f June, 2004. - Costs o f this suit paid by the defendant. ## IT IS ORDERED that: For fairness and interest o f Justice, I hereby direct that PW1 submit 2ps. to Tanzania Revenue Authority his proper transport costs by 1st class train from Mwanza to Kigoma via Tabora and then by road to Makamba Village in Kasulu D istrict Such costs should include subsistence allowances as well as costs for the approved luggage. The rate should be those applicable in the market in 1999 when PW1 retired. I f the total costs for repatriation will surplus 3ps. (sic) the amount admitted to have been paid to PW1 when he vacated office, then the difference should
+    questions_and_answers:
+      - question: |
+          What was the compulsory retirement date mentioned in the case?
+        answer: |
+          The compulsory retirement date mentioned in the case was the 30th day of June, 2004.
+      - question: |
+          What orders were sought by the Plaintiff in relation to the Defendant?
+        answer: |
+          The Plaintiff sought an order declaring that he was wrongfully retired by the Defendant, reinstatement in service with full pay from retirement until the compulsory retirement date, and for the Defendant to pay the costs of the suit.
+      - question: |
+          Who presided over the case during its final disposal, and when did it occur?
+        answer: |
+          The case was presided over by Honorable A. C. Mrema, Judge, on the 26th day of September, 2007.
+      - question: |
+          What specific costs were directed to be paid to PW1, and under what conditions?
+        answer: |
+          PW1 was directed to be reimbursed for proper transport costs using a 1st class train from Mwanza to Kigoma via Tabora and by road to Makamba Village, including subsistence allowances and luggage costs. The rate was to align with market rates in 1999 when PW1 retired.
+      - question: |
+          What was specified regarding the calculation of repatriation costs?
+        answer: |
+          It was specified that if the total repatriation costs exceeded the amount already paid to PW1 when he vacated office, the Defendant should cover the difference.
+  - context: |
+      be paid to him forthwith. 4ps. 1ps. ## IT IS ORDERED that: For fairness and interest o f Justice, I hereby direct that PW1 submit to Tanzania Revenue Authority his proper transport costs by 1st class train from Mwanza to Kigoma via Tabora and then by road to Makamba Village in Kasulu D istrict Such costs should include subsistence allowances as well as costs for the approved luggage. The rate should be those applicable in 2ps. the market in 1999 when PW1 retired. As regards costs, I am o f the view that the nature o f the suit is not one justifying this court to order costs against the plaintiff who has lost the suit In sum the suit is hereby dismissed save for the exception on repatriation allowance as directed above. I make no order as to costs. GIVEN under my hand and the seal o f the Court this lSfh day o f 3ps. October, 2007. A.C. MREMA JUDGE Signed on 5t h day o f November, 2007 by Hon. 5ps. 1ps. As regards costs, I am o f the view that the nature o f the suit is not one justifying this court to order costs against the plaintiff who has lost the suit In sum the suit is hereby dismissed save for the exception on repatriation allowance as directed above. I make no order as to costs. GIVEN under my hand and the seal o
+    questions_and_answers:
+      - question: |
+          What specific transport costs is PW1 directed to submit to the Tanzania Revenue Authority?
+        answer: |
+          PW1 is directed to submit his transport costs for a 1st class train from Mwanza to Kigoma via Tabora and by road to Makamba Village in Kasulu District, including subsistence allowances and approved luggage costs.
+      - question: |
+          What time period's market rates should be used to calculate PW1's costs?
+        answer: |
+          The rates applicable in the market in 1999, the year PW1 retired, should be used to calculate the costs.
+      - question: |
+          Why did the court decide not to order costs against the plaintiff, despite the plaintiff losing the suit?
+        answer: |
+          The court decided not to order costs against the plaintiff because the nature of the suit did not justify such an order.
+      - question: |
+          What was the final ruling of the court regarding the suit?
+        answer: |
+          The court dismissed the suit, with the exception of the repatriation allowance for PW1 as directed, and made no order as to costs.
+      - question: |
+          On what date was the court judgment given and subsequently signed?
+        answer: |
+          The judgment was given on October 15, 2007, and signed on November 5, 2007, by Hon. A.C. Mrema, Judge.
+  - context: |
+      1ps. 1ps. Signed S. B. LUKELELWA JUDGE ## (Emphasis supplied) In the instant case the judgment was delivered on 20/9/2007; whereas the "decree" bears three different dates at different places as reproduced above. The decree was sealed on 19/10/2007 but was signed on 5/11/2007. Obviously, the date of the decree differs from the date the judgment was pronounced. Taking the "decree" as it is, it 2ps. is clear that the mandatory requirements of Order XX, Rule 7 of the Civil Procedure Code, Cap. 33 were not compHed with. We would have ended here. But we would like to point out, in passing, that even the decree itself was not substantially drawn in conformity with the forms in use under the Indian Code of Civil Procedure 1908 which are in force 3ps. in Tanzania by virtue of section 101(3) of the Civil Procedure Code, Cap. 33 as the same are yet to be replaced. 2ps. 1ps. We would have ended here. But we would like to point out, in passing, that even the decree itself was not substantially drawn in conformity with the forms in use under the Indian Code of Civil Procedure 1908 which are in force in Tanzania by virtue of section 101(3) of the Civil Procedure Code, Cap. 33 as the same are yet to 2ps. be replaced. The section reads: 101(3) All forms heretofore in use in connection with proceedings under the Indian Code of Civil Procedure,
+    questions_and_answers:
+      - question: |
+          What discrepancy is mentioned in the dates regarding the judgment and the decree in the case?
+        answer: |
+          The judgment was delivered on 20/9/2007, the decree was sealed on 19/10/2007, but it was signed on 5/11/2007, leading to inconsistency in the dates of the decree and the judgment.
+      - question: |
+          What mandatory requirement under Order XX, Rule 7 of the Civil Procedure Code was not complied with?
+        answer: |
+          The mandatory requirements of Order XX, Rule 7 of the Civil Procedure Code, Cap. 33, were not complied with regarding the decree.
+      - question: |
+          How does the decree fail to conform to procedural standards?
+        answer: |
+          The decree was not substantially drawn in conformity with the forms prescribed under the Indian Code of Civil Procedure 1908, which are still in use in Tanzania under section 101(3) of the Civil Procedure Code, Cap. 33.
+      - question: |
+          Why are forms from the Indian Code of Civil Procedure 1908 still relevant in Tanzania?
+        answer: |
+          Forms under the Indian Code of Civil Procedure 1908 are still relevant in Tanzania because they were adopted under section 101(3) of the Civil Procedure Code, Cap. 33, and have yet to be replaced.
+      - question: |
+          What section of the Civil Procedure Code, Cap. 33, extends the use of forms from the Indian Code of Civil Procedure to Tanzania?
+        answer: |
+          Section 101(3) of the Civil Procedure Code, Cap. 33, extends the use of forms from the Indian Code of Civil Procedure 1908 to Tanzania.
+  - context: |
+      1908, as in force in Tanzania shall, where applicable and subject to such variations as may be necessary, be deemed to be forms approved by the Chief Justice for use in connection with proceedings under this Code until replaced by forms prescribed or approved by the 3ps. Chief Justice under subsection(l). In Uniafrico case the Court reproduced a decree form and it reads:- ## DECREE IN ORIGINAL SUIT (ORDER 20, RULES 6,7) Title Claim for................... 3ps. 1ps. 33 as the same are yet to be replaced. The section reads: 101(3) All forms heretofore in use in connection with proceedings under the Indian Code of Civil Procedure, 1908, as in force in Tanzania shall, where applicable and subject to such variations as may be necessary, be deemed to be forms approved by the Chief Justice for use in connection with proceedings under this Code until replaced by forms 2ps. prescribed or approved by the Chief Justice under subsection(l). This suit coming this day for final disposal before..... in the presence o f......................for the p lain tiff and o f .......................... for the defendant, it is ordered and decreed that................................and the sum of Rs................. be paid by th e .............. to the .................................on account o f the costs o f this suit with interest thereon at the rate o f .............................. per cent per annum from this date to 3ps. the date o f realization. 4ps. 1ps. The section reads: 101(3) All
+    questions_and_answers:
+      - question: |
+          What is the main purpose of section 101(3) of the Indian Code of Civil Procedure, 1908, as applied in Tanzania?
+        answer: |
+          Section 101(3) ensures that the forms previously used under the Indian Code of Civil Procedure, 1908, as applied in Tanzania, remain valid and are deemed approved by the Chief Justice until they are replaced by officially prescribed or approved forms.
+      - question: |
+          What exception or condition is provided for the use of forms under section 101(3)?
+        answer: |
+          The forms are to be used where applicable and are subject to necessary variations until replaced by forms prescribed or approved by the Chief Justice.
+      - question: |
+          What procedural information is included in the sample decree provided in the Uniafrico case?
+        answer: |
+          The decree includes details such as the final disposal date, the presence of parties for both plaintiff and defendant, the ordered amount to be paid, and the applicable interest rate.
+      - question: |
+          What rule forms the basis of the decree title in the Uniafrico case?
+        answer: |
+          The decree title is based on Order 20, Rules 6 and 7 of the procedural code.
+      - question: |
+          Who has the authority to approve or prescribe replacement forms under section 101(3)?
+        answer: |
+          The Chief Justice has the authority to approve or prescribe replacement forms under section 101(3).
+document_outline: |
+  ### Document Outline
+  This document discusses a civil appeal case (Civil Appeal No. 83 of 2008) in the Court of Appeal of Tanzania involving appellant Gobanya F. Hezwa and respondent Tanzania Revenue Authority. The case focuses on a preliminary objection filed by the respondent regarding the competency of the appeal due to non-compliance with procedural requirements, specifically the improper dating and signing of a decree as mandated by Order XX, Rule 7 of the Civil Procedure Act, Cap 33. The document references relevant legal rules and precedents to support the arguments.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Gobanya_F_Hezwa_vs_The_Commisioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_83_of_2008)_2010_TZCA_9_(20_July_2010).md

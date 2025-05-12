@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: WAMBALI, J.A.. KOROSSO, 3.A. And RUMANYIKA. J.A.) CIVIL APPEAL NO. 192 OF 2021 COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY............ ...................... ........... APPELLANT VERSUS GEITA GOLD MINING LIMITED........................ ........................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Hassan A. Haji. Vice Chairman.) Dated the 16th day of November, 2020 in Tax Appeal No. 24 of 2020 ## JUDGMENT OF THE COURT 18th July &amp; 22n d September, 2022 ## WAMBALI. JA.: The appellant, Commissioner General Tanzania 2ps. Revenue Authority, issued to the respondent, Geita Gold Mining Limited a demand notice dated 23r d September, 2013 for payment of TZS. 1,208,568,508.00 for the months of July and August, being excise duty and fuel levy on gasoil fuel consumed by persons other than the respondent. It is on record that initially the said demand notice was not received by the respondent. In the premises, on 7t h August, 2017 the appellant re-sent the same demand notice to the respondent. 2ps. 1ps. 1,208,568,508.00 for the months of July and August, being excise duty and fuel levy on gasoil fuel consumed by persons other than the respondent. It is on record that initially the said demand notice was not received by the respondent. In the premises, on 7t h August, 2017 the appellant re-sent the same demand notice to the respondent. Upon receipt of the said demand notice the respondent instructed its bank, Ms. ECO BANK TANZANIA LIMITED to transfer the demanded sum, that is, TZS. 1,208,568,508.00 from its account number 0040015401701406 2ps. to the appellant's account held with the Bank of Tanzania. On 22n d August, 2017 the respondent notified the appellant concerning the payment.
+    questions_and_answers:
+      - question: |
+          Who is the appellant and respondent in Civil Appeal No. 192 of 2021?
+        answer: |
+          The appellant is the Commissioner General Tanzania Revenue Authority, and the respondent is Geita Gold Mining Limited.
+      - question: |
+          What was the amount demanded by the appellant from the respondent?
+        answer: |
+          The appellant demanded TZS. 1,208,568,508.00 for the months of July and August as excise duty and fuel levy on gasoil fuel consumed by persons other than the respondent.
+      - question: |
+          When did the Commissioner General first issue the demand notice to the respondent?
+        answer: |
+          The initial demand notice was dated 23rd September, 2013.
+      - question: |
+          How and when did the respondent address the payment after receiving the re-sent demand notice?
+        answer: |
+          After receiving the re-sent demand notice on 7th August, 2017, the respondent instructed ECO Bank Tanzania Limited to transfer TZS. 1,208,568,508.00 to the appellant's account at the Bank of Tanzania, notifying the appellant of the payment on 22nd August, 2017.
+      - question: |
+          Why did the appellant need to resend the demand notice to the respondent?
+        answer: |
+          The initial demand notice dated 23rd September, 2013 was not received by the respondent, prompting the appellant to resend it on 7th August, 2017.
+  - context: |
+      1ps. 1ps. In the event, she implored the Court to uphold the decision of the TRAT and dismiss the appeal with costs. We have carefully heard the submissions of the counsel for the parties and thoroughly scrutinized the materials in the record of appeal. We are satisfied that though the respondent responded to the demand notice from the appellant and paid TZS. 1,208,568,508.00 through its bank account, it is equally undisputed that the appellant had collected the same amount from the respondent's Escrow 2ps. Deposit Account as acknowledged in her letter (exhibit A-3) dated 17t h July, 2017. It is further noted from the evidence on record that in the said account, the respondent had a total deposit of TZS. 4,685,000,000.00 from which the appellant deducted TZS. 1,208,568,508.00 and TZS. 1,470,620,536.00 respectively, which brought the balance to TZS. 2,005,810,957.00. Parties are therefore not in dispute with regard to the exposed facts. However, they sharply disagree on whether the appropriated amount falls into the category of tax paid 3ps. in excess to bring the provisions of section 71(1), (2) and (3) of Cap. 2ps. 1ps. 1,470,620,536.00 respectively, which brought the balance to TZS. 2,005,810,957.00. Parties are therefore not in dispute with regard to the exposed facts. However, they sharply disagree on whether the appropriated amount falls into the category of tax paid in excess to bring the provisions of section 71(1), (2) and (3) of Cap. 438 into play. For clarity, the section provides as follows: "71(1) A person may apply to the Commissioner General for refund of tax paid in excess. - (2) The 2ps. application for refund shall be in writing, indicating the correct tax calculation and be supported by the documentary evidence to support the claim.
+    questions_and_answers:
+      - question: |
+          What was the total deposit in the respondent's escrow account before deductions?
+        answer: |
+          The total deposit in the respondent's escrow account before deductions was TZS. 4,685,000,000.00.
+      - question: |
+          What amounts did the appellant deduct from the respondent's escrow account, and what was the remaining balance?
+        answer: |
+          The appellant deducted TZS. 1,208,568,508.00 and TZS. 1,470,620,536.00 from the respondent's escrow account, leaving a remaining balance of TZS. 2,005,810,957.00.
+      - question: |
+          What is the main point of disagreement between the parties in this case?
+        answer: |
+          The main point of disagreement is whether the appropriated amount from the respondent's account falls into the category of tax paid in excess, triggering the provisions of section 71(1), (2), and (3) of Cap. 438.
+      - question: |
+          What does section 71(1) of Cap. 438 stipulate?
+        answer: |
+          Section 71(1) of Cap. 438 states that a person may apply to the Commissioner General for a refund of tax paid in excess.
+      - question: |
+          What requirements are specified in section 71(2) of Cap. 438 for applying for a tax refund?
+        answer: |
+          Section 71(2) of Cap. 438 specifies that the application for a tax refund must be in writing, indicate the correct tax calculation, and be supported by documentary evidence to substantiate the claim.
+  - context: |
+      1ps. 1ps. Ultimately, the respondent prayed the TRAB to direct the appellant to offset the demanded amount against the amount already recovered from her Escrow Deposit Account and to refund the amount that was paid under protest. The said appeal was strongly contested by the appellant who prayed that the same should be dismissed and the respondent be ordered to pay the excise duty and fuel levy previously demanded by her. The TRAB heard arguments by the parties and in the end, 2ps. it decided in favour of the respondent. Particularly, it ordered the appellant to offset the demanded amount already recovered from the respondent's Escrow Deposit Account which is TZS. 1,470,620,536.00 and refund the amount that was paid under protest by the sum of TZS. 1,208,568,508.00. Apparently, though the appellant admitted that the respondent paid TZS. 1.208.568.508.00 on 11th August, 2017 as outstanding excise duty and fuel levy for the diverted fuel as per 3ps. the demand notice dated 23r d September, 2013, she maintained that she could not offset that amount from TZS. 2ps. 1ps. 1,208,568,508.00. Apparently, though the appellant admitted that the respondent paid TZS. 1.208.568.508.00 on 11th August, 2017 as outstanding excise duty and fuel levy for the diverted fuel as per the demand notice dated 23r d September, 2013, she maintained that she could not offset that amount from TZS. 1.470.620.536.00 as the two amounts were distinct and the procedure for claiming refund of duplicated or overpaid taxes required the respondent to make a formal application as the law does not allow 2ps. offsetting of figures in two distinct transactions. Therefore, the appellant strongly emphasized that the said amount paid by the respondent was legally justified and that it did not amount to double taxation.
+    questions_and_answers:
+      - question: |
+          What relief did the respondent pray for in the case brought before the TRAB?
+        answer: |
+          The respondent prayed for the TRAB to direct the appellant to offset the demanded amount against the amount already recovered from her Escrow Deposit Account and to refund the amount that was paid under protest.
+      - question: |
+          What was the outcome of the TRAB's decision in the case?
+        answer: |
+          The TRAB decided in favor of the respondent, ordering the appellant to offset TZS 1,470,620,536.00 from the respondent's Escrow Deposit Account and refund the respondent the amount of TZS 1,208,568,508.00 that was paid under protest.
+      - question: |
+          How much did the respondent pay on August 11, 2017, and for what reason?
+        answer: |
+          The respondent paid TZS 1,208,568,508.00 on August 11, 2017, as outstanding excise duty and fuel levy for the diverted fuel as per the demand notice dated September 23, 2013.
+      - question: |
+          What was the appellant's argument regarding the offset of the two amounts?
+        answer: |
+          The appellant argued that the amounts of TZS 1,208,568,508.00 and TZS 1,470,620,536.00 were distinct and could not be offset, as the law required a formal application for a refund of overpaid taxes and did not allow offsetting figures from distinct transactions.
+      - question: |
+          Why did the appellant believe that the payment made by the respondent was legally justified?
+        answer: |
+          The appellant maintained that the payment was legally justified because it was required for outstanding excise duty and fuel levy and did not constitute double taxation according to the procedures established by law.
+  - context: |
+      1ps. 1ps. 438") which sets the procedure and requirement for a taxpayer who claims refund for the amount of money paid in excess or double payment to apply formally to the Commissioner General within the prescribed time. He argued further that though the appellant does not dispute the fact that the respondent had paid the demanded amount of TZS. 1,208,568,580.00 and that TZS. 1,470,620,596.00 had also been deducted from the respondent's Escrow Deposit Account in which the earlier demanded amount was inclusive, the truth 2ps. remains that the tax was paid in excess to bring the provisions of section 71 (1) and (2) into play. In essence, he submitted that following the excess payment, the respondent was bound to comply with the requirement therein by applying to the Commissioner General for refund. He added that it was in compliance with that provisions that according to exhibit A-3 contained in the record of appeal, initially the respondent made an attempt 3ps. to apply for refund of T7S. 2ps. 1ps. 1,470,620,596.00 had also been deducted from the respondent's Escrow Deposit Account in which the earlier demanded amount was inclusive, the truth remains that the tax was paid in excess to bring the provisions of section 71 (1) and (2) into play. In essence, he submitted that following the excess payment, the respondent was bound to comply with the requirement therein by applying to the Commissioner General for refund. 1,470,620,596.00 from the Commissioner General 2ps. on 12t h July, 2018, but it was not completed on account of not being supported by tax calculations and documentary evidence as required by the law. He added that though there is no evidence that the respondent also attempted to apply for the refund of TZS. 1,208,568,580.
+    questions_and_answers:
+      - question: |
+          What procedure must a taxpayer follow to claim a refund for excess or double tax payments?
+        answer: |
+          A taxpayer must formally apply to the Commissioner General within the prescribed time as outlined in the relevant legal provisions for refunds.
+      - question: |
+          What is the total amount that had been deducted from the respondent's Escrow Deposit Account?
+        answer: |
+          The total amount deducted from the respondent's Escrow Deposit Account was TZS 1,470,620,596.00.
+      - question: |
+          Why was the respondent's initial refund application for TZS 1,470,620,596.00 not completed?
+        answer: |
+          The refund application was not completed because it lacked supporting tax calculations and documentary evidence required by law.
+      - question: |
+          Which legal provisions were cited regarding the issue of excess tax payments?
+        answer: |
+          The provisions of section 71 (1) and (2) were cited regarding the issue of excess tax payments.
+      - question: |
+          Did the respondent make any attempt to apply for a refund of TZS 1,208,568,580.00?
+        answer: |
+          No, there is no evidence that the respondent attempted to apply for a refund of TZS 1,208,568,580.00.
+  - context: |
+      1ps. 1ps. 438. We hold this firm view because a close reading of subsection (2) of that section pre supposes that in the wake of the dispute between the taxpayer and the taxing authority with regard to tax paid in excess because of erroneous calculations/assessment, mistake or inadvertence, the applicant for the refund of the tax paid in excess must clearly indicate in the application the correct tax calculations and support it with the requisite documentary evidence. 2ps. There is also no contention that the respondent paid the tax by mistake or inadvertence. The dispute is whether despite the settlement of the demanded payment, the respondent's appropriated funds from her Escrow Deposit Account by the appellant falls into the category of tax paid in excess as envisaged by the provisions of section 71(1) of Cap 438. It is on record that the respondent did not dispute the correctness of the calculations/assessment of the claimed tax which she readily paid as demanded by 3ps. the appellant without reservation. 2ps. 1ps. In the appeal at hand, parties are not in dispute concerning the correct tax calculations/assessment of the tax which was paid by the respondent at all. There is also no contention that the respondent paid the tax by mistake or inadvertence. We are therefore of the settled view that, as the appropriated amount of funds from the Escrow Deposit Account was not the tax paid in excess by the respondent as envisaged by subsection (1) 2ps. of section 71 of Cap. 438, she cannot validly apply to the Commissioner General for refund by showing correct tax calculations supported by documentary evidence as required by the provisions of subsection (2) of section 71.
+    questions_and_answers:
+      - question: |
+          What must an applicant provide when applying for a tax refund under subsection (2) of section 71 of Cap. 438?
+        answer: |
+          The applicant must clearly indicate the correct tax calculations and support the application with requisite documentary evidence.
+      - question: |
+          What is the dispute in the case regarding the respondent's Escrow Deposit Account funds?
+        answer: |
+          The dispute is whether the appellant's appropriation of funds from the respondent's Escrow Deposit Account qualifies as tax paid in excess under section 71(1) of Cap. 438.
+      - question: |
+          Did the respondent dispute the tax calculations or assessment of the claimed tax?
+        answer: |
+          No, the respondent did not dispute the correctness of the tax calculations or assessment and paid the claimed tax as demanded without reservation.
+      - question: |
+          Why does the court believe the respondent cannot apply for a tax refund under section 71(1) of Cap. 438?
+        answer: |
+          The court believes the respondent cannot apply for a refund because the appropriated funds from the Escrow Deposit Account were not tax paid in excess as envisaged by subsection (1) of section 71.
+      - question: |
+          What is the court's view on whether the tax was paid by mistake or inadvertence in this case?
+        answer: |
+          The court holds the view that there is no contention that the tax was paid by mistake or inadvertence.
+document_outline: |
+  **Document Outline:**
+  This legal document pertains to Civil Appeal No. 192 of 2021 in the Court of Appeal of Tanzania, involving the Commissioner General of the Tanzania Revenue Authority (Appellant) and Geita Gold Mining Limited (Respondent). The appeal originates from a dispute over double taxation and refunds related to excise duty and fuel levy payments, which were previously addressed by the Tax Revenue Appeals Board (TRAB) and the Tax Revenue Appeals Tribunal, both ruling in favor of the respondent.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Commissioner_General_Tanzania_Revenue_Authority_vs_Geita_Gold_Mining_Limited_(Civil_Appeal_192_of_2021)_2022_TZCA_567_(22_September_2022).md

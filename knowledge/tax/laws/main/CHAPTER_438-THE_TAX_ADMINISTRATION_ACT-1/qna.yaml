@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## (c) Assessment of Interest and Penalties - 81. Assessment of interest and penalties. ## (d) Offences - 82. Offence for failing to comply with tax law. - 83. Offence for failing to pay tax. - 84. Offence for making or using false or misleading statements. or documents. - 85. Offence for impeding tax administration. - 86. Offence for failing to use electronic fiscal device. - 87. Offences by authorised and unauthorised persons. - 88. Offences by entities. - 88A. Obligation to pay tax not affected by conviction or compoundment. - 88B. General penalty. - 2ps. 89. Offence for aiding or abetting. - 90. VAT offences. - 91. Stamp duty offences. - 92. Compounding offences. - 92A. Collection of fine. ## PART XI TAX PROCEEDINGS - 93. Multiple proceedings. - 94. Power of search, seizure and arrest. - 95. Search without warrant. - 96. Provision of Security. - 97. Publication of offenders. - 98. Regulations. - 99. Amendments by Minister. ## PART XII ## TRANSITION AND SAVINGS PROVISIONS - 100. Transition and savings provisions. 101-170 Omitted. 2ps. 1ps. - 99. Amendments by Minister. ## PART XII ## TRANSITION AND SAVINGS PROVISIONS - 100. Transition and savings provisions. 101-170 Omitted. \_\_\_\_\_\_\_\_ ## SCHEDULES \_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_ ## CHAPTER 438 \_\_\_\_\_\_\_ ## THE TAX ADMINISTRATION ACT An Act to consolidate provisions relating to tax administration with a view to easing the administration of tax and enforcement of tax laws by the Tanzania Revenue Authority; to introduce currency point system in tax administration; and to provide matters incidental thereto. [ 1 st August, 2015] [GN No.304 of 2015] Acts Nos. 10 of 2015 2 of 2016 4 of 2017 7 of 2017 4 of 2018 8 of 2ps. 2019 Short title Application Interpretation Acts Nos. 7 of 2017 s.
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Tax Administration Act mentioned in the context?
+        answer: |
+          The Tax Administration Act aims to consolidate provisions related to tax administration to facilitate the administration and enforcement of tax laws by the Tanzania Revenue Authority and introduce a currency point system in tax administration.
+      - question: |
+          What is Section 88A of the Tax Administration Act about?
+        answer: |
+          Section 88A states that the obligation to pay tax is not affected by a conviction or compoundment of an offence.
+      - question: |
+          What powers are granted under Section 94 of the Tax Administration Act?
+        answer: |
+          Section 94 grants the power of search, seizure, and arrest to aid in tax administration and enforcement.
+      - question: |
+          Which section addresses the publication of tax offenders?
+        answer: |
+          Section 97 addresses the publication of tax offenders.
+      - question: |
+          When did the Tax Administration Act officially come into effect?
+        answer: |
+          The Tax Administration Act officially came into effect on 1st August 2015.
+  - context: |
+      1ps. 1ps. - (4) For purposes of determining whether or not a statement is made to a tax officer, or when such statement is considered to be false or misleading in material particular, the provisions of section 79(4) and (5) shall apply. - Offence for impeding tax administration .-(1) A person who impedes or attempts to impede the administration of a tax law commits an - 85 offence. - (2) 2ps. The person who commits an offence under this section shall be liable, on conviction- - (a) where the offence involves fraud or undue force, to a fine of twice the amount sought to be evaded or recovered or 200 currency points, whichever is greater or imprisonment for a term of not less than two years and not more than four years, or to both; and - (b) in any other case, to a fine of not less than 10 currency 3ps. points and not more than 200 currency points or imprisonment for a term of not more than two years, or to both. 2ps. 1ps. - (4) For purposes of determining whether or not a statement is made to a tax officer, or when such statement is considered to be false or misleading in material particular, the provisions of section 79(4) and (5) shall apply. - Offence for impeding tax administration .-(1) A person who impedes or attempts to impede the administration of a tax law commits an - 85 offence. - (3) 2ps.
+    questions_and_answers:
+      - question: |
+          What provisions determine whether a statement to a tax officer is considered false or misleading?
+        answer: |
+          The provisions of section 79(4) and (5) determine whether a statement to a tax officer is considered false or misleading in a material particular.
+      - question: |
+          What is the offence described under the section related to impeding tax administration?
+        answer: |
+          The offence involves impeding or attempting to impede the administration of a tax law.
+      - question: |
+          What are the penalties for an offence involving fraud or undue force under this provision?
+        answer: |
+          The penalties include a fine of twice the amount sought to be evaded or recovered, or 200 currency points (whichever is greater), imprisonment for a term of 2 to 4 years, or both.
+      - question: |
+          What are the penalties for offences that do not involve fraud or undue force?
+        answer: |
+          The penalties include a fine of 10 to 200 currency points, imprisonment for a term not exceeding 2 years, or both.
+      - question: |
+          Under what conditions does the law consider an attempt as impeding the administration of tax laws?
+        answer: |
+          An attempt to impede the administration of tax laws is treated as impeding tax administration under this provision.
+  - context: |
+      1ps. 1ps. - (2) Where the Commissioner General agrees to amend the assessment or other tax decisions in accordance with the objection, he shall serve a notice of the final assessment or other tax decisions to the objector. - (3) Where the Commissioner General- - (a) intends to amend the assessment or other tax decisions in accordance with the objection and any further evidence; or Appeal against objection decisions Cap. - (4) The objector shall, within thirty days from the receipt of the notice pursuant 2ps. to subsection (3), make submission in writing to the Commissioner General on his agreement or disagreement with the amended assessment or the refusal. - (5) The Commissioner General may, after the receipt of the submissions by the objector made pursuant to subsection (4)- - (a) determine the objection in the light of the amended assessment or refusal and any submission made by the objector; or - (b) determine the objection partially in accordance 3ps. with the submission by the objector, and proceed to issue a notice of final determination of objection. 2ps. 1ps. 408 Act No. 1 of 2005 [E.A.C.M.A] - (b) decides to refuse to amend the assessment or other tax decisions, he shall serve the objector with a notice setting out the reasons for the intention or decision. - (4) The objector shall, within thirty days from the receipt of the notice pursuant to subsection (3), make submission in writing to the Commissioner General on his agreement or disagreement with the amended assessment or the 2ps. refusal. - 53 .-(1) A person who is aggrieved by an objection decision or other decision or omission of the Commissioner General under this Part may appeal to the Board in accordance with the provisions of the Tax Revenue Appeals Act.
+    questions_and_answers:
+      - question: |
+          What must the Commissioner General do if they agree to amend an assessment or tax decision based on an objection?
+        answer: |
+          The Commissioner General must serve a notice of the final assessment or other tax decisions to the objector.
+      - question: |
+          What options does the Commissioner General have after receiving an objector's submissions pursuant to subsection (4)?
+        answer: |
+          The Commissioner General may either determine the objection in light of the amended assessment or refusal and the submissions, or partially agree with the submission and issue a notice of final determination of the objection.
+      - question: |
+          How long does the objector have to respond to a notice issued under subsection (3)?
+        answer: |
+          The objector has thirty days from the receipt of the notice to make a written submission to the Commissioner General indicating agreement or disagreement with the amended assessment or refusal.
+      - question: |
+          What is required if the Commissioner General refuses to amend an assessment or other tax decision?
+        answer: |
+          The Commissioner General must serve the objector with a notice detailing the reasons for the intention or decision.
+      - question: |
+          What recourse does a person have if they are aggrieved by an objection decision or omission by the Commissioner General?
+        answer: |
+          A person aggrieved can appeal to the Board in accordance with the provisions of the Tax Revenue Appeals Act.
+  - context: |
+      1ps. 1ps. - (4) The Commissioner General shall serve the taxpayer with a copy of the notice after service of the notice on the third party debtor. - (5) Amounts payable to the Commissioner General by a third party debtor under subsection (2) or by a guarantor under a security shall be treated as tax and, once due, may be recovered as tax. Compliance with notice or security - 68 .-(1) A third party 2ps. debtor or guarantor who pays the Commissioner General pursuant to section 67 shall be treated as having acted with the authority of the taxpayer. - (2) A notice served under section 67 shall cease to have effect once the tax referred to is paid or otherwise satisfied. - (3) Where a third party debtor who is served with a notice under section 67 is unable to comply with the notice by reason of lack of money 3ps. owing to, or held for the taxpayer, such third party debtor shall notify the Commissioner General on his inability to pay. 2ps. 1ps. Compliance with notice or security - 68 .-(1) A third party debtor or guarantor who pays the Commissioner General pursuant to section 67 shall be treated as having acted with the authority of the taxpayer. - (2) A notice served under section 67 shall cease to have effect once the tax referred to is paid or otherwise satisfied. - (4) The notice under subsection (3) shall be- - (a) in writing setting out the reasons for the inability; 2ps. and - (b) filed with the Commissioner General within seven days from the notice issued under section 67 after the third party debtor becomes aware of the inability.
+    questions_and_answers:
+      - question: |
+          What happens to a notice served under section 67 once the tax is paid or otherwise satisfied?
+        answer: |
+          A notice served under section 67 ceases to have effect once the tax referred to is paid or otherwise satisfied.
+      - question: |
+          How is a third party debtor treated if they pay the Commissioner General under section 67?
+        answer: |
+          A third party debtor who pays the Commissioner General pursuant to section 67 is treated as having acted with the authority of the taxpayer.
+      - question: |
+          What should a third party debtor do if they are unable to comply with a notice under section 67 due to a lack of funds owing to or held for the taxpayer?
+        answer: |
+          If a third party debtor is unable to comply with a notice under section 67 due to a lack of funds, they must notify the Commissioner General in writing, explaining the reasons for their inability, and file it within seven days of becoming aware of the inability.
+      - question: |
+          How are amounts payable by a third party debtor or guarantor to the Commissioner General treated?
+        answer: |
+          Amounts payable by a third party debtor under subsection (2) or by a guarantor under a security are treated as tax and, once due, may be recovered as tax.
+      - question: |
+          When must a notice explaining a third party debtor's inability to comply with section 67 be filed?
+        answer: |
+          The notice must be filed with the Commissioner General within seven days of the third party debtor becoming aware of their inability to comply with the notice issued under section 67.
+  - context: |
+      1ps. 1ps. - 83 . Any person who fails to pay any tax on, or before the date on which the tax is payable commits an offence and shall be liable on conviction- - (a) where the failure is to pay tax in excess of 50 currency points, to a fine of not less than 25 currency points and not more than 100 currency points or imprisonment for a term of not less than three months and not more than one year, or to both; and Offence for making or using false or misleading statements 2ps. or documents Cap.399 Act No. 2 of 2016 s.58 - (b) in any other case, to a fine of not less than 10 currency points and not more than 25 currency points or imprisonment for a term of not less than one month and not more than three months, or to both. 2ps. 1ps. - 83 . - 84 -(1) Any person who, in any matter relating to any tax laws set out under Part A of the First Schedule to the Tanzania Revenue Authority Act- - (a) makes any entry of any building, room, place, or item of a plant, which is false or incorrect in any material particular; - (b) makes or causes to be made any declaration, certificate, application, return, account, or other document, which is false or incorrect in any material particular; - (c) when required to answer any question put to that 2ps.
+    questions_and_answers:
+      - question: |
+          What penalties apply to a person who fails to pay a tax exceeding 50 currency points?
+        answer: |
+          Such a person is liable to a fine of not less than 25 and not more than 100 currency points, imprisonment for a term of not less than three months and not more than one year, or both.
+      - question: |
+          What are the consequences for failing to pay a tax of 50 currency points or less?
+        answer: |
+          The person faces a fine of not less than 10 and not more than 25 currency points, imprisonment for a term of not less than one month and not more than three months, or both.
+      - question: |
+          What is considered an offence under Section 84 involving false documentation?
+        answer: |
+          It is an offence to make or cause to be made any declaration, certificate, application, return, account, or other document that is false or incorrect in any material particular.
+      - question: |
+          What actions related to tax laws are considered offences under Section 84(a)?
+        answer: |
+          Making any entry regarding buildings, rooms, places, or items of a plant that is false or incorrect in any material particular is considered an offence.
+      - question: |
+          What type of tax laws are covered under Part A of the First Schedule to the Tanzania Revenue Authority Act?
+        answer: |
+          Part A of the First Schedule to the Tanzania Revenue Authority Act deals with tax laws under which offences such as providing false information or documents are outlined.
+document_outline: |
+  **Document Outline:**
+  The Tax Administration Act [CAP. 438 R.E. 2019] is a comprehensive legal framework for tax administration in Tanzania. It covers provisions on preliminary definitions, interpretation of tax laws, taxpayers’ rights and obligations, tax consultants, official communication and documentation, maintenance and access to records, tax assessments, dispute resolution, as well as procedures for tax payment and recovery.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - CHAPTER_438-THE_TAX_ADMINISTRATION_ACT-1.md

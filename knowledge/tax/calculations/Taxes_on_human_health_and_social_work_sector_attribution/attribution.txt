@@ -1,0 +1,4 @@
+Title of work: Taxes_on_human_health_and_social_work_sector.md
+Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
+License of the work: MIT
+Creator names: RIFAZ-SOLUTIONS

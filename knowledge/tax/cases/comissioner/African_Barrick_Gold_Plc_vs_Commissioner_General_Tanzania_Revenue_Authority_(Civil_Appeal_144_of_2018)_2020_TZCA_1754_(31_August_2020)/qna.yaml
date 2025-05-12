@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Specifically, he submitted that neither the ITA 2004 nor the Companies Act, stipulate that issuance of certificate of compliance under section 435 of the Companies Act results in a foreign incorporated company becoming "formed" in Tanzania for purposes of tax residency. It was not possible, the learned counsel added, for the appellant who had already been "formed" in the United Kingdom; to be formed again in Tanzania under the certificate of compliance issued by the Registrar of Companies. In any case, the counsel argued, had the legislator intended that certificate of compliance under the Companies Act 2002 to 2ps. automatically "form" a foreign incorporated company into a tax resident under ITA 2004, the legislator would have made this very clear in either Companies Act or the ITA 2004. To underscore his contention that the Tribunal had over-stretched the meaning of the word "formed" thereby encroaching the law-making power of the Legislature, the learned counsel for the appellant cited several authorities, including R. V. MWESIGE GEOFREY, CRIMINAL APPEAL NO. 355 OF 2014 (unreported), where this Court had restated that when the words of a statute are unambiguous, judicial inquiry is complete, and there can be no need for interpolations. 2ps. 1ps. Specifically, he submitted that neither the ITA 2004 nor the Companies Act, stipulate that issuance of certificate of compliance under section 435 of the Companies Act results in a foreign incorporated company becoming "formed" in Tanzania for purposes of tax residency. It was not possible, the learned counsel added, for the appellant who had already been "formed" in the United Kingdom; to be formed again in Tanzania under the certificate of compliance issued by the Registrar of Companies. Dr.
+    questions_and_answers:
+      - question: |
+          What was the learned counsel's argument about the relationship between the certificate of compliance and tax residency in Tanzania?
+        answer: |
+          The learned counsel argued that neither the ITA 2004 nor the Companies Act specify that issuing a certificate of compliance under Section 435 of the Companies Act makes a foreign-incorporated company 'formed' in Tanzania for tax residency purposes.
+      - question: |
+          Why did the counsel argue that the appellant could not be considered 'formed' in Tanzania after receiving a certificate of compliance?
+        answer: |
+          The counsel explained that the appellant was already 'formed' in the United Kingdom and could not be 'formed' again in Tanzania solely based on the certificate of compliance issued by the Registrar of Companies.
+      - question: |
+          What did the counsel claim the legislature would have done if it intended for certificates of compliance to equate to tax residency?
+        answer: |
+          The counsel claimed that if the legislature intended certificates of compliance under the Companies Act 2002 to automatically establish tax residency under ITA 2004, it would have explicitly stated this in either the Companies Act or the ITA 2004.
+      - question: |
+          What legal principle did the counsel cite from R. V. MWESIGE GEOFREY to support their argument?
+        answer: |
+          The counsel cited the principle that when the words of a statute are unambiguous, judicial inquiry is complete, and there is no need for interpolations.
+      - question: |
+          What was the counsel’s criticism of the Tribunal’s interpretation of the word 'formed'?
+        answer: |
+          The counsel criticized the Tribunal for over-stretching the meaning of the word 'formed,' arguing that this encroached on the law-making power of the legislature.
+  - context: |
+      1ps. 1ps. The interview was meant to determine whether, in terms of section 66(4) (a) (b) of the ITA 2004, the appellant company was a resident company in Tanzania for taxation purposes. The interview was also done in the context of a Certificate of Compliance which the Registrar of Companies had earlier on 11th March 2010 issued to the appellant company to manifest the UK Company's compliance with the provisions of section 435 of the Companies Act of Tanzania. On 8/10/2013, the respondent issued the appellant with a notice that the appellant had been registered and issued with Taxpayer 2ps. Identification Number (T[N-120-840-916) under Section 133 of the ITA 2004. The notice similarly confirmed that the appellant had been issued with a Value Added Tax Registration Number (VRN 40-015846-L) under Section 19(4) of the VAT Act, 1997. And as a consequence of these tax registrations, the respondent obliged the appellant to comply with its statutory tax obligations in Tanzania which include, filing of statutory returns prescribed under the ITA, 2004 and VAT Act, 1997. As a tax resident in Tanzania, the appellant was asked to remit withholding taxes on dividend payments amounting to USD 81,843,127 which the company allegedly made for the 3ps. years 2010, 2011, 2012 and 2013 (this sum was subsequently reduced to USD 41,250,426). 2ps. 1ps. The interview was also done in the context of a Certificate of Compliance which the Registrar of Companies had earlier on 11th March 2010 issued to the appellant company to manifest the UK Company's compliance with the provisions of section 435 of the Companies Act of Tanzania. It seems clear from the pleadings, the respondent was satisfied despite being a company incorporated in the United Kingdom, the appellant was a resident company in Tanzania for purposes of income taxation.
+    questions_and_answers:
+      - question: |
+          What was the purpose of the interview mentioned in the context?
+        answer: |
+          The interview aimed to determine whether the appellant company qualified as a resident company in Tanzania for taxation purposes under section 66(4) (a) (b) of the ITA 2004.
+      - question: |
+          What is the Certificate of Compliance, and why was it relevant to the case?
+        answer: |
+          The Certificate of Compliance, issued on 11th March 2010 by the Registrar of Companies, demonstrated the UK company's compliance with Section 435 of the Companies Act of Tanzania. It was relevant as part of the assessment of the company's operations in Tanzania.
+      - question: |
+          What tax registration notices were issued to the appellant in October 2013?
+        answer: |
+          On 8th October 2013, the respondent issued the appellant a notice registering it for a Taxpayer Identification Number (TIN-120-840-916) under Section 133 of the ITA 2004 and a Value Added Tax Registration Number (VRN 40-015846-L) under Section 19(4) of the VAT Act, 1997.
+      - question: |
+          What statutory obligations were imposed on the appellant company as a result of its tax registrations in Tanzania?
+        answer: |
+          The appellant was required to comply with statutory tax obligations, including filing returns under the ITA 2004 and VAT Act 1997, and remitting withholding taxes on dividend payments.
+      - question: |
+          What was the initial and revised amount of withholding taxes required for dividend payments by the appellant?
+        answer: |
+          The appellant was initially required to remit withholding taxes of USD 81,843,127 for the years 2010-2013, which was later revised to USD 41,250,426.
+  - context: |
+      1ps. 1ps. Further, the respondent also pleaded that the appellant is also a resident company in so far as it conducts its business in Tanzania through its gold mining entities of Bulyanhulu Gold Mine Limited, North Mara Gold Mine Limited, Tulawaka Gold Mine and the Buzwagi Gold Mine. In its Statement of Appeal to the Board, the appellant listed seven grounds of complaints against the respondents. Firstly, that the respondent was wrong in fact and in law, to forcibly register the appellant and allocate it with Tax Identification and Value-Added Registration numbers. The second complaint faulted the respondent's decision 2ps. to demand tax from the appellant using section 139(l)(a) of the ITA 2004 and section 38 of the Value Added Tax Act, 1997. Thirdly, the appellant faulted the respondent for demanding withholding tax on dividend which the appellant, as a non-resident company, paid to its offshore shareholders. The appellant complained that the respondent's act of demanding payment of unspecified taxes for items such as payments for management services by the appellant and other non-resident persons, to be wrong both in law and fact. 2ps. 1ps. Firstly, that the respondent was wrong in fact and in law, to forcibly register the appellant and allocate it with Tax Identification and Value-Added Registration numbers. The second complaint faulted the respondent's decision to demand tax from the appellant using section 139(l)(a) of the ITA 2004 and section 38 of the Value Added Tax Act, 1997. Thirdly, the appellant faulted the respondent for demanding withholding tax on dividend which the appellant, as a non-resident company, paid to its offshore shareholders. Similarly, the appellant faulted the respondent's demand of PAYE and SDL as arbitrary and wrong in law. 2ps.
+    questions_and_answers:
+      - question: |
+          What are the four gold mining entities operated by the appellant in Tanzania?
+        answer: |
+          The appellant conducts its business in Tanzania through Bulyanhulu Gold Mine Limited, North Mara Gold Mine Limited, Tulawaka Gold Mine, and the Buzwagi Gold Mine.
+      - question: |
+          What was the appellant's first complaint in its Statement of Appeal?
+        answer: |
+          The appellant's first complaint was that the respondent was wrong in fact and law to forcibly register the appellant and allocate it Tax Identification and Value-Added Registration numbers.
+      - question: |
+          Which legal provisions were cited in the appellant's second complaint regarding tax demands?
+        answer: |
+          The appellant's second complaint cited section 139(1)(a) of the ITA 2004 and section 38 of the Value Added Tax Act, 1997, as the basis for disputing the respondent's tax demands.
+      - question: |
+          Why did the appellant contest the withholding tax demand on dividends?
+        answer: |
+          The appellant contested the withholding tax demand on dividends because it claimed to be a non-resident company that paid dividends to its offshore shareholders, making the demand incorrect in law and fact.
+      - question: |
+          What additional tax demands did the appellant describe as arbitrary and wrong in law?
+        answer: |
+          The appellant described the respondent's demands for PAYE (Pay-As-You-Earn) and SDL (Skills and Development Levy) as arbitrary and wrong in law.
+  - context: |
+      1ps. 1ps. On our part, after hearing the two learned counsel on prayer for adjournment, we directed the hearing of appeal to proceed on the understanding that before we hand down our judgment we will hear the parties on the outcome of the pending application for review in Civil Application No. 350/01/2019 through which the appellant had applied to the Court to review its earlier decision in Civil Application No. 177/20 of 2019. Having declined to adjourn the appeal in Dodoma, we invited Dr. Dr. Mwiburi to make his submissions. The appellant is challenging the Tribunal for agreeing with the Board that the 2ps. appellant is a resident company for income tax purposes under section 66(4)(a) of the ITA 2004, consequence of which the appellant is chargeable to withholding tax under section 82 read together with Para 4(b)(i)(bb) of the First Schedule to the ITA 2004. Dr. Mwiburi submitted that the Tribunal erred in law when it invoked these provisions to conclude that the appellant, though incorporated in the United Kingdom, became "formed" under the Companies Act of Tanzania thereby became is a resident company in Tanzania for purpose of taxation. 2ps. 1ps. He made oral submissions and relied on written submissions which the appellant had filed earlier on 26/10/2018. He submitted that the appellant who was incorporated in the United Kingdom, is aggrieved by the decision of the Tribunal which confirmed the Board's decision that the appellant is liable to pay withholding tax to the respondent. Dr. Mwiburi contended that the conclusion by the Tribunal that the appellant is a resident company in Tanzania for income taxation is not borne out of proper understanding of the phrase "incorporated or formed" appearing under paragraph (a) of section 66(4) of the ITA 2ps.
+    questions_and_answers:
+      - question: |
+          What was the appellant challenging in the Tribunal's decision?
+        answer: |
+          The appellant was challenging the Tribunal's decision that it agreed with the Board's ruling that the appellant is a resident company for income tax purposes under section 66(4)(a) of the ITA 2004, thereby being chargeable to withholding tax under section 82 of the ITA 2004.
+      - question: |
+          What is the significance of the phrase 'incorporated or formed' in the appellant's argument?
+        answer: |
+          The appellant argued that the Tribunal erred in interpreting the phrase 'incorporated or formed' in section 66(4)(a) of the ITA 2004, as it concluded that the appellant, though incorporated in the United Kingdom, became 'formed' under the Tanzanian Companies Act, making it a resident company for tax purposes.
+      - question: |
+          What procedural decision was made regarding the hearing of the appeal?
+        answer: |
+          The court directed the hearing of the appeal to proceed while noting that they would later consider the outcome of a pending application for review in Civil Application No. 350/01/2019 before handing down their judgment.
+      - question: |
+          What specific type of tax liability is the appellant disputing?
+        answer: |
+          The appellant is disputing liability for withholding tax as determined under section 82, read in conjunction with Paragraph 4(b)(i)(bb) of the First Schedule to the ITA 2004.
+      - question: |
+          When did the appellant file the written submissions referenced during the hearing?
+        answer: |
+          The appellant filed the written submissions on October 26, 2018.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: JUMA, C.J., MUGASHA, J.A. And NDIKA, J.A.) ## CIVIL APPEAL NO. 144 OF 2018 AFRICAN BARRICK GOLD PLC............................................................. APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY ........................................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunals at Dar es Salaam) ## (Dr. Twaib J.-Chairman) dated the 31st day of March, 2016 in Tax Appeal No. 16 of 2015 ## JUDGMENT OF THE COURT 2nd June, 2020, 3rd August 2020 &amp; 31st August, 2020 JUMA, C.J.: This second appeal pits the AFRICAN BARRICK GOLD PLC as the appellant, against the COMMISSIONER GENERAL OF THE TANZANIA REVENUE 2ps. AUTHORITY as the respondent. The appellant is a company incorporated in the United Kingdom and holding shares in three mining entities in Tanzania. The three entities are Bulyanhulu Gold Mine Limited; North Mara Gold Mine Limited; and PANGEA Minerals Limited. PANGEA operates the Tulawaka Gold Mine and the Buzwagi Gold Mine. 2ps. 1ps. The appellant is a company incorporated in the United Kingdom and holding shares in three mining entities in Tanzania. The three entities are Bulyanhulu Gold Mine Limited; North Mara Gold Mine Limited; and PANGEA Minerals Limited. PANGEA operates the Tulawaka Gold Mine and the Buzwagi Gold Mine. The respondent is a statutory body corporate that was established under section 4 of the Tanzania Revenue Authority Act (Cap 399) for purposes of assessment and collection of taxes and other revenues. The bottom-line issue for determination by this Court is whether the Tax Revenue Appeals Tribunal ("the Tribunal") 2ps. which heard the appellant's first appeal, is correct as a matter of law, to hold that the Certificate of Compliance which the Registrar of Companies issued under section 435 of the Companies Act, 2002 (Cap.
+    questions_and_answers:
+      - question: |
+          What is the main issue for determination in this appeal?
+        answer: |
+          The main issue is whether the Tax Revenue Appeals Tribunal was correct as a matter of law in holding that the Certificate of Compliance issued under section 435 of the Companies Act, 2002 is valid.
+      - question: |
+          Who are the parties involved in this appeal?
+        answer: |
+          The appellant is African Barrick Gold PLC, and the respondent is the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What entities does African Barrick Gold PLC hold shares in within Tanzania?
+        answer: |
+          African Barrick Gold PLC holds shares in Bulyanhulu Gold Mine Limited, North Mara Gold Mine Limited, and PANGEA Minerals Limited.
+      - question: |
+          What are the two mines operated by PANGEA Minerals Limited?
+        answer: |
+          PANGEA Minerals Limited operates the Tulawaka Gold Mine and the Buzwagi Gold Mine.
+      - question: |
+          Under which legislation was the Tanzania Revenue Authority established?
+        answer: |
+          The Tanzania Revenue Authority was established under section 4 of the Tanzania Revenue Authority Act (Cap 399).
+document_outline: |
+  ### Document Outline:
+  This document outlines the proceedings of a civil appeal before the Court of Appeal of Tanzania involving African Barrick Gold PLC (the appellant) and the Commissioner General of the Tanzania Revenue Authority (the respondent). The case focuses on a tax dispute regarding whether the appellant, a UK-based incorporated company, qualifies as a tax resident in Tanzania based on the Certificate of Compliance issued under the Companies Act of Tanzania and its obligations for income taxation under the Income Tax Act, 2004. The appeal stems from a decision originally made by the Tax Revenue Appeals Tribunal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - African_Barrick_Gold_Plc_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_144_of_2018)_2020_TZCA_1754_(31_August_2020).md

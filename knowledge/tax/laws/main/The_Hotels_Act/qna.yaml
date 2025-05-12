@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - (2) Regulations made under this section may provide in respect of a breach of those provisions penalties not exceeding a fine of one thousand shillings. - 23. [Repeals the Control of Hotels Ordinance with savings of licences existing on the date of coming into force of this Act]. | |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Exemption 2ps. | 25. The Minister may, by order published in the Gazette exempt - (a) any hotel or guest house or class of hotels from the provisions of this Act; (b) any hotel or guest house owner or class of hotel, owners from payment of an hotel levy in respect of any guest or class 3ps. of 4ps. 5ps. 6ps. 7ps. 8ps. 9ps. 10ps. | | Imposition of levy Acts Nos: 10 of 1987 s. 19; 18 of 1991 ss. 55 and 56; 25 of 1997 s. 20 | 26.- (1) Every owner of an hotel or guest house shall pay, in respect of every guest, a levy of twenty per centum of the hotel charges: Provided that in no case shall such levy be less than two shillings. 2ps. 1ps. | |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Exemption | 25. The Minister may, by order published in the Gazette exempt - (a) any 2ps. hotel or guest house or class of hotels from the provisions of this Act; (b) any hotel or guest house owner or class of hotel, owners from payment of an hotel levy in respect of any guest or class of 3ps. 4ps. 5ps. 6ps. 7ps. 8ps. 9ps. | | Imposition of levy Acts Nos: 10 of 1987 s. 19; 18 of 1991 ss. (2) The levy imposed by subsection (1) shall be paid by the owner in such manner and at any intervals which may be prescribed.
+    questions_and_answers:
+      - question: |
+          What is the maximum penalty for a breach of the provisions under the regulations made in this section?
+        answer: |
+          The penalty for breaching the provisions cannot exceed a fine of one thousand shillings.
+      - question: |
+          What does section 23 of the Act address?
+        answer: |
+          Section 23 repeals the Control of Hotels Ordinance while preserving existing licenses on the date the Act comes into force.
+      - question: |
+          Under what circumstances can the Minister exempt hotels or guest houses from the provisions of the Act?
+        answer: |
+          The Minister can, by order published in the Gazette, exempt any hotel or guest house, or a class of hotels, from the provisions of the Act or from payment of the hotel levy for specific guests or categories.
+      - question: |
+          What is the standard hotel levy imposed on hotel or guest house owners for each guest?
+        answer: |
+          The standard levy is twenty percent of the hotel charges, with a minimum levy of not less than two shillings.
+      - question: |
+          How is the payment of the hotel levy regulated under subsection (2)?
+        answer: |
+          The levy is required to be paid by the owner in a manner and at intervals prescribed by regulations.
+  - context: |
+      1ps. 1ps. - (2) An hotel-keeper shall make reasonable provision for the reception of a traveller's luggage. - (3) Notwithstanding the other provisions of this section, an hotelkeeper may demand reasonable payment in advance as a condition of the provisions of accommodation desired by a traveller. - 15.(1) Without prejudice to any other liability incurred by him in respect to any property brought to the hotel, an hotel-keeper shall 2ps. not be liable as an innkeeper to make good to any traveller any loss of or damage to any property except where - - (a) at the time of the loss or damage sleeping accommodation at the hotel had been engaged for the traveller; and - (b) the loss or damage occurred during the period commencing with the midnight immediately preceding, and ending with the midnight immediately following, a period during which the traveller was a guest at the hotel and entitled to use the accommodation so engaged. 2ps. 1ps. - (3) Notwithstanding the other provisions of this section, an hotelkeeper may demand reasonable payment in advance as a condition of the provisions of accommodation desired by a traveller. - 15.(1) - (2) Without prejudice to any other liability or his right with respect to it, an hotel-keeper shall not as an innkeeper be liable to make good to any of his guests any loss of or damage to, or have any lien on any vehicle or any property left 2ps. there, or any live animal or its harness or other equipment. 3ps. 1ps. - 15.
+    questions_and_answers:
+      - question: |
+          What is the obligation of a hotel-keeper toward a traveller's luggage?
+        answer: |
+          A hotel-keeper is required to make reasonable provision for the reception of a traveller's luggage.
+      - question: |
+          Under what conditions can a hotel-keeper demand payment in advance?
+        answer: |
+          A hotel-keeper may demand reasonable payment in advance as a condition for providing the accommodation desired by a traveller.
+      - question: |
+          When is a hotel-keeper liable for loss or damage to a traveller's property?
+        answer: |
+          A hotel-keeper is liable if sleeping accommodation had been engaged for the traveller, and the loss or damage occurred during the period beginning at midnight immediately preceding and ending at midnight immediately following the traveller's stay.
+      - question: |
+          What are the exceptions to a hotel-keeper's liability for guest property loss or damage?
+        answer: |
+          A hotel-keeper is not liable for loss of or damage to any vehicle, property left in the vehicle, live animals, or their harness or equipment.
+      - question: |
+          Does a hotel-keeper have any lien on a guest's vehicle or animals?
+        answer: |
+          No, a hotel-keeper does not have any lien on a guest's vehicle, property left there, live animals, or the animals' harness or equipment.
+  - context: |
+      1ps. 1ps. <!-- image --> ## THE UNITED REPUBLIC OF TANZANIA \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ## THE HOTELS ACT \_\_\_\_\_\_ CHAPTER 105 \_\_\_\_ ## REVISED EDITION 2006 This edition of the Hotels Act, Cap. 105 incorporates all amendments up to 30th November, 2006 and is printed under the authority of Section 4 of the Laws Revision Act, Cap.4. Dar es Salaam ---------------------, 2006 J. P. Mwanyika Attorney General - 1. Short title. - 2. Interpretation. ## CHAPTER 105 \_\_\_\_\_\_\_ ## THE HOTELS ACT \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ## [PRINCIPAL LEGISLATION] ## ARRANGEMENT OF SECTIONS Section Title ## PART I ## PRELIMINARY PROVISIONS ## PART II ## ESTABLISHMENT OF HOTELS BOARDS - 3. Establishment of Hotels Boards. - 2ps. 4. Membership of Boards. - 5. Board not liable for acts done in good faith. - 6. Meetings and procedure of Boards. - 7. Appointment of Secretary. - 8. Authentication of documents. - 9. Reimbursement of expenses. - 10. Licences. - 11. Conditions for issue or renewal of licences. - 12. Board's power to require matters to be remedied and to suspend or cancel licences. - 13. Appeals. 2ps. 1ps. - 11. Conditions for issue or renewal of licences. - 12. Board's power to require matters to be remedied and to suspend or cancel licences. - 13. Appeals. - 14. Hotel to be open to all travellers. - 15. Limitation of hotel-keeper's liability. - 16. Notice to be displayed. - 17. Hotel-keeper's right of sale. - 18. Register of guests. - 19. Power of inspection. - 20. Offences and penalties. - 21. Liability of hotel-keeper for acts of agents. - 22. Regulations. - 23. [Repeal of R.L. Cap. 319.] ## PART III HOTELS LEVY | 24. | Interpretation. 2ps. | |-------|-------------------------------------------------| | 25 | Exemption. | | 26 | Imposition of levy 3ps.
+    questions_and_answers:
+      - question: |
+          What is the primary purpose of the Hotels Act, Cap. 105?
+        answer: |
+          The Hotels Act, Cap. 105, outlines the regulations governing hotel operations in Tanzania, including the establishment of Hotels Boards, licensing conditions, and hotel-keeper responsibilities.
+      - question: |
+          What does Section 4 of the Laws Revision Act authorize?
+        answer: |
+          Section 4 of the Laws Revision Act authorizes the printing of revised editions of legal acts, such as the revised 2006 edition of the Hotels Act, Cap. 105.
+      - question: |
+          What are the powers of the Hotels Boards as per the Act?
+        answer: |
+          The Hotels Boards have the authority to issue or renew licenses, request rectification of issues, suspend or cancel licenses, and oversee management procedures within hotels.
+      - question: |
+          What is required of hotels regarding traveler accessibility according to the Act?
+        answer: |
+          Under the Hotels Act, hotels must be open to all travelers, ensuring accessibility and availability to all without discrimination.
+      - question: |
+          What documentation-related responsibilities does the Act assign to hotel-keepers?
+        answer: |
+          The Act requires hotel-keepers to maintain a register of guests, prominently display notices, and comply with regulations for document authentication and inspections.
+  - context: |
+      1ps. 1ps. 319 - (b) knowingly gives a Board or any person authorised in writing by a Board any false information in relation to any matter provided for by this Act, - commits an offence and upon conviction is liable to a fine not exceeding one thousand shillings. - (4) Any hotel-keeper who fails to comply with the provisions of section 18 commits an offence and upon conviction is liable to a fine not exceeding one thousand shillings. - 21. 2ps. Any hotel-keeper who employs in his hotel any agent, clerk, servant or other person shall be answerable for the acts and omissions of such agent, clerk, servant or other person in so far as such acts or omissions concern the business of such hotel-keeper; and if such agent, clerk, servant or other person commits any act or makes any omission which is an offence against the 3ps. provisions of this Act, or which would be an offence if committed or made by the hotel-keeper, that hotel-keeper and his agent, clerk, servant or other person shall be jointly and severally guilty of the offence and liable to the penalties provided by this Act. 2ps. 1ps. - (4) Any hotel-keeper who fails to comply with the provisions of section 18 commits an offence and upon conviction is liable to a fine not exceeding one thousand shillings. - (5) Any hotel-keeper who is convicted of an offence against the provisions of this Act or of any regulations made under it shall be liable, in addition to any penalty which 2ps. may be imposed by any court, to have his licence suspended or cancelled by a Board. - 22.(1) 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the penalty for knowingly giving false information to a Board or its authorised representative under this Act?
+        answer: |
+          The penalty is a fine not exceeding one thousand shillings upon conviction.
+      - question: |
+          What happens if a hotel-keeper fails to comply with the provisions of section 18?
+        answer: |
+          The hotel-keeper commits an offence and is liable to a fine not exceeding one thousand shillings upon conviction.
+      - question: |
+          Who is responsible for the acts and omissions of agents, clerks, servants, or other employees in a hotel?
+        answer: |
+          The hotel-keeper is responsible, and if an offence is committed by any of these individuals, both the hotel-keeper and the individual are jointly and severally guilty.
+      - question: |
+          What additional consequence can a hotel-keeper face if convicted of any offence under this Act?
+        answer: |
+          The hotel-keeper may have their licence suspended or cancelled by a Board.
+      - question: |
+          What is the liability of a hotel-keeper if an employee commits an offence under this Act?
+        answer: |
+          The hotel-keeper is jointly and severally guilty of the offence along with the employee and is subject to the penalties provided by the Act.
+  - context: |
+      1ps. 1ps. - (2) For the purposes of levying any distress under this section an officer authorised under subsection (1) of this, section together with such servants or agents of such person may consider necessary, may break open in the daytime any premises, and any such officer may require any police officer to be present while the distress is being levied and any police officer so 2ps. required shall comply with such requirement. - (4) If the person from whom levy is recoverable by distress does not pay such levy together with the cost of the distress within the period of ten days referred to in subsection (3) of this section, the goods and chattels Cap.33 Offences Act No. 25 of 1997 s. 22 Where offence is committed by body corporate Liability of employer or principal Commission er may compound offence Act No. 25 of 1997 s. 23 distrained upon shall be sold by public auction for payment of the 3ps. levy due and payable and all such costs and the proceeds of such sale shall be applied first towards the cost of taking, keeping and selling the goods and chattels distrained upon and then towards the levy due and payable and any remainder of such proceeds shall be restored to the owner of the property distrained. 2ps. 1ps. - (2) For the purposes of levying any distress under this section an officer authorised under subsection (1) of this, section together with such servants or agents of such person may consider necessary, may break open in the daytime any premises, and any such officer may require any police officer to be present while the distress is being levied and any police officer so 2ps. required shall comply with such requirement.
+    questions_and_answers:
+      - question: |
+          What authority is given to an officer under subsection (1) regarding distress proceedings?
+        answer: |
+          An officer authorized under subsection (1) may break open premises during the daytime to levy distress, and they can require the presence of a police officer, who must comply with such a request.
+      - question: |
+          What can happen to goods and chattels if the levy is not paid within the specified period?
+        answer: |
+          If the levy and costs are not paid within ten days as specified in subsection (3), the goods and chattels distrained upon shall be sold at a public auction to cover the costs and levy.
+      - question: |
+          How are the proceeds from the sale of distrained goods and chattels applied?
+        answer: |
+          Proceeds from the sale are first used to cover the costs of taking, keeping, and selling the goods and chattels, then toward the levy due. Any remaining proceeds are returned to the owner of the property.
+      - question: |
+          Under what circumstances can an officer break open premises for levying distress?
+        answer: |
+          An officer can break open premises during the daytime if it is necessary for the purpose of levying distress.
+      - question: |
+          What is the role of a police officer during the distress process mentioned in the text?
+        answer: |
+          A police officer may be required to be present during the distress process, and they are obligated to comply with the officer's request for their presence.
+document_outline: |
+  **Document Outline:**
+  The document provides a comprehensive outline and legal framework of the Hotels Act (Chapter 105) of the United Republic of Tanzania, revised in 2006. It includes provisions for the establishment and regulation of hotels, licensing requirements, hotel-keepers' responsibilities, imposition and collection of hotel levies, penalties for non-compliance, and associated administrative procedures.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - The_Hotels_Act.md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Taxes on Construction sector Here's a comprehensive list of 30 taxes, levies, duties, and customs that apply to business activities in the Construction sector in Tanzania, based on the tax laws of Tanzania. Each item includes a description, the rate applicable, the law applicable, and an example. ## 1. Corporate Income Tax -  Description: Tax on the profits of companies. -  Rate: 30% -  Law: Income Tax Act, 2004 -  Example: If a construction company has a taxable profit of TZS 100 million, the corporate income tax would be TZS 30 million (100 million * 30%). ## 2. Value 2ps. Added Tax (VAT) -  Description: Tax on the value added to goods and services. -  Rate: 18% -  Law: Value Added Tax Act, 2014 -  Example: For a construction service invoiced at TZS 50 million, the VAT would be TZS 9 million (50 million * 18%). ## 3. Withholding Tax on Professional Services -  Description: Tax withheld on payments for professional services. 2ps. 1ps. ## 2. Value Added Tax (VAT) -  Description: Tax on the value added to goods and services. -  Rate: 18% -  Law: Value Added Tax Act, 2014 -  Example: For a construction service invoiced at TZS 50 million, the VAT would be TZS 9 million (50 million * 18%). ## 3. Withholding Tax on Professional Services -  Description: Tax withheld
+    questions_and_answers:
+      - question: |
+          What is the corporate income tax rate for companies in the construction sector in Tanzania?
+        answer: |
+          The corporate income tax rate is 30%, as stated in the Income Tax Act, 2004.
+      - question: |
+          How is Value Added Tax (VAT) calculated for construction services in Tanzania?
+        answer: |
+          VAT is calculated at a rate of 18% on the value added to goods and services, as defined in the Value Added Tax Act, 2014.
+      - question: |
+          What amount of corporate income tax would a construction company in Tanzania pay if it had a taxable profit of TZS 100 million?
+        answer: |
+          The company would pay TZS 30 million in corporate income tax (100 million * 30%).
+      - question: |
+          Which law governs the application of Value Added Tax (VAT) in Tanzania?
+        answer: |
+          The Value Added Tax Act, 2014 governs the application of VAT in Tanzania.
+      - question: |
+          What is an example calculation for VAT on a TZS 50 million invoiced construction service in Tanzania?
+        answer: |
+          The VAT would be TZS 9 million (50 million * 18%).
+  - context: |
+      on payments for professional services. -  Rate: 5% -  Law: Income Tax Act, 2004 -  Example: If a construction company pays TZS 20 million for consulting services, TZS 1 million would be withheld (20 million * 5%). ## 2ps. 4. Excise Duty on Fuel -  Description: Tax on fuel used in construction machinery. -  Rate: Varies (e.g., TZS 400 per liter for diesel) -  Law: Excise (Management and Tariff) Act, 2019 -  Example: If 1,000 liters of diesel are used, the excise duty would be TZS 400,000 (1,000 * 400). ## 5. Import Duty -  Description: Duty on imported construction materials. 3ps. 1ps. ## 4. Excise Duty on Fuel -  Description: Tax on fuel used in construction machinery. -  Rate: Varies (e.g., TZS 400 per liter for diesel) -  Law: Excise (Management and Tariff) Act, 2019 -  Example: If 1,000 liters of diesel are used, the excise duty would be TZS 400,000 (1,000 * 400). ## 5. Import Duty -  Description: Duty on imported construction materials. -  Rate: Varies (e.g., 25% for certain construction materials) -  Law: East African Community Customs Management Act, 2004 -  Example: If TZS 10 million worth of materials are imported, the duty would be TZS 2.5 2ps. million (10 million * 25%). ## 6. Stamp Duty -  Description: Duty on legal documents. -  Rate: Varies (e.g., 1%
+    questions_and_answers:
+      - question: |
+          What is the withholding tax rate applied to payments for professional services, and which law governs it?
+        answer: |
+          The withholding tax rate for professional services is 5%, and it is governed by the Income Tax Act, 2004.
+      - question: |
+          How is the excise duty on fuel for construction machinery calculated, and under which law is it regulated?
+        answer: |
+          The excise duty on fuel is calculated based on a variable rate, such as TZS 400 per liter for diesel, and it is regulated under the Excise (Management and Tariff) Act, 2019.
+      - question: |
+          What is the import duty rate for construction materials, and which legislation covers it?
+        answer: |
+          The import duty rate for construction materials varies, such as 25% for certain materials, and it is covered under the East African Community Customs Management Act, 2004.
+      - question: |
+          How much excise duty would be owed if a construction project used 1,000 liters of diesel?
+        answer: |
+          The excise duty would be TZS 400,000, calculated as 1,000 liters multiplied by TZS 400 per liter.
+      - question: |
+          What is stamp duty applied to, and how is its rate determined?
+        answer: |
+          Stamp duty is applied to legal documents, and its rate varies, such as 1% in certain cases.
+  - context: |
+      on contract agreements) -  Law: Stamp Duty Act, 1972 -  Example: For a construction contract worth TZS 100 million, the stamp duty would be TZS 1 million (100 million * 1%). ## 7. Property Tax -  Description: Tax on real estate properties. 4ps. 1ps. ## 6. Stamp Duty -  Description: Duty on legal documents. -  Rate: Varies (e.g., 1% on contract agreements) -  Law: Stamp Duty Act, 1972 -  Example: For a construction contract worth TZS 100 million, the stamp duty would be TZS 1 million (100 million * 1%). ## 7. Property Tax -  Description: Tax on real estate properties. -  Rate: Varies (e.g., 0.15% of the property value) -  Law: Local Government Finance Act, 1982 -  Example: For a property valued at TZS 200 million, the property tax would be TZS 300,000 (200 million * 0.15%). ## 8. Skills and 2ps. Development Levy (SDL) -  Description: Levy on payroll for employee training and development. -  Rate: 4% -  Law: Vocational Education and Training Act, 1994 -  Example: If the total payroll is TZS 50 million, the SDL would be TZS 2 million (50 million * 4%). ## 9. Workers Compensation Fund Contribution -  Description: Contribution for workers' compensation. 5ps. 1ps. ## 8. Skills and Development Levy (SDL) -  Description: Levy on payroll for employee training and development. -  Rate: 4%
+    questions_and_answers:
+      - question: |
+          What is the Stamp Duty rate on contract agreements under the Stamp Duty Act, 1972?
+        answer: |
+          The Stamp Duty rate on contract agreements is 1% of the contract value.
+      - question: |
+          How is the Property Tax rate calculated under the Local Government Finance Act, 1982?
+        answer: |
+          The Property Tax rate is 0.15% of the property value.
+      - question: |
+          What is the purpose of the Skills and Development Levy (SDL) under the Vocational Education and Training Act, 1994?
+        answer: |
+          The SDL is a levy on payroll intended for employee training and development.
+      - question: |
+          If a construction contract is worth TZS 100 million, how much Stamp Duty is payable?
+        answer: |
+          The Stamp Duty payable would be TZS 1 million (100 million * 1%).
+      - question: |
+          What is the rate of the Skills and Development Levy (SDL) on payrolls?
+        answer: |
+          The rate of the SDL on payrolls is 4%.
+  - context: |
+      and Quantity Surveyors Registration Act, 1997 -  Example: An annual registration fee of TZS 500,000 per professional. ## 25. Permit Fees -  Description: Fees for obtaining various permits (e.g., 2ps. building permits). -  Rate: Varies (e.g., TZS 1 million per permit) -  Law: Urban Planning Act, 2007 -  Example: A TZS 1 million fee for a building permit. ## 26. Motor Vehicle License Fee -  Description: Annual fee for licensing construction vehicles. 3ps. 1ps. ## 25. Permit Fees -  Description: Fees for obtaining various permits (e.g., building permits). -  Rate: Varies (e.g., TZS 1 million per permit) -  Law: Urban Planning Act, 2007 -  Example: A TZS 1 million fee for a building permit. ## 26. Motor Vehicle License Fee -  Description: Annual fee for licensing construction vehicles. -  Rate: Varies (e.g., TZS 200,000 per vehicle) -  Law: Road Traffic Act, 1973 -  Example: An annual fee of TZS 200,000 per construction vehicle. ## 27. Environmental Monitoring Fee -  Description: Fee for monitoring environmental compliance. -  Rate: TZS 1 million annually - 2ps.  Law: Environmental Management Act, 2004 -  Example: An annual fee of TZS 1 million for environmental monitoring. ## 28. Export Duty -  Description: Duty on exporting construction materials. -  Rate: Varies (e.g., 5% on specific materials) -  Law: East African Community Customs Management Act, 2004 -
+    questions_and_answers:
+      - question: |
+          What is the annual registration fee for professionals under the Quantity Surveyors Registration Act, 1997?
+        answer: |
+          The annual registration fee is TZS 500,000 per professional.
+      - question: |
+          Under which law are building permit fees regulated and what is an example fee amount?
+        answer: |
+          Building permit fees are regulated under the Urban Planning Act, 2007, and an example fee is TZS 1 million per permit.
+      - question: |
+          What is the annual fee for licensing construction vehicles under the Road Traffic Act, 1973?
+        answer: |
+          The annual fee is TZS 200,000 per construction vehicle.
+      - question: |
+          What is the purpose of the Environmental Monitoring Fee, and what law governs it?
+        answer: |
+          The Environmental Monitoring Fee is for monitoring environmental compliance and is governed by the Environmental Management Act, 2004.
+      - question: |
+          What is an example of the export duty rate for construction materials, and which law sets this rate?
+        answer: |
+          An example of the export duty rate is 5% on specific materials, as set by the East African Community Customs Management Act, 2004.
+  - context: |
+       Example: For TZS 20 million worth of exported materials, the duty would be TZS 1 million (20 million * 5%). 4ps. 1ps. -  Rate: TZS 1 million annually -  Law: Environmental Management Act, 2004 -  Example: An annual fee of TZS 1 million for environmental monitoring. ## 28. Export Duty -  Description: Duty on exporting construction materials. -  Rate: Varies (e.g., 5% on specific materials) -  Law: East African Community Customs Management Act, 2004 -  Example: For TZS 20 million worth of exported materials, the duty would be TZS 1 million (20 million * 5%). ## 29. Building Permit Fee -  Description: Fee for obtaining a building permit. -  Rate: TZS 1 million per permit -  Law: Urban Planning 2ps. Act, 2007 -  Example: A TZS 1 million fee for each building permit. ## 30. Foreign Contractor Levy -  Description: Levy on foreign construction companies. -  Rate: 1% of the project cost -  Law: Contractors Registration Act, 1997 -  Example: For a project costing TZS 100 million, the levy would be TZS 1 million (100 million * 1%). 5ps. 1ps. -  Rate: TZS 1 million per permit -  Law: Urban Planning Act, 2007 -  Example: A TZS 1 million fee for each building permit. ## 30. Foreign Contractor Levy -  Description: Levy on foreign construction companies. -  Rate: 1%
+    questions_and_answers:
+      - question: |
+          What is the rate of the export duty for construction materials according to the East African Community Customs Management Act, 2004?
+        answer: |
+          The export duty rate varies, and an example provided in the text indicates a 5% duty on specific materials.
+      - question: |
+          How is the building permit fee calculated under the Urban Planning Act, 2007?
+        answer: |
+          The building permit fee is a flat rate of TZS 1 million per permit.
+      - question: |
+          What is the purpose of the Foreign Contractor Levy, and how is it calculated?
+        answer: |
+          The Foreign Contractor Levy is charged on foreign construction companies, calculated at 1% of the project cost.
+      - question: |
+          Which law governs the annual environmental monitoring fee, and how much is it?
+        answer: |
+          The Environmental Management Act, 2004 governs the annual environmental monitoring fee, which is set at TZS 1 million annually.
+      - question: |
+          Can you provide an example calculation of the Foreign Contractor Levy for a project costing TZS 100 million?
+        answer: |
+          For a project costing TZS 100 million, the Foreign Contractor Levy would be TZS 1 million, calculated as 1% of the project cost.
+document_outline: |
+  ### Document Outline: Taxes on the Construction Sector in Tanzania
+  This document provides a detailed list of 30 taxes, levies, duties, and fees applicable to business activities in the Tanzanian construction sector, in accordance with the country's tax laws. Each tax item includes a description, applicable rate, governing law, and examples to demonstrate practical applications.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_Construction_sector.md

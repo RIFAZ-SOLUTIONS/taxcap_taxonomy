@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      Regulations are amended by deleting regulation 36B and substituting for it the | |-------------------------------|-------------------------------------------------------------------------------------------------------| | Amendment of Schedule | 4. The Schedule to the principal Regulations is amended by adding Form ITX 653.01.E at 3ps. the end of the | GN. 3ps. 1ps. - (2) For purposes of this regulation 'transfer' means transfer of goods from Tanzania Zanzibar to Mainland Tanzania.'. Amendment of regulations 36A GN. NO. 714 (Contd.) | Amendment of regulation 36B | 3. The principal Regulations are amended by deleting regulation 36B and substituting for it the | |-------------------------------|-------------------------------------------------------------------------------------------------------| | Amendment of Schedule | 4. The Schedule to the principal Regulations is amended by adding Form ITX 653.01.E at the end of the | GN. NO. 714 (Contd.) \_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_ (Made under regulation 36B(1)) Form No. ITX 653.01.E ## APPLICATION FOR 2ps. REFUND OF VAT ON GOODS SOLD TO REGISTERED PERSONS IN ZANZIBAR <!-- image --> TO: Commissinioner
+    questions_and_answers:
+      - question: |
+          What regulation is being substituted in the given amendment?
+        answer: |
+          Regulation 36B is being substituted in the principal Regulations.
+      - question: |
+          What is the definition of 'transfer' as per this regulation amendment?
+        answer: |
+          For purposes of this regulation, 'transfer' means transfer of goods from Tanzania Zanzibar to Mainland Tanzania.
+      - question: |
+          What new form has been added to the Schedule of the principal Regulations?
+        answer: |
+          Form ITX 653.01.E has been added to the Schedule of the principal Regulations.
+      - question: |
+          What is the purpose of Form ITX 653.01.E as per the amendment?
+        answer: |
+          Form ITX 653.01.E is an application for a refund of VAT on goods sold to registered persons in Zanzibar.
+      - question: |
+          Under which regulation is Form ITX 653.01.E introduced?
+        answer: |
+          Form ITX 653.01.E is introduced under regulation 36B(1).
+  - context: |
+      1ps. 1ps. GN. NO. 714 (Contd.) GOVERNMENT NOTICE No. 714 Published On. 8/10/2021 ## THE VALUE ADDED TAX ACT (CAP 148) \_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_ (Made under section 94) \_\_\_\_\_\_\_\_ THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2021 Citation and commencement GN. No. 225 of 2015 - 1.-(1) These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations, 2021 and shall be read together with the Value Added Tax (General) Regulations, 2015 hereinafter referred to as 'principal Regulations'. - (2) These Regulations 2ps. shall be deemed to have come into operation on the 1 st day of July, 2021. - 2. The principal Regulations are amended by deleting regulations 36A and substituting for it the following new Regulations- 'Procedures for goods transferred to Mainland Tanzania - 36A-(1). Subject to section 3(4) of the Act, the goods transferred from Tanzania Zanzibar to Mainland Tanzania shall be cleared through ports of entry
+    questions_and_answers:
+      - question: |
+          What is the title of the document described in the context?
+        answer: |
+          The document is titled 'THE VALUE ADDED TAX (GENERAL) (AMENDMENT) REGULATIONS, 2021.'
+      - question: |
+          When did the Value Added Tax (General) (Amendment) Regulations, 2021 come into effect?
+        answer: |
+          The regulations came into effect on the 1st day of July, 2021.
+      - question: |
+          What were the principal regulations referred to in the document?
+        answer: |
+          The principal regulations referred to are the Value Added Tax (General) Regulations, 2015.
+      - question: |
+          What amendment was made to the principal regulations in section 2 of the document?
+        answer: |
+          Section 2 of the document amends the principal regulations by deleting regulation 36A and substituting it with a new regulation regarding procedures for goods transferred to Mainland Tanzania.
+      - question: |
+          What does the new regulation 36A specify about goods transferred from Tanzania Zanzibar to Mainland Tanzania?
+        answer: |
+          The new regulation 36A specifies that goods transferred from Tanzania Zanzibar to Mainland Tanzania shall be cleared through ports of entry, subject to section 3(4) of the Act.
+  - context: |
+      General P.O. BOX 11491, DAR ES SALAAM ## APPLICATION FOR REFUND OF VAT ON GOODS SOLD TO VAT REGISTERED PERSONS IN ZANZIBAR I…………………………..........................(the Commissioner of Zanzibar Revenue Board) apply for refund of Tanzania Shillings ...................................... being amount of VAT collected by Tanzania Revenue Authority on behalf of Zanzibar Revenue Board on account of goods sold to VAT Registered Persons in Tanzania Zanzibar for the month of……………………………..(state 4ps. 1ps. NO. 714 (Contd.) \_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_ (Made under regulation 36B(1)) Form No. ITX 653.01.E ## APPLICATION FOR REFUND OF VAT ON GOODS SOLD TO REGISTERED PERSONS IN ZANZIBAR <!-- image --> TO: Commissinioner General P.O. BOX 11491, DAR ES SALAAM ## APPLICATION FOR REFUND OF VAT ON GOODS SOLD TO VAT REGISTERED PERSONS IN ZANZIBAR I…………………………..........................(the month(s)and year) as provided for under Section 3(4) of the Value Added Tax Act, Cap.148. ## Declaration I DO CERTIFY that the above information/data are correct and I
+    questions_and_answers:
+      - question: |
+          What is the purpose of the application mentioned in the context?
+        answer: |
+          The application is for a refund of VAT on goods sold to VAT-registered persons in Zanzibar, which was collected by the Tanzania Revenue Authority on behalf of the Zanzibar Revenue Board.
+      - question: |
+          Who is the recipient addressed in the application for the VAT refund?
+        answer: |
+          The application is addressed to the Commissioner General at P.O. BOX 11491, Dar es Salaam.
+      - question: |
+          Under which section of the Value Added Tax Act is the VAT refund application based?
+        answer: |
+          The VAT refund application is based on Section 3(4) of the Value Added Tax Act, Cap.148.
+      - question: |
+          What form number is associated with the application for a VAT refund?
+        answer: |
+          The form number associated with the VAT refund application is ITX 653.01.E.
+      - question: |
+          What information does the declaration at the end of the application certify?
+        answer: |
+          The declaration certifies that the information and data provided in the application are correct.
+  - context: |
+      undertake to confirm that the said goods were purchased in Mainland Tanzania 2ps. by Registered Persons in Zanzibar and transfered from Mainland Tanzania for sale in Zanzibar as per attached Schedule and supporting documents. ....................................... ................... ...................................... Name of Authorised Officer Signature Date and GN. NO. 714 (Contd.) ## Official Stamp ## NOTE: To be submitted in triplicate GN. NO. 714 (Contd.) ITX653.01.E. Application for Refund of VAT on Goods sold to Registered Persons in Zanzibar ## ATTACHMENT TO THE 3ps. VAT REFUND CLAIM FORM GN. NO. 714 (Contd.) 5ps. 1ps. ITX653.01.E. Application for Refund of VAT on Goods sold to Registered Persons in Zanzibar ## ATTACHMENT TO THE VAT REFUND CLAIM FORM GN. NO. 714 (Contd.) NB: To be attached with the following particulars as stipulated under Regulation 36B(2). - (a) a tax invoice generated by Electronic Fiscal Device (EFD) showing the name, Taxpayer's Identification Number and Value Added Tax Registration Number
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Application for Refund of VAT on Goods sold to Registered Persons in Zanzibar?
+        answer: |
+          The purpose is to claim a refund of VAT on goods that were purchased in Mainland Tanzania by Registered Persons in Zanzibar and transferred to Zanzibar for sale.
+      - question: |
+          What supporting documents must be included according to the VAT Refund Claim Form?
+        answer: |
+          The VAT Refund Claim Form must include a tax invoice generated by an Electronic Fiscal Device (EFD) showing the name, Taxpayer's Identification Number, and Value Added Tax Registration Number.
+      - question: |
+          What specific regulation outlines the required particulars for the VAT Refund Claim Form?
+        answer: |
+          The required particulars are stipulated under Regulation 36B(2).
+      - question: |
+          How must the VAT Refund Claim Form be submitted?
+        answer: |
+          The form must be submitted in triplicate, as noted in the instructions.
+      - question: |
+          Who is responsible for confirming that the goods were purchased in Mainland Tanzania and transferred to Zanzibar?
+        answer: |
+          An authorized officer is responsible for confirming the purchase and transfer of the goods, as per the attached schedule and supporting documents.
+  - context: |
+      in Mainland Tanzania and charged value added tax equal to the difference between the value 3ps. added tax rate applicable in Mainland Tanzania and that of Tanzania Zanzibar. 2ps. 1ps. No. 225 of 2015 - 1.-(1) These Regulations may be cited as the Value Added Tax (General) (Amendment) Regulations, 2021 and shall be read together with the Value Added Tax (General) Regulations, 2015 hereinafter referred to as 'principal Regulations'. - (2) These Regulations shall be deemed to have come into operation on the 1 st day of July, 2021. - 2. The principal Regulations are amended by deleting regulations 2ps. 36A and substituting for it the following new Regulations- 'Procedures for goods transferred to Mainland Tanzania - 36A-(1). - (2) For purposes of this regulation 'transfer' means transfer of goods from Tanzania Zanzibar to Mainland Tanzania.'. Amendment of regulations 36A GN. NO. 714 (Contd.) | Amendment of regulation 36B | 3. The principal
+    questions_and_answers:
+      - question: |
+          What is the title and purpose of the regulations mentioned in the context?
+        answer: |
+          The regulations are titled the Value Added Tax (General) (Amendment) Regulations, 2021, and they amend the Value Added Tax (General) Regulations, 2015 to address specific VAT procedures starting from July 1, 2021.
+      - question: |
+          When did the Value Added Tax (General) (Amendment) Regulations, 2021 come into effect?
+        answer: |
+          The regulations came into effect on July 1, 2021.
+      - question: |
+          What change was made to regulation 36A in the principal regulations?
+        answer: |
+          Regulation 36A was amended to introduce new procedures for goods transferred from Tanzania Zanzibar to Mainland Tanzania, specifying that the term 'transfer' in this context refers to such movements of goods.
+      - question: |
+          How is the value added tax calculated for goods transferred to Mainland Tanzania?
+        answer: |
+          The value added tax is calculated as the difference between the VAT rate applicable in Mainland Tanzania and that of Tanzania Zanzibar.
+      - question: |
+          What is the relationship between the 2021 amendment regulations and the 2015 principal regulations?
+        answer: |
+          The 2021 amendment regulations serve as updates to the Value Added Tax (General) Regulations, 2015, modifying certain provisions such as the procedures for transferring goods to Mainland Tanzania.
+document_outline: |
+  **Document Outline:**
+  This document outlines the amendments to the Value Added Tax (General) Regulations, 2015, under the Value Added Tax Act (Cap. 148), via Government Notice No. 714, published on October 8, 2021. It details updated procedures for VAT application on goods transferred between Tanzania Mainland and Zanzibar, the introduction of a new form for VAT refund claims (Form ITX 653.01.E), and the required documentation for such claims, with implementation retroactively effective from July 1, 2021.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_VALUE_ADDED_TAX_(GENERAL)_(AMENDMENT)_REGULATIONS,_2021.md

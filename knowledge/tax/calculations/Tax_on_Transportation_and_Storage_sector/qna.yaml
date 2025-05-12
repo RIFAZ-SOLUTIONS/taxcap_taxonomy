@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Tax on Transportation and Storage sector Below is a detailed list of 30 taxes, levies, duties, and customs applicable to the specified business activities in the Transportation and Storage sector in Tanzania. Each item includes a description, the applicable rate, the law governing it, and an example of its calculation. ## 1. Corporate Income Tax (CIT) -  Description : Tax on the income of corporate entities.  Rate : 30% -  Law : Income Tax Act, 2004 -  Example : If a transportation company has a taxable income of TZS 500,000,000, the CIT would be TZS 500,000,000 * 30% = TZS 2ps. 150,000,000. ## 2. Value Added Tax (VAT) -  Description : Tax on the value added at each stage of production or distribution. -  Rate : 18% -  Law : Value Added Tax Act, 2014 -  Example : For a service billed at TZS 1,000,000, the VAT would be TZS 1,000,000 * 18% = TZS 180,000. 2ps. 1ps.  Rate : 30% -  Law : Income Tax Act, 2004 -  Example : If a transportation company has a taxable income of TZS 500,000,000, the CIT would be TZS 500,000,000 * 30% = TZS 150,000,000. ## 2. Value Added Tax (VAT) -  Description : Tax on the value added at each stage of production or distribution. ## 3. Excise Duty -  Description : Tax on specific
+    questions_and_answers:
+      - question: |
+          What is the corporate income tax (CIT) rate for businesses in the Transportation and Storage sector in Tanzania?
+        answer: |
+          The corporate income tax (CIT) rate is 30%.
+      - question: |
+          Under which law is the corporate income tax (CIT) in Tanzania governed?
+        answer: |
+          The corporate income tax (CIT) is governed by the Income Tax Act, 2004.
+      - question: |
+          How is the Value Added Tax (VAT) calculated for services in the Transportation and Storage sector in Tanzania?
+        answer: |
+          The VAT is calculated at a rate of 18% on the billed amount. For example, for a service billed at TZS 1,000,000, the VAT would be TZS 180,000.
+      - question: |
+          What is the description of the Value Added Tax (VAT) in Tanzania?
+        answer: |
+          The Value Added Tax (VAT) is a tax on the value added at each stage of production or distribution.
+      - question: |
+          If a transportation company has a taxable income of TZS 500,000,000, how much corporate income tax (CIT) would it owe?
+        answer: |
+          The company would owe TZS 150,000,000 in corporate income tax (CIT), calculated as TZS 500,000,000 * 30%.
+  - context: |
+      Law : Tanzania Ports Authority Act, 2005 -  Example : For goods valued at TZS 50,000,000, the port service charge might be TZS 500,000. ## 15. Wharfage Fee -  Description : Fee for cargo handling at the port. 4ps. 1ps. ## 14. Port Service Charge -  Description : Charge for using port facilities. -  Rate : Varies -  Law : Tanzania Ports Authority Act, 2005 -  Example : For goods valued at TZS 50,000,000, the port service charge might be TZS 500,000. ## 15. Wharfage Fee -  Description : Fee for cargo handling at the port. -  Rate : Varies -  Law : Tanzania Ports Authority Act, 2005 -  Example : If the fee is TZS 1,000 per ton, for 50 tons, the fee is 50 * TZS 1,000 = TZS 50,000. ## 16. Customs Processing Fee -  2ps. Description : Fee for processing customs documentation. -  Rate : 0.6% of CIF value -  Law : East African Community Customs Management Act, 2004 -  Example : For goods with a CIF value of TZS 20,000,000, the fee is TZS 20,000,000 * 0.6% = TZS 120,000. ## 17. Freight Forwarding Fee -  Description : Fee for freight forwarding services. 5ps. 1ps. ## 16. Customs Processing Fee -  Description : Fee for processing customs documentation. -  Rate : 0.6% of CIF value -  Law
+    questions_and_answers:
+      - question: |
+          What is the basis for calculating the Port Service Charge according to the Tanzania Ports Authority Act, 2005?
+        answer: |
+          The Port Service Charge is calculated based on the value of the goods, with the rate varying depending on the law. For example, for goods valued at TZS 50,000,000, the charge might be TZS 500,000.
+      - question: |
+          What does the Wharfage Fee cover, and how is it calculated?
+        answer: |
+          The Wharfage Fee covers cargo handling services at the port. It is calculated based on tonnage; for instance, if the fee is TZS 1,000 per ton, the charge for handling 50 tons would be TZS 50,000.
+      - question: |
+          Under which law is the Customs Processing Fee regulated, and what is its rate?
+        answer: |
+          The Customs Processing Fee is regulated under the East African Community Customs Management Act, 2004, and is charged at a rate of 0.6% of the CIF (Cost, Insurance, and Freight) value of the goods.
+      - question: |
+          Can you provide an example calculation for the Customs Processing Fee?
+        answer: |
+          For goods with a CIF value of TZS 20,000,000, the Customs Processing Fee would be TZS 20,000,000 * 0.6%, which equals TZS 120,000.
+      - question: |
+          What is the general purpose of the Freight Forwarding Fee as described in the context?
+        answer: |
+          The Freight Forwarding Fee is charged for freight forwarding services, although specific details about the rate or calculation were not provided in the context.
+  - context: |
+      product (0% to 25%) -  Law : East African Community Customs Management Act, 2004 -  Example : If a company imports vehicle spare parts worth TZS 10,000,000 at a rate of 10%, the import duty is TZS 10,000,000 * 10% = TZS 1,000,000. ## 5. Stamp Duty -  Description : Tax on legal documents. -  Rate : Varies by document -  Law : Stamp Duty Act, 1972 -  Example : For a contract valued at TZS 100,000,000, with a stamp 2ps. duty of 1%, the duty is TZS 100,000,000 * 1% = TZS 1,000,000. ## 6. Skills and Development Levy (SDL) -  Description : Levy to fund vocational education and training. -  Rate : 4.5% of gross emoluments -  Law : Vocational Education and Training Act, 1994 -  Example : For a company with monthly gross emoluments of TZS 50,000,000, SDL is TZS 50,000,000 * 4.5% = TZS 2,250,000. 5ps. 1ps. -  Rate : Varies by document -  Law : Stamp Duty Act, 1972 -  Example : For a contract valued at TZS 100,000,000, with a stamp duty of 1%, the duty is TZS 100,000,000 * 1% = TZS 1,000,000. ## 6. Skills and Development Levy (SDL) -  Description : Levy to fund vocational education and training. ## 7. PAYE (Pay-As-You-Earn) -  Description : Tax on employees' salaries. -  Rate : Progressive rates (9%
+    questions_and_answers:
+      - question: |
+          What is the law governing import duties in the East African Community?
+        answer: |
+          The East African Community Customs Management Act, 2004 governs import duties.
+      - question: |
+          How is import duty calculated for goods under the East African Community Customs Management Act, 2004?
+        answer: |
+          Import duty is calculated by multiplying the value of the goods by the applicable duty rate. For example, for goods worth TZS 10,000,000 at a rate of 10%, the duty is TZS 1,000,000.
+      - question: |
+          What is the purpose of the Skills and Development Levy (SDL), and what is its rate?
+        answer: |
+          The purpose of the SDL is to fund vocational education and training. The rate is 4.5% of gross emoluments.
+      - question: |
+          Under which law is stamp duty regulated, and what is an example of its application?
+        answer: |
+          Stamp duty is regulated under the Stamp Duty Act, 1972. For example, a contract worth TZS 100,000,000 with a 1% duty rate will incur a stamp duty of TZS 1,000,000.
+      - question: |
+          What type of tax is PAYE, and how is it structured?
+        answer: |
+          PAYE (Pay-As-You-Earn) is a tax on employees' salaries. It is structured using progressive rates, starting at 9%.
+  - context: |
+      Rate : Varies -  Law : East African Community Customs Management Act, 2004 -  Example : If the fee is TZS 100 per ton, for 500 tons, the fee is 500 * TZS 100 = TZS 50,000. ## 25. Export Duty -  Description : Duty on goods exported from Tanzania. 4ps. 1ps. ## 24. Transit Fee -  Description : Fee for transit of goods through Tanzania. -  Rate : Varies -  Law : East African Community Customs Management Act, 2004 -  Example : If the fee is TZS 100 per ton, for 500 tons, the fee is 500 * TZS 100 = TZS 50,000. ## 25. Export Duty -  Description : Duty on goods exported from Tanzania. -  Rate : Varies -  Law : East African Community Customs Management Act, 2004 -  Example : For goods valued at TZS 10,000,000 with a duty rate of 5%, the duty is TZS 2ps. 10,000,000 * 5% = TZS 500,000. ## 26. Business License Fee -  Description : Annual fee for business operation. -  Rate : Varies -  Law : Business Licensing Act, 1972 -  Example : For a large transportation company, the fee might be TZS 1,000,000 per year. ## 27. Withholding Tax on Technical Services -  Description : Tax on payments for technical services. 5ps. 1ps. ## 26. Business License Fee -  Description :
+    questions_and_answers:
+      - question: |
+          What law governs the Transit Fee and Export Duty in Tanzania?
+        answer: |
+          The Transit Fee and Export Duty are governed by the East African Community Customs Management Act, 2004.
+      - question: |
+          How is the fee for transit of goods through Tanzania calculated?
+        answer: |
+          The Transit Fee is calculated based on the weight of goods and the applicable rate per ton. For example, if the fee is TZS 100 per ton and the shipment is 500 tons, the total fee is 500 * TZS 100 = TZS 50,000.
+      - question: |
+          What is the formula for calculating Export Duty for goods in Tanzania?
+        answer: |
+          The Export Duty is calculated as a percentage of the value of exported goods. For instance, for goods valued at TZS 10,000,000 with a duty rate of 5%, the duty is TZS 10,000,000 * 5% = TZS 500,000.
+      - question: |
+          Under which law is the annual Business License Fee regulated in Tanzania?
+        answer: |
+          The annual Business License Fee is regulated under the Business Licensing Act, 1972.
+      - question: |
+          What is an example of the annual Business License Fee for a large transportation company in Tanzania?
+        answer: |
+          For a large transportation company, the annual Business License Fee might be TZS 1,000,000.
+  - context: |
+      1ps. 1ps. ## 8. Motor Vehicle License Fee -  Description : Annual fee for vehicle registration. -  Rate : Varies by vehicle type -  Law : Road Traffic Act, 1973 -  Example : For a commercial truck, the fee could be TZS 500,000 per year. ## 9. Fuel Levy -  Description : Levy on fuel sold within Tanzania. -  Rate : Varies -  Law : Finance Act, 2016 -  Example : If the levy is TZS 300 per liter, for 5,000 liters, the levy is 5,000 * TZS 300 = TZS 1,500,000. ## 10. Local Government Service Levy -  Description 2ps. : Levy on company turnover. -  Rate : 0.3% of turnover -  Law : Local Government Finance Act, 1982 -  Example : For a company with a turnover of TZS 200,000,000, the levy is TZS 200,000,000 * 0.3% = TZS 600,000. ## 11. Property Tax -  Description : Tax on the ownership of property. 2ps. 1ps. ## 10. Local Government Service Levy -  Description : Levy on company turnover. -  Rate : 0.3% of turnover -  Law : Local Government Finance Act, 1982 -  Example : For a company with a turnover of TZS 200,000,000, the levy is TZS 200,000,000 * 0.3% = TZS 600,000. ## 11. Property Tax -  Description : Tax on the ownership of property. -  Rate
+    questions_and_answers:
+      - question: |
+          What is the Motor Vehicle License Fee, and how is its rate determined?
+        answer: |
+          The Motor Vehicle License Fee is an annual fee for vehicle registration. Its rate varies depending on the type of vehicle, as specified under the Road Traffic Act, 1973.
+      - question: |
+          How is the Fuel Levy applied, and can you provide an example calculation?
+        answer: |
+          The Fuel Levy is imposed on fuel sold within Tanzania as per the Finance Act, 2016, with rates that vary. For example, if the levy rate is TZS 300 per liter, purchasing 5,000 liters would result in a levy of TZS 1,500,000.
+      - question: |
+          How is the Local Government Service Levy calculated, and under what law is it governed?
+        answer: |
+          The Local Government Service Levy is calculated as 0.3% of a company's turnover and is governed by the Local Government Finance Act, 1982. For instance, a company with a turnover of TZS 200,000,000 would owe TZS 600,000.
+      - question: |
+          What does the Property Tax entail, and what is its general purpose?
+        answer: |
+          The Property Tax is a tax on the ownership of property. It serves as a means of generating revenue based on property ownership, though detailed rates are not provided in the context.
+      - question: |
+          Which laws govern the different fees and levies mentioned in the context?
+        answer: |
+          The laws governing the fees and levies are the Road Traffic Act, 1973 (Motor Vehicle License Fee), the Finance Act, 2016 (Fuel Levy), and the Local Government Finance Act, 1982 (Local Government Service Levy).
+document_outline: |
+  **Document Outline:**
+  The document provides a comprehensive guide to 30 taxes, levies, duties, and customs applicable to the Transportation and Storage sector in Tanzania, detailing their descriptions, rates, governing laws, and example calculations. Key taxes covered include Corporate Income Tax, Value Added Tax, Excise Duty, Import Duty, Stamp Duty, and others specific to transportation-related activities.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tax_on_Transportation_and_Storage_sector.md

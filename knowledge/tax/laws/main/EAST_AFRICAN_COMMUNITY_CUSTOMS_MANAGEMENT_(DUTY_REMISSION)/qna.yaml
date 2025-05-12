@@ -1,0 +1,149 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. (including area code) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. Company Fax No and E-mail Address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 4. Company Directors \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Company contact person &amp; title \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 5. (i) Company Auditors, Address and Telephone Nos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ii) Company Bankers, Address and Telephone Nos \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (iii) Customs Agent(s) Address and Telephone Nos, where applicable \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 6. State your annual import requirements for inputs Tariff No. ## Declaration I declare that all the information provided above is correct to the best of my knowledge - Name\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Title\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Signature \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Date\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Company Stamp\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Form R 2 ## TRANSFER OF GOODS FOR EXPORTS ## PART A: TO BE COMPLETED BY THE TRANSFEROR 1. Name and Address of Transferor 2. Name and Address of Transferee PIN/TIN PIN/TIN 3. Legal Notice No. 2ps. (Transferor) 4. Legal Notice No. (Transferee) Date: Date: 5. Transferor Customs Bond No. 6. Transferee Customs Bond No. 7. Description of goods to be transferred 8. Ex-factory value (US$) 9. H.S. Code 10. Quantity 11. I certify that l have transferred the above goods and duty liability to the transferee named in box 2. Name …………………………………………………………………………………………… ….. 2ps. 1ps. Description Quantity Unit of measure \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_ 7. Indicate the finished products to be manufactured using 6 above Tariff No. Title …………………………………………………………………………………………… …… Signature …………………………………………………………………………………………… …….. Date …………………………………………………………………………………………… …….. PART B: TO BE COMPLETED BY THE TRANSFEREE FOR OFFICIAL CUSTOMS USE I hereby certify that the transferor has duly transferred the goods manufactured under the Duty Remission Regulations as gazetted under Legal Notice No…………… dated…………….to the 12.
+    questions_and_answers:
+      - question: |
+          What specific information is required about the company's contact details in the form?
+        answer: |
+          The form requires the company's contact person and title, company phone numbers (including area code), fax number, and email address.
+      - question: |
+          What details are requested under the section for company auditors?
+        answer: |
+          The form asks for the auditors' name, address, and telephone numbers.
+      - question: |
+          What certification is the transferor required to make in PART A of the TRANSFER OF GOODS FOR EXPORTS section?
+        answer: |
+          The transferor must certify that the goods and duty liability described have been transferred to the transferee, by providing their name, title, signature, and the date.
+      - question: |
+          What is the purpose of the H.S. Code mentioned in the form?
+        answer: |
+          The H.S. Code is used to classify the goods being transferred, aligning with the international Harmonized System for identifying traded products.
+      - question: |
+          What are transferees required to certify in PART B of the TRANSFER OF GOODS FOR EXPORTS section?
+        answer: |
+          In PART B, the transferee must certify that the transferor has officially transferred the goods manufactured under the Duty Remission Regulations, as documented in the relevant Legal Notice.
+  - context: |
+      1ps. 1ps. By-products, scrap or waste from process of manufacture. Transfer, etc. of goods. Powers of a proper officer. - 9. A security bond shall be cancelled upon - - (a) proof of exportation of the manufactured goods; - (b) payment of duty and the penalty under regulation 7; - (c) proof of transfer of goods under regulation 11; - (d) proof of destruction of the goods. - 10. Where a by-product, scrap or waste of commercial value results from a process of manufacture or production utilizing goods subject to duty remission, duty shall be payable 2ps. on the prevailing value of the byproduct, scrap or waste in accordance with the Act, unless the byproduct, scrap or waste is exported or destroyed under the supervision of the proper officer. - 11. (1) Manufactured goods resulting from approved imported goods under these Regulations may be transferred to another manufacturer, with the approval of the Commissioner, to another manufacturer for use in the 3ps. manufacture of goods for export. 2ps. 1ps. - 9. A security bond shall be cancelled upon - - (a) proof of exportation of the manufactured goods; - (b) payment of duty and the penalty under regulation 7; - (c) proof of transfer of goods under regulation 11; - (d) proof of destruction of the goods. - 11. (1) Manufactured goods resulting from approved imported goods under these Regulations may be transferred to another manufacturer, with the approval of the Commissioner, to another manufacturer for use in the manufacture of goods for export. - (2) The transfer 2ps.
+    questions_and_answers:
+      - question: |
+          What are the conditions under which a security bond can be canceled?
+        answer: |
+          A security bond can be canceled upon proof of exportation of manufactured goods, payment of duty and penalties under regulation 7, proof of transfer of goods under regulation 11, or proof of the destruction of the goods.
+      - question: |
+          Is duty payable on by-products, scrap, or waste resulting from manufacturing processes?
+        answer: |
+          Yes, duty is payable on the prevailing value of the by-products, scrap, or waste, unless they are exported or destroyed under the supervision of the proper officer.
+      - question: |
+          Can manufactured goods made from imported materials be transferred to another manufacturer?
+        answer: |
+          Yes, manufactured goods resulting from approved imported goods can be transferred to another manufacturer, with approval from the Commissioner, for use in the manufacture of goods for export.
+      - question: |
+          Under what condition is duty not required for by-products, scrap, or waste from manufacturing processes?
+        answer: |
+          Duty is not required if the by-products, scrap, or waste are either exported or destroyed under the supervision of the proper officer.
+      - question: |
+          Who has the authority to approve the transfer of manufactured goods to another manufacturer?
+        answer: |
+          The Commissioner has the authority to approve the transfer of manufactured goods to another manufacturer for use in producing goods for export.
+  - context: |
+      1ps. 1ps. - (4) The quorum for the Committee shall be three members which shall include the representatives of the Ministry responsible for Finance and the Customs. - (5) The Committee shall formulate its own procedures for the conduct of its business. - (5) In the performance of its functions under sub regulation (4), the Committee shall have powers to- - (a) require the applicant to furnish it with such further information or document as it may deem necessary; - (b) inspect the premises in 2ps. which goods in respect of which these regulations apply are manufactured or kept. - 5. (1) An application for remission of duty shall be made to the Council through the Commissioner in Form R 1 in the Schedule to these Regulations. - (2) Upon receipt of an application for remission, the Commissioner shall forward the application to the Committee for its comments. - (3) The Commissioner shall after receiving the comments under sub regulation 3ps. (2) forward the application together with his or her comments to the Council. 2ps. 1ps. - 5. (1) An application for remission of duty shall be made to the Council through the Commissioner in Form R 1 in the Schedule to these Regulations. - (2) Upon receipt of an application for remission, the Commissioner shall forward the application to the Committee for its comments. - (3) The Commissioner shall after receiving the comments under sub regulation (2) forward the application together with his or her comments to the Council. - (4) The Council 2ps. may for reasons to be communicated to the applicant Validity of Duty Remission. Conditions attached to remission of duty. Entry and bond for goods imported. reject an application for remission under these Regulations. - 6.
+    questions_and_answers:
+      - question: |
+          What constitutes a quorum for the Committee as mentioned in the context?
+        answer: |
+          The quorum for the Committee shall be three members, including representatives of the Ministry responsible for Finance and the Customs.
+      - question: |
+          What powers does the Committee have in the performance of its functions under sub regulation (4)?
+        answer: |
+          The Committee has the powers to require the applicant to provide further information or documents as necessary and to inspect premises where relevant goods are manufactured or kept.
+      - question: |
+          How is an application for remission of duty initiated according to the context?
+        answer: |
+          An application for remission of duty must be made to the Council through the Commissioner using Form R 1 as specified in the schedule to the regulations.
+      - question: |
+          What steps does the Commissioner take after receiving an application for remission of duty?
+        answer: |
+          After receiving the application, the Commissioner forwards it to the Committee for comments. Subsequently, the Commissioner forwards the application along with the Committee's comments and their own to the Council.
+      - question: |
+          What can the Council do regarding an application for remission of duty, and what is required if it takes this action?
+        answer: |
+          The Council may reject an application for remission of duty under these regulations, and it must communicate the reasons for rejection to the applicant.
+  - context: |
+      1ps. 1ps. ## EAST AFRICAN COMMUNITY CUSTOMS MANAGEMENT (DUTY REMISSION) REGULATIONS, 2008 ## ARRANGEMENT OF REGULATIONS ## Regulation Title - 1. Citation and commencement. - 2. Interpretation. - 3. Goods on which remission may be granted. - 4. Duty Remission Committee. - 5. Application for remission of duty. - 6. Publication of goods and manufacturers. - 7. Conditions attached to remission of duty. - 8. Entry and bond for goods imported. - 9. Cancellation of bond. - 10. By-products scrap or waste from process of manufacture - 11. Transfer, etc. 2ps. of goods. - 12. Commissioner may authorise re-exportation. - 13. Maintenance of books and records. - 14. Powers of a proper officer. - 15. Revocation of grant. ## THE EAST AFRICAN COMMUNITY CUSTOMS MANAGEMENT (DUTY REMISSION) REGULATIONS, 2008 IN EXERCISE of powers conferred by Section 140 of the East African Community Customs Management Act, 2004, the Council of Ministers makes these Regulations this 17 th day of March 2008- Citation and commencement. 2ps. 1ps. - 14. Powers of a proper officer. - 15. Revocation of grant. ## THE EAST AFRICAN COMMUNITY CUSTOMS MANAGEMENT (DUTY REMISSION) REGULATIONS, 2008 IN EXERCISE of powers conferred by Section 140 of the East African Community Customs Management Act, 2004, the Council of Ministers makes these Regulations this 17 th day of March 2008- Citation and commencement. 1. (1) These Regulations may be cited as the East African Community Customs Management (Duty Remission) Regulations, 2008. (2) These Regulations shall come into force on such date as the Council may, by notice published in the Gazette, appoint. Interpretation. 2. In these Regulations, unless 2ps.
+    questions_and_answers:
+      - question: |
+          What is the title of the regulations discussed in the document?
+        answer: |
+          The regulations are titled 'The East African Community Customs Management (Duty Remission) Regulations, 2008.'
+      - question: |
+          Under which law are the 2008 Duty Remission Regulations made?
+        answer: |
+          The regulations are made under Section 140 of the East African Community Customs Management Act, 2004.
+      - question: |
+          Who has the authority to issue these regulations?
+        answer: |
+          The Council of Ministers has the authority to issue these regulations.
+      - question: |
+          When were these regulations established?
+        answer: |
+          The regulations were established on the 17th day of March, 2008.
+      - question: |
+          What determines when the 2008 Duty Remission Regulations come into force?
+        answer: |
+          The regulations come into force on a date specified by the Council of Ministers through a notice published in the Gazette.
+  - context: |
+      1ps. 1ps.  dollars  to  be  paid  to  the  Commissioner  for  which  payment  we  bind
+         ourselves jointly and severally and also to our heirs, executors,
+         administrators and assigns and every of them firmly by these presents.
+      Dated this………day of ……………….
+      Signed sealed and delivered
+         by
+      the above named transferee………………………
+      in the presence
+         of………………………(name)
+      ……………………………………………(designation)
+      of…………………………………………
+         (address)
+      Signed sealed and delivered by
+      the above named guarantor
+      in the
+         presence
+         of………………………(name)
+      ……………………………………………(designation)
+      of…………………………………………(address)
+      Approved
+         :
+      ………………………………………..
+      Commissioner
+    questions_and_answers:
+      - question: |
+          What financial obligation is outlined in the document?
+        answer: |
+          The document outlines a payment of dollars to be made to the Commissioner, with the parties binding themselves jointly and severally for the payment.
+      - question: |
+          Who are the parties responsible for fulfilling the payment obligation?
+        answer: |
+          The parties responsible include the involved individuals, as well as their heirs, executors, administrators, and assigns.
+      - question: |
+          What formal actions are taken to finalize the agreement in the document?
+        answer: |
+          The agreement is finalized through being signed, sealed, and delivered by the transferee and guarantor in the presence of witnesses, including their designations and addresses.
+      - question: |
+          Who approves the agreement mentioned in the document?
+        answer: |
+          The agreement is approved by the Commissioner.
+      - question: |
+          What information is left blank in the document for later completion?
+        answer: |
+          The document leaves blank spaces for the date, the names, designations, and addresses of the witnesses, and the signatures of the transferee and guarantor.
+document_outline: |
+  **Document Outline:**
+  The *East African Community Customs Management (Duty Remission) Regulations, 2008* outlines the rules governing the remission of customs duty within the East African Community. It details the eligible goods, the formation and functions of the Duty Remission Committee, the application process, conditions for remission, and administrative provisions, such as maintaining records, handling by-products, and potential revocation of remission grants.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - EAST_AFRICAN_COMMUNITY_CUSTOMS_MANAGEMENT_(DUTY_REMISSION).md

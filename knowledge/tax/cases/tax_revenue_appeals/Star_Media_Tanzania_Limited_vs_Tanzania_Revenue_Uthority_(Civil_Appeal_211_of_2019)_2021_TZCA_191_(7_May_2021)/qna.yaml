@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Those are the arguments by the parties, for us to consider. Our starting point is section 16 of Cap 408 and Rule 3 (1) and (2) of the Rules. Under the Rules, the period for lodging a notice of appeal is 30 days from the date of the impugned decision. The Board 2ps. has powers under section 16 (5) of Cap 408 to extend the time upon proof by the applicant that the delay was caused by his absence from the United Republic, or his illness or any other reasonable cause. There is no dispute that illegality has, hitherto, formed a ground for extension of time in its own right. 3ps. The question that lingers here is whether the appellant was denied the right to be heard as alleged, because if she was denied that right, then that constitutes an illegality. Although the counsel for the parties hold different views on the matter, both of them have built their arguments around the same provisions of section 52 of the Act. 2ps. 1ps. There is no dispute that illegality has, hitherto, formed a ground for extension of time in its own right. The question that lingers here is whether the appellant was denied the right to be heard as alleged, because if she was denied that right, then that constitutes an illegality. Although the counsel for the parties hold different views 2ps. on the matter, both of them have built their arguments around the same provisions of section 52 of the Act.
+    questions_and_answers:
+      - question: |
+          What is the standard period for lodging a notice of appeal under the Rules?
+        answer: |
+          The standard period for lodging a notice of appeal under the Rules is 30 days from the date of the impugned decision.
+      - question: |
+          Under what circumstances can the Board extend the time for lodging a notice of appeal?
+        answer: |
+          The Board can extend the time if the applicant proves that the delay was caused by their absence from the United Republic, illness, or any other reasonable cause.
+      - question: |
+          What legal ground has previously been accepted for an extension of time in its own right?
+        answer: |
+          Illegality has previously been accepted as a ground for an extension of time in its own right.
+      - question: |
+          What key issue is being debated regarding the appellant in this context?
+        answer: |
+          The key issue is whether the appellant was denied the right to be heard, as this would constitute an illegality.
+      - question: |
+          Which section of the Act do both parties base their arguments on regarding the denial of the right to be heard?
+        answer: |
+          Both parties base their arguments on section 52 of the Act regarding the denial of the right to be heard.
+  - context: |
+      1ps. 1ps. However, the appellant could not do so within time on the ground that the statements were in the office of the Controller and Auditor General (CAG), and she wrote the respondent to disclose that predicament. That was the appellant's main ground before the Board in the application for extension of time The respondent admitted to have received the applicant's said letter but submitted that the same was received after the objection had already been determined. 2ps. At the end of the day, the Board accepted the respondent's argument that the applicant had not shown reasonable cause for the delay as required by section 16 (5) of the Tax Revenue Appeals Act, Cap 408, (Cap 408) because at the time the appellant informed the respondent by a letter dated 17th August, 2017 that the statements were in the CAG's office, the objection had already been determined. Before the Tribunal on first 3ps. appeal and before us, the appellant raised the issue of illegality. It was her contention that the respondent determined the objection without affording her an opportunity to be heard. 2ps. 1ps. At the end of the day, the Board accepted the respondent's argument that the applicant had not shown reasonable cause for the delay as required by section 16 (5) of the Tax Revenue Appeals Act, Cap 408, (Cap 408) because at the time the appellant informed the respondent by a letter dated 17th August, 2017 that the statements were in the CAG's office, the objection had already been determined. Before the Tribunal on first 2ps. appeal and before us, the appellant raised the issue of illegality. This is reflected in the first two grounds of appeal which run as follows: - - 1.
+    questions_and_answers:
+      - question: |
+          What main ground did the appellant present to the Board for requesting an extension of time?
+        answer: |
+          The appellant argued that the financial statements were in the office of the Controller and Auditor General (CAG) and informed the respondent of this predicament in a letter.
+      - question: |
+          What was the respondent's response to the appellant's request regarding the financial statements?
+        answer: |
+          The respondent admitted to receiving the appellant's letter but stated that it was received after the objection had already been determined.
+      - question: |
+          Why did the Board reject the appellant’s request for an extension of time?
+        answer: |
+          The Board ruled that the appellant had not shown reasonable cause for the delay, as required by section 16(5) of the Tax Revenue Appeals Act, Cap 408, because the objection was resolved before the appellant informed the respondent about the predicament.
+      - question: |
+          What issue did the appellant raise in their first appeal to the Tribunal?
+        answer: |
+          The appellant raised the issue of illegality, stating that the respondent determined the objection without giving her an opportunity to be heard.
+      - question: |
+          What specific provision of the law did the Board refer to when rejecting the appellant's request?
+        answer: |
+          The Board referred to section 16(5) of the Tax Revenue Appeals Act, Cap 408, which requires the appellant to show reasonable cause for any delay.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: ## MUGASHA, J.A.. KOROSSO, 3.A. And KITUSI, J.A.) CIVIL APPEAL NO. 211 OF 2019 STAR MEDIA (TANZANIA) LIMITED.................................................APPELLANT VERSUS THE TANZANIA REVENUE AUTHORITY......................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar-es-Salaam) fMiemas. 3.^ dated the 24th day of June, 2019 in Tax Appeal No. 1 of 2018 ## JUDGMENT OF THE COURT 21st April &amp; 7th May, 2021 ## KITUSI, 3.A.: This appeal arises from the decisions of the Tax Appeals Board (The Board) 2ps. and the Revenue Tax Appeals Tribunal (The Tribunal), the Board dismissing the appellant's application for extension of time and the Tribunal dismissing the subsequent appeal that sought to challenge the Board's decision. 2ps. 1ps. VERSUS THE TANZANIA REVENUE AUTHORITY......................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar-es-Salaam) fMiemas. 3.^ dated the 24th day of June, 2019 in Tax Appeal No. 1 of 2018 ## JUDGMENT OF THE COURT 21st April &amp; 7th May, 2021 ## KITUSI, 3.A.: The undisputed facts forming the background of this matter as correctly summarized by the Tribunal are as follows: - On 31 March 2017 the respondent in exercise of its statutory powers served the appellant 2ps. with tax assessments for the years of income 2013, 2014 and 2015 raising a demand for a total of TZS 8.443.993.166.00. The appellant objected to the assessment and the objection was admitted by the respondent after payment of TZS 150.000.000.00 by the appellant. We are, at the moment, skipping some details which we will bring forth at an appropriate time later. 3ps.
+    questions_and_answers:
+      - question: |
+          What was the main issue in Civil Appeal No. 211 of 2019?
+        answer: |
+          The main issue was the dismissal of Star Media (Tanzania) Limited's application for an extension of time by the Tax Appeals Board and the subsequent dismissal of their appeal by the Tax Revenue Appeals Tribunal.
+      - question: |
+          Who were the parties involved in the case?
+        answer: |
+          The parties involved were Star Media (Tanzania) Limited as the appellant and the Tanzania Revenue Authority as the respondent.
+      - question: |
+          What amount did the appellant pay in connection with their objection to the tax assessment?
+        answer: |
+          The appellant paid TZS 150,000,000.00 as part of the process of objecting to the tax assessment.
+      - question: |
+          How much was the total tax demand raised by the respondent for the years 2013, 2014, and 2015?
+        answer: |
+          The total tax demand raised by the respondent was TZS 8,443,993,166.00.
+      - question: |
+          What were the statutory powers exercised by the Tanzania Revenue Authority in this case?
+        answer: |
+          The Tanzania Revenue Authority exercised its statutory powers to serve Star Media (Tanzania) Limited with tax assessments for the income years 2013, 2014, and 2015.
+  - context: |
+      1ps. 1ps. Specifically, he referred to section 52 (3) of the Act as requiring the respondent to respond to every aspect of the objection, and section 52 (4) of the Act as giving the appellant the right to submit on every aspect of it. Instead of observing that procedure, counsel submitted, the respondent demanded audited financial statements, thereby denying the appellant the statutory right of addressing every point as stipulated 2ps. under the law cited above. Counsel argued that the illegality was so patent that even if it had not been raised by the appellant, the Tribunal ought to have raised it on its own motion. He submitted that in its determination on the issue of denial of the right to be heard, the Tribunal erred because it did not consider the effect of the clear 3ps. violation of the procedure stipulated under section 52 (3) (4) and (5) of the Act. 2ps. 1ps. Mr. Axwesso submitted further, referring to the decision of the Tribunal, that it erred in observing that the issue of illegality was not raised, while in fact it was. Counsel argued that the illegality was so patent that even if it had not been raised by the appellant, the Tribunal ought to have raised it 2ps. on its own motion. Counsel referred to the case of Dishon John Mtaita v. The Director of Public Prosecutions, Criminal Appeal No. 132 of 2004 (unreported) and Article 13 (6) (a) of the Constitution of the United Republic of Tanzania, 1977 to support his argument that the right to be heard is fundamental and the respondent's violation of that right is fatal. He proceeded to submit that, that violation constitutes an 3ps. illegality, which in turn entitles the appellant to extension of time. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What does section 52 (3) of the Act require from the respondent?
+        answer: |
+          Section 52 (3) of the Act requires the respondent to respond to every aspect of the objection raised.
+      - question: |
+          What right is given to the appellant under section 52 (4) of the Act?
+        answer: |
+          Section 52 (4) of the Act gives the appellant the right to submit on every aspect of the objection.
+      - question: |
+          What specific procedural violation did the respondent commit according to counsel's argument?
+        answer: |
+          The respondent violated the procedure by demanding audited financial statements instead of responding to each aspect of the objection, thereby denying the appellant the statutory right to address every point as required under section 52 (3) and (4) of the Act.
+      - question: |
+          Why does counsel argue that the Tribunal should have considered the issue of illegality on its own motion?
+        answer: |
+          Counsel argued that the issue of illegality was so obvious ('patent') that the Tribunal should have raised it on its own, even if the appellant had not raised it.
+      - question: |
+          What legal support did counsel use to argue for the right to be heard and its violation's consequences?
+        answer: |
+          Counsel cited the case of Dishon John Mtaita v. The Director of Public Prosecutions, Criminal Appeal No. 132 of 2004 (unreported) and Article 13 (6) (a) of the Constitution of Tanzania, 1977, to argue that the right to be heard is fundamental, and its violation constitutes an illegality that entitles the appellant to an extension of time.
+  - context: |
+      1ps. 1ps. Acting under those powers, the respondent wrote to the appellant on 29/5/2017 requiring submission by her of duly signed audited financial statements. On 6/6/2017 the respondent wrote to the appellant a letter intimating an intention to confirm the assessments after the appellant's failure to submit the said statements. Part of the letter reads: " ! According to available evidence your objections were 2ps. ' admitted and, in the determination process it was realized that duly signed audited financial statem ents for the period under review were not submitted. It should be noted that application o f section 40 (3) o f the Tax Administration Act, 2015 on jeopardy assessments were effected due to such failure and that financial statements are basic documents in objection determination. In view o f the above, the Commissioner General has refused to amend the assessments and you are given thirty (30) days 3ps. from the receipt o f this notice to make submission in writing to the undersigned as to whether you agree or disagree on the decision made as per law". 2ps. 1ps. According to available evidence your objections were ' admitted and, in the determination process it was realized that duly signed audited financial statem ents for the period under review were not submitted. It should be noted that application o f section 40 (3) o f the Tax Administration Act, 2015 on jeopardy assessments were effected due to such failure and that financial statements are basic documents in objection determination. Secondly, we hold the view that the 2ps. very request for evidence in the form of duly signed audited financial statements, was an opportunity for the appellant to be heard by substantiating her objection.
+    questions_and_answers:
+      - question: |
+          What document did the respondent request from the appellant in the letter dated 29/5/2017?
+        answer: |
+          The respondent requested the appellant to submit duly signed audited financial statements.
+      - question: |
+          What action did the respondent indicate in the letter dated 6/6/2017 due to the appellant's non-compliance?
+        answer: |
+          The respondent intimated an intention to confirm the assessments after the appellant failed to submit the required audited financial statements.
+      - question: |
+          What legal provision was invoked in the letter concerning the appellant's failure to submit audited financial statements?
+        answer: |
+          Section 40 (3) of the Tax Administration Act, 2015 was invoked in relation to jeopardy assessments due to the appellant's failure to submit the financial statements.
+      - question: |
+          Why were audited financial statements considered crucial in the objection determination process?
+        answer: |
+          Audited financial statements were deemed basic documents necessary for objection determination, as they substantiate the appellant's claims during the process.
+      - question: |
+          What opportunity did the respondent consider was provided to the appellant through the request for audited financial statements?
+        answer: |
+          The respondent viewed the request for audited financial statements as an opportunity for the appellant to be heard and substantiate her objection.
+document_outline: |
+  **Document Outline:**
+  This document summarizes the proceedings of a civil appeal in the Court of Appeal of Tanzania involving Star Media (Tanzania) Limited (Appellant) and the Tanzania Revenue Authority (Respondent). The case arises from the dismissal by the Tax Appeals Board of the appellant's application for an extension of time to lodge a notice of appeal against a tax assessment, which included a demand for over TZS 8.4 billion, and subsequent failed appeals at the Tax Revenue Appeals Tribunal and now the Court of Appeal. The central issues revolve around procedural compliance, the appellant's justification for delay, and the alleged illegality in the objection determination process.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Star_Media_Tanzania_Limited_vs_Tanzania_Revenue_Uthority_(Civil_Appeal_211_of_2019)_2021_TZCA_191_(7_May_2021).md

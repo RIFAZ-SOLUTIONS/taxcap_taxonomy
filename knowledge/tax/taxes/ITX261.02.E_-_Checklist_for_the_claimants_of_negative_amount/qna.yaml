@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ITX261.02.E Checklist for the claimants of negative amount ## ######### TANZANIA REVENUE AUTHORITY **CHECKLIST FOR THE CLAIMANTS OF VAT NEGATIVE AMOUNT** ## (Under Regulation 29(1)(d)) **PART A** 1. NAME OF THE TAXABLE PERSON 2. TAXPAYER IDENTIFICATION NUMBER (TIN) 3. VAT REGISTRATION NUMBER 4. TAX PERIOD COVERED BY THE CLAIM: …………............……………TO ……...……….………..................................… 5. AMOUNT CLAIMED: ………………………………………………………….........……….…….............................................. 6. BANK ACCOUNT NO: ………………………………………………………...........…………................................................... 7. BANK NAME................................................................................... 8. SWIFT BIC CODE ......................................................... **PART B** | S/N | REQUIREMENTS 2ps. | TICK IF YOU 3ps. HAVE COMPLIED | VERIFICATION BY TRA OFFICIAL | |-------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------| | 1. | Properly completed claim
+    questions_and_answers:
+      - question: |
+          What is the title of the checklist provided in the context?
+        answer: |
+          The title of the checklist is 'CHECKLIST FOR THE CLAIMANTS OF VAT NEGATIVE AMOUNT.'
+      - question: |
+          Under which regulation is the checklist for VAT negative amount claims listed?
+        answer: |
+          The checklist is listed under Regulation 29(1)(d).
+      - question: |
+          What specific information about the taxable person is required in Part A of the checklist?
+        answer: |
+          Part A requires the name of the taxable person, Taxpayer Identification Number (TIN), VAT registration number, tax period covered by the claim, amount claimed, bank account number, bank name, and SWIFT BIC code.
+      - question: |
+          What is the purpose of the column labeled 'Tick if you have complied' in the provided checklist format?
+        answer: |
+          The 'Tick if you have complied' column allows claimants to indicate whether they have met each requirement listed in the checklist.
+      - question: |
+          Who is responsible for verifying compliance with the checklist requirements?
+        answer: |
+          Compliance with the checklist requirements is verified by a Tanzania Revenue Authority (TRA) official.
+  - context: |
+      form VAT 208 4ps. | | | | 2. | Approved monthly claimant 5ps. 6ps. | | | | 2. | Claimant of half year basis 7ps. 8ps. | | | | 3(a) | Properly completed certificate of genuineness from an Auditor who is registered by NBAA and also by TRA as a Tax consultant has been attached. | 9ps. | | | (b) | Brief Auditor’s working on how the claimant amount has been arrived at has been attached. 2ps. 1ps. | | | | (b) | Brief Auditor’s working on how the claimant amount has
+    questions_and_answers:
+      - question: |
+          What type of certificate must be attached according to section 3(a)?
+        answer: |
+          A properly completed certificate of genuineness from an Auditor who is registered by NBAA and TRA as a Tax consultant must be attached.
+      - question: |
+          Who is eligible to provide the certificate of genuineness mentioned in section 3(a)?
+        answer: |
+          The certificate must be provided by an Auditor registered by both NBAA and TRA as a Tax consultant.
+      - question: |
+          What additional documentation is required under section 3(b)?
+        answer: |
+          A brief Auditor’s working explaining how the claimant amount has been calculated must be attached.
+      - question: |
+          What are the two claimant types mentioned in the context?
+        answer: |
+          The two claimant types mentioned are 'Approved monthly claimant' and 'Claimant of half year basis.'
+      - question: |
+          What does 'NBAA' and 'TRA' stand for in the context of Auditors?
+        answer: |
+          NBAA refers to the National Board of Accountants and Auditors, and TRA refers to the Tanzania Revenue Authority.
+  - context: |
+      been arrived at has been attached. 2ps. | | | | C 3ps. | EVIDENCE OF EXPORTS PROVIDED 4ps. | | | | | Evidence that the goods have been received outside the 5ps. United Republic of Tanzania i.e. landing certificate or any other similar evidence | | | | | (ii) Airway Bills 6ps. 7ps. | | | | | (iii) Bills of Lading 8ps. 9ps. | | | | | (iv) Road consignment note 10ps. | 11ps. | | | | Form ITX263.02.E 12ps. | 13ps. | | | 4. | Reasons for negative net
+    questions_and_answers:
+      - question: |
+          What type of evidence is required to prove that goods have been received outside the United Republic of Tanzania?
+        answer: |
+          Evidence such as a landing certificate or any other similar proof is required to show that goods have been received outside the United Republic of Tanzania.
+      - question: |
+          What types of shipping documents are mentioned as evidence of exports?
+        answer: |
+          The shipping documents mentioned include Airway Bills, Bills of Lading, and Road Consignment Notes.
+      - question: |
+          What form is cited in the context, potentially related to export verification?
+        answer: |
+          Form ITX263.02.E is cited in the context.
+      - question: |
+          What section suggests a consideration for reasons related to financial discrepancies?
+        answer: |
+          Section 4 suggests considerations for reasons related to negative net outcomes.
+      - question: |
+          What is the significance of the sequential numbering (e.g., 2ps, 3ps, etc.) in the context?
+        answer: |
+          The sequential numbering likely serves as a way to organize points or subsections within the context, referring to specific stages or components of the evidence or process discussed.
+  - context: |
+      amount 14ps. | 15ps. | | | | (i) An exporter 16ps. | 17ps. | | | | (ii) A supplier to special relieved persons 18ps. | | 19ps. | | | (iii) Intending trader 20ps. | | 21ps. | | | (iv) Other reasons (state if any) 22ps. | | | | 5. | Types of supplies engaged in 23ps. 24ps. | | | | | (i) All taxable i.e. supplies 25ps. 26ps. | | | | | (ii) a mixture of taxable and exempt 27ps. | 28ps. | | | 6 | Apportionment of input
+    questions_and_answers:
+      - question: |
+          What are the listed categories in the context for specifying 'reasons'?
+        answer: |
+          The categories include an exporter, a supplier to special relieved persons, an intending trader, and other reasons (state if any).
+      - question: |
+          What does point 5 in the context describe?
+        answer: |
+          Point 5 describes the types of supplies involved, which include 'all taxable supplies' and 'a mixture of taxable and exempt supplies.'
+      - question: |
+          What additional detail is mentioned for the category 'supplier to special relieved persons'?
+        answer: |
+          The entry for 'supplier to special relieved persons' includes the reference numbers 18ps. and 19ps.
+      - question: |
+          What does point 6 in the context refer to?
+        answer: |
+          Point 6 refers to the apportionment of input.
+      - question: |
+          How are 'taxable supplies' distinguished in point 5?
+        answer: |
+          Taxable supplies are specified as either 'all taxable supplies' or 'a mixture of taxable and exempt supplies.'
+  - context: |
+      tax for taxable persons engaged in 5(ii) has been done 29ps. | | | | 7 | There is no any 30ps. outstanding VAT returns 31ps. | | | | 8 | The negative net amount for the period of claim ceased to be carried forward. 3ps. 1ps. | | | | (b) | Brief Auditor’s working on how the claimant amount has been arrived at has been attached. 2ps. | | 3ps. | **PART C** **Declaration** I hereby certify that the information given in this checklist is true and correct Name and capacity of the declarant
+    questions_and_answers:
+      - question: |
+          What is the tax rate for taxable persons engaged in 5(ii)?
+        answer: |
+          The tax rate for taxable persons engaged in 5(ii) has been set at 29ps.
+      - question: |
+          Are there any outstanding VAT returns mentioned?
+        answer: |
+          No, there are no outstanding VAT returns mentioned in the context.
+      - question: |
+          What happened to the negative net amount for the period of claim?
+        answer: |
+          The negative net amount for the period of claim ceased to be carried forward.
+      - question: |
+          What documentation has been attached to explain the claimant amount?
+        answer: |
+          A brief auditor’s working on how the claimant amount has been arrived at has been attached.
+      - question: |
+          What is the purpose of the declaration in Part C?
+        answer: |
+          The declaration in Part C certifies that the information provided in the checklist is true and correct.
+document_outline: |
+  **Document Outline:**
+  The document provides a checklist for claimants seeking reimbursement of VAT negative amounts in Tanzania, as per Regulation 29(1)(d). It includes required claimant details, supporting documentation, such as completed forms, auditor certifications, and export evidence, alongside compliance verification processes by the Tanzania Revenue Authority (TRA).
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - ITX261.02.E_-_Checklist_for_the_claimants_of_negative_amount.md

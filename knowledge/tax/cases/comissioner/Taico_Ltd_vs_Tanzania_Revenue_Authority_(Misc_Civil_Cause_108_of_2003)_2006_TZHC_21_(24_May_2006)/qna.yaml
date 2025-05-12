@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## AT OAR ES SALAAM MIse CIVIL. CAUSENO. 108 OF2003 TOICO LTD APPLICANT ## VERSUS TANZANIA REVENUEAUTHORITY RESPONDENT ## RULING ## A.Shangwa,J. On the 19 th December 2003, the applicant TOICO LTD filed an application for leave to apply for the prerogative orders of Certiorari, Mandamus and Prohibition against the respondent's decision to seize his motor vehicles namely a tanker with Registration No. TZF 9351 and a trailer with Registration No. TZF 7776 together with fuel for having been found in possession of uncustomed fuel products contrary to the Petroleum Marking Regulations (GN 45 of 2001) read together with section 146 2ps. of the East African Customs and Transfer Tax Management Act, 1970 and 5.47 of the value Added Tax Act, 1997. On 12 th July, 2004, learned counsel for the respondent Mr. Primi filed a notice of preliminary objection that the application is bad in law for being time barred. On 31 st August, 2005, I ordered that the respondent's preliminary objection to the application should be argued by way of written submissions. 2ps. 1ps. 108 OF2003 TOICO LTD APPLICANT ## VERSUS TANZANIA REVENUEAUTHORITY RESPONDENT ## RULING ## A.Shangwa,J. On 31 st August, 2005, I ordered that the respondent's preliminary objection to the application should be argued by way of written submissions. Both parties did file their written submissions in accordance with this Court's order. In his written submissions, learned
+    questions_and_answers:
+      - question: |
+          What application did TOICO LTD file on December 19, 2003?
+        answer: |
+          TOICO LTD filed an application for leave to apply for the prerogative orders of Certiorari, Mandamus, and Prohibition against the Tanzania Revenue Authority's decision to seize its motor vehicles and fuel.
+      - question: |
+          Why were TOICO LTD’s motor vehicles and fuel seized by the Tanzania Revenue Authority?
+        answer: |
+          The vehicles and fuel were seized for being in possession of uncustomed fuel products, which was a violation of the Petroleum Marking Regulations (GN 45 of 2001), East African Customs and Transfer Tax Management Act, 1970, and the Value Added Tax Act, 1997.
+      - question: |
+          What preliminary objection did the respondent’s counsel raise in the case?
+        answer: |
+          The respondent's counsel, Mr. Primi, raised a preliminary objection stating that the application by TOICO LTD was bad in law for being time-barred.
+      - question: |
+          How did the court order the preliminary objection to the application to be argued?
+        answer: |
+          The court, presided over by Justice A. Shangwa, ordered on August 31, 2005, that the preliminary objection to the application be argued by way of written submissions.
+      - question: |
+          Did both parties comply with the court's order to submit written submissions?
+        answer: |
+          Yes, both parties submitted their written submissions in accordance with the court's order.
+  - context: |
+      counsel for the respondent Mr.Primi stated that in terms of section 18(2) and (3) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap 360, an application for leave to apply for prerogative orders of Certiorari, Mandamus and Prohibition has to be made from the date the decision or 2ps. act complained of was made and served upon the applicant. 3ps. 1ps. On 31 st August, 2005, I ordered that the respondent's preliminary objection to the application should be argued by way of written submissions. Both parties did file their written submissions in accordance with this Court's order. He submitted that the decisions of the commissioner for customs and Excise which the applicant wants to challenge were made on 27 th January, 2003 and 28 th January, 2003 and duly served on the applicant's Advocate on 30 th April, 2003. He said that this application for leave to apply for prerogative orders was filed by the applicant in this Court on 19 2ps. th December,2003, about seven and half months from the date when the applicant was served with the decisions complained of. He contended that this application is statutorily time barred and prayed for its dismissal with costs. 4ps. 1ps. In his written submissions, learned counsel for the respondent Mr.Primi stated that in terms of section 18(2) and (3) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap 360, an application for leave to apply for
+    questions_and_answers:
+      - question: |
+          According to section 18(2) and (3) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap 360, when must an application for prerogative orders be made?
+        answer: |
+          The application must be made from the date the decision or act complained of was made and served upon the applicant.
+      - question: |
+          On what dates were the decisions of the Commissioner for Customs and Excise, challenged by the applicant, made?
+        answer: |
+          The decisions were made on 27th January, 2003 and 28th January, 2003.
+      - question: |
+          When were the decisions by the Commissioner for Customs and Excise served on the applicant's advocate?
+        answer: |
+          The decisions were served on the applicant's advocate on 30th April, 2003.
+      - question: |
+          How much time elapsed between the service of the decisions and the filing of the application for leave to apply for prerogative orders?
+        answer: |
+          Approximately seven and a half months elapsed between the service of the decisions and the filing of the application on 19th December, 2003.
+      - question: |
+          What was the respondent’s argument regarding the timing of the applicant's filing for leave to apply for prerogative orders?
+        answer: |
+          The respondent argued that the application was statutorily time-barred due to being filed seven and a half months after the decisions were served, and prayed for its dismissal with costs.
+  - context: |
+      1ps. 1ps. He contended that this application is statutorily time barred and prayed for its dismissal with costs. In reply, the applicant whose principal officer is known as Wilson K. Chacha contended that the respondent's submission that his application is time barred has no foundation because earlier before, he had lodged his appeal against the decision of the commissioner for customs and Excise to the Tax Revenue Appeals Board which dismissed his appeal on 15 th September, 2003 and advised him to come to the High Court and apply for prerogative orders. In rejoinder, learned counsel for the respondent Mr. Primi 2ps. submitted that as the applicant wrongly filed the appeal in the Tax Revenue Appeals Board, he should bear the risks of having wasted time in doing so, and that therefore, the time within which he should have filed his application should not be counted to run from 15 th September, 2003 when the Board made its decision and advised him to lodge this application. 2ps. 1ps. In reply, the applicant whose principal officer is known as Wilson K. Chacha contended that the respondent's submission that his application is time barred has no foundation because earlier before, he had lodged his appeal against the decision of the commissioner for customs and Excise to the Tax Revenue Appeals Board which dismissed his appeal on 15 th September, 2003 and advised him to come to the High Court and apply for
+    questions_and_answers:
+      - question: |
+          What was the basis of the respondent's argument that the application is time-barred?
+        answer: |
+          The respondent argued that the application is statutorily time-barred and should be dismissed with costs.
+      - question: |
+          Who is the principal officer of the applicant mentioned in the text?
+        answer: |
+          The principal officer of the applicant is Wilson K. Chacha.
+      - question: |
+          On what grounds did the applicant dispute the claim that his application is time-barred?
+        answer: |
+          The applicant argued that his application is not time-barred because he had previously appealed to the Tax Revenue Appeals Board, which dismissed his appeal on 15th September 2003 and advised him to seek prerogative orders from the High Court.
+      - question: |
+          What was the Tax Revenue Appeals Board's decision regarding the applicant's earlier appeal?
+        answer: |
+          The Tax Revenue Appeals Board dismissed the applicant's earlier appeal on 15th September 2003 and advised him to apply for prerogative orders in the High Court.
+      - question: |
+          What argument did Mr. Primi, counsel for the respondent, make regarding the applicant's timing for filing the application?
+        answer: |
+          Mr. Primi argued that the applicant wrongly filed the appeal with the Tax Revenue Appeals Board and should bear the responsibility for the time wasted, meaning the timing for filing the application should not start from 15th September 2003 when the Board made its decision.
+  - context: |
+      prerogative orders. In my opinion the applicant's application is in actual fact time barred as submitted by learned counsel for the respondent. Time within which to lodge this 2ps. application cannot be counted to run from 15 th September, 2003 when the Tax Revenue Appeals Board's Chairman dismissed his appeal. According to section 18(2) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap. 360, such time starts to run after the decision to be challenged is made. 3ps. 1ps. Time within which to lodge this application cannot be counted to run from 15 th September, 2003 when the Tax Revenue Appeals Board's Chairman dismissed his appeal. According to section 18(2) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap. 360, such time starts to run after the decision to be challenged is made. In this case time starts to run from the dates when the commissioner for Customs and Excise made his decisions which the applicant seeks to challenge, that is on 27/1/2003 and 28/1/2003 respectively when the said commissioner served a demand notice 2ps. on the applicant for payment of shs 6,500,000/= as fine for being found in possession of uncustomed fuel products and shs 6,426,324/ = as tax assessed in respect of the uncustomed fuel; and when he ordered that the applicant's fuel amounting to 22,000 litres of diesel and his motor vehicles with Reg.Nos TZE 9351 and TZF 7776 be forfeited to the
+    questions_and_answers:
+      - question: |
+          What is the reason the applicant's application was considered time-barred?
+        answer: |
+          According to section 18(2) of the Law Reform (Fatal Accidents and Miscellaneous Provisions) Ordinance Cap. 360, the time to lodge the application starts to run from the date the decision being challenged was made, not from the date the appeal was dismissed.
+      - question: |
+          When did the commissioner for Customs and Excise make the decisions that are being challenged?
+        answer: |
+          The commissioner for Customs and Excise made the decisions on 27/1/2003 and 28/1/2003.
+      - question: |
+          What actions did the commissioner for Customs and Excise take against the applicant?
+        answer: |
+          The commissioner served a demand notice for payment of fines and taxes totaling 12,926,324/= and ordered the forfeiture of the applicant's 22,000 litres of diesel and vehicles with registration numbers TZE 9351 and TZF 7776.
+      - question: |
+          What was the fine and tax assessment related to the uncustomed fuel products?
+        answer: |
+          The fine was shs 6,500,000/=, and the tax assessed was shs 6,426,324/=.
+      - question: |
+          What is the significance of the date 15th September 2003 in this case?
+        answer: |
+          15th September 2003 is the date when the Tax Revenue Appeals Board's Chairman dismissed the applicant's appeal, but it is not the date from which the time to lodge the application is counted.
+  - context: |
+      prerogative orders of Certiorari, Mandamus and Prohibition has to be made from the date the decision or act complained of was made and served upon the applicant. He contended that this application is statutorily time barred and prayed for its dismissal with costs. In reply, the applicant whose principal officer is known as Wilson K. Chacha contended that the respondent's submission 2ps. that his application is time barred has no foundation because earlier before, he had lodged his appeal against the decision of the commissioner for customs and Excise to the Tax Revenue Appeals Board which dismissed his appeal on 15 th September, 2003 and advised him to come to the High Court and apply for prerogative orders. 5ps. 1ps. He submitted that the decisions of the commissioner for customs and Excise which the applicant wants to challenge were made on 27 th January, 2003 and 28 th January, 2003 and duly served on the applicant's Advocate on 30 th April, 2003. He said that this application for leave to apply for prerogative orders was filed by the applicant in this Court on 19 th December,2003, about seven and half months from the date when the applicant was served with the decisions complained of. He said that following the said Board's decision and advise, he filed this application for prerogative orders 2ps. on 19 th December, 2003 which was well within the time limit stipulated by law.
+    questions_and_answers:
+      - question: |
+          What are the prerogative orders mentioned in the context?
+        answer: |
+          The prerogative orders mentioned are Certiorari, Mandamus, and Prohibition.
+      - question: |
+          On what basis did the respondent argue that the application is time-barred?
+        answer: |
+          The respondent argued that the application is time-barred because the decision or act complained of was made and served upon the applicant more than the statutory time limit before the application was filed.
+      - question: |
+          What was the applicant's response to the claim that the application is time-barred?
+        answer: |
+          The applicant, represented by Wilson K. Chacha, argued that the claim is baseless as he had filed an earlier appeal to the Tax Revenue Appeals Board, which dismissed his appeal on 15th September 2003 and advised him to approach the High Court for prerogative orders.
+      - question: |
+          When were the decisions by the Commissioner for Customs and Excise made and served to the applicant's Advocate?
+        answer: |
+          The decisions were made on 27th January 2003 and 28th January 2003 and served upon the applicant's Advocate on 30th April 2003.
+      - question: |
+          How does the applicant justify filing the application for prerogative orders on 19th December 2003?
+        answer: |
+          The applicant justifies the filing by stating that it was within the time limit since the filing followed the Tax Revenue Appeals Board's decision and advice issued on 15th September 2003.
+document_outline: |
+  **Document Outline:**
+  The ruling by Justice A. Shangwa in the High Court of Tanzania addresses an application filed by TOICO LTD seeking leave to apply for prerogative orders (Certiorari, Mandamus, and Prohibition) against the Tanzania Revenue Authority's decision to seize its motor vehicles and fuel over alleged violations of customs laws. The court ultimately finds the application time-barred under section 18(2) of the Law Reform Ordinance, as the filing exceeded the statutory time limit from the date of the initial decision being contested.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taico_Ltd_vs_Tanzania_Revenue_Authority_(Misc_Civil_Cause_108_of_2003)_2006_TZHC_21_(24_May_2006).md

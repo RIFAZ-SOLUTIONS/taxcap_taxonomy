@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (LAND DIVISION) ## AT PAR ES SALAAM MISC. LAND CASE APPLICATION NO.973 OF 2017 DR. PROSPER NDESOKIA......................... COMMERCE INTERNATIONAL (AFRICA) LIMITED....................................................... 2nd APPLICANT 1s t a p p l ic a n t VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY................................................................ I s t RESPONDENT YONO AUCTION MART&amp; COMPANY LIMITED.................................................. 2nd RESPONDENT ## RULING Date of Last Order: 31.05.2018 Date of Ruling: 13.07.2018 ## S.A.N WAMBURA, J: This ruling is in respect of the preliminary objection on a point of law raised by Mr. Nyakunga learned counsel for the 1s t respondent who is in the Commissioner General, Tanzania Revenue Authority to the effect 2ps. that:- - 1. The court has no jurisdiction to entertain this matter. - 2. The applicant has no locus stand against the 1 st respondent. The court thus granted leave for hearing of the preliminary objections to proceed by way of written submissions. I thank both parties for adhering to the schedule. 2ps. 1ps. - 2. The applicant has no locus stand against the 1 st respondent. The court thus granted leave for hearing of the preliminary objections to proceed by way of written submissions. I thank both parties for adhering to the schedule. In supporting of the 1s t ground of objection, Mr. Nyakunga averred that this dispute arose from the decision of the 1s t respondent to enforce recovery measures under the Section 2ps. 64 of
+    questions_and_answers:
+      - question: |
+          What was the case name and application number in the High Court of Tanzania (Land Division)?
+        answer: |
+          The case was titled 'MISC. LAND CASE APPLICATION NO. 973 OF 2017' with Dr. Prosper Ndesokia as the 1st applicant and Commerce International (Africa) Limited as the 2nd applicant.
+      - question: |
+          Who were the respondents in this case, and what were their roles?
+        answer: |
+          The 1st respondent was the Commissioner General of the Tanzania Revenue Authority, and the 2nd respondent was Yono Auction Mart & Company Limited.
+      - question: |
+          What were the two preliminary objections raised by the learned counsel for the 1st respondent?
+        answer: |
+          The objections were: 1) The court has no jurisdiction to entertain the matter, and 2) The applicant has no locus standi against the 1st respondent.
+      - question: |
+          How was the hearing of the preliminary objections conducted?
+        answer: |
+          The court granted leave for the hearing of the preliminary objections to proceed by way of written submissions.
+      - question: |
+          What dates were significant in this ruling, and what occurred on them?
+        answer: |
+          The date of the last order was 31.05.2018, and the date of the ruling was 13.07.2018, as mentioned in the context.
+  - context: |
+      the Tax Administration Act No. 10 of 2015, to recover Tshs. 539,282,968 being Tax due to Majembe Auction Mart Limited. That in doing so Yono Auction Mart was instructed to attach houses located at Plot No. 250, Mbezi Beach, and Plot No. 155 Mikocheni both located in Kinondoni Municipality, Dar es salaam. The learned 3ps. counsel referred to Section 53(1) of the Tax Administration Act, No. 10 of 2015. He therefore contended that this court has no jurisdiction to determine the application at hand. 3ps. 1ps. 539,282,968 being Tax due to Majembe Auction Mart Limited. That in doing so Yono Auction Mart was instructed to attach houses located at Plot No. 250, Mbezi Beach, and Plot No. 155 Mikocheni both located in Kinondoni Municipality, Dar es salaam. The learned counsel referred to Section 53(1) of the Tax Administration Act, No. 10 of 2015. He 2ps. therefore contended that this court has no jurisdiction to determine the application at hand. Responding to the same, Mr. Nyika submitted that the application at hand is not a tax matter nor dispute arising from revenue laws administered by the Tanzania Revenue Authority therefore it does not fall under nor is it limited to the jurisdiction of the Tax Appeals Board. He stated that this application 3ps. is a land matter in which the applicants' properties are about to be sold by the respondents without any cause. He averred that this court has jurisdiction to
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Tax Administration Act No. 10 of 2015 as mentioned in the context?
+        answer: |
+          The Tax Administration Act No. 10 of 2015 is cited for the recovery of Tshs. 539,282,968 in taxes due to Majembe Auction Mart Limited.
+      - question: |
+          Which properties were ordered to be attached under the Tax Administration Act, and where are they located?
+        answer: |
+          The properties ordered to be attached are houses located at Plot No. 250, Mbezi Beach, and Plot No. 155, Mikocheni, both in Kinondoni Municipality, Dar es Salaam.
+      - question: |
+          Why did the learned counsel argue that the court does not have jurisdiction in the case at hand?
+        answer: |
+          The learned counsel argued that the court lacks jurisdiction based on Section 53(1) of the Tax Administration Act, claiming it is a tax matter under the jurisdiction of the Tax Appeals Board.
+      - question: |
+          What counter-argument did Mr. Nyika present regarding the court's jurisdiction?
+        answer: |
+          Mr. Nyika argued that the application is not a tax matter but a land dispute, as the applicants' properties are about to be sold without cause, making it within the court's jurisdiction.
+      - question: |
+          What is the underlying dispute in this case according to Mr. Nyika's submission?
+        answer: |
+          The underlying dispute, according to Mr. Nyika, is a land matter concerning the imminent sale of the applicants' properties by the respondents without justification.
+  - context: |
+      determine the application as provided under Section 167 of the Land Act Cap. 133 R.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 4ps. 1ps. He stated that this application is a land matter in which the applicants' properties are about to be sold by the respondents without any cause. He averred that this court has jurisdiction to determine the application as provided under Section 167 of the Land Act Cap. 133 R.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 216 R.E.2002. On the second ground of objection, Mr. Nyakunga was of the view that the applicants have no locus standi to sue the 1s t respondent 2ps. because the 1s t respondent has never dealt with plots number 226 Block C Mikocheni and Plot No. 258 Mbezi Beach area. Replying to the same, Mr. Nyika contended that applicants have locus to sue the 1s t respondent because the respondents intended to attach and sale the applicants properties and not the properties mentioned in the warrant of distress. 5ps. 1ps. 133 R.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 216 R.E.2002. On the second ground of objection, Mr. Nyakunga was of the view that the applicants have no locus standi to sue the 1s t respondent because the 1s t respondent has never dealt with plots number 226 Block C Mikocheni and Plot No. 258 Mbezi Beach area. Upon
+    questions_and_answers:
+      - question: |
+          Under which legal provisions does the court have jurisdiction to determine this application?
+        answer: |
+          The court has jurisdiction under Section 167 of the Land Act Cap. 133 R.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 216 R.E. 2002.
+      - question: |
+          What is the main issue raised by the applicants regarding their properties?
+        answer: |
+          The applicants claim that their properties are about to be sold by the respondents without any legitimate cause.
+      - question: |
+          What was Mr. Nyakunga’s argument regarding the applicants’ locus standi?
+        answer: |
+          Mr. Nyakunga argued that the applicants had no locus standi to sue the first respondent because the first respondent has never dealt with plots number 226 Block C Mikocheni and Plot No. 258 Mbezi Beach area.
+      - question: |
+          How did Mr. Nyika counter Mr. Nyakunga’s argument regarding locus standi?
+        answer: |
+          Mr. Nyika contended that the applicants do have locus standi to sue the first respondent because the respondents intended to attach and sell the applicants' properties, which were not the properties mentioned in the warrant of distress.
+      - question: |
+          Which specific plots were mentioned by Mr. Nyakunga in his argument about locus standi?
+        answer: |
+          Mr. Nyakunga mentioned plots number 226 Block C Mikocheni and Plot No. 258 Mbezi Beach area.
+  - context: |
+      1ps. 1ps. Upon perusal of the application at hand, I would agree with Mr. Nyika that this is a land matter in which the applicants' properties are about to be sold by the respondents. That it is a dispute concerning land whose jurisdiction is vested upon this court under Section 167 of the Land Act Cap. 133 RE.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 2ps. 216 R.E. 2002. However as the applicant concedes that matter is in respect of execution of the Tax Tribunals Order then I believe it was proper to first appeal to the Board as provided for under sections 7 and 12 of the Tax Revenue Appeals. Applicants maintain that this cause is for challenging the distant of its goods because it had settled its tax liabilites. The same could thus be resolved at the tribunal and not at this Court because 3ps. it is all in respect of tax and there is no dispute in respect of ownership of the said landed properties as conceded by the applicants. 2ps. 1ps. 216 R.E. 2002. However as the applicant concedes that matter is in respect of execution of the Tax Tribunals Order then I believe it was proper to first appeal to the Board as provided for under sections 7 and 12 of the Tax Revenue Appeals. Applicants maintain that this cause is for challenging the distant of its goods because it had
+    questions_and_answers:
+      - question: |
+          What is the main subject of the dispute in this case?
+        answer: |
+          The main subject of the dispute concerns the application of tax tribunal orders and the impending sale of the applicants' properties, which the applicants argue relates to settled tax liabilities.
+      - question: |
+          Which laws confer jurisdiction to the court over land disputes in this case?
+        answer: |
+          Jurisdiction over land disputes in this case is conferred by Section 167 of the Land Act Cap. 133 R.E. 2002 and Section 37 of the Land Disputes Courts Act Cap. 216 R.E. 2002.
+      - question: |
+          Why does the court believe this matter should first be appealed to the Tax Revenue Appeals Board?
+        answer: |
+          The court believes this matter should first be appealed to the Tax Revenue Appeals Board because it pertains to the execution of a tax tribunal order, as acknowledged by the applicants, rather than a dispute over land ownership.
+      - question: |
+          What provisions of the Tax Revenue Appeals Act are referenced for resolving the dispute?
+        answer: |
+          Sections 7 and 12 of the Tax Revenue Appeals Act are referenced as the proper channels for addressing this dispute.
+      - question: |
+          What do the applicants claim regarding their tax liabilities in this dispute?
+        answer: |
+          The applicants claim that they had already settled their tax liabilities and that the dispute concerns the treatment of their goods rather than the ownership of the properties.
+  - context: |
+      reading the submissions from learned counsel for the parties, and having considered the relevant lav/, the main 2ps. issue for determination is whether the objections raised by the learned counsel for the respondent are meritorious. Upon perusal of the application at hand, I would agree with Mr. Nyika that this is a land matter in which the applicants' properties are about to be sold by the respondents. That it is a dispute concerning land whose jurisdiction is vested upon this court under Section 167 of the Land Act 3ps. Cap. 133 RE.E. 2002 and Section 37 of the Land Disputes Courts Act Cap.
+    questions_and_answers:
+      - question: |
+          What is the main issue for determination in this case?
+        answer: |
+          The main issue for determination is whether the objections raised by the learned counsel for the respondent are meritorious.
+      - question: |
+          What is the nature of the case being discussed?
+        answer: |
+          The case concerns a land matter in which the applicants' properties are about to be sold by the respondents.
+      - question: |
+          Which law provides the court with jurisdiction over this land dispute?
+        answer: |
+          The court's jurisdiction is provided under Section 167 of the Land Act Cap. 133 RE.E. 2002 and Section 37 of the Land Disputes Courts Act Cap.
+      - question: |
+          Who brought up the point that this is a land matter involving the sale of properties?
+        answer: |
+          Mr. Nyika brought up the point that this is a land matter involving the sale of the applicants' properties.
+      - question: |
+          What action by the respondents is at the center of the dispute?
+        answer: |
+          The respondents are about to sell the applicants' properties, which is at the center of the dispute.
+document_outline: |
+  **Document Outline:**
+  This document provides the ruling in a preliminary objection raised in Miscellaneous Land Case Application No. 973 of 2017 in the High Court of Tanzania, Land Division, Dar es Salaam. The case involves a jurisdictional dispute between Dr. Prosper Ndesokia and Commerce International (Africa) Limited (applicants) and the Commissioner General of the Tanzania Revenue Authority and Yono Auction Mart & Company Limited (respondents), centering on whether the matter is a land dispute or a tax matter, as well as the applicants' locus standi to sue the first respondent. The court deliberates on these objections, citing relevant legal provisions in land and tax law.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Prosper_Ndesokia_Another_vs_Commissioner_General_Tanzania_Revenue_Authority_Another_(Misc_Land_Application_973_of_2017)_2018_TZHCLandD_453_(13_July_2018).md

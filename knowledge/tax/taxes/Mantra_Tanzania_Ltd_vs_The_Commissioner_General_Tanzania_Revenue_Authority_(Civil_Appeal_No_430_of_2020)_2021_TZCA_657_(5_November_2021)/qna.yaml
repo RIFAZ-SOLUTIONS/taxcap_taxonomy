@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. On the second issue, it was the opinion of the Tribunal that, as the DTA provides for tax exemption treatment of various specified transactions and exclude from exemption those which are not covered, the withholding taxes under discussion being in respect of business transactions, the clause which is not covered in the exemption, was subject to taxation. In the conduct of this appeal, Dr. Abel Mwiburi and Mr. Rwekamwa Rweikiza, both learned 2ps. advocates, appeared for the appellant whereas Messrs. Cherubin Chuwa and Harold Gugami, both learned Senior State Attorneys, joined forces to represent the respondent. As it is the procedure, each of the parties had, before the date of hearing, filed written submissions which are on the record. In their oral submissions supplementing the written submissions which for the appellant was made by Dr. Mwiburi and for the respondent by Mr. Chuwa, each of the parties fully adopted its respective written 3ps. submissions to read as part of the oral submission. We commend both counsel for their well -focused and instructive submissions which have been extremely useful in composing this judgment. 2ps. 1ps. As it is the procedure, each of the parties had, before the date of hearing, filed written submissions which are on the record. In their oral submissions supplementing the written submissions which for the appellant was made by Dr. Mwiburi and for the respondent by Mr. Chuwa, each of the parties fully adopted its respective written submissions to read as part of the oral submission. We commend both counsel for their well -focused and instructive submissions which have been extremely useful 2ps. in composing this judgment. In support of the first ground of appeal, Dr.
+    questions_and_answers:
+      - question: |
+          What was the opinion of the Tribunal regarding the withholding taxes discussed?
+        answer: |
+          The Tribunal's opinion was that the withholding taxes, being in respect of business transactions, were taxable because the exemption clause in the DTA did not cover them.
+      - question: |
+          Who represented the appellant and the respondent in the appeal?
+        answer: |
+          The appellant was represented by Dr. Abel Mwiburi and Mr. Rwekamwa Rweikiza, while the respondent was represented by Messrs. Cherubin Chuwa and Harold Gugami.
+      - question: |
+          What procedural step did each party take before the hearing date?
+        answer: |
+          Each party filed written submissions before the hearing date, which were later adopted as part of their oral submissions.
+      - question: |
+          Who made the oral submissions for the appellant and the respondent?
+        answer: |
+          Dr. Abel Mwiburi made the oral submissions for the appellant, while Mr. Cherubin Chuwa made them for the respondent.
+      - question: |
+          How did the court evaluate the submissions presented by the counsel?
+        answer: |
+          The court commended both counsel for their well-focused and instructive submissions, stating that they were extremely useful in composing the judgment.
+  - context: |
+      1ps. 1ps. According to him, the refund, should in law, be paid to the appellant as the withholding tax agent who in turn will remit the same to the taxpayers. Having heard the arguments for and against the appeal, and upon carefully examining the record, we find it appropriate to consider the substance of the appeal. From the counsel's concurrent submissions, it would appear to us that this is not the first time this Court is construing the 2ps. clause "service rendered" in section 69(i) (i) of the Act to determine if the income has a source in Tanzania. In the first time, such issue was considered in Pan African Energy Tanzania Limited (supra). In the said case just like in the instant one, the services for whose fees withholding taxes were deducted, were performed outside Tanzania by non-resident persons. In the 3ps. first appeal, the Board treated the payment to have a source in Tanzania for the reason that, the analysis of samples done in the United Kingdom which constituted the service, could not be disassociated with the drilling activity in Tanzania. 2ps. 1ps. In the first time, such issue was considered in Pan African Energy Tanzania Limited (supra). In the said case just like in the instant one, the services for whose fees withholding taxes were deducted, were performed outside Tanzania by non-resident persons. In the first appeal, the Board treated the payment to have a source in Tanzania for the reason that, the analysis of samples done in the United Kingdom which constituted the 2ps. service, could not be disassociated with the drilling activity in Tanzania. On appeal to the Tribunal, the decision of the Board was reversed.
+    questions_and_answers:
+      - question: |
+          Who should legally receive the refund according to the argument presented?
+        answer: |
+          The refund should legally be paid to the appellant as the withholding tax agent, who will then remit it to the taxpayers.
+      - question: |
+          What prior case is referenced in the appeal and what similarity does it share with the instant case?
+        answer: |
+          The prior case referenced is Pan African Energy Tanzania Limited. Like the instant case, it involved services rendered outside Tanzania by non-resident persons with fees subject to withholding taxes.
+      - question: |
+          Why did the Board in the first appeal consider the payment to have a source in Tanzania?
+        answer: |
+          The Board considered the payment to have a source in Tanzania because the analysis of samples done in the United Kingdom, which constituted the service, could not be separated from the drilling activity carried out in Tanzania.
+      - question: |
+          What was the outcome of the first appeal at the Tribunal level?
+        answer: |
+          At the Tribunal level, the decision of the Board was reversed.
+      - question: |
+          What legal provision was analyzed to determine the source of income in this case?
+        answer: |
+          The legal provision analyzed was the clause 'service rendered' in section 69(i)(i) of the Act.
+  - context: |
+      1ps. 1ps. In his conclusion therefore, the clause " services fees attributed to service rendered in the United Republic of Tanzania" means " services performed in the United Republic of Tanzania". The law in India was changed in April 2010\ whereby after the amendment, service fees paid to non-residents for service utilized (without necessarily being performed in India) in India were deemed to have 2ps. a source in India." In Tanzania, he submitted, the scope of the application of the respective provision was made clear in the case of Commissioner General (TRA) vs. Pan African Energy Tanzania Limited (supra) where it was held that, a private company has no obligation to withhold tax where the service fee paid is for service rendered outside Tanzania. Remarking on the recent position in Tullow Tanzania BV (supra), it was his humble submission that, the said decision and the 3ps. subsequent decisions which followed it, is bad in law for overstepping the intention of the legislature by implying what was not intended. 2ps. 1ps. The law in India was changed in April 2010\ whereby after the amendment, service fees paid to non-residents for service utilized (without necessarily being performed in India) in India were deemed to have a source in India." Remarking on the recent position in Tullow Tanzania BV (supra), it was his humble submission that, the said decision and the subsequent decisions which followed it, is bad in law for overstepping the intention of the 2ps. legislature by implying what was not intended. In any event, he submitted, the said decisions did not overrule the authority in Pan African Energy Tanzania Limited (supra).
+    questions_and_answers:
+      - question: |
+          What does the clause 'services fees attributed to service rendered in the United Republic of Tanzania' mean in the conclusion provided?
+        answer: |
+          The clause means 'services performed in the United Republic of Tanzania.'
+      - question: |
+          How was the law in India changed in April 2010 regarding service fees paid to non-residents?
+        answer: |
+          The amendment stated that service fees paid to non-residents for services utilized in India (even if not performed there) were deemed to have a source in India.
+      - question: |
+          What was established in the case of Commissioner General (TRA) vs. Pan African Energy Tanzania Limited regarding tax obligations on service fees?
+        answer: |
+          The case established that a private company has no obligation to withhold tax if the service fee paid is for services rendered outside Tanzania.
+      - question: |
+          Why does the submission consider the decision in Tullow Tanzania BV and subsequent decisions bad in law?
+        answer: |
+          It is considered bad in law because it overstepped the intention of the legislature by implying something not intended.
+      - question: |
+          Did the decisions in Tullow Tanzania BV and subsequent cases overrule the authority in the case of Pan African Energy Tanzania Limited?
+        answer: |
+          No, the submission argues that these decisions did not overrule the authority in Pan African Energy Tanzania Limited.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: MWAMBEGELE. 3.A.. KEREFU. J.A. And MAIGE, J.A.) CIVIL APPEAL NO. 430 OF 2020 MANTRA (TANZANIA) LIMITED............................................APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY....................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal, at Dar es Salaam) ( Miemmas, Chairperson) Dated the 12th day of August, 2020 in Tax Appeal No. 2 of 2019 ## JUDGMENT OF THE COURT 27: ' October, 2021 &amp; 5t h November, 2021 ## MAIGE, J.A.: 2ps. 1ps. J.A. And MAIGE, J.A.) CIVIL APPEAL NO. 430 OF 2020 MANTRA (TANZANIA) LIMITED............................................APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY....................................................RESPONDENT (Appeal from the decision of the Tax Revenue Appeals Tribunal, at Dar es Salaam) ( Miemmas, Chairperson) Dated the 12th day of August, 2020 in Tax Appeal No. 2 of 2019 ## JUDGMENT OF THE COURT 27: ' October, 2021 &amp; 5t h November, 2021 ## MAIGE, J.A.: The appeal at hand seeks to fault the decision of the Tax Appeals Tribunal (the Tribunal) in Tax Appeal No. 2 of 2019. 2ps. In the said decision, the Tribunal confirmed the decision of the Tax Appeals Board (the Board) to the effect that, payment for service rendered to the appellant by non-resident service providers had its source in the United Republic of Tanzania and thus liable for withholding taxes and that; the rule against double taxation stipulated under Article 7 of the Double Taxation Agreement (the DTA) between South Africa and Tanzania was 3ps. inapplicable in so far as the withholding taxes were deducted on payments in respect of business transactions as opposed to business profits. 3ps. 1ps. CIVIL APPEAL NO. 430 OF 2020 MANTRA (TANZANIA) LIMITED............................................APPELLANT VERSUS THE COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY....................................................
+    questions_and_answers:
+      - question: |
+          What was the main issue in Civil Appeal No. 430 of 2020 involving Mantra (Tanzania) Limited and the Tanzania Revenue Authority?
+        answer: |
+          The main issue was whether payments for services rendered by non-resident service providers to Mantra (Tanzania) Limited were subject to withholding taxes in Tanzania and whether the rule against double taxation under Article 7 of the Double Taxation Agreement (DTA) between South Africa and Tanzania applied.
+      - question: |
+          What was the decision of the Tax Appeals Tribunal in Tax Appeal No. 2 of 2019?
+        answer: |
+          The Tax Appeals Tribunal confirmed the decision of the Tax Appeals Board, which held that the payments for services rendered by non-resident providers were sourced in Tanzania, subject to withholding taxes, and that the rule against double taxation under the DTA was inapplicable to the withholding taxes.
+      - question: |
+          Which legal principle in the Double Taxation Agreement was argued by the appellant to be relevant in their appeal?
+        answer: |
+          The appellant argued that Article 7 of the Double Taxation Agreement (DTA) between South Africa and Tanzania, which pertains to the rule against double taxation, should exempt the payments from withholding taxes.
+      - question: |
+          Why was the rule against double taxation under Article 7 of the DTA found inapplicable in this case?
+        answer: |
+          The rule was deemed inapplicable because the withholding taxes were deducted from payments related to business transactions rather than business profits.
+      - question: |
+          What was the timeframe of the judgment delivered by the Court of Appeal in this case?
+        answer: |
+          The judgment was delivered on the 27th of October, 2021, and finalized on the 5th of November, 2021.
+  - context: |
+      1ps. 1ps. In its own words, the Court stated as follows:- "It is our strong view that the word rendered under section 69(i) (i) is synonymous to words "supplied" or n delivered" . In this regard, a non-resident who provides services to a resident, has delivered/ supplied services to a resident of the united Republic of Tanzania. The recipient of the service is actually the payer for such services, in which case, " source of payment" cannot be any other place except where the 2ps. payer resides. In other words as the services of which the payments were made were consumed or utilized in the United Republic of Tanzania, for the purpose of earning income in the United Republic of Tanzania, then the payments made for such services had a source in the United Republic of Tanzania " It is worth of note that, just as it is in the instant case, in the said case, the Court was strongly urged to follow the position in Pan African 3ps. Energy Tanzania Limited (supra). 2ps. 1ps. In this regard, a non-resident who provides services to a resident, has delivered/ supplied services to a resident of the united Republic of Tanzania. The recipient of the service is actually the payer for such services, in which case, " source of payment" cannot be any other place except where the payer resides. The Court held the respective case distinguishable and therefore inapplicable for the reason that, it was influenced by an Indian authority which considered a statute in India which was worded differently 2ps. with the statute in our jurisdiction. In particular, the Court, having reproduced the relevant Indian statute, observed that:- "It is dear from the wording of the provisions above that they are substantially different from section 69(i) (i). 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the Court's interpretation of the term 'rendered' under section 69(i)(i)?
+        answer: |
+          The Court interprets the term 'rendered' as synonymous with 'supplied' or 'delivered,' implying that a non-resident providing services to a resident has effectively supplied or delivered those services to the resident of the United Republic of Tanzania.
+      - question: |
+          Why does the Court consider the 'source of payment' to be tied to the payer's residence?
+        answer: |
+          The Court considers the 'source of payment' to be where the payer resides because the services for which payments were made were consumed or utilized in the United Republic of Tanzania, contributing to earning income in the country.
+      - question: |
+          Why did the Court find the Pan African Energy Tanzania Limited case inapplicable in this context?
+        answer: |
+          The Court found the Pan African Energy Tanzania Limited case inapplicable because it was influenced by an Indian authority that considered a statute in India, which had substantially different wording compared to the statute in the Court's jurisdiction.
+      - question: |
+          What distinction did the Court draw between the Indian statute and section 69(i)(i)?
+        answer: |
+          The Court noted that the wording of the Indian statute was substantially different from section 69(i)(i), making the Indian case's reasoning unsuitable for application in the current jurisdiction.
+      - question: |
+          What is the importance of where services are consumed or utilized according to the Court?
+        answer: |
+          The Court emphasizes that services consumed or utilized in the United Republic of Tanzania create a connection to the country, making the payments for such services sourced from within Tanzania.
+document_outline: |
+  **Document Outline:**
+  This legal document outlines the proceedings and judgment of the Court of Appeal of Tanzania in a civil appeal (No. 430 of 2020) involving Mantra (Tanzania) Limited and the Commissioner General of the Tanzania Revenue Authority. The appeal centers on whether withholding taxes on payments made to non-resident service providers were justified under Tanzanian tax laws and the Double Taxation Agreement (DTA) between Tanzania and South Africa, with the court ultimately addressing disputes regarding territorial source rules and the scope of DTA provisions.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mantra_Tanzania_Ltd_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_430_of_2020)_2021_TZCA_657_(5_November_2021).md

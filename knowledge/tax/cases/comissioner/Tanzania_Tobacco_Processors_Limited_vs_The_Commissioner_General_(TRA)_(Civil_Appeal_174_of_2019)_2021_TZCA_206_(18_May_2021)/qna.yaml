@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## CORAM: MKUYE. J.A, MWAMBEGELE, J.A.. And LEVIRA. J.A.^ ## ( CIVIL APPEAL NO. 174 OF 2019 TANZANIA TOBACCO PROCESSORS LIMITED........................ APPELLANT ## VERSUS THE COMMISSIONER GENERAL (TRA)................ ................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) fMjemmas - Chairman) dated the 25th day of April, 2019 in Tax Revenue Appeal No. 21 of 2016 ## JUDGMENT OF THE COURT 12th February &amp; 17th May, 2021 ## LEVIRA, 3.A.: The appellant, Tanzania Tobacco Processing Limited (the TTPL) 2ps. is a company dealing with green tobacco processing. In the years of income 2006, 2007 and 2008 the respondent had conducted an audit on the appellant's tax affairs and came out with a tax assessment report in which, the respondent disallowed the interest on loan allegedly paid by the appellant to the Universal Leaf Tobacco Co. Inc. of the 3ps. United States of America (the ULTC) in terms of a Loan Agreement. 2ps. 1ps. J.A.^ ## ( CIVIL APPEAL NO. 174 OF 2019 TANZANIA TOBACCO PROCESSORS LIMITED........................ APPELLANT ## VERSUS THE COMMISSIONER GENERAL (TRA)................ ................... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) fMjemmas - Chairman) dated the 25th day of April, 2019 in Tax Revenue Appeal No. 21 of 2016 ## JUDGMENT OF THE COURT 12th February &amp; 17th May, 2021 ## LEVIRA, 3.A.: The appellant, Tanzania Tobacco Processing Limited (the TTPL) is a company dealing with green tobacco processing. The decision 2ps. of the respondent to disallow the said interest came as a result of Additional Final Assessments Nos. F. 420213027 dated 29th September, 2009, F. 420287599 dated 17th May, 2010 and F.
+    questions_and_answers:
+      - question: |
+          What was the main dispute in Civil Appeal No. 174 of 2019?
+        answer: |
+          The dispute involved the respondent, the Commissioner General (TRA), disallowing the interest on a loan allegedly paid by Tanzania Tobacco Processors Limited (TTPL) to Universal Leaf Tobacco Co. Inc. (ULTC) under a Loan Agreement.
+      - question: |
+          Which years of income were audited in the case involving Tanzania Tobacco Processors Limited?
+        answer: |
+          The respondent audited the appellant's tax affairs for the years of income 2006, 2007, and 2008.
+      - question: |
+          What was the key decision taken by the respondent following the tax audit?
+        answer: |
+          The respondent issued a tax assessment report disallowing the interest on the loan allegedly paid by TTPL to ULTC under a Loan Agreement.
+      - question: |
+          Which tribunal initially handled the case before it reached the Court of Appeal of Tanzania?
+        answer: |
+          The case was initially handled by the Tax Revenue Appeals Tribunal in Dar es Salaam.
+      - question: |
+          What were the dates of the Additional Final Assessments referenced in the dispute?
+        answer: |
+          The Additional Final Assessments were dated 29th September 2009 (F. 420213027) and 17th May 2010 (F. 420287599).
+  - context: |
+      1ps. 1ps. Finally, Mr. Nyika reiterated his submission in chief and urged us to allow the appeal. We have dispassionately considered the submissions by the counsel for both sides and the record of appeal. In determining this appeal, we shall combine the 1s t, 2n d , 4th , 5t h and 6t h grounds of appeal because they relate and the 3r d ground separately 2ps. just as they were argued by the counsel for parties. The main issue calling for our determination in the combined grounds is whether the Tribunal erred in upholding the decision of the Board on interest rate issue which was allegedly improperly raised by the respondent before it in the absence of a requisite notice to the appellant As 3ps. indicated above, it was the argument by the counsel for the appellant that the Board was not justified to deal with the issue of interest rate because, one, the Board had no justification to deal with the issue of interest rate because neither was it the basis of respondent's decision on objection nor was it appealed against by the appellant. 2ps. 1ps. We have dispassionately considered the submissions by the counsel for both sides and the record of appeal. In determining this appeal, we shall combine the 1s t, 2n d , 4th , 5t h and 6t h grounds of appeal because they relate and the 3r d ground separately just as they were argued by the counsel for 2ps. parties. Two, the Tribunal's decision to uphold the Board's decision on account that the appellant ought to have amended the statement of appeal was improper. On the other hand, Ms. Achimpota for the respondent opposed the contention. She argued that the appellant did not prove that the interest rate was at arm's length.
+    questions_and_answers:
+      - question: |
+          What was the main issue addressed in the combined grounds of appeal?
+        answer: |
+          The main issue was whether the Tribunal erred in upholding the Board's decision on the interest rate issue, which was allegedly improperly raised by the respondent without providing requisite notice to the appellant.
+      - question: |
+          Why did the counsel for the appellant argue that the Board should not have addressed the issue of interest rate?
+        answer: |
+          The counsel argued that the Board was unjustified in addressing the interest rate issue because it was neither the basis of the respondent's decision on objection nor appealed against by the appellant.
+      - question: |
+          What was the Tribunal's justification for upholding the Board's decision on the interest rate issue?
+        answer: |
+          The Tribunal upheld the decision on the grounds that the appellant ought to have amended the statement of appeal.
+      - question: |
+          What was the respondent’s counterargument regarding the interest rate issue?
+        answer: |
+          Ms. Achimpota, for the respondent, argued that the appellant did not prove the interest rate was at arm's length.
+      - question: |
+          How were the different grounds of appeal addressed by the Tribunal?
+        answer: |
+          The Tribunal combined the 1st, 2nd, 4th, 5th, and 6th grounds of appeal due to their related nature and addressed the 3rd ground separately.
+  - context: |
+      1ps. 1ps. In the light of the above definition, the question that follows is whether the appellant was made aware or had knowledge of interest rate not being at arm's length in the correspondents between them. According to the record of appeal, the issue of interest rate not being at arm's length was not new to the appellant and the same was not raised in the Board for the first time by the respondent in the reply to the statement of appeal as claimed by 2ps. the appellant. It can be observed from paragraph 7 of the appellant's statement of appeal to the Board that through the letter dated 14th June 2012, the respondent informed the appellant that the loan interest is not at arm's length due to the fact that TTPL had not actually drawn funds from the loan rather they recorded invoice received from the 3ps. lender for the cost of the equipment as a long-term obligation. Being aggrieved, the appellant filed the objection with the respondent in that regard but it was declined. 2ps. 1ps. With respect, we are unable to agree with the appellant and both the Board and the Tribunal that the said issue was only raised by the respondent in the reply to the statement of appeal. Being aggrieved, the appellant filed the objection with the respondent in that regard but it was declined. The respondent issued an Amended Assessment in which the said issue was not repeated. 2ps. As indicated under paragraphs 11 and 12 of the statement of appeal to the Board, being aggrieved with the Amended Notice of Assessment, the appellant filed a Notice of Intention to Appeal against the Respondent's decision on 21st March, 2013 with the Tax Appeals Board which was the subject matter of the appeal.
+    questions_and_answers:
+      - question: |
+          What specific issue was the appellant allegedly aware of regarding the interest rate?
+        answer: |
+          The appellant was allegedly aware that the interest rate was not at arm's length, as indicated in correspondence from the respondent, including a letter dated 14th June 2012.
+      - question: |
+          What was the reason provided in the letter dated 14th June 2012 for the interest rate not being at arm's length?
+        answer: |
+          The reason provided was that TTPL had not actually drawn funds from the loan but had instead recorded the invoice received from the lender for the cost of equipment as a long-term obligation.
+      - question: |
+          How did the appellant initially respond to the issue of the interest rate not being at arm's length?
+        answer: |
+          The appellant filed an objection with the respondent regarding this issue, but the objection was declined.
+      - question: |
+          What legal action did the appellant take after being aggrieved by the Amended Notice of Assessment?
+        answer: |
+          The appellant filed a Notice of Intention to Appeal with the Tax Appeals Board on 21st March, 2013.
+      - question: |
+          What did the respondent's Amended Assessment fail to include?
+        answer: |
+          The respondent's Amended Assessment did not repeat the issue of the interest rate not being at arm's length.
+  - context: |
+      1ps. 1ps. However, the appellant was not satisfied with the said proposal contending that it was not correct because the issue of invoice and interest was improperly raised. It was argued that the respondent did not consider the appellant's explanation to that effect. This made the appellant to lodge her appeal to the Board and categorically stated that the subject matter of the appeal before the Board was the 2ps. Amended Notice of Assessment dated 21s t February, 2013. He added that among the grounds were that the sum of Tshs. 1,495,712,912/= which the appellant had claimed as interest paid to the ULTC, is genuine because the assets purchased by the Appellant through the loan on which the interest was charged were utilised wholly and exclusively for the production 3ps. of the company's income. In this regard it was argued that the amount is therefore tax deductible/allowable as provided for under sections 11 and 12 of the ITA. 2ps. 1ps. This made the appellant to lodge her appeal to the Board and categorically stated that the subject matter of the appeal before the Board was the Amended Notice of Assessment dated 21s t February, 2013. He added that among the grounds were that the sum of Tshs. 1,495,712,912/= which the appellant had claimed as interest paid to the ULTC, is genuine because the assets purchased by the Appellant through 2ps. the loan on which the interest was charged were utilised wholly and exclusively for the production of the company's income. He added that, the loan drawdown was in accordance with a signed agreement between the ULTC and the appellant, which agreement was registered with the Bank of Tanzania (the BOT) and Tanzania Investment Centre (the TIC). He submitted further that another ground 3ps.
+    questions_and_answers:
+      - question: |
+          What was the subject matter of the appeal filed by the appellant before the Board?
+        answer: |
+          The subject matter of the appeal was the Amended Notice of Assessment dated 21st February, 2013.
+      - question: |
+          Why did the appellant claim that the interest of Tshs. 1,495,712,912/= was genuine?
+        answer: |
+          The appellant argued that the interest was genuine because the assets purchased through the loan, on which the interest was charged, were used wholly and exclusively for the production of the company's income.
+      - question: |
+          Which legal provisions were cited by the appellant to argue that the interest amount was tax-deductible?
+        answer: |
+          The appellant cited sections 11 and 12 of the Income Tax Act (ITA) to argue that the interest amount was tax-deductible.
+      - question: |
+          What agreements and registrations were presented to support the appellant's claim regarding the loan?
+        answer: |
+          The appellant stated that the loan drawdown was made under a signed agreement between the ULTC and the appellant, and the agreement was registered with the Bank of Tanzania (BOT) and the Tanzania Investment Centre (TIC).
+      - question: |
+          What was the appellant's contention about the initial proposal and the respondent's handling of the issue?
+        answer: |
+          The appellant contended that the initial proposal was incorrect because the issue of the invoice and interest was improperly raised, and the respondent did not consider the appellant's explanation about it.
+  - context: |
+      1ps. 1ps. - 8. The appellant once again wrote to the respondent on 18 th Ju ly 2 0 1 2 disputing the disallowed interest expenses o f Tshs. 1,628,883,334 as the loan arrangem ent w as an accepted business arrangem ent practiced g lo b a lly and that the loan agreement had been accepted by both the Bank o f Tanzania and Tanzania Investment Centre. The appellant's letter is attached and marked TTPL7. - 9. In a letter 2ps. dated 23rd January 2013, the Respondent informed the Appellant that after reviewing the arguments contained in the letter o f l&amp; h July 2012, th ey w ere unable to agree w ith the A ppellan t's subm ission in respect o f the in te re s t expenses and therefore they s t ill m aintained th e ir p o sitio n on th is item ..., ## 10. The Respondent issued a Notice o f Amended Assessm ent F 420213027 dated 21st February 2013. The Amended 3ps. Notice showed that the Income Tax due from the Appellant for the 2006 year o f income was Tshs. 2ps. 1ps. 1,628,883,334 as the loan arrangem ent w as an accepted business arrangem ent practiced g lo b a lly and that the loan agreement had been accepted by both the Bank o f Tanzania and Tanzania Investment Centre. The appellant's letter is attached and marked TTPL7. 1,905,514,640.10, interest (pursuant to section 99) o f Tshs. 570,906,199.70 and total tax paid as Nil. The Notice o f Amended Assessment F 420213027 dated 21st February 2013 is attached and 2ps. marked TTPL9. 11.
+    questions_and_answers:
+      - question: |
+          What specific amount of interest expenses was disputed by the appellant in their letter dated 18th July 2012?
+        answer: |
+          The appellant disputed interest expenses of Tshs. 1,628,883,334 in their letter dated 18th July 2012.
+      - question: |
+          Which entities had approved the loan agreement referenced by the appellant in their defense?
+        answer: |
+          The loan agreement was approved by both the Bank of Tanzania and the Tanzania Investment Centre.
+      - question: |
+          How did the respondent react to the appellant's July 2012 letter disputing the interest expenses?
+        answer: |
+          The respondent reviewed the appellant's arguments and, in a letter dated 23rd January 2013, maintained their position regarding the disallowed interest expenses.
+      - question: |
+          What did the Notice of Amended Assessment issued on 21st February 2013 indicate as the total Income Tax due for the 2006 year of income?
+        answer: |
+          The Notice of Amended Assessment indicated that the Income Tax due for the 2006 year of income was Tshs. 1,905,514,640.10.
+      - question: |
+          What was the amount of interest calculated under Section 99 in the Amended Assessment Notice?
+        answer: |
+          The interest calculated under Section 99 in the Amended Assessment Notice was Tshs. 570,906,199.70.
+document_outline: |
+  **Document Outline:**
+  This document outlines a civil appeal (Civil Appeal No. 174 of 2019) between Tanzania Tobacco Processors Limited (Appellant) and the Commissioner General of the Tanzania Revenue Authority (Respondent) before the Court of Appeal of Tanzania. It provides a detailed background of the dispute, which stems from the respondent's tax assessments for the years 2006, 2007, and 2008, disallowing interest expense claims related to a loan agreement, and traces the appellant's unsuccessful challenges through various tax tribunals leading to the present appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tanzania_Tobacco_Processors_Limited_vs_The_Commissioner_General_(TRA)_(Civil_Appeal_174_of_2019)_2021_TZCA_206_(18_May_2021).md

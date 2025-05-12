@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. - 2. Defense Communication Systems : Finished consumer goods or specific machinery. - 3. Office Equipment for Social Security Management : Finished consumer goods. ## Customs Duty Calculation : - 1. Security and Surveillance Equipment (Finished Consumer Goods) : - o Customs Duty Rate : 25% - o Duty Amount : 25% of TZS 350,000,000 = TZS 87,500,000 - 2. Defense Communication Systems (Finished Consumer Goods) : - o Customs Duty Rate : 25% - o Duty Amount : 25% of TZS 250,000,000 = TZS 62,500,000 - 3. Office Equipment for Social Security Management (Finished Consumer Goods) : - o Customs Duty Rate : 25% - o Duty Amount : 25% 2ps. of TZS 150,000,000 = TZS 37,500,000 ## Total Customs Duty : -  Security and Surveillance Equipment : TZS 87,500,000 -  Defense Communication Systems : TZS 62,500,000 -  Office Equipment for Social Security Management : TZS 37,500,000 -  Total Customs Duty : TZS 87,500,000 + TZS 62,500,000 + TZS 37,500,000 = TZS 187,500,000 ## Additional Levies : ## 1. Railways Development Levy : - o 1.5% of CIF value - o Levy Amount : 1.5% of TZS 750,000,000 = TZS 11,250,000 ## 2. Destination Inspection Fee : - o 0.6% of FOB value - o Fee Amount : 0.6% of TZS 715,000,000 = TZS 4,290,000 ## Total Import Costs : - 3ps.  Customs Duty : TZS 187,500,000 -  Railways Development Levy : TZS 11,250,000 -  Destination Inspection Fee : TZS 4,290,000 -  Total Additional Costs : TZS 187,500,000 + TZS 11,250,000 + TZS 4,290,000 = TZS 203,040,000 Summary : SecureGov Ltd. will pay a total of TZS 203,040,000 in additional import costs for security, defense, and office equipment, including customs duty, railways development levy, and destination inspection fee. 2ps.
+    questions_and_answers:
+      - question: |
+          What is the customs duty rate applied to all finished consumer goods listed in the context?
+        answer: |
+          The customs duty rate applied to all finished consumer goods is 25%.
+      - question: |
+          How much customs duty is charged for Defense Communication Systems?
+        answer: |
+          The customs duty charged for Defense Communication Systems is TZS 62,500,000.
+      - question: |
+          How is the Railways Development Levy calculated, and what is its total amount?
+        answer: |
+          The Railways Development Levy is calculated as 1.5% of the CIF value. Its total amount is TZS 11,250,000, based on a CIF value of TZS 750,000,000.
+      - question: |
+          What is the total customs duty for all imported items listed?
+        answer: |
+          The total customs duty for all imported items is TZS 187,500,000.
+      - question: |
+          What is the total additional import cost SecureGov Ltd. will pay, including all levies and fees?
+        answer: |
+          The total additional import cost SecureGov Ltd. will pay is TZS 203,040,000.
+  - context: |
+      1ps. 1ps. - 2. Motorcycle Parts : Often classified as semi-finished goods. - 3. Automotive Tools and Equipment : Can be classified based on their use, but let's assume they are considered as semi-finished goods. ## Customs Duty Calculation : - 1. Replacement Car Parts (Finished Consumer Goods) : - o Customs Duty Rate : 25% - o Duty Amount : 25% of TZS 200,000,000 = TZS 50,000,000 - 2. Motorcycle Parts (Semi-Finished Goods) : - o Customs Duty Rate : 10% - o Duty Amount : 10% of TZS 150,000,000 = TZS 15,000,000 - 3. Automotive Tools and Equipment (Semi-Finished Goods) : - o Customs Duty Rate : 10% - o Duty 2ps. Amount : 10% of TZS 100,000,000 = TZS 10,000,000 ## Total Customs Duty : -  Replacement Car Parts : TZS 50,000,000 -  Motorcycle Parts : TZS 15,000,000 -  Automotive Tools and Equipment : TZS 10,000,000 -  Total Customs Duty : TZS 50,000,000 + TZS 15,000,000 + TZS 10,000,000 = TZS 75,000,000 ## Additional Levies : - 1. Railways Development Levy : - o 1.5% of CIF value - o Levy Amount : 1.5% of TZS 450,000,000 = TZS 6,750,000 - 2. Destination Inspection Fee : - o 0.6% of FOB value - o Fee Amount : 0.6% of TZS 428,000,000 = TZS 2,568,000 ## Total Import Costs : -  3ps. Customs Duty : TZS 75,000,000 -  Railways Development Levy : TZS 6,750,000 -  Destination Inspection Fee : TZS 2,568,000 -  Total Additional Costs : TZS 75,000,000 + TZS 6,750,000 + TZS 2,568,000 = TZS 84,318,000 Summary : AutoWorld Ltd. will pay a total of TZS 84,318,000 in additional import costs for automotive parts and accessories, including customs duty, railways development levy, and destination inspection fee. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What is the customs duty rate for Replacement Car Parts, and how is it calculated?
+        answer: |
+          The customs duty rate for Replacement Car Parts is 25%, and it is calculated as 25% of TZS 200,000,000, resulting in a duty amount of TZS 50,000,000.
+      - question: |
+          How much customs duty is charged for Motorcycle Parts, and what classification do they have?
+        answer: |
+          Motorcycle Parts are classified as semi-finished goods, and the customs duty is 10%, calculated as 10% of TZS 150,000,000, resulting in a duty amount of TZS 15,000,000.
+      - question: |
+          What are the additional levies applied to the total import costs, and their corresponding rates?
+        answer: |
+          The additional levies include the Railways Development Levy at 1.5% of the CIF value, amounting to TZS 6,750,000, and the Destination Inspection Fee at 0.6% of the FOB value, amounting to TZS 2,568,000.
+      - question: |
+          What is the total customs duty amount for all the goods, and how is it derived?
+        answer: |
+          The total customs duty is TZS 75,000,000, which is the sum of TZS 50,000,000 for Replacement Car Parts, TZS 15,000,000 for Motorcycle Parts, and TZS 10,000,000 for Automotive Tools and Equipment.
+      - question: |
+          What is the total import cost for AutoWorld Ltd., including all duties and levies?
+        answer: |
+          The total import cost for AutoWorld Ltd. is TZS 84,318,000, which includes TZS 75,000,000 in customs duty, TZS 6,750,000 for the Railways Development Levy, and TZS 2,568,000 for the Destination Inspection Fee.
+  - context: |
+      1ps. 1ps. - 2. Maintenance Tools : Specific machinery or finished consumer goods. - 3. Office Supplies : Finished consumer goods. ## Customs Duty Calculation : - 1. Cleaning Equipment (Finished Consumer Goods/Specific Machinery) : - o Customs Duty Rate - : 25% - o Duty Amount : 25% of TZS 250,000,000 = TZS 62,500,000 - 2. Maintenance Tools (Specific Machinery/Finished Consumer Goods) : - o Customs Duty Rate : 25% - o Duty Amount : 25% of TZS 150,000,000 = TZS 37,500,000 - 3. Office Supplies (Finished Consumer Goods) : - o Customs Duty Rate - : 25% - o Duty Amount : 25% of TZS 100,000,000 = TZS 25,000,000 ## Total Customs Duty 2ps. : -  Cleaning Equipment - : TZS 62,500,000 -  Maintenance Tools : TZS 37,500,000 -  Office Supplies : TZS 25,000,000 -  Total Customs Duty : TZS 62,500,000 + TZS 37,500,000 + TZS 25,000,000 = TZS 125,000,000 ## Additional Levies : - 1. Railways Development Levy : - o 1.5% of CIF value - o Levy Amount : 1.5% of TZS 500,000,000 = TZS 7,500,000 - 2. Destination Inspection Fee : - o 0.6% of FOB value - o Fee Amount : 0.6% of TZS 485,000,000 = TZS 2,910,000 ## Total Import Costs : -  Customs Duty : TZS 125,000,000 -  Railways Development Levy : TZS 7,500,000 -  Destination Inspection 3ps. Fee : TZS 2,910,000 -  Total Additional Costs : TZS 125,000,000 + TZS 7,500,000 + TZS 2,910,000 = TZS 135,410,000 Summary : ServiceSolutions Ltd. will pay a total of TZS 135,410,000 in additional import costs for cleaning equipment, maintenance tools, and office supplies, including customs duty, railways development levy, and destination inspection fee. 2ps. 1ps. - 2. Maintenance Tools : Specific machinery or finished consumer goods.
+    questions_and_answers:
+      - question: |
+          What is the customs duty rate for cleaning equipment, maintenance tools, and office supplies?
+        answer: |
+          The customs duty rate for cleaning equipment, maintenance tools, and office supplies is 25%.
+      - question: |
+          How is the customs duty amount calculated for cleaning equipment?
+        answer: |
+          The customs duty amount for cleaning equipment is calculated as 25% of its value, which is 25% of TZS 250,000,000, resulting in TZS 62,500,000.
+      - question: |
+          How much does ServiceSolutions Ltd. pay as the Railways Development Levy?
+        answer: |
+          ServiceSolutions Ltd. pays a Railways Development Levy of TZS 7,500,000, calculated as 1.5% of the CIF value (1.5% of TZS 500,000,000).
+      - question: |
+          What is the total customs duty amount for the imported items?
+        answer: |
+          The total customs duty amount is TZS 125,000,000, derived from TZS 62,500,000 for cleaning equipment, TZS 37,500,000 for maintenance tools, and TZS 25,000,000 for office supplies.
+      - question: |
+          What is the total additional import cost that ServiceSolutions Ltd. will pay?
+        answer: |
+          The total additional import cost ServiceSolutions Ltd. will pay is TZS 135,410,000, which includes customs duty, the Railways Development Levy, and the Destination Inspection Fee.
+  - context: |
+      1ps. 1ps. 4o mini next ChatGPT Scenario Example: Water Supply, Sewerage, Waste Management, and Remediation Activities Sector Company Name : AquaClean Ltd. Business Type : Company specializing in water treatment and waste management services. ## Location : Tanzania Import Activity : AquaClean Ltd. imports equipment and machinery essential for their water treatment and waste management operations. Based on the East African Community (EAC) Common External Tariff (CET), the duty rates are as follows: -  Machinery and equipment for water treatment and waste management : Generally, machinery for these purposes can be exempt from customs duty, but confirmation with specific provisions or approvals is required. 2ps. 1ps. ## Location : Tanzania Import Activity : AquaClean Ltd. imports equipment and machinery essential for their water treatment and waste management operations. Specifically, they are importing: -  Water filtration systems -  Wastewater treatment plants -  Solid waste shredders ## Customs Duty Calculation ## 1. Determine the Import Classification The imported items fall under the category of machinery and equipment used for water supply, sewerage, waste management, and remediation activities. ## 2. Check for Additional Levies In addition to customs duty, AquaClean Ltd. needs to account for: -  Railways Development Levy : 1.5% of the CIF value (Cost, Insurance, and Freight) -  Destination Inspection Fee 2ps. : 0.6% of the FOB value (Free on Board) ## 3. Example Calculation ## Assumptions : -  Cost of Water Filtration Systems : TZS 150,000,000 -  Cost of Wastewater Treatment Plants : TZS 200,000,000 -  Cost of Solid Waste Shredders : TZS 100,000,000 -  Total CIF Value : TZS 450,000,000 -  FOB Value : TZS 428,000,000 ## Calculations : ## 1.
+    questions_and_answers:
+      - question: |
+          What type of business is AquaClean Ltd.?
+        answer: |
+          AquaClean Ltd. is a company specializing in water treatment and waste management services.
+      - question: |
+          What types of equipment does AquaClean Ltd. import for its operations?
+        answer: |
+          AquaClean Ltd. imports water filtration systems, wastewater treatment plants, and solid waste shredders.
+      - question: |
+          What is the customs duty regulation on importing machinery for water treatment and waste management in Tanzania?
+        answer: |
+          Machinery and equipment for water treatment and waste management can generally be exempt from customs duty, but confirmation with specific provisions or approvals is required.
+      - question: |
+          What additional levies apply to AquaClean Ltd.'s imports besides customs duty?
+        answer: |
+          AquaClean Ltd. must pay a Railways Development Levy of 1.5% of the CIF value and a Destination Inspection Fee of 0.6% of the FOB value.
+      - question: |
+          Given a CIF value of TZS 450,000,000, what would be the Railways Development Levy and Destination Inspection Fee?
+        answer: |
+          The Railways Development Levy would be TZS 6,750,000 (1.5% of TZS 450,000,000), and the Destination Inspection Fee would be TZS 2,568,000 (0.6% of TZS 428,000,000).
+  - context: |
+      1ps. 1ps. - 2. Forklifts : Can be classified as semi-finished goods or specific machinery depending on the configuration. - 3. Warehouse Shelving Systems : Often classified as semi-finished goods or specific industrial equipment. 4o mini next ChatGPT ## Scenario Example: Accommodation and Food Service Activities Sector Company Name : HospitalityPlus Ltd. Business Type : Company operating a chain of hotels and restaurants. ## Location : Tanzania Import Activity : HospitalityPlus Ltd. imports various equipment and supplies for their hotels and restaurants. Specifically, they are importing: -  Commercial kitchen appliances (e.g., ovens, refrigerators) -  Hotel furniture (e.g., beds, chairs) -  Restaurant utensils (e.g., cutlery, plates) ## Customs 2ps. Duty Calculation ## 1. Determine the Import Classification The imported items fall under the category of hotel and restaurant equipment . Based on the East African Community (EAC) Common External Tariff (CET), the duty rates are as follows: -  Commercial Kitchen Appliances : Often classified as finished consumer goods. -  Hotel Furniture : Typically classified as finished consumer goods. -  Restaurant Utensils : Generally classified as finished consumer goods. 2ps. 1ps. Based on the East African Community (EAC) Common External Tariff (CET), the duty rates are as follows: -  Commercial Kitchen Appliances : Often classified as finished consumer goods. -  Hotel Furniture : Typically classified as finished consumer goods. -  Restaurant Utensils : Generally classified as finished consumer goods. ## 2. Check for Additional Levies In addition to customs duty, HospitalityPlus Ltd. needs to account for: -  Railways Development Levy : 1.5% of the CIF value (Cost, Insurance, and Freight) -  Destination Inspection Fee : 0.6% of the FOB value (Free on Board) ## 3. Example Calculation ## Assumptions : -  2ps.
+    questions_and_answers:
+      - question: |
+          How are forklifts classified in terms of goods or equipment?
+        answer: |
+          Forklifts can be classified as semi-finished goods or specific machinery depending on their configuration.
+      - question: |
+          What equipment and supplies does HospitalityPlus Ltd. import for its operations?
+        answer: |
+          HospitalityPlus Ltd. imports commercial kitchen appliances (e.g., ovens, refrigerators), hotel furniture (e.g., beds, chairs), and restaurant utensils (e.g., cutlery, plates).
+      - question: |
+          Under the East African Community (EAC) Common External Tariff (CET), how are hotel furniture items classified for import duty purposes?
+        answer: |
+          Hotel furniture is typically classified as finished consumer goods under the East African Community (EAC) Common External Tariff (CET).
+      - question: |
+          What are the additional levies that HospitalityPlus Ltd. must account for during importation?
+        answer: |
+          In addition to customs duty, HospitalityPlus Ltd. must account for the Railways Development Levy (1.5% of CIF value) and the Destination Inspection Fee (0.6% of FOB value).
+      - question: |
+          What duty rates apply to commercial kitchen appliances under the EAC Common External Tariff (CET)?
+        answer: |
+          Commercial kitchen appliances are often classified as finished consumer goods under the EAC Common External Tariff (CET).
+document_outline: |
+  **Document Outline: Customs Duty Calculations for Mining and Quarrying Sector**
+  This document provides a detailed example of customs duty and additional levy calculations for RockMiner Ltd., a mining company in Tanzania importing specialized equipment including excavators, drilling rigs, and crushing machines. It outlines the duty exemption for licensed mining companies, levies applied (Railways Development Levy at 1.5% of CIF value and Destination Inspection Fee at 0.6% of FOB value), and a practical cost breakdown of the total import expenses.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Calculations_for_Customs_Duty.md

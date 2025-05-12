@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. In the present matter, the applicant has been clear in her submission that her grievances are centred on three aspects: one, revocation of the second private ruling contrary to section 11(3) and (4) of the Tax Administration Act, 2015; two, issuance of agency notice; and three, usurpation of Tshs, 146,118,017,395/= from the applicant without assessment or calculation of tax liability confirmed against the applicant alleged to be contrary to the laws hence amounting into illegalities. 2ps. Mindful of the submissions and authorities cited above to the Court for its guidance, this Court tends to agree with the applicant's counsel and holds a view that where this Court is seized with a matter premised on judicial review and not original tax dispute or appeal proceedings governed by the provisions pointed out to this Court by the learned Solicitor General, the provisions of Article 107A (2) &amp; 108 of the 3ps. Constitution of the United Republic of Tanzania of 1977 (as amended), Cap.2 [R.E.2002] read together with section 17(2) of the Law Reform (Fatal Accident and Miscellaneous Provisions) Act, Cap.310 [R.E.2019] adequately confer jurisdiction to this Court to make determination on merit in relation to sought judicial review reliefs after hearing the parties where the alternative is not accessible or speedy effective and or adequate and the Court 4ps. can actually even consider other compelling situations warranting it to issue just and commensurate orders. 2ps. 1ps. The claimed applicant's cause of delay has been argued to be the inaction by the 1s t respondent to her complaints over the tainted decision to revoke the 2n d private ruling made in her favour and the further inaction by the 2n d respondent to her aforesaid complaints.
+    questions_and_answers:
+      - question: |
+          What are the three primary grievances mentioned by the applicant in this matter?
+        answer: |
+          The applicant's grievances are about revocation of the second private ruling contrary to the Tax Administration Act, 2015, issuance of an agency notice, and the alleged illegal usurpation of Tshs 146,118,017,395/= without proper tax assessment or calculation.
+      - question: |
+          What jurisdiction does the court cite as justification to hear this matter?
+        answer: |
+          The court cites provisions from Article 107A(2) and Article 108 of the Constitution of the United Republic of Tanzania of 1977 (as amended), along with section 17(2) of the Law Reform (Fatal Accident and Miscellaneous Provisions) Act, Cap.310 [R.E.2019], as conferring jurisdiction for judicial review when alternative remedies are not accessible, speedy, or adequate.
+      - question: |
+          What is the nature of the matter before the court as described in the context?
+        answer: |
+          The matter before the court is a judicial review, not an original tax dispute or an appeal proceeding.
+      - question: |
+          What reasons does the applicant claim caused delays in addressing her grievances?
+        answer: |
+          The applicant claims the delays were caused by the inaction of the first respondent regarding her complaints about the revocation of the second private ruling and the inaction of the second respondent concerning the same complaints.
+      - question: |
+          Under what circumstances does the court believe it can issue just and commensurate orders?
+        answer: |
+          The court believes it can issue just and commensurate orders in situations where alternative remedies are not accessible, speedy, or adequate, or in other compelling situations warranting such orders.
+  - context: |
+      1ps. 1ps. However, on 21/09/2019 that is, two days before the scheduled deadline, the applicant received a notice of revocation of the latter entered 2n d private ruling vide 1s t respondent's letter dated 20/09/2019. Efforts to review that revocation were made whereas to-date, the 1 s t respondent has not acted on the applicant's notices of objection and application for administrative review of the revoked 2n d private ruling. That, from the date 2ps. of filing of the notices of objection, that is, on 18/10/2019 up to 09/05/2020, the applicant has been waiting for the 1 s t respondent's determination on the preferred notices of objection and his further application for administrative review whereas to-date, she not received any response. She further sought intervention of the 2n d respondent vide her two letters addressed to him which to-date 3ps. have also not been acted upon. The deponent further stated that, the applicant's grievances have bases also from the evident illegalities and improprieties remediable through judicial review. 2ps. 1ps. That, from the date of filing of the notices of objection, that is, on 18/10/2019 up to 09/05/2020, the applicant has been waiting for the 1 s t respondent's determination on the preferred notices of objection and his further application for administrative review whereas to-date, she not received any response. She further sought intervention of the 2n d respondent vide her two letters 2ps. addressed to him which to-date have also not been acted upon. The deponent added that, the reluctance by the 1s t respondent to determine her notices of objection against the revocation of 2n d private ruling and issuance of agency notice adversely affected the applicant's operational, economic and welfare, hence, the present application. On 4th January, 2021, Mr.
+    questions_and_answers:
+      - question: |
+          What event prompted the applicant to file notices of objection and apply for an administrative review?
+        answer: |
+          The applicant received a notice of revocation of the 2nd private ruling two days before the scheduled deadline, on 21/09/2019, prompting her to file notices of objection and seek an administrative review.
+      - question: |
+          When were the notices of objection filed, and how long did the applicant wait for a determination?
+        answer: |
+          The notices of objection were filed on 18/10/2019, and the applicant waited from that date until 09/05/2020 for the 1st respondent's determination, but no response was received.
+      - question: |
+          What additional steps did the applicant take after not receiving a response to her objection notices?
+        answer: |
+          The applicant sought the intervention of the 2nd respondent through two letters, but to date, those letters have also not been acted upon.
+      - question: |
+          What were the alleged impacts of the 1st respondent's failure to act on the notices of objection?
+        answer: |
+          The 1st respondent's inaction on the notices of objection and revocation of the 2nd private ruling allegedly adversely affected the applicant’s operational, economic, and welfare conditions.
+      - question: |
+          What legal recourse did the applicant seek to address her grievances?
+        answer: |
+          The applicant sought judicial review, alleging evident illegalities and improprieties that needed to be remedied.
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (DAR ES SALAAM MAIN REGISTRY) AT PAR ES SALAAM ## MISCELLANEOUS CIVIL APPLICATION NO. 57 OF 2020 ## IN THE MATTER OF AN APPLICATION FOR EXTENSION OF TIME TO FILE AN APPLICATION FOR LEAVE TO APPLY FOR PREROGATIVE ORDERS OF CERTIORARI AND MANDAMUS ## BETWEEN MIRAMBO LIMITED ...... .......................... .............. APPLICANT AND - 1. COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY - 2. ATTORNEY GENERAL OF THE UNITED REPUBLIC OF TANZANIA Date of Last Oder: 23/03/2021 Date of Ruling: 30/04/2021 ## RULING ## FELESHI. J.K.: This is an application for an extension of time to file an 2ps. application for leave to file an application for prerogative orders of certiorari and mandamus out of time; an order that the costs of the application abide to the outcome of the intended application and/or for the application of the aforesaid orders; and, for any other order(s) the Court may deem fit and just to grant. The applicant filed this application by way of chamber summons under section 3ps. 14(1) of the Law of Limitation Act, Cap. 2ps. 1ps. J.K.: This is an application for an extension of time to file an application for leave to file an application for prerogative orders of certiorari and mandamus out of time; an order that the costs of the application abide to the outcome of the intended application and/or for the application of the aforesaid orders; and, for any other order(s) the Court may deem fit and just 2ps. to grant. The applicant filed this application by way of chamber summons under section 14(1) of the Law of Limitation Act, Cap. 89 [R.E.2019] and 1st RESPONDENT 2nd RESPONDENT Rule 17 of the Law Reform (Fatal Accidents and Miscellaneous Provisions) (Judicial Review Procedure and Fees) Rules, vide G.N. No.
+    questions_and_answers:
+      - question: |
+          What was the purpose of the application filed by Mirambo Limited?
+        answer: |
+          The application was for an extension of time to file an application for leave to apply for prerogative orders of certiorari and mandamus out of time.
+      - question: |
+          Who are the respondents in this case?
+        answer: |
+          The respondents are the Commissioner General of the Tanzania Revenue Authority and the Attorney General of the United Republic of Tanzania.
+      - question: |
+          Under which legal provisions was the application filed?
+        answer: |
+          The application was filed under section 14(1) of the Law of Limitation Act, Cap. 89 [R.E. 2019], and Rule 17 of the Law Reform (Fatal Accidents and Miscellaneous Provisions) (Judicial Review Procedure and Fees) Rules.
+      - question: |
+          What additional orders, besides the extension of time, did the applicant request?
+        answer: |
+          The applicant also requested an order for the costs of the application to abide by the outcome of the intended application and any other orders the Court may deem fit and just.
+      - question: |
+          What were the dates of the last order and the ruling in this case?
+        answer: |
+          The date of the last order was March 23, 2021, and the date of the ruling was April 30, 2021.
+  - context: |
+      1ps. 1ps. He argued that, such provision was a procedural requirement that can act retrospectively. He stressed that, dealing with this matter amounts to entertaining a matter beyond jurisdiction in matters which their jurisdiction is vested in specific forums. The learned Solicitor General cited Tanzania Revenue Authority v. Tango Transport Company Ltd, Civil Appeal No. 84 of 2009 (Arusha Registry), (Unreported) where the Court held to that 2ps. effect. Mr. Malata maintained in his submission that, tax issues are not subject to judicial review and are not subjected to ordinary courts apart from appeals to the Court of Appeal. He argued that, for invocation of judicial review, there must be final decision subject for judicial review as held by the Court of Appeal in the case 3ps. of Sanai Murumbe and Another v. Muhere Chacha, [1990] T.L.R 54. In response, Erasmo Nyika, learned counsel for the applicant submitted that, it is only the High Court that is vested with jurisdiction to grant leave and the aforementioned prerogative orders. 2ps. 1ps. The learned Solicitor General cited Tanzania Revenue Authority v. Tango Transport Company Ltd, Civil Appeal No. 84 of 2009 (Arusha Registry), (Unreported) where the Court held to that effect. Mr. Malata maintained in his submission that, tax issues are not subject to judicial review and are not subjected to ordinary courts apart from appeals to the Court of Appeal. 2ps. The applicant's counsel argued that, what is at stake is not a tax matter, rather, a challenge against misuse of public powers conferred unto the 1s t respondent. Revocation of private ruling, immediate issuance of agency notice and usurpation of Tshs. 146,118,017,395/= from the applicant without an assessment or a tax liability calculated confirmed against the applicant was contrary to the 3ps.
+    questions_and_answers:
+      - question: |
+          What was the argument presented by the Solicitor General regarding procedural requirements?
+        answer: |
+          The Solicitor General argued that the procedural requirement could act retrospectively and that addressing the matter would mean entertaining it beyond the court's jurisdiction, as such jurisdiction is vested in specific forums.
+      - question: |
+          What legal precedent was cited by the Solicitor General to support the argument that tax issues are not subject to judicial review?
+        answer: |
+          The Solicitor General cited the case of Tanzania Revenue Authority v. Tango Transport Company Ltd, Civil Appeal No. 84 of 2009 (Arusha Registry), where the Court held that tax issues are not subject to judicial review or ordinary courts, apart from appeals to the Court of Appeal.
+      - question: |
+          What requirements did the Solicitor General argue must be met for judicial review to be invoked?
+        answer: |
+          The Solicitor General argued that for judicial review to be invoked, there must be a final decision subject to judicial review, as established in the case of Sanai Murumbe and Another v. Muhere Chacha, [1990] T.L.R 54.
+      - question: |
+          What was the applicant's counsel's position regarding the High Court's jurisdiction?
+        answer: |
+          The applicant's counsel, Erasmo Nyika, argued that only the High Court has jurisdiction to grant leave and issue prerogative orders.
+      - question: |
+          What key issue did the applicant's counsel argue was at stake, and how was it framed as distinct from a tax matter?
+        answer: |
+          The applicant's counsel argued that the issue at stake was a challenge against the misuse of public powers by the first respondent, including the revocation of a private ruling, issuance of an agency notice, and seizure of Tshs. 146,118,017,395/= without a tax assessment or liability being confirmed.
+  - context: |
+      1ps. 1ps. According to the applicant's counsel, the respondents' conducts regarding revocation of the 2n d private ruling by the 1 s t respondent and issuance of agency notice were tainted with illegalities which are remediable by way of judicial review. He added, the blatant failure by the respondents to act on her grievances led into her delay to file the intended application thus necessitating her to file the instant application for extension of time. Besides, extension of time can 2ps. be granted when there are illegalities on the decision made as held by the Court of Appeal in the case of Principal Secretary, Ministry of Defence and National Service v. D. P. Valambhia [1992] T.LR 185. Basing on the two sets (cause of the delay and the alleged illegalities), the applicants' counsel urged for the application to be granted as the same will 3ps. not prejudice the respondents. 2ps. 1ps. He added, the blatant failure by the respondents to act on her grievances led into her delay to file the intended application thus necessitating her to file the instant application for extension of time. In reply, the learned Solicitor General for the respondents when submitting against merits of the application raised a preliminary objection styled "the application for extension of time is unattainable in law as the applicant is driving two horses at 2ps. a time contrary to the law" The objection by the Solicitor General was that, on 29/01/2021 and 12/02/2021, the applicant initiated an appeal process to the Tax Revenue Appeal Board by filing a notice of appeal and statement of appeal regarding appeals number 48 and 50 of 2021 challenging the decision of the 1s t respondent in issuing an agency notice and 1 s t 3ps. respondent's notice of revocation of the private ruling. 3ps.
+    questions_and_answers:
+      - question: |
+          What were the alleged illegalities mentioned by the applicant's counsel regarding the respondents' actions?
+        answer: |
+          The applicant's counsel alleged that the respondents' actions, such as revocation of the private ruling and issuance of the agency notice, were tainted with illegalities justifying judicial review.
+      - question: |
+          What reasons did the applicant's counsel provide to justify the delay in filing the intended application?
+        answer: |
+          The applicant's counsel stated that the respondents' failure to act on her grievances caused the delay, which necessitated the filing of the application for an extension of time.
+      - question: |
+          What precedent did the applicant's counsel cite to support the claim that extension of time can be granted due to illegalities?
+        answer: |
+          The applicant's counsel cited the Court of Appeal case Principal Secretary, Ministry of Defence and National Service v. D. P. Valambhia [1992] T.LR 185, which established that extension of time can be granted in cases involving illegalities.
+      - question: |
+          What was the Solicitor General's preliminary objection to the application for extension of time?
+        answer: |
+          The Solicitor General argued that the application was unattainable in law because the applicant was pursuing two legal remedies simultaneously, which he claimed violated the law.
+      - question: |
+          What actions had the applicant taken prior to filing the application for an extension of time that the Solicitor General referenced in his objection?
+        answer: |
+          The applicant had initiated an appeal process by filing a notice of appeal and a statement of appeal for appeals number 48 and 50 of 2021 to the Tax Revenue Appeal Board, challenging the respondent's agency notice and revocation of the private ruling.
+document_outline: |
+  **Document Outline:**
+  This document is a ruling by the High Court of Tanzania regarding a Miscellaneous Civil Application filed by Mirambo Limited seeking an extension of time to file an application for leave to pursue prerogative orders of certiorari and mandamus. The case involves grievances arising from the revocation of a private tax ruling by the Commissioner General of the Tanzania Revenue Authority and the subsequent delay in processing administrative reviews, with the applicant asserting procedural delays and illegalities that require judicial intervention.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mirambo_Limited_vs_Commissioner_GeneralTanzania_Revenue_Authority_and_Another_(Misc_Civil_Application_57_of_2020)_2021_TZHC_3047_(30_April_2021).md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ( CORAM: NDIKA. J.A.. MWANDAMBO. J.A., And KAIRO, J.A/1 CIVIL APPEAL NO. 388 OF 2020 JOHN EPIMAKI KESSY.......................................................... APPELLANT ## VERSUS COMMISSIONER GENERAL, TANZANIA REVENUE AUTHORITY ....................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (H. A. Haii., Vice Chairman) dated the 1s t day of August, 2020 in Tax Appeal No. 12 of 2019 ## JUDGMENT OF THE COURT 22n d October &amp; 2n d November, 2021 ## MWANDAMBO. J.A.: The Tax Revenue Appeals Tribunal (the Tribunal) 2ps. dismissed Tax Appeal No. 12 of 2019 preferred by John Epimaki Kessy, the appellant, against the decision of the Tax Revenue Appeals Board (the Board). The Board had dismissed an appeal against an objection decision made by the respondent involving liability for payment of capital gains tax. 2ps. 1ps. J.A.: The Tax Revenue Appeals Tribunal (the Tribunal) dismissed Tax Appeal No. 12 of 2019 preferred by John Epimaki Kessy, the appellant, against the decision of the Tax Revenue Appeals Board (the Board). The Board had dismissed an appeal against an objection decision made by the respondent involving liability for payment of capital gains tax. The Tribunal concurred with the 2ps. Board that the appellant had not adduced evidence to entitle him to benefit from the protection accorded to a transferor associate of an asset in terms of section 44 (2) of the Income Tax Act, 2004 [Cap. 332 R.E. 2006] (the Act), hence, the instant appeal. The factual setting involved in this appeal is simple enough to tell. The appellant was, until April 2011, the registered owner 3ps. of a landed property known as plot No. 21, Mikocheni Light Industrial Area, Dar Es Salaam City comprised in certificate of title No.
+    questions_and_answers:
+      - question: |
+          What was the ruling of the Tax Revenue Appeals Tribunal in Tax Appeal No. 12 of 2019?
+        answer: |
+          The Tax Revenue Appeals Tribunal dismissed Tax Appeal No. 12 of 2019, upholding the decision of the Tax Revenue Appeals Board, which found that the appellant, John Epimaki Kessy, was liable for payment of capital gains tax.
+      - question: |
+          What was the basis for the Tribunal's decision against the appellant, John Epimaki Kessy?
+        answer: |
+          The Tribunal agreed with the Board that the appellant failed to provide sufficient evidence to qualify for the protection granted to a transferor associate of an asset under section 44(2) of the Income Tax Act, 2004.
+      - question: |
+          What was the subject of controversy in Tax Appeal No. 12 of 2019?
+        answer: |
+          The controversy revolved around the appellant's liability for the payment of capital gains tax in relation to the transfer of a property.
+      - question: |
+          Who presided over the initial decision that was appealed to the Tax Revenue Appeals Tribunal?
+        answer: |
+          The initial decision was issued by the Tax Revenue Appeals Board following an objection decision made by the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What property was involved in the dispute over capital gains tax liability?
+        answer: |
+          The property involved was a landed property known as Plot No. 21, Mikocheni Light Industrial Area, Dar es Salaam City, which was registered in the appellant's name until April 2011.
+  - context: |
+      1ps. 1ps. He argued that the appellant's resort to section 17 (2) of the TRAA was necessitated by the Board's stance raising an issue suo mottu in relation to lack of evidence proving compliance with section 44 (2) of the Act without affording the parties right to be heard on it. Several authorities from decided cases were cited along with Article 13 (6) (a) of the Constitution of the United Republic of Tanzania, 1977 to underscore the argument that breach of fundamental right to be heard 2ps. is a fatal irregularity which should have been sufficient to grant leave to admit additional evidence. At any rate, the appellant's advocate argued, the letter sought to be admitted as additional evidence was not new to the respondent as it was part of appellant's notice of objection (exhibit A6) thus, no prejudice could have been occasioned had the Tribunal exercised its discretion in favour of the appellant. 2ps. 1ps. The learned advocates argued further that, considering that the appellant was denied right to be heard on the alleged non-compliance with section 44 (2) of the Act, the admission of additional evidence was necessary and the Tribunal ought to have granted the leave sought. With regard to ground two, the learned advocate argued that contrary to the Board's decision, there was ample evidence that the appellant complied with section 44 (2) of the 2ps. Act through an application by way of a letter dated 10/07/2011 received by the respondent on 15/07/2011 notifying him of his election under section 44 (2) of the Act (annex JEK-10 to the statement of appeal).
+    questions_and_answers:
+      - question: |
+          What was the appellant's justification for resorting to section 17 (2) of the TRAA?
+        answer: |
+          The appellant's resort to section 17 (2) of the TRAA was necessitated by the Board's decision to raise an issue sua sponte about the lack of evidence proving compliance with section 44 (2) of the Act, without giving the parties the right to be heard.
+      - question: |
+          What constitutional provision was cited to emphasize the argument about the right to be heard?
+        answer: |
+          Article 13 (6) (a) of the Constitution of the United Republic of Tanzania, 1977 was cited to emphasize that a breach of the fundamental right to be heard is a fatal irregularity.
+      - question: |
+          Why did the appellant argue that admitting additional evidence would not prejudice the respondent?
+        answer: |
+          The appellant argued that the letter sought to be admitted as additional evidence was already part of the appellant's notice of objection (exhibit A6), making it familiar to the respondent.
+      - question: |
+          What evidence did the appellant present to prove compliance with section 44 (2) of the Act?
+        answer: |
+          The appellant provided a letter dated 10/07/2011 and received by the respondent on 15/07/2011, notifying the respondent of their election under section 44 (2) of the Act.
+      - question: |
+          What was the appellant's argument regarding the denial of the right to be heard?
+        answer: |
+          The appellant argued that since they were denied the right to be heard on the alleged non-compliance with section 44 (2) of the Act, it was necessary for the Tribunal to admit additional evidence and grant the leave sought.
+  - context: |
+      1ps. 1ps. He reiterated his argument that the additional evidence became necessary after the Board had made a decision on it holding that the transfer of ownership of the asset by the appellant to the Company was between associates who had not met the requirements under section 44 (4) (e) of the Act. That means our discussion will be conjointly on the two grounds of appeal. We find apposite at this stage to restate the legal position on the extent 2ps. to which higher courts can interfere with lower courts/tribunals exercise of their discretion. 2ps. 1ps. Having examined the written submissions and heard counsel's oral arguments for and against the appeal, it is plain that the appeal revolves around the Tribunal's exercise of its discretion against the appellant's quest for admission of additional evidence in pursuance of section 17 (2) of the TRAA. That means our discussion will be conjointly on the two grounds of appeal. We find apposite at this stage to restate the legal position on 2ps. the extent to which higher courts can interfere with lower courts/tribunals exercise of their discretion. In The Commissioner General, Tanzania Revenue Authority v. New Musoma Textile Limited, Civil Appeal No. 119 of 2019 {unreported), the Court quoted a passage from the judgment of the defunct Court of Appeal for East Africa in Mbogo &amp; Another v. Shah [1968] E.A 93, 94 in which Sir Clement de Lestang, VP stated: - "I 3ps.
+    questions_and_answers:
+      - question: |
+          What was the appellant's argument regarding the need for additional evidence?
+        answer: |
+          The appellant argued that additional evidence became necessary because the Board's decision noted that the transfer of ownership of the asset to the Company was between associates who had not met the requirements under section 44(4)(e) of the Act.
+      - question: |
+          What key legal issue does the appeal revolve around?
+        answer: |
+          The appeal revolves around the Tribunal's exercise of its discretion against the appellant's request to admit additional evidence under section 17(2) of the TRAA.
+      - question: |
+          How does the legal position define higher courts' interference with lower courts' discretion?
+        answer: |
+          The legal position on higher courts' interference with lower courts' discretion was restated and includes the principle quoted in Mbogo & Another v. Shah [1968] E.A 93, 94.
+      - question: |
+          Which case was cited to support the legal position on discretion?
+        answer: |
+          The case cited to support the legal position on discretion is The Commissioner General, Tanzania Revenue Authority v. New Musoma Textile Limited, Civil Appeal No. 119 of 2019.
+      - question: |
+          What does the phrase 'discussion will be conjointly on the two grounds of appeal' imply?
+        answer: |
+          It implies that the two grounds of appeal are interrelated and will be addressed together in the discussion.
+  - context: |
+      1ps. 1ps. Paragraph five of the statement of appeal to the Tribunal alluded to the appellant's notice of objection premised on the fact that the appellant had elected to apply section 44 (2) of the Act which exempted him from payment of capital gains tax. The said letter was annexed thereto marked JEK-10 on the basis of which the appellant sought leave under section 17 (2) of The Tax Revenue Appeals Act, [Cap. 408 2ps. R.E. 2010], (the TRAA) to be admitted as additional evidence. According to the appellant, the admission of that evidence had a serious bearing on the outcome of his appeal in his favour. Be it as it may, the Tribunal refused to grant the appellant leave for the admission of additional evidence primarily because the appellant failed to meet the conditions precedent for its admission. The Tribunal concluded that the appellant's quest was an afterthought aimed at filling gaps in his wanting 3ps. evidence before the Board. Ultimately, the Tribunal dismissed the appellant's appeal which has culminated in the instant appeal premised in two grounds of appeal. 2ps. 1ps. Be it as it may, the Tribunal refused to grant the appellant leave for the admission of additional evidence primarily because the appellant failed to meet the conditions precedent for its admission. The Tribunal concluded that the appellant's quest was an afterthought aimed at filling gaps in his wanting evidence before the Board. Ultimately, the Tribunal dismissed the appellant's appeal which has culminated in the instant appeal premised in two grounds of 2ps. appeal. The first ground faults the Tribunal for its failure to exercise its discretion judiciously for the admission of additional evidence pursuant to section 17 (2) of the TRAA.
+    questions_and_answers:
+      - question: |
+          What legal provision did the appellant rely on to claim exemption from capital gains tax?
+        answer: |
+          The appellant relied on section 44 (2) of the Act, which exempts him from payment of capital gains tax.
+      - question: |
+          What document did the appellant use to support his request for additional evidence, and how was it identified?
+        answer: |
+          The appellant used a letter marked as JEK-10 to support his request for additional evidence.
+      - question: |
+          Why did the Tribunal deny the appellant's request for leave to admit additional evidence?
+        answer: |
+          The Tribunal denied the appellant's request because he failed to meet the conditions precedent for the admission of additional evidence, and his request was deemed an afterthought meant to fill gaps in his earlier evidence.
+      - question: |
+          What effect did the Tribunal believe admitting additional evidence would have on the appeal process?
+        answer: |
+          The Tribunal believed the request for additional evidence was an afterthought and not a legitimate effort, implying it could not substantially or fairly affect the appeal process.
+      - question: |
+          What was the first ground of appeal in the instant case?
+        answer: |
+          The first ground of appeal was that the Tribunal failed to exercise its discretion judiciously in refusing to admit additional evidence pursuant to section 17 (2) of the Tax Revenue Appeals Act.
+  - context: |
+      1ps. 1ps. Otherwise, it is not clear to us why the appellant could have omitted to annex the letter referred to in exhibit A6 meant to prove that he had made the election under section 44 (2) and complied with section 44 (4) of the Act as indicated in para 2 of exhibit A6. The Tribunal was equally alive to rule 6 (4) on the appellant's avenue to file additional 2ps. documents three days before the date fixed for hearing which he did not utilise. We appreciate the written submissions by the appellant's advocates at para 3.3 and 3.4 to the effect that the prayer for admission of additional evidence became necessary because the Board made a decision on the appellant's compliance with section 44 (2) of the Act which was a departure from the issue as to the 3ps. applicability of that section to the transaction in dispute. We have a genuine and unfeigned respect to the learned advocates but we are not prepared to agree with them. 2ps. 1ps. The Tribunal was equally alive to rule 6 (4) on the appellant's avenue to file additional documents three days before the date fixed for hearing which he did not utilise. We have a genuine and unfeigned respect to the learned advocates but we are not prepared to agree with them. This is because the applicability and compliance with section 44 (2) of the Act are inseparable considering that the appellant's objection by way of 2ps. exhibit A6 hinged on the compliance with the very section upon meeting all the conditions for its application prescribed by section 44 (4) of the Act. That was indeed the appellant's case on which the Board found no evidence of compliance with section 44 (4) (e).
+    questions_and_answers:
+      - question: |
+          What was the purpose of the letter referred to in exhibit A6?
+        answer: |
+          The letter referred to in exhibit A6 was meant to prove that the appellant had made the election under section 44 (2) and complied with section 44 (4) of the Act.
+      - question: |
+          Why did the Tribunal highlight rule 6 (4), and what action did the appellant fail to take?
+        answer: |
+          The Tribunal highlighted rule 6 (4) because it allowed the appellant to file additional documents three days before the hearing, but the appellant did not utilize this opportunity.
+      - question: |
+          What reasoning did the Tribunal provide for rejecting the appellant’s prayer for the admission of additional evidence?
+        answer: |
+          The Tribunal rejected the prayer because the appellant’s case hinged on compliance with section 44 (4), and no evidence was provided to demonstrate compliance with this section, which was critical for the applicability of section 44 (2).
+      - question: |
+          What issue did the appellant raise in the written submissions at paragraphs 3.3 and 3.4?
+        answer: |
+          The appellant argued that the prayer for admission of additional evidence became necessary because the Board's decision on compliance with section 44 (2) was a departure from the issue of the section's applicability to the disputed transaction.
+      - question: |
+          What stance did the Tribunal take regarding the arguments made by the appellant's advocates?
+        answer: |
+          The Tribunal acknowledged respect for the appellant’s advocates but did not agree with their arguments, as the applicability and compliance with section 44 (2) were considered inseparable, and no evidence of compliance with section 44 (4) (e) was found.
+document_outline: |
+  **Document Outline:**
+  This legal document outlines the proceedings of Civil Appeal No. 388 of 2020 in the Court of Appeal of Tanzania at Dodoma. It concerns John Epimaki Kessy's appeal against the Tax Revenue Appeals Tribunal's decision, which upheld a previous ruling by the Tax Revenue Appeals Board requiring him to pay capital gains tax following the transfer of a property to his company. The judgment delves into the application of relevant provisions of the Income Tax Act and evaluates the appellant's arguments for claiming exemptions under Section 44 of the Act.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - John_Epimaki_Kessy_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_388_of_2020)_2021_TZCA_627_(2_November_2021).md

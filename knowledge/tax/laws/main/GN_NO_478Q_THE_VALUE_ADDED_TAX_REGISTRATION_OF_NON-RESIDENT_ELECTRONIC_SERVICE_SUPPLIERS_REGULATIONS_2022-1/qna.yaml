@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      may be cited as the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 and shall come into operation on 1 st July, 2022. Interpretation 2. In these Regulations, unless the context otherwise 2ps. requires- Cap. 148 'Act' means Value Added Tax Act; 'electronic service' has the meaning ascribed to it under the Act; and 'tax period' means a calendar month. 3ps. 1ps. \_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_\_ ## GN NO 478Q (Contd) THE GOVERNMENT NOTICE NO. 478Q published on 01/07/2022 ## THE VALUE ADDED TAX ACT, (CAP. 148 'Act' means Value Added Tax Act; 'electronic service' has the meaning ascribed to it under the Act; and 'tax period' means a calendar month. Scope of electronic services 3. The electronic services provided or delivered through internet or any other electronic means shall include- (a) for websites, web-hosting or remote programs and equipment- (i) search engine and automated helpdesk services; and (ii) customisable search engine services; (iii) downloadable digital content including downloadable mobile applications, 2ps. e- books and films; (b) for software and updating thereof- (i) application software; (ii) system software; (iii) drivers; (iv) filters and firewalls; and (v) plugins; (c) for images, texts or information- (i) desktop theme; (ii) photographic image; (iii) pictorial image; ## GN NO 478Q (Contd) - (iv) screensaver; and - (v) any right to view any item listed under this paragraph; - (d) access to database- - (i) subscription-based media- - (aa) news, magazines, journals,
+    questions_and_answers:
+      - question: |
+          What is the official title of the regulations mentioned in the context?
+        answer: |
+          The regulations are officially titled the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022.
+      - question: |
+          When did the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 come into operation?
+        answer: |
+          The regulations came into operation on 1st July, 2022.
+      - question: |
+          What is the definition of 'tax period' as per the regulations?
+        answer: |
+          'Tax period' is defined as a calendar month in the regulations.
+      - question: |
+          Which types of digital content are included under the scope of electronic services?
+        answer: |
+          Digital content under the scope of electronic services includes downloadable mobile applications, e-books, and films.
+      - question: |
+          What types of services fall under 'access to database' in these regulations?
+        answer: |
+          Services under 'access to database' include subscription-based media such as news, magazines, and journals.
+  - context: |
+      periodical and publication; - (bb) blog; - (cc) database; - (dd) information system services; - (ee) games; - (ff) internet based auction services; - (gg) social networking services; and - (hh) webcast, webinar, website, web application or web; - 3ps. (ii) electronic data management- - (aa) online data warehousing; and - (bb) file sharing and cloud storage services; - (iii) sharing and gig economic services including transport hailing services or platforms; - (iv) electronic booking or electronic ticketing services; - (e) for self-education packages- - (i) distance teaching programme; - (ii) educational webcast; - (iii) internet-based course; - (iv) internet-based education programme; - (v) webinar; and - (vi) digitised content of any book or electronic publication; - (f) for music, films and games including gaming activities- - (i) audio clip; - (ii) broadcast not simultaneously broadcast over any conventional radio network; - (iii) jingle; - (iv) live 4ps. streaming performance; - (v) ringtone; - (vi) song; - (vii) broadcast not simultaneously broadcast over any conventional television network in Mainland Tanzania; - (viii) documentary; - (ix) home-made video; - (x) streaming services; ## GN NO 478Q (Contd) - (xi) movie; - (xii) music video; - (xiii) program; - (xiv) television series; - (xv) video clip; - (xvi) sound effect; and - (xvii) games and games of chance- - (aa) internet-based game, including electronic game and multiplier role-playing game; - (bb) interactive games, where such interactive game is a game of chance
+    questions_and_answers:
+      - question: |
+          What types of services are included under 'information system services' according to the context?
+        answer: |
+          Information system services include games, internet-based auction services, social networking services, web-related services such as webcasts, webinars, websites, web applications, and electronic data management tools including online data warehousing and file sharing or cloud storage services.
+      - question: |
+          What educational resources are mentioned under the 'self-education packages' category?
+        answer: |
+          Self-education packages include distance teaching programs, educational webcasts, internet-based courses, internet-based education programs, webinars, and digitized content of books or electronic publications.
+      - question: |
+          Which forms of media are listed as part of the 'music, films, and games' category?
+        answer: |
+          The category includes audio clips, jingles, ringtones, songs, streaming services, movies, music videos, documentaries, home-made videos, television series, video clips, sound effects, interactive games (including games of chance), and live streaming performances.
+      - question: |
+          What types of streaming services are identified in the context for media such as music and films?
+        answer: |
+          The context mentions live streaming performances, streaming services for audio or visual content, and broadcasts that are not simultaneously aired over conventional radio or television networks.
+      - question: |
+          What examples of sharing and gig economy services are provided in the context?
+        answer: |
+          Sharing and gig economy services include transport-hailing services or platforms and electronic booking or ticketing services.
+  - context: |
+      or game where the result is influenced by the skill of the player and game which is a combination 5ps. of chance and skill; and - (cc) electronic betting or wagering; and - (g) for political, cultural, artistic, sporting, scientific and other broadcasts and events including broadcast television. 4ps. 1ps. 148) \_\_\_\_\_\_\_\_\_\_ ## REGULATIONS \_\_\_\_\_\_\_\_\_ (Made under sections 64(5) and 94) ## THE VALUE ADDED TAX (REGISTRATION OF NON-RESIDENT ELECTRONIC SERVICE SUPPLIERS) REGULATIONS, 2022 Citation and commencement 1. These Regulations may be cited as the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 and shall come into operation on 1 st July, 2022. Interpretation 2. In these Regulations, unless the context otherwise requires- Cap. Application for tax registration - 4. -(1) Subject to section 64(5) of the Act, a nonresident person who supplies 2ps. electronic services to an unregistered person in Mainland Tanzania who does not appoint tax representative, regardless of registration threshold, shall be required to apply for registration as a taxable person to the Commissioner General. - (2) The application for registration under subregulation (1) shall be made online in a form prescribed in the Schedule to these Regulations. 5ps. 1ps. Application for tax registration - 4. -(1) Subject to section 64(5) of the Act, a nonresident person who supplies electronic services to an unregistered person in Mainland Tanzania who does not appoint tax representative, regardless of registration threshold, shall be required to apply for
+    questions_and_answers:
+      - question: |
+          When did the Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022 come into operation?
+        answer: |
+          The Regulations came into operation on 1st July, 2022.
+      - question: |
+          Who is required to register for tax under these Regulations?
+        answer: |
+          A non-resident person who supplies electronic services to an unregistered person in Mainland Tanzania and does not appoint a tax representative is required to register for tax.
+      - question: |
+          How must a non-resident person apply for tax registration under these Regulations?
+        answer: |
+          The application for registration must be made online in a form prescribed in the Schedule to the Regulations.
+      - question: |
+          What legal sections empower the creation of these Regulations?
+        answer: |
+          The Regulations are made under sections 64(5) and 94 of the Act.
+      - question: |
+          Are non-resident suppliers subject to a registration threshold to apply for tax registration?
+        answer: |
+          No, non-resident suppliers are required to apply for tax registration regardless of the registration threshold.
+  - context: |
+      | | Interests | 12. Any person registered under these Regulations who fails to pay tax on the due date shall be liable to pay interest at the statutory rate compounded monthly to the Commissioner General. 7ps. | | Offences | 13. A person who fails to comply with these 8ps. 9ps. 10ps. | | Cap. 438 | Regulations commits an offence and shall be liable on conviction to a penalty specified under section 88B of the Tax Administration Act. 11ps. | \_\_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_\_\_ GN NO 478Q (Contd) \_\_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ FORMS \_\_\_\_\_\_\_\_ FORM NO. 1 (Made under regulation 4(2)) ## 12ps. APPLICATION FOR VRN FOR A NON-RESIDENT TAXPAYER Note: Furnishing false or misleading information is punishable by law Please read the instructions carefully before filling. 3ps. 1ps. | | Offences 2ps. | 13. A person who fails to comply with these 3ps. 4ps. | | Cap. 438 | Regulations commits an offence and shall be liable on conviction to a penalty specified under section 88B of the Tax Administration Act. 5ps. 6ps. | \_\_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_\_\_ GN NO 478Q (Contd) \_\_\_\_\_\_\_\_\_\_ ## SCHEDULE \_\_\_\_\_\_\_\_ FORMS \_\_\_\_\_\_\_\_ FORM NO. 1 (Made under regulation 4(2)) ## APPLICATION FOR VRN FOR A NON-RESIDENT TAXPAYER Note: Furnishing false or misleading information is punishable by law Please read the instructions carefully before filling.  Where applicable, mark with ( √ )  Item marked with asterisk (*) are Mandatory. ##
+    questions_and_answers:
+      - question: |
+          What happens if a person registered under the regulations fails to pay tax on the due date?
+        answer: |
+          They are liable to pay interest at the statutory rate compounded monthly to the Commissioner General.
+      - question: |
+          What penalty applies to someone who fails to comply with the regulations under Cap. 438?
+        answer: |
+          They commit an offence and are liable upon conviction to a penalty specified under section 88B of the Tax Administration Act.
+      - question: |
+          What is the application form labeled as, for non-resident taxpayers under regulation 4(2)?
+        answer: |
+          The application form is labeled as FORM NO. 1.
+      - question: |
+          What warning is provided regarding false or misleading information in the application for VRN for non-resident taxpayers?
+        answer: |
+          It states that furnishing false or misleading information is punishable by law.
+      - question: |
+          What marking instructions are provided for FORM NO. 1 in the schedule?
+        answer: |
+          Applicants should mark with a (√) where applicable, and items marked with an asterisk (*) are mandatory.
+  - context: |
+      1ps. 1ps. 3. * Outstanding Tax Liabilities (if any): c. …………….……………………………………. d. …………………………………………………. ## VII. DECLARATION I, the undersigned, do hereby declare that the particulars given above are correct and complete to the best of my knowledge and that any change of details shall be communicated to the Commissioner General in writing within thirty days from the date of change. * First Name: ……………………………………………………. * Second Name: ……………………………………………….. * Position: ………………………………………………………….. * Signature: …………………………………………………………. * Date: ……………………………………………………………… GN NO 478Q (Contd) (Made under regulation 6(1)) ## VAT ELECTRONIC SERVICES RETURN Note: Furnishing false or misleading information is punishable by law ## Please read the instructions carefully before filling. ## INSTRUCTIONS FOR FILING VAT ELECTRONIC 2ps. SERVICES RETURN - 1. Please fill the below information correctly. - 2. All parts of the return are Mandatory. ## I. 2ps. 1ps. ## INSTRUCTIONS FOR FILING VAT ELECTRONIC SERVICES RETURN - 1. Please fill the below information correctly. - 2. All parts of the return are Mandatory. ## I. GENERAL INFORMATION | Taxpayer Identification Number (TIN): | |--------------------------------------------------| | VAT Registration Number (VRN): | | Name of Taxpayer: 2ps. | | Month of return : | | Year of return: | | VAT on Electronic Services GFS code description: | | VATon Electronic Services GFS code: 3ps. | ## II. 3ps. 1ps. - 2. All parts of the return are Mandatory. ## I. GENERAL INFORMATION | Taxpayer Identification Number (TIN): | |--------------------------------------------------| | VAT
+    questions_and_answers:
+      - question: |
+          What must individuals do if there is a change in their declared details?
+        answer: |
+          Individuals must communicate any change in their declared details to the Commissioner General in writing within thirty days from the date of the change.
+      - question: |
+          What information must be included in the VAT Electronic Services Return under 'General Information'?
+        answer: |
+          The 'General Information' section requires the Taxpayer Identification Number (TIN), VAT Registration Number (VRN), Name of Taxpayer, Month and Year of return, VAT on Electronic Services GFS code description, and VAT on Electronic Services GFS code.
+      - question: |
+          What is the penalty for furnishing false or misleading information in the VAT Electronic Services Return?
+        answer: |
+          Furnishing false or misleading information is punishable by law.
+      - question: |
+          What instructions are provided for filling out the VAT Electronic Services Return?
+        answer: |
+          The instructions for filling the VAT Electronic Services Return include filling the information correctly and ensuring that all parts of the return are completed, as they are mandatory.
+      - question: |
+          What details must the declarant provide in the declaration section?
+        answer: |
+          The declarant must provide their First Name, Second Name, Position, Signature, and Date in the declaration section.
+document_outline: |
+  **Document Outline:**
+  The document outlines the "Value Added Tax (Registration of Non-Resident Electronic Service Suppliers) Regulations, 2022" enacted under the Value Added Tax Act (Cap. 148) of Tanzania, effective 1st July 2022. It details the scope of electronic services subject to VAT, procedures for tax registration, submission of returns, payment methods, and penalties for non-compliance, with services including web-hosting, digital content, database access, e-learning, and streaming among others.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - GN_NO_478Q_THE_VALUE_ADDED_TAX_REGISTRATION_OF_NON-RESIDENT_ELECTRONIC_SERVICE_SUPPLIERS_REGULATIONS_2022-1.md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. A limitation may be either as to the kind and nature of the claim, or as to the area which jurisdiction extended, or it may partake of both these characteristics." The question of jurisdiction was emphasized in the case of FANUEL MANTIRI NG'UNDA VS HERMAN MANT1RI NG'UNDA AND 20 OTHERS, Civil Appeal No. 8 of 1995 (unreported) as the Court stated: ' The question of jurisdiction for any court is basic, it goes to the very root of the authority of the 2ps. court to adjudicate upon cases of different nature... ...it is risky and unsafe for the court to proceed with the trial of a case on the assumption that the court has jurisdiction to adjudicate upon the case." ## [ Emphasis supplied] From the above quoted excerpts, principally, in adjudication, the question of jurisdiction is a threshold question which must be addressed at the earliest opportunity in order to save time and costs and dire consequences of the proceedings being nullified at the later 3ps. stage in case the objection is raised and sustained. 2ps. 1ps. The question of jurisdiction was emphasized in the case of FANUEL MANTIRI NG'UNDA VS HERMAN MANT1RI NG'UNDA AND 20 OTHERS, Civil Appeal No. 8 of 1995 (unreported) as the Court stated: ' The question of jurisdiction for any court is basic, it goes to the very root of the authority of the court to adjudicate upon cases of different nature... Therefore, jurisdiction is a creature of statute and not the dislikes or likes of the parties or mere compelling situations as intimated by 2ps.
+    questions_and_answers:
+      - question: |
+          What is meant by a limitation in the context of jurisdiction?
+        answer: |
+          A limitation in the context of jurisdiction refers to restrictions on the kind and nature of claims a court can handle, the geographical area it covers, or a combination of both.
+      - question: |
+          Why is jurisdiction described as a 'threshold question' in legal proceedings?
+        answer: |
+          Jurisdiction is described as a 'threshold question' because it determines the authority of a court to adjudicate a case and must be addressed early to avoid wasting time, costs, and potential nullification of proceedings.
+      - question: |
+          What was emphasized about jurisdiction in the case of FANUEL MANTIRI NG'UNDA VS HERMAN MANTIRI NG'UNDA AND 20 OTHERS?
+        answer: |
+          The case emphasized that jurisdiction is fundamental and goes to the root of a court's authority, making it risky for a court to proceed with a case on the assumption that it has jurisdiction.
+      - question: |
+          How is jurisdiction established according to the context provided?
+        answer: |
+          Jurisdiction is established by statute and cannot be determined by the preferences, dislikes, or compelling situations of the parties involved.
+      - question: |
+          What are the consequences of ignoring jurisdictional questions during a trial?
+        answer: |
+          Ignoring jurisdictional questions can lead to wasted time and costs, as well as the risk of proceedings being nullified if jurisdictional objections are raised and sustained later.
+  - context: |
+      1ps. 1ps. The preliminary objection was opposed by the appellants' counsel who urged the Court to dismiss it on ground of being misconceived. On this, it was Mr. Nyoni's submission that, after the determination of the respondent's application for enlargement of time to apply for leave to seek prerogative orders, all was done and nothing remained pending before the High Court and as such, the impugned Ruling is not an interlocutory order on the 2ps. basis of what has been defined by the Court in a number of its decisions. He as well added that, the respondent's subsequent application to seek leave to apply for prerogative orders filed pursuant to the granted extension is no longer before the High Court having been struck out which confirms that, there is nothing pending before the High Court. Having considered 3ps. the submissions of the learned counsel and the record before us, the issue for our determination is whether the appeal before us is competent. As earlier stated what is at stake is whether the appeal before us emanates from an interlocutory order. 2ps. 1ps. He as well added that, the respondent's subsequent application to seek leave to apply for prerogative orders filed pursuant to the granted extension is no longer before the High Court having been struck out which confirms that, there is nothing pending before the High Court. Having considered the submissions of the learned counsel and the record before us, the issue for 2ps. our determination is whether the appeal before us is competent. As earlier stated what is at stake is whether the appeal before us emanates from an interlocutory order.
+    questions_and_answers:
+      - question: |
+          What was the preliminary objection raised by the appellants' counsel?
+        answer: |
+          The appellants' counsel opposed the preliminary objection, arguing that it was misconceived and urging the Court to dismiss it.
+      - question: |
+          What argument did Mr. Nyoni present regarding the status of the High Court's involvement?
+        answer: |
+          Mr. Nyoni argued that, following the determination of the respondent's application for an extension of time to apply for leave to seek prerogative orders, nothing remained pending before the High Court, as the subsequent application for leave had been struck out.
+      - question: |
+          What key issue did the Court determine in relation to the appeal?
+        answer: |
+          The Court focused on determining whether the appeal before it was competent, specifically whether it emanated from an interlocutory order.
+      - question: |
+          What is the significance of an interlocutory order in this context?
+        answer: |
+          An interlocutory order refers to a temporary or non-final order, and the Court needed to establish whether the appeal in question stemmed from such an order.
+      - question: |
+          What conclusion did the appellants argue regarding the High Court's pending matters?
+        answer: |
+          The appellants argued that there were no pending matters before the High Court, as the respondent's subsequent application was struck out after the extension of time had been granted.
+  - context: |
+      1ps. 1ps. Furthermore, it was contended that, since neither the Board nor Tax Appeals Tribunal is mandated to grant extension of time within which to apply for leave to seek prerogative orders, the respondent was justified to apply the same before the High Court which enjoys inherent powers to issue prerogative orders. As such, it was thus argued that, in the wake of the oppressive deeds of the 1 s t appellant, judicial review was the only effective, speedy and adequate means to challenge her illegal conduct. 2ps. She distinguished the cases cited by Mr. Nyoni arguing the same to be relevant to tax disputes while the matter at hand was dealt with by way of judicial review. In her response to the 2n d ground of appeal, Ms. Kinyaka urged us to find the same not merited. On this, she argued that, the respondent's appeals before the Board were in relation to respondent's grievance in a tax dispute 3ps. whereas before the High Court the application was in pursuit of the prerogative orders against illegalities committed by the 1 s t appellant. 2ps. 1ps. She distinguished the cases cited by Mr. Nyoni arguing the same to be relevant to tax disputes while the matter at hand was dealt with by way of judicial review. In her response to the 2n d ground of appeal, Ms. Kinyaka urged us to find the same not merited. Besides, she added that the reliefs sought in the two forums were not similar which is obviously reflective of the intended outcomes. Thus, she concluded 2ps.
+    questions_and_answers:
+      - question: |
+          Why did the respondent seek the High Court's intervention for prerogative orders instead of other forums?
+        answer: |
+          The respondent argued that neither the Board nor the Tax Appeals Tribunal had the mandate to grant extensions of time for applying for leave to seek prerogative orders, and the High Court's inherent powers made it the appropriate forum for such remedies.
+      - question: |
+          What was argued to justify the use of judicial review in the case?
+        answer: |
+          Judicial review was argued to be the only effective, speedy, and adequate means to challenge the oppressive and illegal conduct of the 1st appellant.
+      - question: |
+          How did Ms. Kinyaka address the relevance of the cases cited by Mr. Nyoni?
+        answer: |
+          Ms. Kinyaka distinguished the cases cited by Mr. Nyoni, stating that they were relevant to tax disputes, whereas the matter at hand was being dealt with through judicial review.
+      - question: |
+          What was Ms. Kinyaka's stance on the 2nd ground of appeal?
+        answer: |
+          Ms. Kinyaka argued that the 2nd ground of appeal lacked merit, as the respondent's appeals before the Board dealt with a tax dispute, while the High Court application sought prerogative orders for alleged illegalities by the 1st appellant.
+      - question: |
+          How did Ms. Kinyaka justify the difference in the reliefs sought in the two forums?
+        answer: |
+          Ms. Kinyaka explained that the reliefs sought in the two forums were not the same, reflecting the different intended outcomes of each legal pursuit.
+  - context: |
+      1ps. 1ps. The aforesaid background is contained in the paragraphs 1 2 to 1 5 , 21, 24 and 31 of respondent's affidavit in support of the application before the High Court. In addition, what was verified by the respondent in the said affidavit in paragraph 35 (a), (b), (f) and (g) is to the effect that: - (a) This Honourable Court is the only organ in the United Republic that 2ps. has inherent powers to provide for prerogative orders against decisions of administrative bodies and quasi-judicial bodies. The application was confronted with the preliminary objection raised by the appellants challenging its competence on ground that, the High Court lacked jurisdiction to invoke review jurisdiction to entertain and determine a matter related to a tax dispute. Having heard together both the preliminary objection and 3ps. the substantive application, the preliminary objection was dismissed and the respondent was granted enlargement of time to file an application for leave to apply the prerogative orders. 2ps. 1ps. The application was confronted with the preliminary objection raised by the appellants challenging its competence on ground that, the High Court lacked jurisdiction to invoke review jurisdiction to entertain and determine a matter related to a tax dispute. Having heard together both the preliminary objection and the substantive application, the preliminary objection was dismissed and the respondent was granted 2ps. enlargement of time to file an application for leave to apply the prerogative orders. The High Court reasoned that, before it was not a tax dispute or appeal proceedings but rather a matter for judicial review because: one, the provisions of article of 107 A (2) and 108 of the Constitution of the United Republic of Tanzania [CAP 2 R.E.
+    questions_and_answers:
+      - question: |
+          What details are provided about the contents of the respondent's affidavit in support of the application before the High Court?
+        answer: |
+          The details of the respondent's affidavit are contained in paragraphs 12 to 15, 21, 24, and 31, and include statements in paragraph 35 (a), (b), (f), and (g), asserting that the High Court is the only organ with powers to provide prerogative orders against administrative and quasi-judicial decisions.
+      - question: |
+          What preliminary objection did the appellants raise against the application?
+        answer: |
+          The appellants raised a preliminary objection claiming that the High Court lacked jurisdiction to invoke its review jurisdiction to handle a matter related to a tax dispute.
+      - question: |
+          How did the High Court resolve the preliminary objection raised by the appellants?
+        answer: |
+          The High Court dismissed the preliminary objection and granted the respondent an enlargement of time to file an application for leave to apply for prerogative orders.
+      - question: |
+          On what grounds did the High Court justify its jurisdiction to handle the matter?
+        answer: |
+          The High Court reasoned that the matter was not a tax dispute or appeal proceedings, but rather a case for judicial review, as supported by the provisions of Article 107 A (2) and 108 of the Constitution of the United Republic of Tanzania.
+      - question: |
+          What inherent power does the High Court have according to the respondent's affidavit?
+        answer: |
+          The affidavit states that the High Court has inherent powers to issue prerogative orders against decisions made by administrative and quasi-judicial bodies.
+  - context: |
+      1ps. 1ps. We say so on account of what is reflected at page 78 of the record of appeal which shows that the 1 s t appellant availed the respective notice of assessment to the respondent on 24/9/2019 and that is why, she managed to lodge an objection to fault the assessment. It is the respondent's complaint that the objection was not attended to by the 1 s t appellant. It is crystal clear from the above 2ps. statutory provisions, an alternative procedure for determination of tax disputes in relation to omission or any act of the Commissioner General in the discharge of his powers and functions is prescribed under the law. It is glaring on the record that, the respondent all along claimed that, the first appellant illegally collected her monies as settlement of outstanding liability of corporate tax, capital gain tax and stamp duty. Apparently, the taxes 3ps. fall under the provisions of sections 88 (1), (2) and 89 of the Income Tax Act and section 5 (1) (a) and (b) of the Stamp Duty Act [ CAP 189 R.E.2019] 2ps. 1ps. It is crystal clear from the above statutory provisions, an alternative procedure for determination of tax disputes in relation to omission or any act of the Commissioner General in the discharge of his powers and functions is prescribed under the law. It is glaring on the record that, the respondent all along claimed that, the first appellant illegally collected her monies as settlement of outstanding liability of 2ps. corporate tax, capital gain tax and stamp duty.
+    questions_and_answers:
+      - question: |
+          What action did the first appellant take on 24/09/2019, according to the record?
+        answer: |
+          The first appellant availed the respective notice of assessment to the respondent on 24/09/2019, which enabled the respondent to lodge an objection to the assessment.
+      - question: |
+          What is the respondent's main complaint regarding the notice of assessment?
+        answer: |
+          The respondent's main complaint is that the objection lodged against the assessment was not attended to by the first appellant.
+      - question: |
+          Which legal provisions govern the taxes in question in this case?
+        answer: |
+          The taxes fall under sections 88(1), 88(2), and 89 of the Income Tax Act, as well as section 5(1)(a) and (b) of the Stamp Duty Act [CAP 189 R.E.2019].
+      - question: |
+          What types of taxes are involved in this dispute?
+        answer: |
+          The types of taxes involved are corporate tax, capital gain tax, and stamp duty.
+      - question: |
+          What alternative procedure is prescribed by law for resolving tax disputes?
+        answer: |
+          The law prescribes an alternative procedure for resolving tax disputes in relation to omissions or acts by the Commissioner General in the discharge of his powers and functions.
+document_outline: |
+  **Document Outline:**
+  This document outlines the judgment of the Court of Appeal of Tanzania in Civil Appeal No. 62 of 2022, wherein the Commissioner General of the Tanzania Revenue Authority and the Attorney General challenged a High Court ruling that granted Milambo Limited an extension of time to file an application seeking prerogative orders of certiorari and mandamus. The case involves a dispute over tax liabilities arising from a share purchase agreement between Milambo Limited and Vodacom Group Limited, including the revocation of private tax rulings, issuance of agency notices, and the subsequent collection of funds by the tax authority.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Commissioner_General_Tanzania_Revenue_Authority_Another_vs_Milambo_Limited_(Civil_Appeal_62_of_2022)_2022_TZCA_348_(14_June_2022).md

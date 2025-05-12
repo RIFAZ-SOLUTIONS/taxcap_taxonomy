@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ENACTED by the East African Community and assented to by the Heads of State: ## PAR T I PRELIMINAR Y PROVISIONS - 1. (1) This Act may be cited as the East African Community One Stop Border Posts Act, 2016 Short title and commencement. (2) This Act shall come into force on such date as the Council may , by notice in the Gazette, appoint. 2. (1) In this Act, unless the context othe requiresInterpretation. - 'adjoining Partner State' means a Partner 2ps. S whose officers perform border controls wit the control zone in the host Partner State; - 'border controls' means any border related con measures, checks and authorizations, with limitation, provided for in the national la regulations of the Partner States; - 'Community' means the East African Community established under Article 2 of the Treaty; - 'competent authorities' means any ministries other government entities of the Partner S assigned responsibilities for border contro their national laws; - 'control zone' means the territory of the host 3ps. P State within which officers of the adjoi Partner States effect border controls, incl the exclusive use area; - 'Council' means the Council of Ministers establi by Article 9 of the T y; reat - 'exclusive use area' means that area of the co zone dedicated for the exclusive use of adjoining Partner State; 'facilitation agents' means any person other th officer, providing services to the completi border controls by passengers or freight accordance with the national laws of t 4ps.
+    questions_and_answers:
+      - question: |
+          What is the full title of the Act mentioned in the text?
+        answer: |
+          The full title of the Act is the East African Community One Stop Border Posts Act, 2016.
+      - question: |
+          Who determines the commencement date of the Act, and how is it announced?
+        answer: |
+          The commencement date of the Act is determined by the Council and is announced through a notice in the Gazette.
+      - question: |
+          What does 'adjoining Partner State' refer to in the context of the Act?
+        answer: |
+          'Adjoining Partner State' refers to a Partner State whose officers perform border controls within the control zone of the host Partner State.
+      - question: |
+          What is the 'control zone' as defined in the Act?
+        answer: |
+          The 'control zone' is the territory of the host Partner State within which officers of the adjoining Partner States effect border controls, including areas designated for their exclusive use.
+      - question: |
+          Who are considered 'facilitation agents' under this Act?
+        answer: |
+          'Facilitation agents' are persons, other than officers, who provide services to facilitate the completion of border controls by passengers or freight in accordance with the national laws of the Partner States.
+  - context: |
+      1ps. 1ps. ## THE EAST AFRICAN COMMUNITY ## ACT SUPPLEMENT No. 2 15th April, 2016 to the East African Community Gazette No. 4 of 15th April, 2016. Printed by the Uganda Printing and Publishing Corporation, Entebbe by Order of the East African Co ## THE EAST AFRICAN COMMUNITY ONE STOP BORDER POSTS ACT, 2016 ## ARRANGEMENT OF SECTIONS Section. ## PART I ## PRELIMINARY PROVISIONS - 1. Short title and commencement. - 2. Interpretation. - 3. Objective for the establishment of one stop border posts. ## PART II ## C ONTROL ZONES - 4. Establishment of one stop border posts. - 5. Establishment and designation of control zones. - 6. Limitations to effecting 2ps. of border controls. - 7. Demarcation and security of control zones. - 8. Exclusive use areas within control zones. - 9. Traf fic control. - 10. Synchronized hours of operation. ## PAR T III ## C ONDUCT OF B ORDER C ONTROLS - 11. Officers to carry out border controls in host Partner Stat - 12. Sequence of controls. - 13. Joint controls. - 14. Reversal of controls. 2ps. 1ps. ## PAR T III ## C ONDUCT OF B ORDER C ONTROLS - 11. Officers to carry out border controls in host Partner Stat - 12. Sequence of controls. - 13. Joint controls. - 14. Reversal of controls. - 15. Obligation to re-admit. ## Section. - 16. Use of single window system. - 17. Free transfer of money and goods to own territo - 18. Higher levels of trade facilitation ## PART IV ## A PPLICATION OF B ORDER C ONTROL LAWS - 19. Laws to apply in same way as in own territory. - 20. Limitations to application of border control law - 21. 2ps. Consistent operational procedures. - 22. Information and communication technologies.
+    questions_and_answers:
+      - question: |
+          What is the objective of the East African Community One Stop Border Posts Act, 2016?
+        answer: |
+          The objective is to establish one-stop border posts to streamline and enhance border control processes within the East African Community.
+      - question: |
+          What is specified under the provisions of control zones in the Act?
+        answer: |
+          The provisions for control zones include the establishment and designation of control zones, demarcation and security of these zones, creation of exclusive-use areas, synchronized hours of operation, and traffic control.
+      - question: |
+          What does the Act say about the conduct of border controls?
+        answer: |
+          The Act outlines procedures for conducting border controls, including officers carrying out controls in the host Partner State, the sequence and joint execution of controls, the reversal of controls, and the obligation to re-admit individuals or goods.
+      - question: |
+          How does the Act facilitate trade between Partner States?
+        answer: |
+          The Act introduces measures like the use of a single window system, free transfer of money and goods to one's own territory, and higher levels of trade facilitation across borders.
+      - question: |
+          What role do information and communication technologies play according to the Act?
+        answer: |
+          The Act emphasizes the use of information and communication technologies to ensure consistent operational procedures and streamline border control processes.
+  - context: |
+      1ps. 1ps. - (a) such arrest shall be authorized by a warrant issued by an authority or court of competent jurisdiction in the adjoining Partner State; and Assistance and joint operations to combat crime. - (b) the name or description and particulars of offence shall be made available by t competent authorities of the adjoining Par State to the competent authorities of the Partner State. - (2) The adjoining Partner States may agree modalities for carrying out security related joint bord beyond the control zones 2ps. and within defined limits i adjoining Partner State's territory to combat cross crime. ## PART V I C ONDUCT OF O FFICERS Officers to move freely in control zone. - 27. The of ficers from the adjoining Partner State move freely in the control zone of the host Partner S official purposes, and shall not be required to passports or visas and may pass through border controls host Partner State upon producing appropriate eviden their identity 3ps. and status. Number of officers, names and designations. 2ps. 1ps. ## PART V I C ONDUCT OF O FFICERS Officers to move freely in control zone. - 27. The of ficers from the adjoining Partner State move freely in the control zone of the host Partner S official purposes, and shall not be required to passports or visas and may pass through border controls host Partner State upon producing appropriate eviden their identity and status. Number of officers, names and designations. - 28. (1) The Partner States shall determine the numb officers 2ps. who shall perform duties in the adjoining State, taking into account the passenger and vehicle v at any peak point in time.
+    questions_and_answers:
+      - question: |
+          What conditions must be met for an arrest to be authorized in an adjoining Partner State?
+        answer: |
+          An arrest must be authorized by a warrant issued by an authority or court of competent jurisdiction in the adjoining Partner State, and the name, description, and particulars of the offense must be provided to the competent authorities of the Partner State.
+      - question: |
+          Under what circumstances can adjoining Partner States agree to conduct joint border security operations?
+        answer: |
+          Adjoining Partner States may agree on modalities to carry out security-related joint border operations beyond the control zones and within defined limits in the other Partner State's territory to combat cross-border crime.
+      - question: |
+          What privileges do officers from one Partner State have when operating in the control zone of an adjoining Partner State?
+        answer: |
+          Officers from the adjoining Partner State may move freely in the control zone of the host Partner State for official purposes without needing passports or visas, provided they produce appropriate evidence of their identity and status.
+      - question: |
+          How is the number of officers operating in an adjoining Partner State determined?
+        answer: |
+          The Partner States will determine the number of officers based on the passenger and vehicle volume at any peak point in time.
+      - question: |
+          What documentation must officers produce to pass through border controls in the host Partner State's control zone?
+        answer: |
+          Officers must produce appropriate evidence of their identity and status to pass through border controls in the host Partner State's control zone.
+  - context: |
+      1ps. 1ps. the - (5) The Secretary General shall publish demarcation details of the control zone in the Gazette. - (6) The demarcated zones and any subsequent amendments shall come into effect upon publication in the National Gazette. - 8. (1) The competent authorities of each Partner State shall display official signs to ensure that their exclusive u areas in the control zones are clearly identified. control Exclusive use areas within zones. - (2) The officers of the adjoining Partner State shall control access and egress and keep 2ps. order in their exclusive use area within the control zone of the host Partner State and shall if the need arises, request assistance from the competent authorities of the host Partner State for this purpose. Traffic control. Synchronized hours of operation. Officers to carry out border controls in host Partner State. - (3) The officers or members of a law enforcem agency of the host Partner State shall not have acces exclusive use area of the adjoining Partner State, exce request or with the 3ps. permission of the officers of that Partner State. 2ps. 1ps. Synchronized hours of operation. Officers to carry out border controls in host Partner State. - (3) The officers or members of a law enforcem agency of the host Partner State shall not have acces exclusive use area of the adjoining Partner State, exce request or with the permission of the officers of that Partner State. - 9. The competent authorities of the Partner States adopt and enforce efficient movement of persons, goods services along traffic control routes and procedures an rules within and through the control zones. - 10. The competent 2ps. authorities of the adjoining Par States shall adopt synchronized business hours for respective operations in the control zones.
+    questions_and_answers:
+      - question: |
+          What must the Secretary General do regarding the control zone demarcation details?
+        answer: |
+          The Secretary General must publish the demarcation details of the control zone in the National Gazette.
+      - question: |
+          When do the demarcated zones and any amendments come into effect?
+        answer: |
+          The demarcated zones and any subsequent amendments come into effect upon publication in the National Gazette.
+      - question: |
+          What actions are to be taken by the competent authorities of Partner States to identify exclusive use areas within control zones?
+        answer: |
+          Competent authorities of each Partner State must display official signs to ensure that exclusive use areas in control zones are clearly identified.
+      - question: |
+          Under what circumstances can officers of the host Partner State access the exclusive use area of an adjoining Partner State?
+        answer: |
+          Officers of the host Partner State may access the exclusive use area of an adjoining Partner State only upon request or with the permission of the officers from that Partner State.
+      - question: |
+          What synchronization measures are required among Partner States in relation to control zones?
+        answer: |
+          Partner States must adopt synchronized business hours for their respective operations and ensure efficient movement of persons, goods, and services along traffic control routes and procedures within the control zones.
+  - context: |
+      1ps. 1ps. - (3) Nothing in subsection (1) or (2) shall prev officer of the adjoining Partner State from passi information to the host Partner State relating to any goods exiting the host Partner State which informatio only be acted upon once such adjoining Partner State as jurisdiction over such person or goods within its own t Consistent operational procedures. - 21. The Partner States shall develop and implem operational procedures to facilitate the application border controls. Information 2ps. and communicat ion technologies. - 22. The Partner States shall develop and implem comprehensive mandatory information and communication technology requirements at their common borders to en seamless, reliable and effective data exchange of high i and appropriate format within and between the var agencies of the adjoining Partner States operating common borders, including reliable, compatible transparent cargo clearing and tracking systems with territories of the Partner States. 2ps. 1ps. - 21. The Partner States shall develop and implem operational procedures to facilitate the application border controls. Information and communicat ion technologies. - 22. The Partner States shall develop and implem comprehensive mandatory information and communication technology requirements at their common borders to en seamless, reliable and effective data exchange of high i and appropriate format within and between the var agencies of the adjoining Partner States 2ps. operating common borders, including reliable, compatible transparent cargo clearing and tracking systems with territories of the Partner States. ## PART V A PPLICATION OF C RIMINAL LAWS - 23.
+    questions_and_answers:
+      - question: |
+          What restrictions are placed on officers of adjoining Partner States under subsections (1) and (2)?
+        answer: |
+          Officers of adjoining Partner States are restricted from acting upon information about goods exiting the host Partner State until the adjoining Partner State has jurisdiction over the person or goods within its own territory.
+      - question: |
+          What operational procedures are required of Partner States at their borders?
+        answer: |
+          Partner States are required to develop and implement consistent operational procedures to facilitate the application of border controls.
+      - question: |
+          What is the purpose of the information and communication technology requirements at common borders?
+        answer: |
+          The purpose of these requirements is to ensure seamless, reliable, and effective data exchange of high quality and in appropriate formats among the various agencies operating at common borders.
+      - question: |
+          What features are emphasized for cargo clearing and tracking systems at Partner States’ borders?
+        answer: |
+          The cargo clearing and tracking systems must be reliable, compatible, and transparent, functioning across the territories of the Partner States.
+      - question: |
+          Why is the implementation of mandatory ICT systems significant at common borders?
+        answer: |
+          Mandatory ICT systems are significant because they enable seamless coordination between agencies, ensuring effective border management and reducing inefficiencies in data exchange.
+document_outline: |
+  **Document Outline:**
+  The document outlines the *East African Community One Stop Border Posts Act, 2016*, which provides the legal framework for establishing and implementing one-stop border posts within the East African Community. It details provisions under various parts, including the creation, operation, and regulation of border control zones, application of laws, conduct of officers and facilitation agents, institutional arrangements, and general provisions to streamline border management and enhance trade facilitation among partner states.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - EAC_One_Stop_Border_Post_Act_2016_1.md

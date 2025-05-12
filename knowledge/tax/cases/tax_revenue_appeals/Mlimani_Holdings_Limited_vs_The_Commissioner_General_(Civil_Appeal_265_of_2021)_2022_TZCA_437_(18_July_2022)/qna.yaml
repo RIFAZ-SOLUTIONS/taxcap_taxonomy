@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ## AT PAR ES SALAAM. ## (CORAM: NDIKA. J.A.. MWANDAMBO. J.A.. AND KENTE. JJU CIVIL APPEAL NO. 265 OF 2021 MLIMANI HOLDINGS LIMITED................................................... APPELLANT ## VERSUS THE COMMISSIONER GENERAL...............................................RESPONDENT (Appeal from judgment and decree of the Tax Revenue Appeals Tribunal at Dar es Salaam.) ( Haii. Vice Chairperson^ dated the 30th day of April, 2021 in Tax Appeal No. 66 of 2020 ## JUDGMENT OF THE COURT 5th &amp; 18th July, 2022 ## MWANDAMBO. J.A.: The issue for our determination in this appeal is 2ps. narrow but with significant importance. It involves a challenge on the interpretation of an agreement between two contracting states viz. the Governments of the Republic of South Africa and the United Republic of Tanzania. The dispute is centered on Article 7 of the Agreement for Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, henceforth 3ps. the DTA, yet again before the Court for determination on its interpretation. The tale behind the dispute is easy enough to comprehend. 2ps. 1ps. the Governments of the Republic of South Africa and the United Republic of Tanzania. The dispute is centered on Article 7 of the Agreement for Avoidance of Double Taxation and the Prevention of Fiscal Evasion with respect to Taxes on Income, henceforth the DTA, yet again before the Court for determination on its interpretation. 2ps. The tale behind the dispute is easy enough to comprehend. Between the year 2013 and 2016, the appellant made payments to a South African entity, to wit, MDS Architecture, henceforth, the foreign consultant in the sum equivalent to TZS 1,500,549,808.00 as service fees for architectural services to its project in Tanzania.
+    questions_and_answers:
+      - question: |
+          What is the key issue for determination in Civil Appeal No. 265 of 2021?
+        answer: |
+          The key issue is the interpretation of Article 7 of the Agreement for Avoidance of Double Taxation and the Prevention of Fiscal Evasion (DTA) between the Republic of South Africa and the United Republic of Tanzania.
+      - question: |
+          What does the Agreement for Avoidance of Double Taxation (DTA) address?
+        answer: |
+          The DTA addresses the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income.
+      - question: |
+          Who are the parties involved in the dispute in Civil Appeal No. 265 of 2021?
+        answer: |
+          The parties involved are Mlimani Holdings Limited (the appellant) and the Commissioner General (the respondent).
+      - question: |
+          What payment was made by the appellant to the South African entity, and for what purpose?
+        answer: |
+          Between 2013 and 2016, the appellant paid a sum equivalent to TZS 1,500,549,808.00 to MDS Architecture, a South African entity, as service fees for architectural services for a project in Tanzania.
+      - question: |
+          What does the appellant challenge in the appeal discussed in the judgment?
+        answer: |
+          The appellant challenges the interpretation of the DTA, specifically Article 7, regarding the tax implications of payments made for services rendered by a South African entity to a project in Tanzania.
+  - context: |
+      1ps. 1ps. We shall be excused for our inability to make reference to each of them in the determination of this appeal not as a result of lack of courtesy to them, but due to the dictates of the issue involved in this appeal. Essentially, the appellant's submission faults the Tribunal's approach in the interpretation of the DTA which is said to be erroneous. The learned advocate contended that a proper interpretation of the 2ps. DTA should have followed the approach taken in other jurisdictions which have interpreted similar double taxation agreements. A great deal of the history of the double taxation agreements and development in their interpretation occupied a significant space in the submissions of the learned advocate. This was meant to justify why it was wrong for the Tribunal to hold as it did that the term profits did not include service fee of the payee in the 3ps. carrying out of its business within the context of Article 7 of the DTA. 2ps. 1ps. The learned advocate contended that a proper interpretation of the DTA should have followed the approach taken in other jurisdictions which have interpreted similar double taxation agreements. A great deal of the history of the double taxation agreements and development in their interpretation occupied a significant space in the submissions of the learned advocate. Reference was made to the principles governing interpretation of tax treaties citing 2ps. an excerpt from the judgment of Lord Denning in Bulmer Limited v. S.A Bollinger [1972] 2 All. ER 1226 for the proposition that such interpretation must look at the purpose as opposed to the words used in meticulous detail or be concerned about the precise grammatical sense.
+    questions_and_answers:
+      - question: |
+          What issue does the appellant raise regarding the Tribunal's interpretation of the DTA?
+        answer: |
+          The appellant contends that the Tribunal's interpretation of the DTA is erroneous and argues that it should have followed the approach taken in other jurisdictions that have interpreted similar double taxation agreements.
+      - question: |
+          What was the central focus of the learned advocate's submissions regarding the DTA?
+        answer: |
+          The learned advocate focused on the history and development of double taxation agreements and argued that the Tribunal wrongly held that the term 'profits' did not include the service fee of the payee within the context of Article 7 of the DTA.
+      - question: |
+          What interpretive principle is emphasized by the learned advocate, citing Lord Denning’s judgment in Bulmer Limited v. S.A Bollinger?
+        answer: |
+          The learned advocate emphasized that the interpretation of tax treaties should consider their purpose rather than strictly focusing on the precise grammatical sense or meticulous details of the words used.
+      - question: |
+          What comparison does the appellant make regarding the interpretation of the DTA?
+        answer: |
+          The appellant compares the Tribunal's interpretation of the DTA to approaches in other jurisdictions that have interpreted similar agreements and argues that the Tribunal did not adequately follow those established methods.
+      - question: |
+          How does the learned advocate criticize the Tribunal's conclusion about the term 'profits' in Article 7 of the DTA?
+        answer: |
+          The learned advocate criticizes the Tribunal's conclusion that the term 'profits' does not include the service fee of the payee, claiming this interpretation is incorrect in the context of carrying out business as per Article 7 of the DTA.
+  - context: |
+      1ps. 1ps. Eventually, the respondent issued three withholding tax certificates demanding a total sum of TZS. 346,492,916.00 for the period 2013 to 2016. Following an unsuccessful objection against the demand, the appellant appealed to the Tax Revenue Appeals Board (the Board). The respondent's stance was that the DTA had no avail to the appellant in so far as the service fees paid to a foreign consultant was outside the scope of Article 7 of the DTA because it did not 2ps. form part of its business profits and thus liable to withholding tax in Tanzania. In its decision, the Board sustained the respondent's position. It held that the service fees were not embraced in the definition of business profits of the payee in the carrying of its business neither did it fall under any of the categories of the specific articles in the DTA. 2ps. 1ps. The respondent's stance was that the DTA had no avail to the appellant in so far as the service fees paid to a foreign consultant was outside the scope of Article 7 of the DTA because it did not form part of its business profits and thus liable to withholding tax in Tanzania. In its decision, the Board sustained the respondent's position. The Board reasoned that the service fees fell under Article 20 2ps. of the DTA which subjected such payment to withholding tax and, since the appellant defaulted in accounting for it, the respondent was entitled to demand it as he did. On appeal, the Tax Revenue Appeals Tribunal (the Tribunal) concurred with the Board sustaining its decision resulting into dismissing the appeal. Aggrieved, the appellant is now before the Court in this appeal predicated on one ground of appeal. She is faulting the Tribunal for the alleged 3ps.
+    questions_and_answers:
+      - question: |
+          What amount was demanded by the respondent through the withholding tax certificates for the period 2013 to 2016?
+        answer: |
+          The respondent demanded a total sum of TZS. 346,492,916.00 through the withholding tax certificates for the period 2013 to 2016.
+      - question: |
+          What was the respondent's argument regarding the application of the DTA to the service fees paid to the foreign consultant?
+        answer: |
+          The respondent argued that the DTA did not apply because the service fees paid to the foreign consultant were outside the scope of Article 7 of the DTA, as they did not form part of the consultant's business profits and were thus liable to withholding tax in Tanzania.
+      - question: |
+          What was the basis for the Tax Revenue Appeals Board's decision to uphold the respondent's stance?
+        answer: |
+          The Board held that the service fees were not included in the definition of business profits of the payee and fell under Article 20 of the DTA, which subjected such payments to withholding tax.
+      - question: |
+          What was the outcome of the appellant's appeal to the Tax Revenue Appeals Tribunal?
+        answer: |
+          The Tribunal concurred with the decision of the Tax Revenue Appeals Board and dismissed the appellant's appeal.
+      - question: |
+          What issue is the appellant raising in the current appeal before the Court?
+        answer: |
+          The appellant is challenging the Tribunal's decision, alleging fault in its determination regarding the withholding tax on service fees.
+  - context: |
+      1ps. 1ps. The Court took a different view. It endorsed the Tribunal's decision which had held that the service fees were outside the scope of Article 7 (1) rather, Article 20 of the DTA. Few months later, a similar issue involving a dispute on the liability to withholding tax by another South African entity which had rendered services to a Tanzanian entity, arose in Mantra (Tanzania) Limited (supra). The Court reaffirmed its position 2ps. in Kilombero and dismissed Mantra's argument for being untenable. We heard Mr. Ngowi arguing with deep conviction that Kilombero was decided without the benefit of arguments based on OECD Model Tax Convention Commentaries hence taking a narrow interpretation of the DTA. It is against that argument that the learned advocate championed for a departure from Kilombero. With unfeigned respect, Mr. Ngowi's argument falls on the face of the very judgment he wants 3ps. us to depart from. 2ps. 1ps. We heard Mr. Ngowi arguing with deep conviction that Kilombero was decided without the benefit of arguments based on OECD Model Tax Convention Commentaries hence taking a narrow interpretation of the DTA. It is against that argument that the learned advocate championed for a departure from Kilombero. With unfeigned respect, Mr. Ngowi's argument falls on the face of the very judgment he wants us to depart from. As 2ps. seen earlier, the OECD Commentary in the Materials on International TP and EU Tax Law and International Tax Policy and Double Tax Treaties (supra) were placed by Kilombero's counsel to persuade the Court accept the argument that the service fee was not liable to withholding tax it was caught up by Article 7 (1) of the DTA. The Court felt unmoved to interpret the DTA 3ps. in line with the learned counsel for the appellant in that appeal.
+    questions_and_answers:
+      - question: |
+          What was the Court's position regarding the service fees in relation to Article 7 (1) and Article 20 of the DTA?
+        answer: |
+          The Court endorsed the Tribunal's decision that the service fees were outside the scope of Article 7 (1) and instead fell under Article 20 of the DTA.
+      - question: |
+          What precedent did the Court rely on in the Mantra (Tanzania) Limited case?
+        answer: |
+          The Court relied on its earlier decision in the Kilombero case, reaffirming its position and dismissing the arguments made by Mantra as untenable.
+      - question: |
+          What argument did Mr. Ngowi present regarding the Kilombero decision?
+        answer: |
+          Mr. Ngowi argued that the Kilombero decision was made without considering arguments based on the OECD Model Tax Convention Commentaries, leading to a narrow interpretation of the DTA.
+      - question: |
+          Why did the Court reject Mr. Ngowi's argument for departing from the Kilombero decision?
+        answer: |
+          The Court rejected Mr. Ngowi's argument, stating that the Kilombero judgment already addressed the OECD Commentaries and was not persuaded to interpret the DTA differently despite those references.
+      - question: |
+          What role did the OECD Model Tax Convention Commentaries play in the Court's deliberations on the Kilombero case?
+        answer: |
+          The OECD Commentaries were presented by Kilombero's counsel to argue that the service fee was not liable to withholding tax under Article 7 (1) of the DTA, but the Court remained unconvinced and upheld its interpretation.
+  - context: |
+      1ps. 1ps. Mr. Ngowi could not mince words responding to the Court's question on the correctness of the approach he was championing in the light of the decision in Kilombero Sugar Company Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 218 of 2019 (unreported). He was unrelenting in his oral address that the decision was erroneous. Justifying his standpoint, the learned advocate contended that the 2ps. Court's attention was not drawn to the OECD commentaries on the relevant Articles from the OECD Model Tax Convention from which the DTA traces its route as a result of which the Court gave a narrow view in interpreting the DTA. By reason of such approach, Mr. Ngowi argued, the Court erroneously concluded that the service fees paid to the foreign consultant fell under Article 20 of the DTA 3ps. subjecting it to withholding tax. Mr. Ngowi invited us to be persuaded by the foreign decisions which, according to him, have correctly interpreted similar agreements based on the OECD Tax Convention model to give effect to the DTA. 2ps. 1ps. Justifying his standpoint, the learned advocate contended that the Court's attention was not drawn to the OECD commentaries on the relevant Articles from the OECD Model Tax Convention from which the DTA traces its route as a result of which the Court gave a narrow view in interpreting the DTA. By reason of such approach, Mr. Ngowi argued, the Court erroneously concluded that the service fees paid to the 2ps. foreign consultant fell under Article 20 of the DTA subjecting it to withholding tax. Resisting the appeal, Mr. Maswanyia stuck to his written submissions in reply in support of the decision of the Tribunal urging the Court to dismiss the appeal.
+    questions_and_answers:
+      - question: |
+          What case does Mr. Ngowi criticize in his argument?
+        answer: |
+          Mr. Ngowi criticizes the decision in the case of Kilombero Sugar Company Limited v. Commissioner General, Tanzania Revenue Authority, Civil Appeal No. 218 of 2019.
+      - question: |
+          What key source did Mr. Ngowi argue the Court overlooked in its interpretation of the DTA?
+        answer: |
+          Mr. Ngowi argued that the Court overlooked the OECD commentaries on the relevant Articles from the OECD Model Tax Convention, which is the basis for the DTA.
+      - question: |
+          What specific interpretation error does Mr. Ngowi attribute to the Court regarding service fees?
+        answer: |
+          Mr. Ngowi contends that the Court erroneously concluded that service fees paid to the foreign consultant fell under Article 20 of the DTA, subjecting them to withholding tax.
+      - question: |
+          What alternative approach did Mr. Ngowi advocate for interpreting the DTA?
+        answer: |
+          Mr. Ngowi advocated for the Court to be persuaded by foreign decisions that have correctly interpreted agreements based on the OECD Tax Convention model to give proper effect to the DTA.
+      - question: |
+          Who opposed Mr. Ngowi's arguments and what was their position?
+        answer: |
+          Mr. Maswanyia opposed Mr. Ngowi's arguments, supporting the decision of the Tribunal and urging the Court to dismiss the appeal.
+document_outline: |
+  ### Document Outline:
+  This document outlines the proceedings and judgment of the Court of Appeal of Tanzania regarding Civil Appeal No. 265 of 2021 between Mlimani Holdings Limited (appellant) and the Commissioner General (respondent). The key issue centers on the interpretation of Article 7 of the Double Taxation Agreement (DTA) between Tanzania and South Africa in determining the appellant's obligation to deduct withholding tax on payments made to a South African service provider for architectural services rendered in Tanzania.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mlimani_Holdings_Limited_vs_The_Commissioner_General_(Civil_Appeal_265_of_2021)_2022_TZCA_437_(18_July_2022).md

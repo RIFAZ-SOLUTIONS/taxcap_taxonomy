@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## ( CORAM: ## IN THE COURT OF APPEAL OF TANZANIA AT MWANZA LUBUVA. J.A., MROSO. J.A.. And RUTAKANGWA. 3.A.) CIVIL APPEAL NO. 95 OF 2006 MKAMA PASTORY.............................................. APPELLANT ## VERSUS TANZANIA REVENUE AUTHORITY...................RESPONDENT (Appeal from the Ruling of the High Court of Tanzania at Mwanza) ## (Mchome, 3.} dated the 10t h day of March, 2005 in HC Civil Case No. 10 of 2001 ## REASONS FOR THE COURT DECISION ## MROSO. J.A.: When we heard this appeal on 12t h February, 2007 we sustained a preliminary objection by the respondent and struck it out with costs. 2ps. We now give our reasons. In a ruling of the High Court at Mwanza (Mchome, J.) dated 10t h March, 2005 the respondent succeeded in a preliminary objection it had raised and, as a result, the appellant's plaint before the High Court was struck out for failure to disclose a cause of action. The appellant was aggrieved by the ruling and appealed against it to this Court. 2ps. 1ps. We now give our reasons. In a ruling of the High Court at Mwanza (Mchome, J.) dated 10t h March, 2005 the respondent succeeded in a preliminary objection it had raised and, as a result, the appellant's plaint before the High Court was struck out for failure to disclose a cause of action. The appellant was aggrieved by the ruling and appealed against it to this Court. Before the appeal
+    questions_and_answers:
+      - question: |
+          What was the case number and appellate court for this decision?
+        answer: |
+          The case was Civil Appeal No. 95 of 2006, heard in the Court of Appeal of Tanzania at Mwanza.
+      - question: |
+          Who were the parties involved in the appeal?
+        answer: |
+          The appellant was Mkama Pastory, and the respondent was the Tanzania Revenue Authority.
+      - question: |
+          What was the primary reason for the High Court striking out the appellant's plaint?
+        answer: |
+          The High Court struck out the appellant's plaint for failing to disclose a cause of action.
+      - question: |
+          What was the outcome of the appeal in the Court of Appeal?
+        answer: |
+          The Court of Appeal sustained the respondent's preliminary objection and struck out the appeal with costs.
+      - question: |
+          Who were the justices presiding over the case in the Court of Appeal?
+        answer: |
+          The justices presiding were Lubuva, J.A., Mroso, J.A., and Rutakangwa, J.A.
+  - context: |
+      irregularity but it 3ps. goes to the root of the appeal. Mr. Magongo appears to concede this legal position. 4ps. 1ps. The appeal before the Court does not contain a copy of a valid extracted order. We do not consider that the omission is a mere irregularity but it goes to the root of the appeal. Mr. Magongo appears to concede this legal position. The consequence of the appeal record lacking a valid order is drastic but inevitable. Although strictly speaking Order 20 rule 7 of the Civil Procedure 2ps. Act refers to a decree and not to an order, for the reasons which we have attempted to give, creating a parity between a decree and an order for the purpose of dating an order we sustained the third ground of Preliminary Objection and struck out the appeal with costs. DATED AT MWANZA this 23r d day of February, 2007. ## D. Z. LUBUVA ## JUSTICE OF APPEAL J. A. MROSO JUSTICE OF APPEAL E.M.K. RUTAKANGWA JUSTICE OF APPEAL I certify that 3ps. this is a true copy of the original. <!-- image --> <!-- image -->
+    questions_and_answers:
+      - question: |
+          What was the primary issue with the appeal before the Court?
+        answer: |
+          The appeal did not contain a copy of a valid extracted order, which was deemed a fundamental issue that went to the root of the appeal.
+      - question: |
+          What legal position did Mr. Magongo appear to concede?
+        answer: |
+          Mr. Magongo appeared to concede that the omission of a valid extracted order is not a mere irregularity but a significant issue that affects the foundation of the appeal.
+      - question: |
+          What consequence did the Court establish for the lack of a valid extracted order in the appeal record?
+        answer: |
+          The absence of a valid extracted order in the appeal record led the Court to strike out the appeal with costs.
+      - question: |
+          What is the relevance of Order 20 rule 7 of the Civil Procedure Act in this case?
+        answer: |
+          Order 20 rule 7 of the Civil Procedure Act refers to decrees rather than orders, but the Court applied a parallel reasoning to equate decrees and orders for dating, which supported their decision to uphold the Preliminary Objection.
+      - question: |
+          On what date and location was the judgment delivered?
+        answer: |
+          The judgment was delivered on the 23rd day of February, 2007, at Mwanza.
+  - context: |
+      contrary to the mandatory provisions of order XX 3ps. Rule 7 of the Civil Procedure Act, Cap. 33 R.E.V. 2002." Mr. Teemba submitted that on the basis of either of those two grounds the appeal was incompetent and should be struck out with costs. 4ps. 1ps. - (3) The Record of Appeal is defective by containing an Extract (sic) Order whose date is different from the date of the Ruling which is appealed against, contrary to the mandatory provisions of order XX Rule 7 of the Civil Procedure Act, Cap. 33 R.E.V. 2002." Mr. Teemba submitted that on the basis of either of those two grounds the appeal was incompetent and should be struck out with costs. After putting up some 2ps. resistance to the third ground of objection Mr. Magongo, learned advocate for the appellant, yielded. He conceded that the extracted order which was filed did not comply with Order 20 rule 7 of the Civil Procedure Code, 1966 and that the defect rendered the appeal incompetent and liable to be struck out. He did not proceed to argue against the second ground of objection. We intend to dispose of ground (2) of the grounds of preliminary objection. 5ps. 1ps. He conceded that the extracted order which was filed did not comply with Order 20 rule 7 of the Civil Procedure Code, 1966 and that the defect rendered the appeal incompetent and liable to be struck out. He did
+    questions_and_answers:
+      - question: |
+          What were the grounds upon which Mr. Teemba argued that the appeal was incompetent?
+        answer: |
+          Mr. Teemba argued that the appeal was incompetent because the Record of Appeal contained an extracted order with a date different from the ruling being appealed, contrary to Order XX Rule 7 of the Civil Procedure Act.
+      - question: |
+          Why did Mr. Magongo concede to the third ground of objection?
+        answer: |
+          Mr. Magongo conceded because the extracted order filed did not comply with Order 20 Rule 7 of the Civil Procedure Code, 1966, which made the appeal defective and therefore incompetent.
+      - question: |
+          What was the consequence of the defective extracted order according to the argument presented?
+        answer: |
+          The consequence of the defective extracted order was that it rendered the appeal incompetent and liable to be struck out.
+      - question: |
+          Did Mr. Magongo argue against the second ground of objection? If not, why?
+        answer: |
+          No, Mr. Magongo did not proceed to argue against the second ground of objection after conceding on the third ground.
+      - question: |
+          What legal provision governs the requirements for extracted orders in this context?
+        answer: |
+          The legal provision governing the requirements for extracted orders is Order 20 Rule 7 of the Civil Procedure Code, 1966.
+  - context: |
+      1ps. 1ps. He did not proceed to argue against the second ground of objection. We intend to dispose of ground (2) of the grounds of preliminary objection. Rule 90 (1) of the Court of Appeal Rules, 1979 (the Rules) provides as under:- "90 (1) The appellant shall, before or within seven days after lodging the memorandum of appeal and the record of appeal in the appropriate registry, serve copies of them on each respondent who has complied with the requirements of 2ps. Rule 79." It is apparent that the appellant lodged his memorandum of appeal in the Court registry on 22n d March, 2006 and the record of appeal on 13t h July, 2006. He was, therefore, required to serve on the respondent both the copy of the memorandum of appeal and of the record of appeal within seven days of the lodging of those documents if the respondent had complied with Rule 79 of the Rules. It will be recalled that Mr. Teemba informed the Court that the 3ps. respondent was not so served within the stipulated period. 2ps. 1ps. Rule 90 (1) of the Court of Appeal Rules, 1979 (the Rules) provides as under:- "90 (1) The appellant shall, before or within seven days after lodging the memorandum of appeal and the record of appeal in the appropriate registry, serve copies of them on each respondent who has complied with the requirements of Rule 79." It will be
+    questions_and_answers:
+      - question: |
+          What does Rule 90 (1) of the Court of Appeal Rules, 1979, require an appellant to do?
+        answer: |
+          Rule 90 (1) requires the appellant to serve copies of the memorandum of appeal and the record of appeal on each respondent who has complied with Rule 79, either before or within seven days after lodging these documents in the appropriate registry.
+      - question: |
+          When did the appellant lodge the memorandum of appeal and the record of appeal?
+        answer: |
+          The appellant lodged the memorandum of appeal on 22nd March, 2006, and the record of appeal on 13th July, 2006.
+      - question: |
+          What was the time requirement for the appellant to serve documents on the respondent according to Rule 90 (1)?
+        answer: |
+          The appellant was required to serve the documents on the respondent within seven days of lodging them if the respondent had complied with Rule 79.
+      - question: |
+          Did the appellant serve the respondent within the stipulated period under Rule 90 (1)?
+        answer: |
+          No, the appellant did not serve the respondent within the stipulated period, as informed by Mr. Teemba in court.
+      - question: |
+          What was the purpose of discussing Rule 90 (1) in the context of the appeal?
+        answer: |
+          The purpose was to address ground (2) of the preliminary objection, which concerned the appellant's failure to serve the required documents on the respondent within the time frame prescribed by Rule 90 (1).
+  - context: |
+      could be called on for hearing counsel for the respondent, Mr. Teemba, raised two 2ps. grounds of preliminary objection against the appeal in a notice which was duly filed nineteen days prior to the hearing date. The notice was followed by a supplementary notice of preliminary objection containing two additional grounds, making a total of four points of preliminary objection. At the hearing of the points of preliminary objection Mr. Teemba, learned counsel, abandoned the fourth point of objection and also conceded that 3ps. the first ground of objection was misconceived. As a result, only two grounds of objection were argued by Mr. Teemba. 3ps. 1ps. The notice was followed by a supplementary notice of preliminary objection containing two additional grounds, making a total of four points of preliminary objection. At the hearing of the points of preliminary objection Mr. Teemba, learned counsel, abandoned the fourth point of objection and also conceded that the first ground of objection was misconceived. As a result, only two grounds of objection were argued by Mr. Teemba. The 2ps. two grounds read as follows:- - "(2) That the appellant did not comply with the mandatory provisions of Rule 90 (1) of the Tanzania Court of Appeal Rules, 1979, (G.N. No. 102 of 28t h September, 1979). - (3) The Record of Appeal is defective by containing an Extract (sic) Order whose date is different from the date of the Ruling which is appealed against,
+    questions_and_answers:
+      - question: |
+          What were the total number of preliminary objection grounds initially raised by Mr. Teemba?
+        answer: |
+          Mr. Teemba initially raised four grounds of preliminary objection, two in the original notice and two additional ones in a supplementary notice.
+      - question: |
+          Which grounds of objection were abandoned or conceded by Mr. Teemba during the hearing?
+        answer: |
+          Mr. Teemba abandoned the fourth ground of objection and conceded that the first ground of objection was misconceived.
+      - question: |
+          How many grounds of objection were ultimately argued by Mr. Teemba at the hearing?
+        answer: |
+          Only two grounds of objection were argued by Mr. Teemba at the hearing.
+      - question: |
+          What was the second ground of objection argued by Mr. Teemba?
+        answer: |
+          The second ground of objection argued was that the appellant did not comply with the mandatory provisions of Rule 90 (1) of the Tanzania Court of Appeal Rules, 1979.
+      - question: |
+          What issue was raised in the third ground of objection argued by Mr. Teemba?
+        answer: |
+          The third ground of objection stated that the Record of Appeal was defective because it contained an Extract Order with a date different from the date of the ruling being appealed against.
+document_outline: |
+  **Document Outline:**
+  The document pertains to *Civil Appeal No. 95 of 2006* heard by the Court of Appeal of Tanzania at Mwanza, involving Appellant Mkama Pastory and Respondent Tanzania Revenue Authority. It provides the reasons for the court's decision to strike out the appeal with costs due to procedural non-compliance, including defects in the record of appeal and the appellant's failure to serve necessary documents within the stipulated timeline under the Tanzania Court of Appeal Rules, 1979.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mkama_Pastory_vs_Tanzania_Revenue_Authority_(Civil_Appeal_95_of_2006)_2007_TZCA_170_(23_February_2007).md

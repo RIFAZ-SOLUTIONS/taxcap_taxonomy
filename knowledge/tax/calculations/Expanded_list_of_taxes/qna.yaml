@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      Levy - o Varies by service. ## 29. Water Usage Fees - o Varies by usage. ## 34. Education Fund Levy - o Formula: Education Fund Levy=Taxable Income×0.02\text{Education Fund Levy} = \text{Taxable Income} \times - 0.02Education Fund Levy=Taxable Income×0.02 - o - Example: For a taxable income of TZS 5,000,000: Levy} = 5,000,000 \times 0.02 = 100,000 \text{ - Education Fund Levy=5,000,000×0.02=100,000 TZS\text{Education Fund TZS}Education Fund Levy=5,000,000×0.02=100,000 TZS ## 35. Infrastructure Development Levy - o Varies by project. ## 36. Export Levy on Raw Hides and Skins - o Formula: Export Levy=Value×0.80\text{Export Levy} = \text{Value} \times 0.80Export Levy=Value×0.80 - Example: For goods valued at TZS 1,000,000: - o 2ps. Export Levy=1,000,000×0.80=800,000 TZS\text{Export Levy} = 1,000,000 \times 0.80 = 800,000 \text{ TZS}Export Levy=1,000,000×0.80=800,000 TZS ## 37. Livestock Market Fees - o Varies. ## 38. Solid Waste Management Fee - o Varies by municipality. ## 39. Licensing Fees - o Varies by business and profession. ## 40. Inspection Fees - o Varies by goods and services. ## 41. Fire Safety Levy - o Varies. 3ps. 1ps. ## 39. Licensing Fees - o Varies by business and profession. ## 40. Inspection Fees - o Varies by goods and services. ## 41. Fire Safety Levy - o Varies. ## 42. Weights and Measures Fees - o Varies. ## 43. Pharmaceutical Levy - o Varies. ## 44. Public Health Levy - o Varies. ## 45. Agricultural Produce Cess - o Formula: Agricultural Produce Cess=Farm Gate
+    questions_and_answers:
+      - question: |
+          What is the formula for calculating the Education Fund Levy?
+        answer: |
+          The formula for the Education Fund Levy is Taxable Income × 0.02.
+      - question: |
+          How much Education Fund Levy would be charged on a taxable income of TZS 5,000,000?
+        answer: |
+          The levy for a taxable income of TZS 5,000,000 is TZS 100,000 (5,000,000 × 0.02).
+      - question: |
+          What is the formula for the Export Levy on Raw Hides and Skins?
+        answer: |
+          The formula for the Export Levy is Value × 0.80.
+      - question: |
+          How much is the Export Levy on raw hides valued at TZS 1,000,000?
+        answer: |
+          The Export Levy on raw hides valued at TZS 1,000,000 is TZS 800,000 (1,000,000 × 0.80).
+      - question: |
+          Which fees and levies are stated to vary by service, usage, or specific conditions?
+        answer: |
+          Fees and levies that vary include the Levy, Water Usage Fees, Infrastructure Development Levy, Livestock Market Fees, Solid Waste Management Fee, Licensing Fees, Inspection Fees, Fire Safety Levy, Weights and Measures Fees, Pharmaceutical Levy, and Public Health Levy.
+  - context: |
+      1ps. 1ps. Expanded list of taxes, levies, customs, duties, and other charges applicable in Tanzania, along with the formulas and calculations for determining each: ## National Taxes ## 1. Income Tax ## o Individual Income Tax: -  Progressive rates applied to different income brackets. 2ps. 1ps. Expanded list of taxes, levies, customs, duties, and other charges applicable in Tanzania, along with the formulas and calculations for determining each: ## National Taxes ## 1. Income Tax ## o Individual Income Tax: -  Progressive rates applied to different income brackets. -  Formula: Tax=Sum of taxes for each bracket\text{Tax} = \text{Sum of taxes for each bracket}Tax=Sum of taxes for each bracket -  - Example: For an annual income of TZS 5,000,000: First TZS 2,040,000:0%×2,040,000=0Next TZS 2,280,000 (4,320,000 - 2,040,000):9%×2,280,000=205,200Next TZS 680,000 (5,000,000 - 4, 320,000):20%×680,000=136,000Total Tax=0+205,200+136,000=341, 200 TZS\begin{align*} &amp; \text{First TZS 2,040,000}: 0\% \times 2,040,000 = 0 \\ &amp; \text{Next TZS 2,280,000 2ps. (4,320,000 2,040,000)}: 9\% \times 2,280,000 = 205,200 \\ &amp; \text{Next TZS 680,000 (5,000,000 - 4,320,000)}: 20\% \times 680,000 = 136,000 \\ &amp; \text{Total Tax} = 0 + 205,200 + 136,000 = 341,200 \text{ TZS} \end{align*} First TZS 2,040,000:0%×2,040,000=0Next TZS 2,280,000 (4,320,000 - 2,040,000):9%×2,280,000=205,200Next TZS 680,000 (5,000,000 - 4, 320,000):20%×680,000=136,000Total Tax=0+205,200+136,000=341, 200 TZS ## o Corporate Income Tax: -  Formula: Tax=Taxable Income×30%\text{Tax} = \text{Taxable Income} \times 30\%Tax=Taxable Income×30% -  Example: For a taxable income of TZS 100,000,000: Tax=100,000,000×0.30=30,000,000 TZS\text{Tax} = 100,000,000 \times 0.30 = 30,000,000
+    questions_and_answers:
+      - question: |
+          What type of tax system is applied to individual income in Tanzania?
+        answer: |
+          Tanzania applies a progressive tax system to individual income, where different income brackets are taxed at varying rates.
+      - question: |
+          How is the income tax calculated for an individual earning TZS 5,000,000 annually in Tanzania?
+        answer: |
+          For TZS 5,000,000: the first TZS 2,040,000 is taxed at 0% (0 TZS), the next TZS 2,280,000 is taxed at 9% (205,200 TZS), and the last TZS 680,000 is taxed at 20% (136,000 TZS), summing up to a total tax of 341,200 TZS.
+      - question: |
+          What is the formula used to calculate corporate income tax in Tanzania?
+        answer: |
+          The formula for corporate income tax in Tanzania is: Tax = Taxable Income × 30%.
+      - question: |
+          What is the income tax for a company with a taxable income of TZS 100,000,000 in Tanzania?
+        answer: |
+          For a taxable income of TZS 100,000,000, the corporate income tax is calculated as 100,000,000 × 0.30 = 30,000,000 TZS.
+      - question: |
+          What are the tax rates for different income brackets for individual income tax in Tanzania as per the example provided?
+        answer: |
+          In the example, income up to TZS 2,040,000 is taxed at 0%, income from TZS 2,040,001 to TZS 4,320,000 is taxed at 9%, and income above TZS 4,320,000 is taxed at 20%.
+  - context: |
+      \text{ TZS}Tax=100,000,000×0.30=30,000,000 TZS ## 2. Value Added Tax (VAT) - o Standard rate: 18% - o Formula: VAT=Price×0.18\text{VAT} = \text{Price} \times 3ps. 0.18VAT=Price×0.18 - o Example: For a product priced at TZS 100,000: VAT=100,000×0.18=18,000 TZS\text{VAT} = 100,000 \times 0.18 = 18,000 \text{ TZS}VAT=100,000×0.18=18,000 TZS ## 3. Excise Duty - o Varies by product (e.g., beer, cigarettes, petroleum products). 3ps. 1ps. Expanded list of taxes, levies, customs, duties, and other charges applicable in Tanzania, along with the formulas and calculations for determining each: ## National Taxes ## 1. Income Tax ## o Individual Income Tax: -  Progressive rates applied to different income brackets. - o Formula: Excise Duty=Quantity×Rate\text{Excise Duty} = \text{Quantity} \times \text{Rate}Excise Duty=Quantity×Rate - o Example: For 500ml beer with a rate of TZS 765 per litre: Excise Duty=0.5×765=382.5 TZS\text{Excise Duty} = 0.5 \times 765 = 382.5 \text{ TZS}Excise Duty=0.5×765=382.5 TZS ## 4. Import Duty - o Varies by product category (0% to 25%). - o Formula: Import Duty=CIF Value×Rate\text{Import Duty} = \text{CIF Value} \times \text{Rate}Import 2ps. Duty=CIF Value×Rate - o Example: For goods valued at TZS 1,000,000 with a duty rate of 10%: Import Duty=1,000,000×0.10=100,000 TZS\text{Import Duty} = 1,000,000 \times 0.10 = 100,000 \text{ TZS}Import Duty=1,000,000×0.10=100,000 TZS ## 5. Export Duty - o Varies by product. 4ps. 1ps. - o Formula: Excise Duty=Quantity×Rate\text{Excise Duty} = \text{Quantity} \times \text{Rate}Excise Duty=Quantity×Rate - o Example: For 500ml beer with a rate of TZS 765 per litre: Excise Duty=0.5×765=382.5 TZS\text{Excise Duty} =
+    questions_and_answers:
+      - question: |
+          What is the formula for calculating Value Added Tax (VAT) and what is the standard rate applied?
+        answer: |
+          The formula for calculating VAT is VAT = Price × 0.18. The standard rate applied is 18%.
+      - question: |
+          How is excise duty calculated for a specific product, such as beer?
+        answer: |
+          Excise duty is calculated using the formula Excise Duty = Quantity × Rate. For example, for 500ml of beer with a rate of TZS 765 per litre, the excise duty is 0.5 × 765 = 382.5 TZS.
+      - question: |
+          What are the possible rates for import duty in Tanzania, and how is it determined?
+        answer: |
+          Import duty varies by product category and ranges from 0% to 25%. It is calculated using the formula Import Duty = CIF Value × Rate.
+      - question: |
+          How is individual income tax applied in Tanzania?
+        answer: |
+          Individual income tax in Tanzania is applied using progressive rates that vary across different income brackets.
+      - question: |
+          What is the VAT amount for a product priced at TZS 100,000?
+        answer: |
+          For a product priced at TZS 100,000, the VAT is calculated as 100,000 × 0.18 = 18,000 TZS.
+  - context: |
+      1ps. 1ps. - o Formula: Export Duty=FOB Value×Rate\text{Export Duty} = \text{FOB Value} \times \text{Rate}Export Duty=FOB Value×Rate - o Example: For raw hides and skins valued at TZS 1,000,000 with a duty rate of 80%: Export Duty=1,000,000×0.80=800,000 TZS\text{Export Duty} = 1,000,000 \times 0.80 = 800,000 \text{ TZS}Export Duty=1,000,000×0.80=800,000 TZS ## 6. Stamp Duty - o Fixed or ad valorem. - o Formula: Tax=Sum of taxes for each bracket\text{Tax} = \text{Sum of taxes for each bracket}Tax=Sum of taxes for each bracket - Example: For a monthly salary of TZS 1,000,000: - o First TZS 170,000:0%×170,000=0Next TZS 130,000 (300,000 - 170,000):9% ×130,000=11,700Next TZS 120,000 (420,000 - 300,000):20%×120,000=24,00 0Next TZS 580,000 (1,000,000 2ps. - 420,000):30%×580,000=174,000Total Tax= 0+11,700+24,000+174,000=209,700 TZS\begin{align*} &amp; \text{First TZS 170,000}: 0\% \times 170,000 = 0 \\ &amp; \text{Next TZS 130,000 (300,000 170,000)}: 9\% \times 130,000 = 11,700 \\ &amp; \text{Next TZS 120,000 (420,000 - 300,000)}: 20\% \times 120,000 = 24,000 \\ &amp; \text{Next TZS 580,000 (1,000,000 - 420,000)}: 30\% \times 580,000 = 174,000 \\ &amp; \text{Total Tax} = 0 + 11,700 + 24,000 + 174,000 = 209,700 \text{ TZS} \end{align*} First TZS 170,000:0%×170,000=0Next TZS 130,000 (300,000 - 170,000):9% ×130,000=11,700Next TZS 120,000 (420,000 - 300,000):20%×120,000=24,00 0Next TZS 580,000 (1,000,000 - 420,000):30%×580,000=174,000Total Tax= 0+11,700+24,000+174,000=209,700 TZS ## Local Government Taxes and Levies ## 10. Property Tax - o 3ps. Formula: Property Tax=Property Value×Rate\text{Property Tax} = \text{Property Value} \times \text{Rate}Property Tax=Property Value×Rate - o Example: For a property valued at TZS 50,000,000 with a rate of
+    questions_and_answers:
+      - question: |
+          What formula is used to calculate export duty, and how is it applied?
+        answer: |
+          The formula for export duty is Export Duty = FOB Value × Rate. For example, for raw hides and skins valued at TZS 1,000,000 with a duty rate of 80%, the export duty would be 1,000,000 × 0.80 = 800,000 TZS.
+      - question: |
+          What are the two types of stamp duty, and how is it calculated for a monthly salary example?
+        answer: |
+          Stamp duty can be fixed or ad valorem (based on value). For a monthly salary of TZS 1,000,000, the tax is calculated progressively: 0% on the first TZS 170,000, 9% on the next TZS 130,000, 20% on TZS 120,000, and 30% on TZS 580,000. The total tax would be 209,700 TZS.
+      - question: |
+          How is the tax for each bracket calculated in the stamp duty example?
+        answer: |
+          For the TZS 1,000,000 example: the first TZS 170,000 is taxed at 0% (0 TZS), the next TZS 130,000 at 9% (11,700 TZS), the next TZS 120,000 at 20% (24,000 TZS), and the next TZS 580,000 at 30% (174,000 TZS). The totals from these brackets sum up to 209,700 TZS.
+      - question: |
+          What is the formula for calculating property tax?
+        answer: |
+          The property tax formula is Property Tax = Property Value × Rate. For example, if a property is valued at TZS 50,000,000 and the rate is provided, this formula is used to determine the tax.
+      - question: |
+          How are local government taxes, such as property tax, assessed?
+        answer: |
+          Local government taxes, like property tax, are assessed based on the formula Property Tax = Property Value × Rate. Specific values like property value and applicable rates are needed for the calculation.
+  - context: |
+      0.15%: Property Tax=50,000,000×0.0015=75,000 TZS\text{Property Tax} = 50,000,000 \times 0.0015 = 75,000 \text{ TZS}Property Tax=50,000,000×0.0015=75,000 TZS ## 11. Service Levy - o Formula: Service Levy=Turnover×0.003\text{Service Levy} = \text{Turnover} \times 0.003Service Levy=Turnover×0.003 - Example: For a turnover of TZS 100,000,000: - o Service Levy=100,000,000×0.003=300,000 TZS\text{Service Levy} = 100,000,000 \times 0.003 = 300,000 \text{ TZS}Service Levy=100,000,000×0.003=300,000 TZS ## 12. City Service Levy - o Varies by municipality; often similar to the service levy formula. 2ps. 1ps. - o Formula: Stamp Duty=Document Value×Rate\text{Stamp Duty} = \text{Document Value} \times \text{Rate}Stamp Duty=Document Value×Rate - o Example: For a share transfer agreement valued at TZS 1,000,000 with a rate of 1%: Stamp Duty=1,000,000×0.01=10,000 TZS\text{Stamp Duty} = 1,000,000 \times 0.01 = 10,000 \text{ - TZS}Stamp Duty=1,000,000×0.01=10,000 TZS ## 7. Withholding Tax - o Varies by income type. ## 13. Market Fees - o Typically fixed daily rates. - o Example: TZS 2,000 per day. ## 14. Billboards and Advertisements Fees - o Varies by municipality. - o - Example: TZS 50,000 per month for a standard billboard. 3ps. 1ps. - o Example: TZS 2,000 per day. ## 14. Billboards and Advertisements Fees - o Varies by municipality. - o - Example: TZS 50,000 per month for a standard billboard. ## 15. Hotel Levy - o Formula: Hotel Levy=Service Charge×0.20\text{Hotel Levy} = \text{Service Charge} \times 0.20Hotel Levy=Service Charge×0.20 - o Example: For accommodation services charged at TZS 500,000: Hotel Levy=500,000×0.20=100,000 TZS\text{Hotel Levy} = 500,000 \times 0.20 = 100,000 \text{
+    questions_and_answers:
+      - question: |
+          What is the formula used to calculate property tax, and how much is owed for a property valued at TZS 50,000,000?
+        answer: |
+          The formula for property tax is Property Tax = Property Value × 0.0015. For a property valued at TZS 50,000,000, the tax owed is TZS 75,000.
+      - question: |
+          How is the service levy calculated, and what is the amount for a turnover of TZS 100,000,000?
+        answer: |
+          The service levy is calculated using the formula Service Levy = Turnover × 0.003. For a turnover of TZS 100,000,000, the levy is TZS 300,000.
+      - question: |
+          What is the formula for calculating stamp duty, and how much is charged for a document valued at TZS 1,000,000 with a 1% rate?
+        answer: |
+          The formula for stamp duty is Stamp Duty = Document Value × Rate. For a document valued at TZS 1,000,000 with a 1% rate, the stamp duty is TZS 10,000.
+      - question: |
+          What are the characteristics of market fees, and what is an example of a typical daily rate?
+        answer: |
+          Market fees are typically fixed daily rates. An example of a standard daily rate is TZS 2,000 per day.
+      - question: |
+          How is the hotel levy calculated, and what is the amount for a service charge of TZS 500,000?
+        answer: |
+          The hotel levy is calculated using the formula Hotel Levy = Service Charge × 0.20. For a service charge of TZS 500,000, the levy is TZS 100,000.
+document_outline: |
+  **Document Outline:**
+  This document provides an expanded overview of various taxes, levies, customs, duties, and charges applicable in Tanzania, detailing the calculation formulas and examples for each. It covers national taxes such as Income Tax (progressive for individuals, flat for corporations), Value Added Tax (18%), Excise Duty, Import and Export Duties, Stamp Duty, Withholding Tax, and the Skills and Development Levy, with explanations of rates, applicable formulas, and practical examples to aid comprehension.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Expanded_list_of_taxes.md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM CIVIL APPLICATION NO. 150/20 OF 2017 DTP TERRASSMENT..........................................................................APPLICANT ## VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY................................................ RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) ## (Shanciwa, J.) dated the 24th day of June, 2008 in Appeal No. 20 of 2007 ## RULING l sl&amp; 9lh November, 2017 ## MUGASHA, 3.A.: The applicant, dtp terrassm ent has brought this application seeking extension of time to file documents omitted from record of appeal. The application is by way of notice of motion brought under 2ps. Rules 10 and 96(6) of the Tanzania Court of Appeal Rules, 2009 (the Rules). The main ground upon which the application is sought is that: the applicant was belatedly supplied with a valid decree and the exhibits produced before the Tax Revenue Appeals Board (the Board). As a result, the applicant delayed to include them in the record of appeal within \A days after filing the appeal. 2ps. 1ps. The application is by way of notice of motion brought under Rules 10 and 96(6) of the Tanzania Court of Appeal Rules, 2009 (the Rules). The main ground upon which the application is sought is that: the applicant was belatedly supplied with a valid decree and the exhibits produced before the Tax Revenue Appeals Board (the Board). As a result, the applicant delayed to include
+    questions_and_answers:
+      - question: |
+          What is the main reason the applicant is seeking an extension of time?
+        answer: |
+          The applicant, DTP Terrassment, was belatedly supplied with a valid decree and the exhibits produced before the Tax Revenue Appeals Board, causing a delay in including them in the record of appeal.
+      - question: |
+          Under which rules of the Tanzania Court of Appeal Rules, 2009 is the application brought?
+        answer: |
+          The application is brought under Rules 10 and 96(6) of the Tanzania Court of Appeal Rules, 2009.
+      - question: |
+          What type of legal application is being made by the applicant?
+        answer: |
+          The applicant is making an application seeking an extension of time to file documents omitted from the record of appeal.
+      - question: |
+          When was the judgment and decree of the Tax Revenue Appeals Tribunal initially dated?
+        answer: |
+          The judgment and decree of the Tax Revenue Appeals Tribunal were initially dated the 24th day of June, 2008.
+      - question: |
+          Who is the respondent in this case?
+        answer: |
+          The respondent in this case is the Commissioner General of the Tanzania Revenue Authority.
+  - context: |
+      them in the record of appeal 2ps. within \A days after filing the appeal. The application is supported by the affidavit of wilson kamugisha mukebezi an advocate with Ako Law, a Firm duly instructed to represent: the applicant. In his affidavit, he has deposed that, the applicant's initial appeal was struck out because it was not accompanied by the valid decree and the exhibits. He averred that, the applicant filed the 3ps. notice of appeal on 16/3/2016 after obtaining extension of time and also wrote a letter to the Board seeking to be supplied with the said documents. The applicant obtained a certificate of delay excluding the period from 11/3/2016 to 23/12/2016. 3ps. 1ps. In his affidavit, he has deposed that, the applicant's initial appeal was struck out because it was not accompanied by the valid decree and the exhibits. He averred that, the applicant filed the notice of appeal on 16/3/2016 after obtaining extension of time and also wrote a letter to the Board seeking to be supplied with the said documents. 2ps. The applicant obtained a certificate of delay excluding the period from 11/3/2016 to 23/12/2016. Being apprehensive of the expiry of the timelines within which to file an appeal, the applicant lodged the appeal on 20/2/2017 without the documents in question which were supplied on 20/3/2016. This was after expiry of 14 days within which those documents could have been included in the record of appeal without
+    questions_and_answers:
+      - question: |
+          What was the reason for the applicant's initial appeal being struck out?
+        answer: |
+          The applicant's initial appeal was struck out because it was not accompanied by the valid decree and the exhibits.
+      - question: |
+          When did the applicant file the notice of appeal and what enabled them to do so?
+        answer: |
+          The applicant filed the notice of appeal on 16/3/2016 after obtaining an extension of time.
+      - question: |
+          What steps did the applicant take to obtain the necessary documents for their appeal?
+        answer: |
+          The applicant wrote a letter to the Board requesting to be supplied with the required documents and obtained a certificate of delay excluding the period from 11/3/2016 to 23/12/2016.
+      - question: |
+          On what date did the applicant lodge the appeal without the required documents, and why?
+        answer: |
+          The applicant lodged the appeal on 20/2/2017 without the required documents because they were apprehensive about the expiry of the timelines for filing the appeal.
+      - question: |
+          When were the required documents finally provided to the applicant, and what issue arose as a result?
+        answer: |
+          The required documents were provided to the applicant on 20/3/2016, but this was after the 14-day window within which they could have been included in the record of appeal.
+  - context: |
+      1ps. 1ps. As such, it was beyond the applicant's control to have those documents incorporated be it at the time of filing an appeal on 20/2/2017 or thereafter, before the expiry of 1 4 days after the appeal was filed. In this regard, it can safely be vouched that, it was beyond the applicant's capability to invoke Rule 96 (6) of the Rules to include the said documents within the prescribed H days after the 2ps. appeal was filed. This in entirety exhibits a valid explanation for delay and constitutes sufficient cause according to what we said in the case of tanga CEMENT COMPANY LIMITED v JUMANNE D. MASSANGA AND AMOS A. mwalwanda (supra). [Also, having considered the sequence of events, it is apparent that the delay was occasioned by both the Board and the Tribunal having belatedly supplied the requisite documents despite applicant's 3ps. constant follow up. In a nutshell, what caused the applicant's delay was beyond her power and control to take necessary steps as we said in YUSUFU SAME AND ANOTHER VS HADDA YUSUFU (supra). 2ps. 1ps. This in entirety exhibits a valid explanation for delay and constitutes sufficient cause according to what we said in the case of tanga CEMENT COMPANY LIMITED v JUMANNE D. MASSANGA AND AMOS A. mwalwanda (supra). [Also, having considered the sequence of events, it is apparent that the delay was occasioned by both the Board and the Tribunal having belatedly supplied
+    questions_and_answers:
+      - question: |
+          Why was it beyond the applicant's control to include certain documents with the appeal?
+        answer: |
+          The applicant was unable to include the documents because the Board and the Tribunal belatedly supplied the necessary documents, despite the applicant's constant follow-up.
+      - question: |
+          What rule is mentioned in relation to including documents after filing an appeal?
+        answer: |
+          Rule 96 (6) of the Rules is mentioned, but the applicant could not invoke it to include the documents within the prescribed time frame.
+      - question: |
+          What constitutes a valid explanation for the applicant's delay according to the text?
+        answer: |
+          A valid explanation for the delay is that the events causing it were beyond the applicant's power and control, supported by precedent cases like Tanga Cement Company Limited v. Jumanne D. Massanga and Yusufu Same v. Hadda Yusufu.
+      - question: |
+          How does the text describe the cause of the delay in supplying documents?
+        answer: |
+          The delay was caused by both the Board and the Tribunal, who supplied the requisite documents belatedly despite the applicant's repeated efforts to follow up.
+      - question: |
+          What precedent cases were cited to support the assessment of sufficient cause for delay?
+        answer: |
+          The precedent cases cited are Tanga Cement Company Limited v. Jumanne D. Massanga and Amos A. Mwalwanda, and Yusufu Same and Another v. Hadda Yusufu.
+  - context: |
+      1ps. 1ps. In addition, it was submitted that, having realized about the missing opinion of the members of the Tax Revenue Appeals Tribunal (the Tribunal), the applicant as well, requested to be supplied with the same by the Registrar of the Tribunal. It was further submitted that, despite the applicant's constant follow up at the Board and the Tribunal, the documents in question were belatedly supplied which made 2ps. it impossible for the applicant to include them in the record of appeal within prescribed time. To support this proposition, the applicant relied on the case of yusufu same and another vs hadija yusufu, Civil Appeal No. 1 of 2002 (unreported). In that case, the Court observed that, sufficient cause should be widely interpreted to encompass all reasons and 3ps. causes which are beyond applicant's power to control or influence resulting delay in taking any steps. 2ps. 1ps. As such, it was argued that, the applicant has demonstrated sufficient: cause for the delay to include the omitted documents in the record of appeal within prescribed time. To support this proposition, the applicant relied on the case of yusufu same and another vs hadija yusufu, Civil Appeal No. 1 of 2002 (unreported). In that case, the 2ps. Court observed that, sufficient cause should be widely interpreted to encompass all reasons and causes which are beyond applicant's power to control or influence resulting delay in taking any steps. After a careful consideration of
+    questions_and_answers:
+      - question: |
+          What was the missing document that the applicant requested from the Tribunal?
+        answer: |
+          The applicant requested the missing opinion of the members of the Tax Revenue Appeals Tribunal (the Tribunal) from the Registrar.
+      - question: |
+          Why did the applicant fail to include the missing documents in the record of appeal within the prescribed time?
+        answer: |
+          The documents were supplied belatedly despite the applicant's constant follow-up, making it impossible to include them in the appeal record within the prescribed time.
+      - question: |
+          Which case was cited by the applicant to support their argument regarding sufficient cause?
+        answer: |
+          The applicant cited the case of Yusufu Same and Another vs. Hadija Yusufu, Civil Appeal No. 1 of 2002 (unreported).
+      - question: |
+          How does the Court define 'sufficient cause' in the cited case?
+        answer: |
+          The Court defines 'sufficient cause' as encompassing all reasons and causes beyond the applicant's power to control or influence, resulting in delays in taking any steps.
+      - question: |
+          What argument did the applicant make regarding their demonstration of sufficient cause?
+        answer: |
+          The applicant argued that they had demonstrated sufficient cause for the delay in including the omitted documents in the record of appeal within the prescribed time.
+  - context: |
+      the arguments in support of the application, the issue for determination is whether the applicant has demonstrated sufficient for the delay warranting the Court to exercise its judicial 3ps. discretion under Rule 10 of the Rules which provides: "The court may, upon good cause shown, extend time limited by these rules or by any decision of the High Court or tribunal\ for the doing of any act authorized or required by these Rules, whether before or after expiration o f that time and whether before or after the doing of the act; and any reference in these Rules to any such time shall be construed as a reference to that time so extended." 3ps. 1ps. To support this proposition, the applicant relied on the case of yusufu same and another vs hadija yusufu, Civil Appeal No. 1 of 2002 (unreported). In that case, the Court observed that, sufficient cause should be widely interpreted to encompass all reasons and causes which are beyond applicant's power to control or influence resulting delay in taking 2ps. any steps. The discretion of the Court to extend time under the cited Rule is unfettered, but in considering an application under Rule 10, the Court may take into consideration, such factors including the length of delay and the reason for the delay. [(See the case of HENRY muyaga vs . t t c l Application No. 8 of 2011 (unreported)]. In considering what amounts to sufficient
+    questions_and_answers:
+      - question: |
+          What is the main issue the court must determine in relation to the application?
+        answer: |
+          The main issue is whether the applicant has demonstrated sufficient reason for the delay to warrant the court's exercise of judicial discretion under Rule 10 of the Rules.
+      - question: |
+          What authority does Rule 10 of the Rules provide to the court regarding time extensions?
+        answer: |
+          Rule 10 gives the court discretion to extend the time limited by the Rules or prior decisions, provided good cause is shown, whether before or after the expiration of the original time or completion of the required act.
+      - question: |
+          What precedent did the applicant rely on to support their argument?
+        answer: |
+          The applicant relied on the case of Yusufu Same and Another vs. Hadija Yusufu, Civil Appeal No. 1 of 2002 (unreported), where the court observed that sufficient cause should include reasons beyond the applicant's control that caused the delay.
+      - question: |
+          What factors may the court consider under Rule 10 when deciding a time extension application?
+        answer: |
+          The court may consider factors such as the length of the delay and the reasons provided for the delay.
+      - question: |
+          How is the court’s discretion described when considering applications under Rule 10?
+        answer: |
+          The court’s discretion under Rule 10 is described as unfettered, meaning the court has broad authority to decide based on the specifics of the case.
+document_outline: |
+  **Document Outline:**
+  This document pertains to *Civil Application No. 150/20 of 2017* in the Court of Appeal of Tanzania at Dar es Salaam, where the applicant, DTP Terrassment, seeks an extension of time to include documents omitted from the record of appeal due to delays in being supplied with those documents by the relevant entities. The ruling addresses the applicant’s reasons for the delay, the legal arguments presented, and the unopposed nature of the motion, emphasizing the need to demonstrate sufficient cause for the requested extension.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - DTP_Terrassment_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Application_No_15020_of_2017)_2017_TZCA_306_(9_November_2017).md

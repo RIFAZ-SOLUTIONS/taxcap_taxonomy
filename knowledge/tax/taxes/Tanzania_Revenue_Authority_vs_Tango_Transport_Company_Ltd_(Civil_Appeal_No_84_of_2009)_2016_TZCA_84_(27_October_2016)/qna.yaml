@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Whether or not the respondent had taken any objection to T.R.A.'s assessment of its tax liability. In our respectful view, the primary case spelt out by the substance of the pleadings was fundamentally a tax dispute founded on the warrant of distress, an instrument or order issued under section 109(1) of the Income Tax Act and The Income Tax (Distraint) Rules, 1975 to recover a tax liability from the 2ps. respondent by means of distress levied upon a warrant. It was to say the least, fully dependent on a prior determination of the respondent's correct taxable income, assessment and liability for the periods 1989, 1996 and 1997, including T.R.A's entitlement to the collection of and recovery of any due and unpaid tax by distress upon the respondent's goods or 3ps. chattels under section 109(1) of the Income Tax Act and the Income Tax (Distraint) Rules, 1975. Sub-section 1 of section 109 provides: "109(1) In any case in which tax is recoverable in the manner provided by section 108 the commissioner may, instead of suing for such tax, recover the same by distress, and for that purpose may by order under his hand authorize any public officer or an officer of a court to execute such distress upon the goods and 4ps. chattels of the person from whom such tax is recoverable and such officer may, at the cost of the person from whom such tax is recoverable employ such servants or agents as he may think necessary to assist him in the execution of the ,.,. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What was the primary issue described in the context?
+        answer: |
+          The primary issue was a tax dispute concerning the respondent's tax liability, which was based on the issuance of a warrant of distress under section 109(1) of the Income Tax Act and The Income Tax (Distraint) Rules, 1975.
+      - question: |
+          What legal instrument was used to recover the respondent's tax liability?
+        answer: |
+          A warrant of distress issued under section 109(1) of the Income Tax Act and The Income Tax (Distraint) Rules, 1975 was used to recover the respondent's tax liability.
+      - question: |
+          What periods were considered for determining the respondent's correct taxable income and liability?
+        answer: |
+          The periods considered for determining the respondent's correct taxable income and liability were 1989, 1996, and 1997.
+      - question: |
+          What does section 109(1) of the Income Tax Act allow the commissioner to do?
+        answer: |
+          Section 109(1) of the Income Tax Act allows the commissioner to recover tax through distress by authorizing a public officer or court officer to execute the distress upon the goods and chattels of the person owing the tax.
+      - question: |
+          What alternative to suing for tax recovery does section 109(1) provide?
+        answer: |
+          Section 109(1) provides the alternative of recovering tax by distress instead of suing for it.
+  - context: |
+      1ps. 1ps. Mr. Ohhay-Sang'ka went on to submit that the High Court's jurisdiction, which a court should jealously guard and not lightly oust, had not been specifically ousted by the Income Tax Act. He relied on Gosbert Mujumuzi v. Dihimulali Matende [1969] H.C.D. 138 and Mtenga v. University of Dar es Salaam [1971] H.C.D. 247. He contended that the suit was not a pure tax dispute. The Income Tax Act did not completely oust the jurisdiction 2ps. of the High Court to try a dispute which involved the award of damages for unlawful distrain by T.R.A. The suit could also not have been determined under the Income Tax Act as it had no provisions granting the respondent a right to damages. The Income Tax Act did not bar or oust the civil court's jurisdiction to deal with non-tax matters or 3ps. the warrant of distress executed outside the law, one and a half years after its invalid issuance. The authorities cited by T.R.A., he submitted, were decided before the coming into effect of the Tax Revenue Appeals Act, Cap. 2ps. 1ps. The suit could also not have been determined under the Income Tax Act as it had no provisions granting the respondent a right to damages. The Income Tax Act did not bar or oust the civil court's jurisdiction to deal with non-tax matters or the warrant of distress executed outside the law, one and a half years after its invalid issuance. The authorities cited by T.R.A., he 2ps. submitted, were decided before the coming into effect of the Tax Revenue Appeals Act, Cap. 408, which came into effect on 01/07/2001 (G.N. No. 126 of 29/06/2001). We now advert to the merits of ground one of the memorandum of appeal. 'Jurisdiction' is defined in Halsbury's Laws of England, Vol.
+    questions_and_answers:
+      - question: |
+          What argument did Mr. Ohhay-Sang'ka make regarding the High Court's jurisdiction?
+        answer: |
+          Mr. Ohhay-Sang'ka argued that the High Court's jurisdiction had not been specifically ousted by the Income Tax Act and should be jealously guarded.
+      - question: |
+          What cases did Mr. Ohhay-Sang'ka cite to support his argument about jurisdiction?
+        answer: |
+          He cited Gosbert Mujumuzi v. Dihimulali Matende [1969] H.C.D. 138 and Mtenga v. University of Dar es Salaam [1971] H.C.D. 247.
+      - question: |
+          Why did Mr. Ohhay-Sang'ka argue that the suit was not a pure tax dispute?
+        answer: |
+          He argued that the suit involved the award of damages for unlawful distrain by T.R.A., which was outside the scope of the Income Tax Act and could not have been determined under its provisions.
+      - question: |
+          What specific issues did Mr. Ohhay-Sang'ka claim the Income Tax Act did not address?
+        answer: |
+          He claimed that the Income Tax Act lacked provisions for granting a respondent a right to damages and did not bar or oust the civil court's jurisdiction over non-tax matters or actions like a warrant of distress executed outside the law.
+      - question: |
+          When did the Tax Revenue Appeals Act, Cap. 408, come into effect, and why is this significant?
+        answer: |
+          The Tax Revenue Appeals Act, Cap. 408, came into effect on 01/07/2001 via G.N. No. 126 of 29/06/2001. This is significant because the authorities cited by T.R.A. were decided before this law was enacted.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ATARUSHA ## (CORAM: OTHMAN, C.J., MJASIRl,J.A. And JUMA,J.A. ) CIVIL APPEAL NO. 84 OF 2009 TANZANIA REVENUE AUTHORITY .............................................. APPELLANT ## VERSUS TANGO TRANSPORT COMPANY LTD ........................................ RESPONDENT (Appeal from a judgment and decree of the High Court of Tanzania at Arusha) ## (Mushi, J.) dated the 5th day of December, 2003 in Civil Case No. 38 of 2000 ## JUDGMENT OF THE COURT ## 24th &amp; 27th October, 2016 OTHMAN, C.J.: The appellant, Tanzania Revenue Authority (T.R.A.) is aggrieved by the judgment and decree of the High Court (Mushi, J.), entered 2ps. in favour of the respondent, Tango Transport Company Ltd. At the hearing of the appeal on 24/10/2016 Mr. Akonaay O'hhaySang'ka, learned Advocate represented the appellant and Mr. Kalolo Bundala, learned Advocate represented the respondent. Before determining the merits or otherwise of the appeal it is essential that a brief account of the background be narrated. 2ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA ATARUSHA ## (CORAM: OTHMAN, C.J., MJASIRl,J.A. And JUMA,J.A. ) CIVIL APPEAL NO. 84 OF 2009 TANZANIA REVENUE AUTHORITY .............................................. APPELLANT ## VERSUS TANGO TRANSPORT COMPANY LTD ........................................ RESPONDENT (Appeal from a judgment and decree of the High Court of Tanzania at Arusha) ## (Mushi, J.) dated the 5th day of December, 2003 in Civil Case No. 38 of 2000 ## JUDGMENT OF THE COURT ## 24th &amp; 27th October, 2016 OTHMAN, C.J.: The respondent company (plaintiff), which operated a transport business in Arusha sued the appellant 2ps. (2nd defendant) and two others at the High Court for general damages, restoration on the value of its properties, a Scania lorry (Reg. No. TZ 94444) and a trailer (Reg. No. Tz.
+    questions_and_answers:
+      - question: |
+          Who were the parties involved in the Civil Appeal No. 84 of 2009?
+        answer: |
+          The parties involved were the Tanzania Revenue Authority (appellant) and Tango Transport Company Ltd. (respondent).
+      - question: |
+          Who represented the appellant and the respondent during the appeal hearing?
+        answer: |
+          The appellant was represented by Mr. Akonaay O'hhaySang'ka, and the respondent was represented by Mr. Kalolo Bundala.
+      - question: |
+          What was the decision of the High Court that led to the appeal?
+        answer: |
+          The High Court ruled in favor of Tango Transport Company Ltd., which prompted the Tanzania Revenue Authority to appeal the decision.
+      - question: |
+          What was the date of the High Court judgment that is being appealed?
+        answer: |
+          The High Court judgment was delivered on the 5th day of December, 2003.
+      - question: |
+          What claims did Tango Transport Company Ltd. make in the initial High Court case?
+        answer: |
+          Tango Transport Company Ltd. sued for general damages, restoration of the value of its properties, which included a Scania lorry (Reg. No. TZ 94444) and a trailer (Reg. No. Tz).
+  - context: |
+      1ps. 1ps. Such exclusion must be either explicitly expressed. Govindbhai Ratnabhai &amp; Ors. [1968) INSC 202; AIR 1969 SC 439 (para.7). This court observed that it is necessary to bear in mind the important principle of construction which is that if a statute excluded the ordinary jurisdiction of a civil court it must do so either by express terms or by the use of such terms as would necessarily lead to the inference of such 2ps. exclusion. This principle was reiterated in Dewaji v Ganpatalal [1968) INSC 179; AIR SC 560. It is also well settled that a provision of law ousting the jurisdiction of a civil court must be strictly constrained and onus lies on the party seeking" .... (See also/ Anisminic v Foreign Compensation Commission [1962) A.C. 14~ 170/ HL}. The respondent's amended plaint filed on 8/09/2000 averred in paragraphs: - "6. 2ps. 1ps. This court observed that it is necessary to bear in mind the important principle of construction which is that if a statute excluded the ordinary jurisdiction of a civil court it must do so either by express terms or by the use of such terms as would necessarily lead to the inference of such exclusion. The respondent's amended plaint filed on 8/09/2000 averred in paragraphs: - "6. That on or about the 1 ffh 2ps. of August, 2000 the first Defendant purported to sell the Plaintiff's lorry by public auction claiming that the Plaintiff has defaulted and/or refused to pay outstanding tax to the Income Tax Department of the Second Defendant. The Plaintiff was never served with any notice indicating the amount claimed by the Second Defendant and/or reason as to why his motor vehicle has to be sold to recover an unspecified tax. - 7.
+    questions_and_answers:
+      - question: |
+          What is the principle of construction regarding the exclusion of a civil court's jurisdiction?
+        answer: |
+          The principle states that if a statute excludes the ordinary jurisdiction of a civil court, it must do so either by express terms or through terms that necessarily imply such exclusion.
+      - question: |
+          Which court cases reiterated the principle of construction regarding the exclusion of civil court jurisdiction?
+        answer: |
+          The cases Govindbhai Ratnabhai & Ors. (1968) and Dewaji v Ganpatalal (1968) reiterated the principle, emphasizing express or necessary implication for the exclusion of jurisdiction.
+      - question: |
+          What must a party demonstrate according to the principle about ousting the jurisdiction of a civil court?
+        answer: |
+          A party must demonstrate that the statute explicitly or necessarily implies the exclusion of civil court jurisdiction, and the provision must be strictly construed.
+      - question: |
+          What allegation did the plaintiff make in the amended plaint filed on 8/09/2000?
+        answer: |
+          The plaintiff alleged that the first defendant sold their lorry at a public auction without serving notice of the outstanding tax amount or reasons for the sale to recover an unspecified tax.
+      - question: |
+          What was the plaintiff's complaint regarding the sale of their motor vehicle on the 17th of August, 2000?
+        answer: |
+          The plaintiff complained that the sale was conducted without any prior notice or explanation from the Income Tax Department regarding the claimed outstanding tax.
+  - context: |
+      1ps. 1ps. Mr. Bundala admitted that much as at the High Court no objection was taken by T.R.A. on the trial court's jurisdiction to entertain and determine the suit, a question of jurisdiction can be taken at any stage of the proceedings, even on appeal as held by the Court in Michael Leseni Kweka v. John Eliafe, Civil Appeal No. 51 of 1997 2ps. and Mr. Reginald Abraham Mengi and Mrs Mercy Anna Mengi v. The Loans and Advances Realization Trust, Civil Appeal No. 45 of 2001 (All COA, unreported). Moreover, the suit had also challenged the warrant of distress issues by T.R.A. under section 109(1) of the Income Tax Act, 1973 and the Income Tax (Distraint) Rules, 1975 (G.N. No 7 of 1975). That 3ps. under sections 89(1), 89B and 90(1) of the Income Tax Act, the authority and specific forums for determining tax disputes were respectively, the National Tax Appeals Board, the Zonal Tax Appeals Board and the Tax Appeals Tribunal. 2ps. 1ps. That the suit involved the respondent's tax liability was evident from paragraphs 6 and 7 of its amended plaint. Moreover, the suit had also challenged the warrant of distress issues by T.R.A. under section 109(1) of the Income Tax Act, 1973 and the Income Tax (Distraint) Rules, 1975 (G.N. No 7 of 1975). As the remedies available under the Income Tax Act were 2ps. not first exhausted by the respondent, the High Court was barred from exercising jurisdiction. He relied on Tanzania Revenue Authority v. Kotra Company Ltd, Civil Appeal No. 12 of 2009 and Tanzania Revenue Authority v. New Musoma Textiles Ltd; Civil Appeal No.
+    questions_and_answers:
+      - question: |
+          What precedent does Mr. Bundala cite to support the argument that jurisdiction can be challenged at any stage of proceedings?
+        answer: |
+          Mr. Bundala cites Michael Leseni Kweka v. John Eliafe, Civil Appeal No. 51 of 1997, and Mr. Reginald Abraham Mengi and Mrs. Mercy Anna Mengi v. The Loans and Advances Realization Trust, Civil Appeal No. 45 of 2001 to support the claim that questions of jurisdiction can be raised at any stage, even on appeal.
+      - question: |
+          What legal provisions were cited as governing the issue of the warrant of distress by T.R.A.?
+        answer: |
+          The warrant of distress issued by T.R.A. was governed by section 109(1) of the Income Tax Act, 1973 and the Income Tax (Distraint) Rules, 1975 (G.N. No 7 of 1975).
+      - question: |
+          What are the specific forums for determining tax disputes under the Income Tax Act?
+        answer: |
+          The specific forums for determining tax disputes under the Income Tax Act are the National Tax Appeals Board, the Zonal Tax Appeals Board, and the Tax Appeals Tribunal, as per sections 89(1), 89B, and 90(1) of the Act.
+      - question: |
+          Why was the High Court considered barred from exercising jurisdiction in this case?
+        answer: |
+          The High Court was barred from exercising jurisdiction because the remedies available under the Income Tax Act were not first exhausted by the respondent before approaching the court.
+      - question: |
+          Which other cases were referenced as supporting the lack of jurisdiction for the High Court in tax-related disputes?
+        answer: |
+          The cases Tanzania Revenue Authority v. Kotra Company Ltd, Civil Appeal No. 12 of 2009, and Tanzania Revenue Authority v. New Musoma Textiles Ltd, Civil Appeal No., were referenced to support the argument that the High Court lacked jurisdiction in tax-related disputes.
+document_outline: |
+  **Document Outline:**
+  This document outlines the judgment of the Court of Appeal of Tanzania in *Civil Appeal No. 84 of 2009*, where the Tanzania Revenue Authority (appellant) challenged the High Court's decision in favor of Tango Transport Company Ltd. (respondent). The appeal centers on jurisdictional issues, particularly whether the High Court erred in entertaining a tax liability dispute that, under the Income Tax Act, should have been addressed by specialized tax forums such as the Tax Appeals Board or Tax Appeals Tribunal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tanzania_Revenue_Authority_vs_Tango_Transport_Company_Ltd_(Civil_Appeal_No_84_of_2009)_2016_TZCA_84_(27_October_2016).md

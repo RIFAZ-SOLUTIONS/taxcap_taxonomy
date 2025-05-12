@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## fCORAM: MBAROUK, J.A., MASSATI, J.A. And MUGASHA, J.A.) ## CIVIL APPEAL NO. 63 OF 2016 MBEYA INTERTRADE COMPANY LIMITED......................................APPELLANT VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY............................................................... RESPONDENT (Appeal from the judgment, Decree and Orders of the Tax Revenue Appeals Tribunal at Mbeya in Income Tax Appeal No. 6 of 2004 dated 29th day of January, 2005, and which is filed pursuant to the order for extension of time granted by Hon. Dr. Twaib Fauz, sitting at the Tax Revenue Appeals Tribunal on 8th March, 2016 ) ## fFauz, 3.1 dated 2ps. the 29th day of January, 2005 ## JUDGMENT OF THE COURT 7th and 13t h September &amp; 3rd October, 2016 ## MUGASHA, J.A.: 2ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## fCORAM: MBAROUK, J.A., MASSATI, J.A. And MUGASHA, J.A.) ## CIVIL APPEAL NO. 63 OF 2016 MBEYA INTERTRADE COMPANY LIMITED......................................APPELLANT VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY............................................................... RESPONDENT (Appeal from the judgment, Decree and Orders of the Tax Revenue Appeals Tribunal at Mbeya in Income Tax Appeal No. 6 of 2004 dated 29th day of January, 2005, and which is filed pursuant to the order for extension of time granted by Hon. The appellant, mbeya in te r tra d e company lim ited, appeals 2ps. against the judgment and decree of the Tax Revenue Appeals Tribunal
+    questions_and_answers:
+      - question: |
+          What is the case number of the civil appeal mentioned in the document?
+        answer: |
+          The civil appeal is numbered as Civil Appeal No. 63 of 2016.
+      - question: |
+          Who is the appellant in the case?
+        answer: |
+          The appellant in the case is Mbeya Intertrade Company Limited.
+      - question: |
+          Against what entity is the appellant filing the appeal?
+        answer: |
+          The appeal is filed against the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What was the date of the original judgment from the Tax Revenue Appeals Tribunal?
+        answer: |
+          The original judgment from the Tax Revenue Appeals Tribunal was dated 29th January 2005.
+      - question: |
+          Who granted the order for the extension of time to file the appeal?
+        answer: |
+          The order for the extension of time to file the appeal was granted by Hon. Dr. Twaib Fauz on 8th March 2016.
+  - context: |
+      1ps. 1ps. We summoned Mr. Laswai on 13/9/2016 to address us on the competence of the appeal on account of the incomplete record of appeal. Mr. Laswai conceded that there are missing exhibits in the record of appeal such as, exhibit PI and R4. However, he argued that since the exhibits were admitted and reflected in the proceedings of the Board and the Tribunal 2ps. and were in the original case file, the Court can make reference thereto. He urged the Court to compose judgment on the basis of the hearing of the appeal conducted on 7/9/2016 in terms of Rule 39(1) of the Rules. In the present matter, there is no doubt that the record of appeal before us is incomplete. Several documents including the appellant's receipts and returns for the input tax and 3ps. output tax which were introduced into evidence were not incorporated in the record of appeal. The Exhibits are: pi, P2, P3, P4, P5, P6, P7, P8, P9, pio, p ii, P12, P13, P14, P15 and P16. 2ps. 1ps. In the present matter, there is no doubt that the record of appeal before us is incomplete. Several documents including the appellant's receipts and returns for the input tax and output tax which were introduced into evidence were not incorporated in the record of appeal. The Exhibits are: pi, P2, P3, P4, P5, P6, P7, P8, P9, pio, p ii, P12, P13, P14, P15 and P16.
+    questions_and_answers:
+      - question: |
+          What issue was raised regarding the record of appeal during the hearing on 13/9/2016?
+        answer: |
+          The issue raised was the incompleteness of the record of appeal, including missing exhibits such as PI and R4.
+      - question: |
+          What argument did Mr. Laswai present regarding the missing exhibits in the record of appeal?
+        answer: |
+          Mr. Laswai argued that since the missing exhibits were admitted and reflected in the proceedings of the Board and the Tribunal and were available in the original case file, the Court could make reference to them.
+      - question: |
+          What did Mr. Laswai urge the Court to do despite the incomplete record of appeal?
+        answer: |
+          Mr. Laswai urged the Court to compose judgment on the basis of the hearing of the appeal conducted on 7/9/2016 in terms of Rule 39(1) of the Rules.
+      - question: |
+          Which documents were noted to be missing from the record of appeal?
+        answer: |
+          The missing documents included several exhibits such as PI, P2, P3, P4, P5, P6, P7, P8, P9, P10, P11, P12, P13, P14, P15, and P16, as well as the appellant's receipts and returns for input and output tax.
+      - question: |
+          How does the text emphasize the incompleteness of the record of appeal?
+        answer: |
+          The text explicitly states that the record of appeal is incomplete and lists several missing documents and exhibits, including those related to the appellant's tax receipts and returns.
+  - context: |
+      These documents were put in 2ps. the evidence at the hearing of the appeal before the Board on 26/10/2004 as reflected from pages 177 to 182 of the record of appeal. This contravened Rule 96 (1) (f) the Rules which provides:- "For the purposes o f an appeal from the High Court or a tribunal ' in its original jurisdiction &gt; the record of appeal shall subject to sub-rule (3) contain .............. all documents put in evidence at the hearing or if such documents are not in English language, their 3ps. certified translations. 3ps. 1ps. The Exhibits are: pi, P2, P3, P4, P5, P6, P7, P8, P9, pio, p ii, P12, P13, P14, P15 and P16. These documents were put in the evidence at the hearing of the appeal before the Board on 26/10/2004 as reflected from pages 177 to 182 of the record of appeal. Save that the copies referred to in paragraphs (d) (e) and (f) shall exclude copies of any documents or any o f their parts that are not relevant to the matters in controversy on the appeal." Since this 2ps. is an appeal originating from the Board, Rule 96 (1) of the Rules must be read together with Rule 96 (2) of the Rules which reads as follows: "For the purposes of any appeal from the High Court in its appellate jurisdiction, the record of appeal shall contain documents relating to the proceedings in the
+    questions_and_answers:
+      - question: |
+          What does Rule 96 (1) (f) of the Rules require for documents not in English included in an appeal?
+        answer: |
+          Rule 96 (1) (f) requires that documents not in English must have certified translations included in the record of appeal.
+      - question: |
+          To which pages of the record of appeal do the referenced documents in evidence correspond?
+        answer: |
+          The referenced documents correspond to pages 177 to 182 of the record of appeal.
+      - question: |
+          What is the significance of Rule 96 (2) when dealing with appeals from the High Court in its appellate jurisdiction?
+        answer: |
+          Rule 96 (2) specifies that for appeals from the High Court in its appellate jurisdiction, the record of appeal must contain documents related to the proceedings in the lower court.
+      - question: |
+          What provision is made for excluding documents in the record of appeal?
+        answer: |
+          Documents or parts of documents that are not relevant to the matters in controversy in the appeal can be excluded, as noted in Rule 96 (1) paragraphs (d), (e), and (f).
+      - question: |
+          What is the general context of the documents labeled pi to p16 in the appeal process?
+        answer: |
+          The documents labeled pi to p16 were put in evidence at the hearing of the appeal before the Board on 26/10/2004.
+  - context: |
+      (the Tribunal) in VAT Tax Appeal No. 6 of 2004 vide a decision dated 29t h January, 2005. A brief background of the appeal is to the effect that: The respondent made an additional assessment of Value Added Tax amounting to Tshs. 3ps. 1ps. VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY............................................................... RESPONDENT (Appeal from the judgment, Decree and Orders of the Tax Revenue Appeals Tribunal at Mbeya in Income Tax Appeal No. 6 of 2004 dated 29th day of January, 2005, and which is filed pursuant to the order for extension of time granted by Hon. 1,576,175/= being undeclared sales for the period of July, 1998 to March, 2000 and issued a demand notice on 16/9/2003 requiring the appellant to settle the tax liability within 2ps. thirty (30) days or else pay interest on the tax liability. Since the appellant defaulted the respondent closed the appellant's business premises. On 22n d September, 2003 the appellant lodged a notice of intention to appeal and on 29t h October, 2003 she appealed to the Tax Revenue Appeals Board (The Board). On 27t h October, 2004 the Board partly 3ps. allowed the appeal and dismissed other grounds. Aggrieved, the appellant appealed to the Tribunal which on 29t h January, 2005 dismissed the appeal in its entirety. Still aggrieved, the appellant has appealed to this Court. 4ps. 1ps. On 27t h October, 2004 the Board partly allowed the appeal and dismissed other grounds. Aggrieved,
+    questions_and_answers:
+      - question: |
+          What was the original VAT amount assessed by the respondent as undeclared sales?
+        answer: |
+          The original VAT amount assessed by the respondent as undeclared sales was Tshs. 1,576,175, for the period of July 1998 to March 2000.
+      - question: |
+          What action did the respondent take after the appellant defaulted on the demand notice?
+        answer: |
+          After the appellant defaulted on the demand notice, the respondent closed the appellant's business premises.
+      - question: |
+          When did the appellant submit a notice of intention to appeal the tax assessment?
+        answer: |
+          The appellant submitted a notice of intention to appeal the tax assessment on 22nd September, 2003.
+      - question: |
+          What was the decision of the Tax Revenue Appeals Board regarding the appellant's October 2003 appeal?
+        answer: |
+          On 27th October, 2004, the Tax Revenue Appeals Board partly allowed the appeal and dismissed other grounds.
+      - question: |
+          Why did the appellant escalate the appeal to the High Court?
+        answer: |
+          The appellant escalated the appeal to the High Court because the Tribunal dismissed their appeal in its entirety on 29th January, 2005, leaving them aggrieved.
+  - context: |
+      the appellant appealed to the Tribunal which on 29t h January, 2005 dismissed the appeal in its entirety. Still aggrieved, the appellant has appealed to this Court. Apart from asking the Court to allow the appeal, the appellant prayed for an order that she be compensated Tshs. 51,417,146.00 by the respondent for closing down her 2ps. business premises from 1s t February, 2002 to 16t h December, 2004. The appellant was represented by Mr. John Laswai, learned counsel. At the initial hearing of the appeal on 7t h September, 2016, the respondent who was dully served with the notice of hearing, neither entered appearance nor availed reason of absence. As such, we allowed the appellant to proceed in the absence of the 3ps. respondent in terms of Rule 112(2) of the (Court of Appeal) Rules, 2009. Mr. Laswai adopted the written submissions earlier on filed to constitute an integral part in the hearing of the appeal. 5ps. 1ps. 51,417,146.00 by the respondent for closing down her business premises from 1s t February, 2002 to 16t h December, 2004. The appellant was represented by Mr. John Laswai, learned counsel. At the initial hearing of the appeal on 7t h September, 2016, the respondent who was dully served with the notice of hearing, neither entered appearance nor availed reason of absence. In addition he made oral 2ps. submissions in support of the appeal and we reserved the matter for judgment. However, in
+    questions_and_answers:
+      - question: |
+          What decision did the Tribunal make regarding the appellant's appeal on 29th January, 2005?
+        answer: |
+          The Tribunal dismissed the appellant's appeal in its entirety on 29th January, 2005.
+      - question: |
+          What compensation did the appellant request from the respondent, and for what reason?
+        answer: |
+          The appellant requested compensation of Tshs. 51,417,146.00 from the respondent for closing down her business premises from 1st February, 2002 to 16th December, 2004.
+      - question: |
+          How did the Court handle the respondent's absence at the initial hearing of the appeal on 7th September, 2016?
+        answer: |
+          Since the respondent was duly served with the notice of hearing but failed to appear or provide a reason for absence, the Court allowed the appellant to proceed in the respondent's absence under Rule 112(2) of the Court of Appeal Rules, 2009.
+      - question: |
+          Who represented the appellant during the hearing, and what materials did he present in support of the appeal?
+        answer: |
+          The appellant was represented by Mr. John Laswai, who adopted written submissions previously filed and made additional oral submissions in support of the appeal.
+      - question: |
+          What procedural step did the Court take after hearing the appellant’s arguments on the appeal?
+        answer: |
+          The Court reserved the matter for judgment after hearing the appellant’s arguments.
+document_outline: |
+  **Document Outline:**
+  The document pertains to Civil Appeal No. 63 of 2016 before the Court of Appeal of Tanzania at Dar es Salaam, where Mbeya Intertrade Company Limited challenges the judgment of the Tax Revenue Appeals Tribunal regarding additional VAT assessments imposed by the Tanzania Revenue Authority. The appeal seeks reversal of the Tribunal's decision, compensation for business losses, and addresses procedural issues concerning missing exhibits in the record of appeal.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mbeya_Intertrade_Company_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_63_of_2016)_2016_TZCA_840_(3_October_2016).md

@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA (COMMERCIAL DIVISION) ## AT PAR ES SALAAM ## COMMERCIAL CASE NO. 10 OF 2004 ## MARIE STOPES TANZANIA LIMITED..................... PLAINTIFF VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY............................. 1st DEFENDANT THE COMMISSIONER OF INCOME TAX........................ 2nd DEFENDANT ## RULING ## KALEGEYA, J: The Defendants are challenging the jurisdiction of this Court to entertain the suit. The Plaintiff is a non - governmental Organisation incorporated as a Company Limited by guarantee under the Companies Ordinance, Cap. 212. Under the Tanzania Revenue Act, No. 11 of 1995, the 1st Defendant is responsible for the administration and enforcement of revenue laws and also is responsible 2ps. for day to day operations as well as the management of the funds, property and business of Tanzania Revenue Authority. The 2nd Defendant is responsible under the Income Tax Act, 1973, for, among others, the assessment, collection and recovery of taxes. 2ps. 1ps. The Plaintiff is a non - governmental Organisation incorporated as a Company Limited by guarantee under the Companies Ordinance, Cap. 212. Under the Tanzania Revenue Act, No. 11 of 1995, the 1st Defendant is responsible for the administration and enforcement of revenue laws and also is responsible for day to day operations as well as the management of the funds, property and business of Tanzania Revenue Authority. The 2nd Defendant is responsible under the Income Tax Act, 1973, for, among others, the assessment, collection and recovery of taxes. The Defendants' preliminary objection is contained in the following wording:- - 2ps. 'Pursuant to section 7 of the Tax Revenue Appeal Act No. 15 of2000, High Court has no legal jurisdiction to hear and determine the suit. ' ## What led to this state of affairs?
+    questions_and_answers:
+      - question: |
+          What is the nature of the case referenced in the context?
+        answer: |
+          The case is a commercial dispute filed as Commercial Case No. 10 of 2004 in the High Court of Tanzania (Commercial Division) involving MARIE STOPES TANZANIA LIMITED as the plaintiff and two defendants: the Commissioner General of the Tanzania Revenue Authority and the Commissioner of Income Tax.
+      - question: |
+          What is the jurisdictional objection raised by the defendants?
+        answer: |
+          The defendants assert that, pursuant to section 7 of the Tax Revenue Appeal Act No. 15 of 2000, the High Court lacks jurisdiction to hear and determine the suit.
+      - question: |
+          What roles do the 1st and 2nd defendants fulfill under Tanzanian law?
+        answer: |
+          The 1st Defendant, the Tanzania Revenue Authority, is responsible for administering and enforcing revenue laws, managing funds, property, and the Authority’s business operations. The 2nd Defendant, the Commissioner of Income Tax, oversees the assessment, collection, and recovery of taxes under the Income Tax Act, 1973.
+      - question: |
+          What is the legal status of the plaintiff in the case?
+        answer: |
+          The plaintiff, MARIE STOPES TANZANIA LIMITED, is a non-governmental organization incorporated as a company limited by guarantee under the Companies Ordinance, Cap. 212.
+      - question: |
+          What legislation is cited by the defendants to support their objection to the court's jurisdiction?
+        answer: |
+          The defendants reference Section 7 of the Tax Revenue Appeal Act No. 15 of 2000 as the basis for their claim that the High Court does not have jurisdiction to hear the case.
+  - context: |
+      1ps. 1ps. It is therefore not a suit of civil nature intended by the parliament to be covered under section 7 of the Act cited above. The orders sought are to the effect of establishing the Plaintiff's charitable status as provided for under the law and the court's decision on this matter will affect the rights of many charitable organization which have been incorporated as companies limited by guarantee. Unless the said clause is properly construed the Plaintiff will not have any rights as a charitable organization, particularly when dealing with the Defendants. This uncertainty can be cleared 2ps. through a declaratory suit and Section 7 (2) of the Civil Procedure Code, 1966, is very clear that the fact that a consequential relief is claimed as a result of the declaratory orders issued is not a bar to the institution of a declaratory suit.......................................................................... The Plaintiff did not contest any assessment raised by the TRA because of uncertainty of its status. 2ps. 1ps. Unless the said clause is properly construed the Plaintiff will not have any rights as a charitable organization, particularly when dealing with the Defendants. This uncertainty can be cleared through a declaratory suit and Section 7 (2) of the Civil Procedure Code, 1966, is very clear that the fact that a consequential relief is claimed as a result of the declaratory orders issued is not a bar to the institution of a declaratory suit.......................................................................... The assessment in respect of which the Defendants have collected tax was not objected to and the Plaintiffs still cannot lodge any objection to 2ps. assessments to be raised unless and until its status as a charitable organization is declared. The fact that upon declaration a refund of the tax will ensue does not disqualify it from being a declaratory suit.................................. .......................................................................................
+    questions_and_answers:
+      - question: |
+          What is the primary issue the Plaintiff is facing in the context described?
+        answer: |
+          The Plaintiff is facing uncertainty about its legal status as a charitable organization, which affects its rights and its ability to deal with the Defendants, including contesting tax assessments.
+      - question: |
+          What legal provision allows for a declaratory suit in this scenario?
+        answer: |
+          Section 7 (2) of the Civil Procedure Code, 1966, allows for a declaratory suit, even if consequential relief is claimed as a result of the declaratory orders issued.
+      - question: |
+          Why has the Plaintiff not contested the tax assessments raised by the TRA?
+        answer: |
+          The Plaintiff has not contested the tax assessments due to the uncertainty of its legal status as a charitable organization.
+      - question: |
+          What could happen if the Plaintiff’s status as a charitable organization is declared?
+        answer: |
+          If the Plaintiff’s status as a charitable organization is declared, it would enable the Plaintiff to object to tax assessments and could result in a refund of the tax already collected.
+      - question: |
+          How might the court’s decision on this matter impact other organizations?
+        answer: |
+          The court’s decision on the Plaintiff’s charitable status could affect the rights of many other charitable organizations incorporated as companies limited by guarantee.
+  - context: |
+      1ps. 1ps. The term includes all actions, both those formerly known as equitable actions and those known as legal actions, or, in other phraseology, both suits in equity and actions at law............................................................................................ In the great majority of states which have adopted rules or codes of civil procedure as patterned on the Federal Rules of Civil Procedure, there is only one form of action known as a 'civil action. Regular and orderly progress in form of law, including all possible steps in an action from its commencement to the execution of judgment. Terms also refers to administrative 2ps. proceedings before agencies, tribunals, bureau, or the like. An act which is done by the authority or direction of the court, agency, or tribunal, express or implied; an act necessary to be done in order to obtain a given end; a prescribed mode of action for carrying into effect a legal right. All the steps or measures adopted in the prosecution or defense of an action................................................. 2ps. 1ps. Terms also refers to administrative proceedings before agencies, tribunals, bureau, or the like. An act which is done by the authority or direction of the court, agency, or tribunal, express or implied; an act necessary to be done in order to obtain a given end; a prescribed mode of action for carrying into effect a legal right. All the steps or measures adopted in the prosecution or defense of an action................................................. The word may be used synonymously with 'action' or 'suit' to describe the entire course of an action at law or suit in equity from the issuance 2ps.
+    questions_and_answers:
+      - question: |
+          What does the term 'civil action' encompass under rules patterned on the Federal Rules of Civil Procedure?
+        answer: |
+          The term 'civil action' includes all actions previously known as equitable and legal actions, and it refers collectively to suits in equity and actions at law.
+      - question: |
+          What steps are involved in the regular process of a civil action?
+        answer: |
+          The process includes all possible steps in an action, from its commencement to the execution of judgment, in an orderly and legal manner.
+      - question: |
+          How does the term 'action' relate to administrative proceedings?
+        answer: |
+          The term 'action' also refers to administrative proceedings before agencies, tribunals, or bureaus, and includes acts performed under direction or authority needed to achieve a specific legal outcome.
+      - question: |
+          What is the purpose of the prescribed mode of action in a legal or administrative context?
+        answer: |
+          The prescribed mode of action is necessary to carry a legal right into effect and involves steps or measures for prosecuting or defending an action.
+      - question: |
+          How is the word 'action' used synonymously in legal terminology?
+        answer: |
+          The word 'action' can be used synonymously with 'suit' to describe the entire course of an action at law or a suit in equity from issuance onwards.
+  - context: |
+      1ps. 1ps. ' Dr. Luoga, Advocate, appeared for the Plaintiff while Mr. Songoro, Advocate, appeared for the Defendants. Section 7 of Act No. 15 of 2000 whose interpretation is being contested provides as under:- 'The Board shall, subject to section 12 have sole original jurisdiction in all proceedings of a civil nature in respect of disputes arising from revenue Laws administered by the Tanzania Revenue Authority' (emphasis added). This is purely a dispute of civil nature arising from tax laws administered by Tanzania Revenue Authority. Such dispute ought to have been pursued by way of an appeal to the Tax Revenue 2ps. Appeals Board in terms of section 7 and 16 of the tax Revenue Appeals Act No. 15 of 2000 read together with section 5A of the Tanzania Revenue Authority Act, No. 11 of1995 and s. 7 (1) of the Civil Procedure Code, 1966. ' In response, Dr. Luoga for the Plaintiff started by distinguishing the decisions cited, thus, - ' ...Defendant's contention is wrong in fact and their interpretation of the law is misdirected. 2ps. 1ps. This is purely a dispute of civil nature arising from tax laws administered by Tanzania Revenue Authority. The cited authorities ...are distinguishable from the instant suit as all cases cited were not dealing with declaratory orders in respect of which only the courts of law have jurisdiction to entertain. All the cited authorities arose out of the tax revenue laws administered by the TRA ' The Plaintiffs argument is three pronged - first, that this is not a 'civil dispute' arising from revenue laws administered by TRA; secondly, that this is just a declaratory suit, 'special proceedings in 2ps.
+    questions_and_answers:
+      - question: |
+          Who represented the Plaintiff and the Defendants in the case?
+        answer: |
+          Dr. Luoga, Advocate, appeared for the Plaintiff, while Mr. Songoro, Advocate, appeared for the Defendants.
+      - question: |
+          What does Section 7 of Act No. 15 of 2000 state regarding jurisdiction?
+        answer: |
+          Section 7 of Act No. 15 of 2000 states that the Board shall, subject to Section 12, have sole original jurisdiction in all civil proceedings related to disputes arising from revenue laws administered by the Tanzania Revenue Authority.
+      - question: |
+          What legal arguments did the Plaintiff's advocate, Dr. Luoga, make about jurisdiction?
+        answer: |
+          Dr. Luoga argued that the Defendants' interpretation of the law was misdirected and that this was not a 'civil dispute' under revenue laws administered by the TRA but rather a declaratory suit, which only courts of law have jurisdiction to entertain.
+      - question: |
+          What provisions and acts are mentioned as relevant to resolving tax disputes?
+        answer: |
+          The provisions and acts mentioned include Section 7 and 16 of the Tax Revenue Appeals Act No. 15 of 2000, Section 5A of the Tanzania Revenue Authority Act No. 11 of 1995, and Section 7(1) of the Civil Procedure Code, 1966.
+      - question: |
+          What distinguishes the Plaintiff’s case from the precedents cited by the Defendants?
+        answer: |
+          The Plaintiff argued that the cited cases by the Defendants were distinguishable because they did not involve declaratory orders and arose solely from tax revenue laws, unlike the current case, which is a declaratory suit under court jurisdiction.
+  - context: |
+      1ps. 1ps. 5 above quoted shows that charitable organizations are generally exempted from taxes but have to satisfy the Commissioner that their income falls within the exempted parameters. The Legislature purposely used the word 'sole' to exclude original Court's jurisdiction. In trying to circumvent this, Dr. Luoga made reference to Halsbury's Law of England, 4th Edition, Vol. 1, para. 185, page 171, wherein it is stated: - "...the jurisdiction of the court is not ousted by a statutory remedy which ...in fact affords no remedy to the plaintiff for the wrong of which he complains; nor is it 2ps. ousted where the statutory remedy is otherwise inappropriate to cover the matter of which complaint is made or where a question of law is raised on which it would be advantageous to obtain an authoritative ruling from a superior court, particularly where that question relates to the scope of pre-existing legal rights encroached upon by the operation of a statute. 2ps. 1ps. In trying to circumvent this, Dr. Luoga made reference to Halsbury's Law of England, 4th Edition, Vol. 1, para. ' The above quoted notwithstanding, we have the guidance of our highest Court of the Land, the Court of Appeal in Attorney General v Lohay Akonaay and Joseph Lohay [1995] TLR 80 at 96 - ' ...Courts would not normally entertain a matter for which a special forum has been established, unless the aggrieved party can satisfy the Court that no appropriate remedy is available in the special forum '. Now, what the Plaintiffs are seeking, that is, whether they 2ps. are liable to pay tax is very much within the Board's powers as it is vested with jurisdiction to consider an appeal by a person who is challenging the Commissioner's assessment/decision. In here, the Commissioner under para.
+    questions_and_answers:
+      - question: |
+          What conditions must charitable organizations meet to be exempted from taxes?
+        answer: |
+          Charitable organizations must satisfy the Commissioner that their income falls within the exempted parameters to be exempted from taxes.
+      - question: |
+          What does the Legislature's use of the word 'sole' signify in the context provided?
+        answer: |
+          The Legislature's use of the word 'sole' signifies the exclusion of the original Court's jurisdiction over certain matters.
+      - question: |
+          According to Halsbury's Law of England, when is the court's jurisdiction not ousted by a statutory remedy?
+        answer: |
+          The court's jurisdiction is not ousted if the statutory remedy provides no remedy to the plaintiff, is inappropriate for the complaint, or involves a question of law requiring an authoritative ruling from a superior court.
+      - question: |
+          What guidance does the Court of Appeal provide regarding special forums and court jurisdiction?
+        answer: |
+          The Court of Appeal states that courts would not entertain a matter for which a special forum has been established unless the aggrieved party can show that no appropriate remedy is available in the special forum.
+      - question: |
+          What is the role of the Board in disputes regarding tax liability?
+        answer: |
+          The Board is vested with jurisdiction to consider appeals from individuals challenging the Commissioner's assessment or decisions regarding tax liability.
+document_outline: |
+  **Outline of Document Content:**
+  This court ruling addresses a jurisdictional challenge raised by the Defendants—the Tanzania Revenue Authority and its Commissioner of Income Tax—contesting the High Court’s authority to hear a tax dispute brought by Marie Stopes Tanzania Limited. The Plaintiff, a non-governmental organization, is challenging a corporate tax assessment of TZS 77,625,000 and asserting its charitable status, while the Defendants argue that pursuant to the Tax Revenue Appeals Act, such disputes should be handled by the Tax Revenue Appeals Board.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Marie_Stopes_(T)_Ltd_vs_The_Commissioner_General_(T)_Revenue_Authority_Another_(Commercial_Case_No_10_of_2004)_2004_TZHCComD_64_(7_May_2004).md

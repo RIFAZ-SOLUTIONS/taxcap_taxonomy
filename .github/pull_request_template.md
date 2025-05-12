@@ -24,7 +24,7 @@ following questionnaire with whatever information is applicable to your PR.
 **Response from the original model**
 
 
-<!-- What you received from the original model in response to your input, 
+<!-- What you received from the original model in response to your input,
 replace "..." -->
 
 ```
@@ -35,7 +35,7 @@ replace "..." -->
 **Response from the fine-tuned model**
 
 
-<!-- Generate a synthetic dataset based on your newly added seed data; train the model 
+<!-- Generate a synthetic dataset based on your newly added seed data; train the model
 with the synthetic data and now re-test the model's response with the same prompt.
 Replace "..." with what you receive with the finetuned model. -->
 

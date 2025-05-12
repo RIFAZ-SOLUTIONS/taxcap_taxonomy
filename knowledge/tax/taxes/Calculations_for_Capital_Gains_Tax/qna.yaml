@@ -1,0 +1,128 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS100,000,000×10%\text{Tax} = TZS 100,000,000 \times 10\%Tax=TZS100,000,000×10% Tax=TZS10,000,000\text{Tax} = TZS 10,000,000Tax=TZS10,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS100,000,000×30%\text{Tax} = TZS 100,000,000 \times 30\%Tax=TZS100,000,000×30% Tax=TZS30,000,000\text{Tax} = TZS 30,000,000Tax=TZS30,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. If it did, the tax rate would be 30% on the capital gain. ## Summary -  Corporate Capital Gains Tax for AquaClean Ltd.: TZS 30 million -  Individual 2ps. Capital Gains Tax (Resident): TZS 10 million -  Individual Capital Gains Tax (Non-Resident): TZS 30 million -  Capital Gains Tax for Sale of Mineral Rights (not applicable here): N/A In this scenario, the corporate capital gains tax rate is applied as per the standard CIT rate for waste management equipment, with individual tax rates varying based on residency. The special rate for mineral rights does not apply here. 2ps. 1ps. If it did, the tax rate would be 30% on the capital gain. ## Summary -  Corporate Capital Gains Tax for AquaClean Ltd.: TZS 30 million -  Individual Capital Gains Tax (Resident): TZS 10 million -  Individual Capital Gains Tax (Non-Resident): TZS 30 million -  Capital Gains Tax for Sale of Mineral Rights (not applicable here): N/A In this scenario, the corporate capital gains tax rate is applied as per the standard CIT rate for waste management equipment, with individual tax rates varying based on residency. 4o mini next ChatGPT Let's move on to the Construction sector. ## Scenario ## Company Profile: -  2ps. Company Name: BuildIt Ltd.
+    questions_and_answers:
+      - question: |
+          What is the capital gains tax rate for non-resident individuals in this scenario?
+        answer: |
+          The capital gains tax rate for non-resident individuals is 30%.
+      - question: |
+          How much tax would a resident individual pay on a capital gain of TZS 100,000,000?
+        answer: |
+          A resident individual would pay TZS 10,000,000, which is 10% of the capital gain.
+      - question: |
+          Does the capital gains tax for the sale of mineral or petroleum rights apply in this scenario?
+        answer: |
+          No, the tax rate for the sale of mineral or petroleum rights does not apply in this scenario.
+      - question: |
+          What is the corporate capital gains tax for AquaClean Ltd. based on this scenario?
+        answer: |
+          The corporate capital gains tax for AquaClean Ltd. is TZS 30 million.
+      - question: |
+          How do individual capital gains tax rates differ based on residency?
+        answer: |
+          Individual capital gains tax rates vary with residents paying 10% and non-residents paying 30%.
+  - context: |
+      1ps. 1ps. If it did, the tax rate would be 30% on the capital gain. ## Summary -  Corporate Capital Gains Tax for SecuriGov Ltd.: TZS 45 million -  Individual Capital Gains Tax (Resident): TZS 15 million -  Individual Capital Gains Tax (Non-Resident): TZS 45 million -  Capital Gains Tax for Sale of Mineral Rights (not applicable here): N/A In this scenario, the corporate capital gains tax is calculated using the standard CIT rate for the sale of security vehicles, with individual tax rates differing based on residency. 4o mini next ChatGPT Let's review the Education sector. ## Scenario ## Company Profile: -  Company 2ps. Name: EduBright Ltd. -  Industry: Education -  Location: Tanga, Tanzania -  Business Activity: Operating private schools and educational training centers. -  Ownership: 100% Tanzanian-owned ## Transaction: EduBright Ltd. decides to sell one of its educational training centers. The training center was acquired seven years ago for TZS 1 billion and is sold this year for TZS 1.5 billion. This results in a capital gain of TZS 500 million. 2ps. 1ps. -  Ownership: 100% Tanzanian-owned ## Transaction: EduBright Ltd. decides to sell one of its educational training centers. The training center was acquired seven years ago for TZS 1 billion and is sold this year for TZS 1.5 billion. This results in a capital gain of TZS 500 million. ## Calculation of Capital Gains Tax ## 1. Corporate Capital Gains Tax Rate Since EduBright Ltd. is a Tanzanian company, its capital gains are taxed at the normal Corporate Income Tax (CIT) rate. -  Assumption: The CIT rate is 30%. Capital Gain: TZS 500 million Corporate Capital Gains Tax Calculation: Tax=Capital Gain×CIT Rate\text{Tax} = 2ps.
+    questions_and_answers:
+      - question: |
+          What is the capital gain from EduBright Ltd.'s sale of its educational training center?
+        answer: |
+          The capital gain from the sale is TZS 500 million, calculated as the sale price of TZS 1.5 billion minus the acquisition cost of TZS 1 billion.
+      - question: |
+          What tax rate is applied to EduBright Ltd.'s corporate capital gain?
+        answer: |
+          The corporate capital gain is taxed at the standard Corporate Income Tax (CIT) rate, which is 30%.
+      - question: |
+          How much corporate capital gains tax does EduBright Ltd. owe from the sale?
+        answer: |
+          EduBright Ltd. owes TZS 150 million in corporate capital gains tax, calculated as TZS 500 million × 30%.
+      - question: |
+          Does the capital gains tax calculation differ for individuals based on residency?
+        answer: |
+          Yes, individual capital gains tax rates differ based on residency, with residents owing TZS 15 million and non-residents owing TZS 45 million in the provided summary.
+      - question: |
+          Is the capital gains tax for the sale of mineral rights applicable in this scenario?
+        answer: |
+          No, the capital gains tax for the sale of mineral rights is not applicable in this scenario as the transaction involves the sale of an educational training center.
+  - context: |
+      1ps. 1ps. Capital Gain: TZS 200 million Corporate Capital Gains Tax Calculation: Tax=Capital Gain×CIT Rate\text{Tax} = \text{Capital Gain} \times \text{CIT Rate}Tax=Capital Gain×CIT Rate Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 So, PowerFlow Ltd. would pay TZS 60 million in corporate capital gains tax. ## 2. Individual Capital Gains Tax Rate For individual transactions, if an individual resident or non-resident had sold the equipment: -  Resident Individual: The capital gains would be taxed at 10%. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS200,000,000×10%\text{Tax} = TZS 200,000,000 \times 10\%Tax=TZS200,000,000×10% Tax=TZS20,000,000\text{Tax} = TZS 2ps. 20,000,000Tax=TZS20,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. However, if PowerFlow Ltd. were involved in selling such rights, the applicable tax rate would be 30%. 2ps. 1ps. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS200,000,000×10%\text{Tax} = TZS 200,000,000 \times 10\%Tax=TZS200,000,000×10% Tax=TZS20,000,000\text{Tax} = TZS 20,000,000Tax=TZS20,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. ## Summary -  Corporate Capital Gains Tax for PowerFlow Ltd.: TZS 60 million -  Individual Capital Gains Tax (Resident): TZS 20 million -  Individual Capital Gains Tax (Non-Resident): TZS 2ps.
+    questions_and_answers:
+      - question: |
+          What is the corporate capital gains tax rate used to calculate PowerFlow Ltd.'s tax liability?
+        answer: |
+          The corporate capital gains tax rate used is 30%.
+      - question: |
+          How much would a resident individual pay in capital gains tax for the transaction?
+        answer: |
+          A resident individual would pay TZS 20 million, calculated as TZS 200 million × 10%.
+      - question: |
+          What is the tax liability for a non-resident individual selling the equipment?
+        answer: |
+          A non-resident individual would pay TZS 60 million, calculated as TZS 200 million × 30%.
+      - question: |
+          What is the tax rate for the sale of mineral or petroleum rights, and does it apply in this scenario?
+        answer: |
+          The tax rate for the sale of mineral or petroleum rights is 30%, but it does not apply in this scenario.
+      - question: |
+          What is the total corporate capital gains tax PowerFlow Ltd. is required to pay based on the given transaction?
+        answer: |
+          PowerFlow Ltd. is required to pay TZS 60 million in corporate capital gains tax.
+  - context: |
+      1ps. 1ps. Capital Gain: TZS 200 million Corporate Capital Gains Tax Calculation: Tax=Capital Gain×CIT Rate\text{Tax} = \text{Capital Gain} \times \text{CIT Rate}Tax=Capital Gain×CIT Rate Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 So, ServicePlus Ltd. would pay TZS 60 million in corporate capital gains tax. ## 2. Individual Capital Gains Tax Rate For individual transactions, if an individual resident or non-resident had sold the office building: -  Resident Individual: The capital gains would be taxed at 10%. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS200,000,000×10%\text{Tax} = TZS 200,000,000 \times 10\%Tax=TZS200,000,000×10% Tax=TZS20,000,000\text{Tax} = 2ps. TZS 20,000,000Tax=TZS20,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. If it did, the tax rate would be 30% on the capital gain. 2ps. 1ps. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS200,000,000×10%\text{Tax} = TZS 200,000,000 \times 10\%Tax=TZS200,000,000×10% Tax=TZS20,000,000\text{Tax} = TZS 20,000,000Tax=TZS20,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. If it did, the tax rate would be 30% on the capital gain. ## Summary -  Corporate Capital Gains Tax for ServicePlus Ltd.: TZS 60 million -  Individual 2ps.
+    questions_and_answers:
+      - question: |
+          What is the corporate capital gains tax rate applicable to ServicePlus Ltd.?
+        answer: |
+          The corporate capital gains tax rate applicable to ServicePlus Ltd. is 30%.
+      - question: |
+          How much corporate capital gains tax does ServicePlus Ltd. need to pay on a capital gain of TZS 200 million?
+        answer: |
+          ServicePlus Ltd. needs to pay TZS 60 million in corporate capital gains tax on a capital gain of TZS 200 million.
+      - question: |
+          What is the capital gains tax rate for a resident individual selling an asset?
+        answer: |
+          The capital gains tax rate for a resident individual selling an asset is 10%.
+      - question: |
+          What would be the capital gains tax for a non-resident individual selling an asset worth TZS 200 million?
+        answer: |
+          A non-resident individual would pay TZS 60 million in capital gains tax for selling an asset worth TZS 200 million, based on the 30% tax rate.
+      - question: |
+          Does the 30% tax rate for the sale of mineral or petroleum rights apply in this scenario?
+        answer: |
+          No, the 30% tax rate for the sale of mineral or petroleum rights does not apply in this scenario as it does not involve the sale of mineral or petroleum rights.
+  - context: |
+      1ps. 1ps. -  Non-Resident Individual: The capital gains would be taxed at 30%. ## For Residents (if it were an individual transaction): Tax=TZS200,000,000×10%\text{Tax} = TZS 200,000,000 \times 10\%Tax=TZS200,000,000×10% Tax=TZS20,000,000\text{Tax} = TZS 20,000,000Tax=TZS20,000,000 ## For Non-Residents (if it were an individual transaction): Tax=TZS200,000,000×30%\text{Tax} = TZS 200,000,000 \times 30\%Tax=TZS200,000,000×30% Tax=TZS60,000,000\text{Tax} = TZS 60,000,000Tax=TZS60,000,000 ## 3. Sale of Mineral or Petroleum Rights This scenario does not involve the sale of mineral or petroleum rights, so this rate does not apply. If it did, the tax rate would be 30% on the capital gain. ## Summary -  Corporate Capital Gains Tax for AdminPlus Ltd.: TZS 60 million -  Individual 2ps. Capital Gains Tax (Resident): TZS 20 million -  Individual Capital Gains Tax (Non-Resident): TZS 60 million -  Capital Gains Tax for Sale of Mineral Rights (not applicable here): N/A In this scenario, the corporate capital gains tax is calculated using the standard CIT rate for the sale of an office building, while individual tax rates are determined by residency. The special rate for mineral rights is not applicable. 2ps. 1ps. If it did, the tax rate would be 30% on the capital gain. The special rate for mineral rights is not applicable. 4o mini next ChatGPT Let's review the Public Administration and Defence; Compulsory Social Security sector. ## Scenario ## Company Profile: -  Company Name: SecuriGov Ltd. -  Industry: Public Administration and Defence; Compulsory Social Security -  Location: Dodoma, Tanzania -  Business Activity: Providing security and administrative services to government agencies. -  Ownership: 100% Tanzanian-owned ## Transaction: SecuriGov Ltd. decides to sell a fleet of security vehicles. The vehicles were purchased two years ago for TZS 600 million and are 2ps. sold this year for TZS 750 million.
+    questions_and_answers:
+      - question: |
+          What is the capital gains tax rate for a non-resident individual?
+        answer: |
+          The capital gains tax rate for a non-resident individual is 30%.
+      - question: |
+          How much tax would a resident individual pay on a capital gain of TZS 200 million?
+        answer: |
+          A resident individual would pay TZS 20 million in tax, calculated as TZS 200 million × 10%.
+      - question: |
+          Is the 30% tax rate for mineral or petroleum rights applicable in this scenario?
+        answer: |
+          No, the 30% tax rate for mineral or petroleum rights is not applicable in this scenario.
+      - question: |
+          What is the capital gains tax for AdminPlus Ltd. from the sale of an office building?
+        answer: |
+          The corporate capital gains tax for AdminPlus Ltd. is TZS 60 million.
+      - question: |
+          What was the purchase price and selling price of the fleet of security vehicles sold by SecuriGov Ltd.?
+        answer: |
+          The fleet of security vehicles was purchased for TZS 600 million and sold for TZS 750 million.
+document_outline: |
+  ### Document Outline
+  **Title:** Calculations for Capital Gains Tax in Agriculture and Mining Sectors
+  **Description:** This document provides detailed scenarios for calculating capital gains tax for two Tanzanian companies operating in the Agriculture and Mining sectors. It covers transaction details, tax rates for corporate and individual entities, and the resulting tax liabilities based on applicable rates. Examples include the sale of agricultural land by GreenFields Ltd. and mining rights by RockMiner Ltd., demonstrating how corporate income tax rates and individual capital gains tax rates are applied.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Calculations_for_Capital_Gains_Tax.md

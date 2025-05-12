@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. 30tl'June &amp;91 * July, 2021 ## MUGASHA. 3.A.: The appellant, pan a frica n energy Tanzania ltd is challenging the decision of the Tax Revenue Appeals Tribunal (the Tribunal) which struck out its appeal on the ground that before the Tax Revenue Appeals Board (the Board), the appellant's appeal was preferred against a nonappealable decision. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR-ES-SALAAM ## (CORAM: MUGASHA. 2ps. J.A.. KEREFU. J.A.. And MAIGE. J.A.) ## CIVIL APPEAL NO.172 OF 2020 PAN AFRICAN ENERGY TANZANIA LTD........................................... APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY................................................RESPONDENT (Appeal from the decision Judgment and Decree of the Tax Revenue Appeals Tribunal at Dodoma) fMiemmas. J fRtd) Chairman.) dated the 31s t day of January, 2020 in Tax Appeal No. 5 of 2019 ## JUDGMENT OF THE COURT What underlies the present appeal is briefly as follows: The appellant is a company registered in Tanzania involved in the production and supply of gas for power generation at the Ubungo power plant in Dar-es-Salaam. 2ps. 1ps. J.A.. And MAIGE. J.A.) ## CIVIL APPEAL NO.172 OF 2020 PAN AFRICAN ENERGY TANZANIA LTD........................................... APPELLANT VERSUS COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY................................................RESPONDENT (Appeal from the decision Judgment and Decree of the Tax Revenue Appeals Tribunal at Dodoma) fMiemmas. It also deals with the supply of natural gas to industrial and commercial customers as well as the supply of compressed natural gas for use In motor vehicles. On the other hand, the respondent is the Chief Executive Officer of the Tanzania Revenue Authority charged with 2ps. assessing and collecting various taxes and revenues on behalf of the Government of the United Republic of Tanzania. On 2/3/2016, the respondent issued a notice of assessment No.
+    questions_and_answers:
+      - question: |
+          What was the primary issue being challenged by Pan African Energy Tanzania Ltd in the appeal?
+        answer: |
+          Pan African Energy Tanzania Ltd challenged the Tax Revenue Appeals Tribunal's decision to strike out its appeal on the grounds that the original appeal before the Tax Revenue Appeals Board was against a non-appealable decision.
+      - question: |
+          What is the main business activity of Pan African Energy Tanzania Ltd?
+        answer: |
+          Pan African Energy Tanzania Ltd is involved in the production and supply of gas for power generation, as well as the supply of natural gas to industrial and commercial customers and compressed natural gas for motor vehicles.
+      - question: |
+          Who is the respondent in the appeal by Pan African Energy Tanzania Ltd?
+        answer: |
+          The respondent is the Commissioner General of the Tanzania Revenue Authority, who is responsible for assessing and collecting various taxes and revenues on behalf of the Government of Tanzania.
+      - question: |
+          What court was handling the appeal mentioned in this context?
+        answer: |
+          The appeal was being handled by the Court of Appeal of Tanzania at Dar-es-Salaam.
+      - question: |
+          What was the date of the decision that Pan African Energy Tanzania Ltd appealed against?
+        answer: |
+          The decision being appealed against was dated 31st January 2020.
+  - context: |
+      1ps. 1ps. Rule 6 stipulates as follows: - "6 . -(1) A person who institutes an appeai to the Board shaii attach aii material documents which are necessary including appealable decision , for the proper determination of the appeal. Any trader for the purpose o f the Value Added Tax Act, a copy of the decision of the Commissioner General. Having scrutinized the plain language used in the cited Rule, the envisaged 2ps. appealable objection decisions are where one, the appeal is against objection decision of the Commissioner General; two, the appeal relates to refusal by the Commissioner General to admit a notice of objection; three, the appeal relates to refund drawback and four, the appeal relates to the decision by the Commissioner General to register, or refusal to register, any trader for the purpose of Value Added Tax. In this 3ps. regard, it is clear that, the refusal to grant waiver is not among the envisaged appealable decisions and we believe, the exclusion was deliberately so because it is neither a tax decision nor an objection decision. 2ps. 1ps. Any trader for the purpose o f the Value Added Tax Act, a copy of the decision of the Commissioner General. In this regard, it is clear that, the refusal to grant waiver is not among the envisaged appealable decisions and we believe, the exclusion was deliberately so because it is neither a tax decision nor an objection decision. Besides, the waiver 2ps. is excluded under the rule " expressio unius est dusio a/teriuf which means, when one or more things of the same class are expressly mentioned others of the same class are excluded.
+    questions_and_answers:
+      - question: |
+          What does Rule 6(1) require from a person who institutes an appeal to the Board?
+        answer: |
+          Rule 6(1) requires a person who institutes an appeal to the Board to attach all material documents, including the appealable decision, necessary for the proper determination of the appeal.
+      - question: |
+          What are the four types of appealable objection decisions envisaged under Rule 6?
+        answer: |
+          The four appealable objection decisions are: (1) appeals against the objection decision of the Commissioner General, (2) refusal by the Commissioner General to admit a notice of objection, (3) appeals related to refund drawbacks, and (4) decisions by the Commissioner General to register or refuse to register a trader for the purpose of Value Added Tax.
+      - question: |
+          Why is refusal to grant a waiver not considered an appealable decision under Rule 6?
+        answer: |
+          Refusal to grant a waiver is not considered an appealable decision under Rule 6 because it is neither a tax decision nor an objection decision.
+      - question: |
+          What legal principle is mentioned to explain the exclusion of certain decisions from being appealable?
+        answer: |
+          The legal principle mentioned is 'expressio unius est exclusio alterius,' which means that when one or more things of the same class are expressly mentioned, others of the same class are excluded.
+      - question: |
+          How does the Value Added Tax Act relate to the decisions listed under Rule 6?
+        answer: |
+          Under Rule 6, the Value Added Tax Act is relevant to decisions about registering or refusing to register any trader for the purpose of Value Added Tax, which is one of the appealable objection decisions.
+  - context: |
+      1ps. 1ps. We are fortified in that account because in order to ascertain the meaning of a clause in a statute, courts must look at the whole statute, at what precedes and what succeeds and not merely the clause itself and also compare the clause with other parts of the law and the setting in which it occurs. If we can apply the rule therefore, the phrases 'other decisions' or 'omissions' must be of the same nature as tax decisions and not otherwise. This was emphasized in the case of PAN AFRICAN ENERGY TANZANIA LTD VS 2ps. COMMISSIONER GENERAL (TRA) (supra) whereby, having considered sections, 51 and 53 of TAA which makes cross reference to the effect that an appeal to the Board has to be in accordance with section 16 (1) of the TRAA we said: "...it is significantly discernible that an appeal to the Board is presently narrowed down to an objection decision of the CG made under the TAA. 2ps. 1ps. If we can apply the rule therefore, the phrases 'other decisions' or 'omissions' must be of the same nature as tax decisions and not otherwise. Thus, in the light of the unambiguous and plain language used in section 50 (1) of what is a tax decision, we are satisfied that, refusal to grant the waiver is excluded in the realm of what constitutes a tax decision and neither is it an objection decision. It is 2ps.
+    questions_and_answers:
+      - question: |
+          What rule must courts follow when interpreting the meaning of a clause in a statute?
+        answer: |
+          Courts must look at the whole statute, considering what precedes and follows the clause, comparing it with other parts of the law and the setting in which it occurs, rather than interpreting the clause in isolation.
+      - question: |
+          What is the significance of the case PAN AFRICAN ENERGY TANZANIA LTD VS COMMISSIONER GENERAL (TRA)?
+        answer: |
+          The case emphasized that an appeal to the Board is limited to objection decisions made by the CG under the TAA, as discerned from the plain language of relevant sections like 16(1) of the TRAA and sections 51 and 53 of the TAA.
+      - question: |
+          How should the phrases 'other decisions' or 'omissions' be interpreted in this context?
+        answer: |
+          The phrases 'other decisions' or 'omissions' must be of the same nature as tax decisions and not interpreted as referring to other types of decisions.
+      - question: |
+          Why is the refusal to grant a waiver excluded from being considered a tax decision?
+        answer: |
+          The refusal to grant a waiver is excluded because it falls outside the plain and unambiguous definition of what constitutes a tax decision or an objection decision under section 50(1).
+      - question: |
+          Why is it necessary for courts to reference sections 51 and 53 of the TAA alongside section 16(1) of the TRAA?
+        answer: |
+          Sections 51 and 53 of the TAA make cross-references to the requirements for an appeal to the Board, linking them to the objection decision process outlined in section 16(1) of the TRAA.
+  - context: |
+      1ps. 1ps. We say so because: Firstly, in terms of section 50 (1) of the TAA, the respondent is mandated to make any tax decision including 'assessment' or 'other decision7 or 'omission' on a matter left to the discretion, judgment, direction, opinion, approval, consent, satisfaction or determination of the Commissioner General under a tax law that directly affects a person. It is glaring that the whole of section 50 2ps. defines and regulates tax decisions left to the discretion, judgment, direction, opinion, approval, consent, satisfaction or determination of the Commissioner General. In particular, under section 50 (1) of the TAA, the preposition ' including' between the phrases 'any tax decision' and Assessment' or 'other decision' or 'omission' means that the former is a larger group which embraces the latter. This is cemented by a 3ps. latin maxim of ejusdem generis rule which means 'of the same kind'. The rule requires that: where in a statute there are genera! words following particular specific words, the genera1 words must be confined to things of the same kind as those specifically mentioned. http://ca.Dracticallaw.thomsonreuters.com. 2ps. 1ps. The rule requires that: where in a statute there are genera! words following particular specific words, the genera1 words must be confined to things of the same kind as those specifically mentioned. http://ca.Dracticallaw.thomsonreuters.com. This was emphasized by the Supreme Court of the United States in the case of CIRCUIT CITY STORES INC VS ADAMS, 532 US 105 [2001], whereby the maxim was defined as: "situation in which generai words follow 2ps. specific words in statutory enumeration, the generai words are construed to embrace oniy objects similar in nature to those objects enumerated by the preceding specific words." Moreover, in a book titled Kanga and Palkhivala's the Law and Practice of INCOME TAX by Arvind P.
+    questions_and_answers:
+      - question: |
+          What is the purpose of section 50(1) of the TAA?
+        answer: |
+          Section 50(1) of the TAA mandates the Commissioner General to make tax decisions, including assessments, other decisions, or omissions, which are left to their discretion, judgment, direction, opinion, approval, consent, satisfaction, or determination under a tax law that directly affects a person.
+      - question: |
+          What does the preposition 'including' signify in section 50(1) of the TAA?
+        answer: |
+          The word 'including' indicates that 'any tax decision' is a broader category that encompasses assessments, other decisions, or omissions, rather than being limited to them.
+      - question: |
+          What is the ejusdem generis rule, and how does it apply in statutory context?
+        answer: |
+          The ejusdem generis rule means that general words following specific terms in a statute are confined to things of the same kind as the specific terms. For example, in statutory enumeration, general words are interpreted to cover only objects similar to those explicitly listed.
+      - question: |
+          How did the U.S. Supreme Court apply the ejusdem generis rule in CIRCUIT CITY STORES INC VS ADAMS?
+        answer: |
+          In CIRCUIT CITY STORES INC VS ADAMS, the U.S. Supreme Court stated that general words following specific words in a statutory enumeration are construed to include objects similar in nature to those specified by the preceding words.
+      - question: |
+          What resource discusses the application of income tax law and its interpretation?
+        answer: |
+          The book 'Kanga and Palkhivala's The Law and Practice of Income Tax' by Arvind P. addresses the application and interpretation of income tax laws.
+  - context: |
+      1ps. 1ps. In the same vein, in the absence of any inconsistencies in the provisions in question that the refusal to grant the waiver is neither a tax decision nor an objection decision which can be appealed against before the Board, we decline the appellant's counsel invitation to invoke the harmonious construction of the provisions in question. The objects and reasons among other things, included the 2ps. following: "Tangu kuanzishwa kwa Mamlaka ya Mapato pamoja na maboresho yaiiyofanyika, pamekuwa na ugumu wa utekelezaji wa sheria za kodi katika maeneo yafuatayo: - - (i) Not applicable. - (ii)Not applicable - (iii) Kuwepo kwa usumbufu kwa waiipa kodi unaotokana na taratibu za usimamizi na utawala zinazotofautiana kwa kifa aina ya kodi ambayo wakati mwingine husababisha waiipa kodi kupoteza haki zao za msingi biia sababu." We are aware that the Objects and Reasons in the Bill of the intended piece of 3ps. legislation can be invoked by the Court to read the intention of Parliament in enacting a particular legislation. 2ps. 1ps. The objects and reasons among other things, included the following: "Tangu kuanzishwa kwa Mamlaka ya Mapato pamoja na maboresho yaiiyofanyika, pamekuwa na ugumu wa utekelezaji wa sheria za kodi katika maeneo yafuatayo: - - (i) Not applicable. - (ii)Not applicable - (iii) Kuwepo kwa usumbufu kwa waiipa kodi unaotokana na taratibu za usimamizi na utawala zinazotofautiana kwa kifa aina ya kodi ambayo wakati mwingine husababisha waiipa kodi kupoteza haki zao za msingi biia sababu." 2ps. However, from the stated objects, we could not discern if the Parliament had intended to make the refusal to grant of the waiver, a tax decision which is appealable.
+    questions_and_answers:
+      - question: |
+          What was the refusal to grant the waiver classified as in the context?
+        answer: |
+          The refusal to grant the waiver was classified as neither a tax decision nor an objection decision, and thus it cannot be appealed before the Board.
+      - question: |
+          What issues related to tax legislation were highlighted in the objects and reasons section?
+        answer: |
+          The issues included the difficulties in implementing tax laws due to inconsistent administrative and management procedures, which sometimes cause taxpayers to lose their fundamental rights without justification.
+      - question: |
+          What role does the Court acknowledge regarding the Objects and Reasons in the Bill?
+        answer: |
+          The Court acknowledges that the Objects and Reasons in the Bill can be invoked to interpret Parliament's intention in enacting specific legislation.
+      - question: |
+          What conclusion did the Court reach regarding the Parliament's intention about waiver refusal being a tax decision?
+        answer: |
+          The Court concluded that it could not discern from the stated objects if the Parliament intended for the refusal to grant the waiver to be classified as a tax decision that is appealable.
+      - question: |
+          What invitation did the Court decline from the appellant's counsel?
+        answer: |
+          The Court declined the appellant's counsel's invitation to invoke a harmonious construction of the provisions in question.
+document_outline: |
+  **Document Outline:**
+  This document details the appeal by Pan African Energy Tanzania Ltd. before the Court of Appeal of Tanzania, challenging the Tax Revenue Appeals Tribunal's decision to strike out its appeal as incompetent. The case revolves around disputed tax assessments for the years of income 2013 and 2014, refusal of a one-third tax deposit waiver by the Tanzania Revenue Authority (TRA), and the competency of prior appeals before the Tax Revenue Appeals Board.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Pan_African_Tanzania_Limited_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_172_of_2020)_2021_TZCA_287_(9_July_2021).md

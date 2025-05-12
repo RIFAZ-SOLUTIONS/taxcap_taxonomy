@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Income Tax (Exemption) (Expatriates Employees) (Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns) (Package II) (M/S Larsen &amp; Toubro Limited-Shriram Epc Joint Venture) GN. NO.119 (Contd.) 2ps. 1ps. Income Tax (Exemption) (Expatriates Employees) (Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns) (Package II) (M/S Larsen &amp; Toubro Limited-Shriram Epc Joint Venture) GN. NO.119 (Contd.) GOVERNMENT NOTICE No. 119 Published On 4/3/2022
+    questions_and_answers:
+      - question: |
+          What is the subject of the Government Notice No. 119?
+        answer: |
+          The notice concerns income tax exemption for expatriate employees working on the extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega, and Igunga towns.
+      - question: |
+          Which companies are involved in the joint venture for the project mentioned in the notice?
+        answer: |
+          The joint venture involves M/S Larsen & Toubro Limited and Shriram EPC.
+      - question: |
+          What is the publication date of Government Notice No. 119?
+        answer: |
+          The notice was published on March 4, 2022.
+      - question: |
+          What specific towns are targeted for the extension of the Lake Victoria Pipeline Water Supply Project?
+        answer: |
+          The targeted towns are Tabora, Nzega, and Igunga.
+      - question: |
+          What type of tax exemption is referenced in the document?
+        answer: |
+          The document references an income tax exemption for expatriate employees involved in the project.
+  - context: |
+      THE INCOME TAX ACT, (CAP.332) \_\_\_\_\_ ## ORDER \_\_\_\_\_ (Made under section 10) \_\_\_\_\_ THE INCOME TAX (EXEMPTION) (EXPATRIATES EMPLOYEES) (EXTENSION OF THE LAKE VICTORIA PIPELINE WATER SUPPLY PROJECT TO TABORA, NZEGA AND IGUNGA TOWNS) (PACKAGE II) (M/S LARSEN &amp; TOUBRO LIMITED-SHRIRAM EPC JOINT VENTURE) ORDER, 2022 Citation - 1. This Order may be cited as the Income Tax (Exemption) 2ps. (Expatriates Employees) (Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga
+    questions_and_answers:
+      - question: |
+          Under which section of the law is the Income Tax (Exemption) Order made?
+        answer: |
+          The Income Tax (Exemption) Order is made under section 10 of the Income Tax Act, CAP.332.
+      - question: |
+          What is the citation name for the Order mentioned in the document?
+        answer: |
+          The citation name for the Order is the Income Tax (Exemption) (Expatriates Employees) (Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns) (Package II) (M/S Larsen & Toubro Limited-Shriram EPC Joint Venture) Order, 2022.
+      - question: |
+          What specific project does the Order relate to?
+        answer: |
+          The Order relates to the extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega, and Igunga towns.
+      - question: |
+          Who is the joint venture responsible for the project mentioned in the Order?
+        answer: |
+          The joint venture responsible for the project is M/S Larsen & Toubro Limited and Shriram EPC.
+      - question: |
+          What category of employees does the Income Tax (Exemption) Order apply to?
+        answer: |
+          The Income Tax (Exemption) Order applies to expatriate employees working on the specified project.
+  - context: |
+      Towns) (Package II) (M/S Larsen &amp; Toubro Limited-Shriram EPC Joint Venture) Order, 2022. Interpretation Exemption - 2. In this Order unless the context otherwise requires- - "Expatriate Employees" means the employees who are not citizens of United Republic of Tanzania employed by M/S Larsen &amp; Toubro Limited-Shriram EPC Joint Venture solely for the execution 3ps. of the contract dated 31 st May, 2017 for Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and
+    questions_and_answers:
+      - question: |
+          What is the definition of 'Expatriate Employees' in the context of this order?
+        answer: |
+          'Expatriate Employees' refers to employees who are not citizens of the United Republic of Tanzania and are employed by M/S Larsen & Toubro Limited-Shriram EPC Joint Venture solely for the execution of a specific contract.
+      - question: |
+          What purpose were the expatriate employees hired for?
+        answer: |
+          The expatriate employees were hired for the execution of a contract related to the extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega, and other areas.
+      - question: |
+          When was the contract for the water supply project signed?
+        answer: |
+          The contract for the water supply project was signed on May 31, 2017.
+      - question: |
+          Which companies are involved in the joint venture executing this project?
+        answer: |
+          The project is being executed by M/S Larsen & Toubro Limited and Shriram EPC as part of a joint venture.
+      - question: |
+          What does the order specifically interpret or exempt?
+        answer: |
+          The order provides interpretation and exemption related to the term 'Expatriate Employees' as it pertains to the context of the joint venture executing the Lake Victoria Pipeline Water Supply Project.
+  - context: |
+      Igunga Towns (Package II). 3ps. 1ps. Income Tax (Exemption) (Expatriates Employees) (Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns) (Package II) (M/S Larsen &amp; Toubro Limited-Shriram Epc Joint Venture) GN. NO.119 (Contd.) - 3. The Income Tax payable by Expatriates Employees employed solely for execution of a contract for Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns (Package II) in respect of M/S
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Income Tax exemption mentioned in the context?
+        answer: |
+          The Income Tax exemption is provided for expatriate employees employed solely for executing the Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega, and Igunga Towns under Package II.
+      - question: |
+          Which joint venture is responsible for executing the mentioned project?
+        answer: |
+          M/S Larsen & Toubro Limited-Shriram EPC Joint Venture is responsible for executing the project.
+      - question: |
+          What specific towns are included in the extension of the Lake Victoria Pipeline Water Supply Project?
+        answer: |
+          The extension of the project includes the towns of Tabora, Nzega, and Igunga.
+      - question: |
+          Who benefits from the Income Tax exemption outlined in the context?
+        answer: |
+          Expatriate employees employed solely for the execution of the project benefit from the Income Tax exemption.
+      - question: |
+          What is the title of the project referred to in the context?
+        answer: |
+          The title of the project is 'Extension of the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns (Package II).'
+  - context: |
+      Larsen &amp; Toubro Limited-Shriram EPC Joint Venture dated 31 st May, 2017 is hereby exempt. Income Tax (Exemption) (Expatriates Employees) (Extension of 2ps. the Lake Victoria Pipeline Water Supply Project to Tabora, Nzega and Igunga Towns) (Package II) (M/S Larsen &amp; Toubro Limited-Shriram Epc Joint Venture) GN. NO.119 (Contd.) Expiry - 4. This Order shall expire after Expatriates Employees of M/S Larsen &amp; Toubro Limited-Shriram EPC Joint Venture have been cleared from income tax liability accrued from
+    questions_and_answers:
+      - question: |
+          What is the name of the joint venture mentioned in the context?
+        answer: |
+          The joint venture is named Larsen & Toubro Limited-Shriram EPC Joint Venture.
+      - question: |
+          What is the date associated with the Larsen & Toubro Limited-Shriram EPC Joint Venture exemption order?
+        answer: |
+          The date associated with the exemption order is May 31, 2017.
+      - question: |
+          What project is linked with the exemption order for Larsen & Toubro Limited-Shriram EPC Joint Venture?
+        answer: |
+          The project linked with the exemption order is the Lake Victoria Pipeline Water Supply Project for Tabora, Nzega, and Igunga Towns (Package II).
+      - question: |
+          Who benefits from the income tax exemption in the stated order?
+        answer: |
+          Expatriate employees of Larsen & Toubro Limited-Shriram EPC Joint Venture benefit from the income tax exemption.
+      - question: |
+          When does the income tax exemption order for the joint venture expire?
+        answer: |
+          The order expires after the expatriate employees of Larsen & Toubro Limited-Shriram EPC Joint Venture have been cleared from income tax liability accrued.
+document_outline: |
+  ### Document Outline:
+  This document outlines an order under the Income Tax Act (Cap. 332) granting income tax exemptions to expatriate employees of M/S Larsen & Toubro Limited-Shriram EPC Joint Venture, engaged in executing the Lake Victoria Pipeline Water Supply Project extension to Tabora, Nzega, and Igunga Towns (Package II), based on a contract signed on May 31, 2017. The tax exemption applies for the period from May 31, 2017, to February 23, 2021, and ceases upon clearing all related liabilities.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - THE_INCOME_TAX_(EXEMPTION)_(EXPATRIATES_EMPLOYEES).md

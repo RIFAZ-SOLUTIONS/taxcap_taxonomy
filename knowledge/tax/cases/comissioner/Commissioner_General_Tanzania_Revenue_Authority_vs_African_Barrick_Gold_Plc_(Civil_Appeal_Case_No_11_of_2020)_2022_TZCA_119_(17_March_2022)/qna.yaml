@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. regarding the existence of liability to pay tax, duty, fees, levy or charge; - (v) a copy of the notice of proposal on how the Commissioner wants to settle the objection (if any); - (vi) a copy of submission made by taxpayer in response to the notice of appeal, (if any); - (b) where the appeal relates to refusal by the Commissioner Genera! to admit a notice of objection, a copy of the decision of the Commissioner Genera! to admit a notice of objection; - 2ps. (c) where the appeal relates to­ - ft) refund, drawback or repayment of any tax, fee, duty, levy or charge, a statement showing the calculation by the appellant of the amount due for refund, drawback or repayment of any tax, fee, duty, levy or charge; - (ii) refusal by the Commissioner General to make any refund or repayment; a copy of the decision of the Commissioner General refusing to refund". 2ps. 1ps. regarding the existence of liability to pay tax, duty, fees, levy or charge; - (v) a copy of the notice of proposal on how the Commissioner wants to settle the objection (if any); - (vi) a copy of submission made by taxpayer in response to the notice of appeal, (if any); - (b) where the appeal relates to refusal by the Commissioner Genera! to admit a notice of objection, a copy of the decision of the Commissioner Genera! Drawing inspiration from the cited rule listing documents accompanying 2ps. the appeal to the Board, it is clear that the notice on existence of tax liability by the Commissioner General is certainly not among the decision envisaged to be appealable to the Board.
+    questions_and_answers:
+      - question: |
+          What types of documents are included in an appeal concerning the existence of liability to pay tax, duty, fees, levy, or charge?
+        answer: |
+          Documents include a copy of the notice of proposal on how the Commissioner wants to settle the objection (if any), and a copy of the taxpayer's submission in response to the notice of appeal (if any).
+      - question: |
+          What document is required if the appeal involves the Commissioner General's refusal to admit a notice of objection?
+        answer: |
+          A copy of the Commissioner General's decision to admit or refuse the notice of objection is required.
+      - question: |
+          What statement must be provided when the appeal relates to a refund, drawback, or repayment?
+        answer: |
+          A statement showing the calculation by the appellant of the amount due for refund, drawback, or repayment is required.
+      - question: |
+          What document must accompany an appeal if the Commissioner General refuses to make a refund or repayment?
+        answer: |
+          A copy of the decision of the Commissioner General refusing to make the refund or repayment must be included.
+      - question: |
+          Is a notice on the existence of tax liability by the Commissioner General appealable to the Board?
+        answer: |
+          No, the notice on the existence of tax liability by the Commissioner General is not considered among the decisions that can be appealed to the Board.
+  - context: |
+      1ps. 1ps. On this, Mr. Kileo was of the view that, section 14 (2) of the TRAA has a lacuna as it does not provide for the procedure of reference of objection to the Board and as such, he argued the appeal to be the appropriate remedy and which has been the practice by other tax payers aggrieved with the appellant's 2ps. notification on existence of tax liability. Finally, he urged the Court to dismiss the appeal with costs. In a brief rejoinder, Mr. Maswanyia submitted that, since the jurisdiction of the Board is a creature of statute which as well, stipulates the manner of dealing with objections to tax liability, the respondent had no choice as she was obliged to forward the objection of the notice on tax liability by way of reference to the Board and not 3ps. by an appeal. 2ps. 1ps. On being further probed by the Court if the respondent had objected to the tax liability, Mr. Kileo replied that she never did so be it before the appellant or the Board but maintained that recourse to appeal was proper considering that, the appellant was not prejudiced in any manner. Finally, he urged the Court to dismiss the appeal with costs. On this, he argued that the case 2ps. of COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY VS JSC ATOMREDMETZOLO (ARMZ) is still good law and thus, reiterated his earlier prayer that the appeal be allowed and what transpired before the Board and the Tribunal be annulled. Having carefully considered the record before us and the submissions of the learned counsel, the issue for our determination is whether the Board was clothed with jurisdiction to entertain and determine the respondent's appeal against the appellants notice on 3ps. existence of tax liability.
+    questions_and_answers:
+      - question: |
+          What lacuna does section 14(2) of the TRAA contain, according to Mr. Kileo?
+        answer: |
+          Mr. Kileo argued that section 14(2) of the TRAA lacks procedures for referencing objections to the Board, making an appeal the appropriate remedy for taxpayers aggrieved by notifications of tax liability.
+      - question: |
+          What was Mr. Maswanyia’s stance on how objections to tax liability should be handled?
+        answer: |
+          Mr. Maswanyia contended that the respondent was obliged to forward objections on tax liability notices to the Board through reference, as the Board’s jurisdiction and procedures are explicitly stipulated by statute.
+      - question: |
+          Did the respondent object to the tax liability before the appellant or the Board?
+        answer: |
+          No, Mr. Kileo confirmed that the respondent did not object to the tax liability before either the appellant or the Board.
+      - question: |
+          What case law did Mr. Maswanyia cite to support his argument?
+        answer: |
+          Mr. Maswanyia cited the case of COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY VS JSC ATOMREDMETZOLO (ARMZ) as precedent and asserted that it is still good law.
+      - question: |
+          What primary issue did the Court identify for determination?
+        answer: |
+          The Court identified the primary issue as whether the Board had the jurisdiction to entertain and determine the respondent's appeal against the appellant's notice on the existence of tax liability.
+  - context: |
+      1ps. 1ps. Before the Board, the appeal was confronted with a notice of preliminary objection premised on one ground that, the appeal was bad in law for being instituted prematurely before issuance of a Tax Assessment. The preliminary objection was heard alongside the substantive appeal. Ultimately, the Board was satisfied that the notice of the appellant was appealable having being couched in a manner constituting 2ps. an assessment and imposed tax liability on the respondent. As to the substantive appeal, the Board held that, since the share sale transaction took place outside Tanzania involving two foreign companies registered abroad, it was not subject to tax under the laws of Tanzania. Undaunted, the appellant unsuccessfully lodged an appeal to the Tribunal which sustained the decision of the Board 3ps. and this is what prompted the appellant to lodge the present appeal. In the Memorandum of Appeal, the appellant has fronted the following grounds of complaint: - 1. That the Tax Revenue Tribunal erred in law in refusing to admit documentary evidence submitted by the appellant. 2ps. 1ps. As to the substantive appeal, the Board held that, since the share sale transaction took place outside Tanzania involving two foreign companies registered abroad, it was not subject to tax under the laws of Tanzania. Undaunted, the appellant unsuccessfully lodged an appeal to the Tribunal which sustained the decision of the Board and this is what prompted the appellant to lodge the 2ps. present appeal. - 2. That the Tax Revenue Tribunal erred both in law and fact in holding that the notice issued by the appellant under section 35 of ITA constituted an appealable decision or act under section 14(2) of the Tax Revenue Appeal Act , Cap 408 R.E 2006 and section 6 of the Tanzania Revenue Authority Act, Cap 399 R.
+    questions_and_answers:
+      - question: |
+          What was the primary reason for the preliminary objection to the appeal before the Board?
+        answer: |
+          The preliminary objection was based on the claim that the appeal was prematurely filed before the issuance of a Tax Assessment.
+      - question: |
+          Why did the Board consider the appellant's notice to be appealable?
+        answer: |
+          The Board found the notice appealable because it was worded in a way that constituted an assessment and imposed tax liability on the respondent.
+      - question: |
+          What did the Board decide regarding the share sale transaction involving two foreign companies?
+        answer: |
+          The Board decided that the share sale transaction, which took place outside Tanzania and involved two foreign companies registered abroad, was not subject to tax under Tanzanian law.
+      - question: |
+          What were the key errors alleged by the appellant in the Memorandum of Appeal?
+        answer: |
+          The appellant alleged that the Tax Revenue Tribunal erred in refusing to admit documentary evidence and in holding that the notice issued by the appellant under section 35 of ITA constituted an appealable decision or act.
+      - question: |
+          What decision by the Tribunal prompted the appellant to lodge the present appeal?
+        answer: |
+          The Tribunal upheld the Board's prior decision, leading the appellant to lodge the present appeal.
+  - context: |
+      1ps. 1ps. - (2) Notwithstanding subsection (2), a person who objects a notice issued by the CommissionerGeneral with regards to the existence of liability to pay any tax, duty, fees, levy or charge may refer his objection to the Board for determination. In the light of the bolded expressions, the investment income tax which is a subject at hand, fell squarely under the category of existence of liability to pay any tax. In its reasoning from page 209 of the 2ps. record of appeal, the Tribunal was satisfied that the wording of the appellant's notice at the bottom part of page 2 established that it was both a decision as well as an act by the appellant which was appealable to the Board under section 6 of the Tanzania Revenue Authority Act and 14(2) of the TRAA. It held further that, the import of the provisions was to enable any taxpayer who is aggrieved by the decision 3ps. of the appellant to file an appeal to the Board irrespective of whether or not the decision or act constituted an assessment. 2ps. 1ps. The question to be answered is whether section 14 of the TRAA clothed the Board with jurisdiction to entertain and determine appeals against notice on existence of tax of tax liability. It held further that, the import of the provisions was to enable any taxpayer who is aggrieved by the decision of the appellant to file an appeal to the Board irrespective of whether or not the decision or act constituted an assessment. With respect, we 2ps. do not agree with the decision of the Tribunal and we shall give our reasons in due course. The appellant is faulting the Tribunal's decisions while on the other hand, it was Mr.
+    questions_and_answers:
+      - question: |
+          Who can refer an objection to the Board under subsection (2)?
+        answer: |
+          A person who objects to a notice issued by the Commissioner-General regarding liability to pay any tax, duty, fee, levy, or charge can refer their objection to the Board for determination.
+      - question: |
+          What does the record of appeal on page 209 state about the appellant's notice?
+        answer: |
+          The record of appeal on page 209 states that the wording of the appellant's notice established it as both a decision and an act appealable to the Board under section 6 of the Tanzania Revenue Authority Act and section 14(2) of the TRAA.
+      - question: |
+          What is the purpose of the provisions under section 14(2) of the TRAA?
+        answer: |
+          The provisions under section 14(2) of the TRAA aim to enable any taxpayer aggrieved by a decision of the appellant to file an appeal to the Board, regardless of whether the decision or act constitutes an assessment.
+      - question: |
+          What question is central to determining the Board’s jurisdiction in this context?
+        answer: |
+          The central question is whether section 14 of the Tanzania Revenue Authority Act provides the Board with jurisdiction to entertain and determine appeals against notices concerning the existence of tax liability.
+      - question: |
+          What was the Tribunal’s interpretation regarding the appellant's decisions and actions?
+        answer: |
+          The Tribunal interpreted that the appellant's decisions and actions, as noted in the appellant's notice, were appealable to the Board under the relevant provisions, even if they did not constitute an assessment.
+  - context: |
+      1ps. 1ps. Please, you are required to settle the unpaid tax immediately after receipt, of this notice. Yours faithfully, E.M. Maka I a Manager Tax Investigations LAKE ZONE-MWANZA " It seems to us that in the said letter of the appellant, the bolded expressions are not in harmony. Thus, as correctly found by the Board, the appellant's notice was couched in a manner constituting an assessment and it imposed tax liability on the 2ps. respondent. In the circumstances, the contentious issue here is whether the Board had jurisdiction to entertain the appeal against the Commissioner General's letter. It was Mr. Maswanyia's submission that, even if the notice is assumed to constitute existence of liability, the respondent was not entitled to appeal to the Board considering that, an objection on existence of tax liability has to be lodged with the Commissioner General 3ps. or placed before the Board by way of reference in terms of section 14 (2) of the TRAA. 2ps. 1ps. Thus, as correctly found by the Board, the appellant's notice was couched in a manner constituting an assessment and it imposed tax liability on the respondent. In the circumstances, the contentious issue here is whether the Board had jurisdiction to entertain the appeal against the Commissioner General's letter. In this regard, it was argued that the Board embarked on a nullity to entertain the respondent's appeal because it had 2ps. no jurisdiction to do so. It was Mr. Maswanyia's contention that, the proper course which ought to have been taken by the respondent was to forward the objection by way of reference to the Board as per the dictates of the provisions of section 14 (2) of the TRAA. To support his proposition, Mr.
+    questions_and_answers:
+      - question: |
+          What did the letter from E.M. Maka request the recipient to do?
+        answer: |
+          The letter from E.M. Maka requested the recipient to settle the unpaid tax immediately after receiving the notice.
+      - question: |
+          Why was the appellant's notice described as constituting an assessment?
+        answer: |
+          The appellant's notice was described as constituting an assessment because it was couched in a manner that imposed tax liability on the respondent.
+      - question: |
+          What was the key issue regarding the jurisdiction of the Board?
+        answer: |
+          The key issue was whether the Board had jurisdiction to entertain the appeal against the Commissioner General's letter.
+      - question: |
+          What was Mr. Maswanyia’s argument regarding the respondent’s course of action?
+        answer: |
+          Mr. Maswanyia argued that the respondent should have filed an objection with the Commissioner General or forwarded the objection to the Board as a reference under section 14 (2) of the TRAA.
+      - question: |
+          Why did Mr. Maswanyia claim the Board’s action was a nullity?
+        answer: |
+          Mr. Maswanyia claimed the Board's action was a nullity because it lacked jurisdiction to entertain the respondent's appeal.
+document_outline: |
+  **Document Outline**:
+  This document is a judgment from the Court of Appeal of Tanzania in Civil Appeal No. 11 of 2020, involving the Commissioner General of the Tanzania Revenue Authority (appellant) and African Barrick Gold PLC (respondent). The appeal concerns a tax dispute over a share sale transaction outside Tanzania, with the Tanzania Revenue Authority asserting it constituted a taxable arrangement under Tanzanian law. The case reviews prior decisions by the Tax Revenue Appeals Board and Tribunal, which ruled in favor of the respondent.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Commissioner_General_Tanzania_Revenue_Authority_vs_African_Barrick_Gold_Plc_(Civil_Appeal_Case_No_11_of_2020)_2022_TZCA_119_(17_March_2022).md

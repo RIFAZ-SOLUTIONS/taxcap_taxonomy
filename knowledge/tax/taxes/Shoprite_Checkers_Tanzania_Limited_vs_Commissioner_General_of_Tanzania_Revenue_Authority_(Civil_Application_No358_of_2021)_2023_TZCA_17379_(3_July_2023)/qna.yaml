@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DAR ES SALAAM CIVIL APPLICATION NO. 358/20 OF 2021 SHOPRITE CHECKERS TANZANIA LIMITED................. ...... APPLICANT VERSUS COMMISSIONER GENERAL OF TANZANIA REVENUE AUTHORITY..................... ......................... ...... RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) (Mjemas Chairperson) dated the 5th October, 2020 in Appeal No. 28 of 2018 ## RULING 3"'July, 2023 ## MGONYA. J.A.: The Applicant herein is moving the Court under rules 4 (2) (a) (b), 10 and 96 (6) of the Tanzania Court of Appeal Rules 2009 (hereinafter the Rules) so 2ps. that it enlarges the time within which she can file a supplementary record of appeal. In support of the notice of motion the Applicant filed an affidavit sworn by Mr. Wilson Kamugisha Mukebezi, the Applicant's legal counsel. 2ps. 1ps. J.A.: The Applicant herein is moving the Court under rules 4 (2) (a) (b), 10 and 96 (6) of the Tanzania Court of Appeal Rules 2009 (hereinafter the Rules) so that it enlarges the time within which she can file a supplementary record of appeal. In support of the notice of motion the Applicant filed an affidavit sworn by Mr. Wilson Kamugisha Mukebezi, the Applicant's legal counsel. Brief facts of what triggered this application as can be gathered 2ps. from the Applicant's Affidavit goes thus; On 23r d January, 2015 the Applicant lodged in the Tax Appeals Board (the
+    questions_and_answers:
+      - question: |
+          What is the purpose of Civil Application No. 358/20 of 2021 in the Court of Appeal of Tanzania?
+        answer: |
+          The purpose of the application is to request the Court to enlarge the time for the Applicant, Shoprite Checkers Tanzania Limited, to file a supplementary record of appeal.
+      - question: |
+          Who is the legal counsel representing the Applicant in this case?
+        answer: |
+          The Applicant's legal counsel is Mr. Wilson Kamugisha Mukebezi.
+      - question: |
+          What rules of the Tanzania Court of Appeal Rules 2009 does the Applicant rely on in this application?
+        answer: |
+          The Applicant relies on rules 4 (2) (a) (b), 10, and 96 (6) of the Tanzania Court of Appeal Rules 2009.
+      - question: |
+          What tribunal issued the original judgment that led to this appeal?
+        answer: |
+          The original judgment was issued by the Tax Revenue Appeals Tribunal at Dar es Salaam.
+      - question: |
+          What is the date of the judgment being appealed from in this case?
+        answer: |
+          The judgment being appealed from was dated 5th October, 2020.
+  - context: |
+      1ps. 1ps. The Applicant filed this application on 13t h August, 2021, the same is not resisted by the Respondent as up to the moment when the application was called for hearing as the Respondent neither filed an affidavit in reply nor appeared before this Court as stated earlier although there is a proof of service. As per rule 10 of the Rules the extension of time is granted where the Applicant has shown good 2ps. cause for the delay. See; Lyamuya Construction Company Ltd v. Board of Registered Trustees of Young Women's Christian Association of Tanzania, Civil Application No. 2 of 2010 [2011] TZCA 4; [03 October, 2011, TANZLII], Ngao Godwin Losero v. Julius Mwarabu, Civil 5 Application No. 10 of 2015 and Regional Manager Tanroads Kagera v. Ruaha Concrete Company Limited, Civil Application No. 96 of 2007 all unreported. In Lyamuya Construction case (supra) this Court stated that: "As a matter o f general principle , it is 3ps. in the discretion of the Court to grant extension of time. 2ps. 1ps. The good cause is determined by considering various factors, including promptness in taking action after one has learned of the delay, considering whether the Applicant has accounted for each delayed day, and the existence of the sufficient point of law such as illegality of the decision sought to be impugned. In Lyamuya Construction case (supra) this Court stated that: "As a matter o f general principle
+    questions_and_answers:
+      - question: |
+          When was the application filed by the Applicant?
+        answer: |
+          The application was filed by the Applicant on 13th August, 2021.
+      - question: |
+          What was the Respondent's response to the application?
+        answer: |
+          The Respondent neither filed an affidavit in reply nor appeared before the Court, despite proof of service.
+      - question: |
+          Under which rule is the extension of time granted, and what must be shown?
+        answer: |
+          As per rule 10 of the Rules, the extension of time is granted when the Applicant has shown good cause for the delay.
+      - question: |
+          What factors determine 'good cause' for an extension of time?
+        answer: |
+          'Good cause' is determined by factors such as promptness in taking action after learning of the delay, accounting for each delayed day, and the existence of a significant legal issue such as illegality of the decision sought to be challenged.
+      - question: |
+          Which case established the principles for granting an extension of time and what does it emphasize?
+        answer: |
+          The case Lyamuya Construction Company Ltd v. Board of Registered Trustees of Young Women's Christian Association of Tanzania established the principles, emphasizing that granting an extension of time is at the Court's discretion based on factors like promptness, accounting for delays, and significant legal issues.
+  - context: |
+      , it is 2ps. in the discretion of the Court to grant extension of time. But that discretion is judicial, and so it must be exercised according to the rules of reason and justice, and not according to private opinion or arbitrarily. 3ps. 1ps. See; Lyamuya Construction Company Ltd v. Board of Registered Trustees of Young Women's Christian Association of Tanzania, Civil Application No. 2 of 2010 [2011] TZCA 4; [03 October, 2011, TANZLII], Ngao Godwin Losero v. Julius Mwarabu, Civil 5 Application No. 10 of 2015 and Regional Manager Tanroads Kagera v. Ruaha Concrete Company Limited, Civil Application No. 96 of 2007 all unreported. But that discretion is judicial, and so it must be exercised according to the rules of reason and justice, and not according to private 2ps. opinion or arbitrarily. On the authorities however, the following guidelines may be formulated: - - (a) The applicant must account for all the period of delay; - (b) The delay should not be inordinate; - (c) The applicant must show diligence, and not apathy, negligence or sioppiness in the prosecution of the action that he intends to take; and - (d) I f the court feels that there are other sufficient reasons, such as the existence o f 3ps. a point of law of sufficient importance; such as the illegality of the decision sought to be challenged." 4ps. 1ps. In Lyamuya Construction case (supra) this Court stated that: "As a
+    questions_and_answers:
+      - question: |
+          What is the basis on which a court exercises its discretion to grant an extension of time?
+        answer: |
+          A court exercises its discretion to grant an extension of time based on rules of reason and justice, avoiding arbitrary or private opinions.
+      - question: |
+          What are the four guidelines outlined for granting an extension of time?
+        answer: |
+          The four guidelines are: (a) the applicant must account for all the period of delay; (b) the delay must not be inordinate; (c) the applicant must show diligence and not negligence; and (d) there must be sufficient reasons, such as a significant point of law or the illegality of the decision being challenged.
+      - question: |
+          Which case outlined that judicial discretion must be exercised according to reason and justice?
+        answer: |
+          The case Lyamuya Construction Company Ltd v. Board of Registered Trustees of Young Women's Christian Association of Tanzania emphasized that judicial discretion must be exercised according to reason and justice.
+      - question: |
+          What examples of sufficient reasons may justify granting an extension of time?
+        answer: |
+          Examples include the existence of a point of law of sufficient importance or the illegality of the decision being challenged.
+      - question: |
+          What role does diligence play in the criteria for an extension of time?
+        answer: |
+          Diligence is crucial, as the applicant must demonstrate effort and avoid apathy, negligence, or sloppiness in pursuing the action they intend to take.
+  - context: |
+      to file an appeal without including the exhibits. It was further submission that, as the nature of the prayer do not prejudice the Respondent and also the proceedings will enable this Court to reach to a fair decision. In the premises he prayed that the Applicant be granted the under sought. Having heard the Applicant's Counsel then the issue before this Court is whether the Applicant deserves the extension of time or 3ps. not. 4ps. 1ps. It was further submission that, as the nature of the prayer do not prejudice the Respondent and also the proceedings will enable this Court to reach to a fair decision. In the premises he prayed that the Applicant be granted the under sought. Having heard the Applicant's Counsel then the issue before this Court is whether the Applicant deserves the extension of time or not. The Applicant filed this application on 13t h August, 2021, the same is not resisted by the Respondent 2ps. as up to the moment when the application was called for hearing as the Respondent neither filed an affidavit in reply nor appeared before this Court as stated earlier although there is a proof of service. As per rule 10 of the Rules the extension of time is granted where the Applicant has shown good cause for the delay. 5ps. 1ps. Having heard the Applicant's Counsel then the issue before this Court is whether the Applicant deserves the extension of
+    questions_and_answers:
+      - question: |
+          What is the main issue before the Court in this case?
+        answer: |
+          The main issue before the Court is whether the Applicant deserves the extension of time to file an appeal.
+      - question: |
+          What was the Applicant's argument regarding the Respondent's position?
+        answer: |
+          The Applicant's Counsel argued that the nature of the prayer does not prejudice the Respondent, and the proceedings would enable the Court to reach a fair decision.
+      - question: |
+          Did the Respondent oppose the application for an extension of time?
+        answer: |
+          No, the Respondent did not oppose the application as they neither filed an affidavit in reply nor appeared before the Court, despite proof of service.
+      - question: |
+          On what date did the Applicant file the application for an extension of time?
+        answer: |
+          The Applicant filed the application on 13th August 2021.
+      - question: |
+          Under what rule can an extension of time be granted in this context?
+        answer: |
+          As per Rule 10 of the Rules, an extension of time can be granted where the Applicant has shown good cause for the delay.
+  - context: |
+      1ps. 1ps. The Applicant deponed further that, on 29t h June 2021, she wrote another letter requesting the Board to supply her with certified copies of tendered exhibits (Annexture SCTL 5). Those documents were not availed to her in time, therefore she lodged Civil Appeal No. 264 of 2021, without the requisite documents hoping that they will be supplied to her within 14 days, the time prescribed in the Rules. The Applicant's ground for filing this application is as it appears in the Notice of Motion that: On 12t h July, 2021, she 2ps. lodged before this court a record of appeal in Civil Appeal No. 264 of 2021. However, she did not attach necessary documents which includes; certified copies of the tendered exhibits in Tax Appeal No.4 of 2015, the certified copies of the proceedings, Ruling and Drawn Order of the Tribunal in Tax Application No. 41 of 2020 which granted her extension of time to file Notice of Appeal out of time to the Court of Appeal, the endorsed exhibits and the notice of appeal to the Tax Board in Tax 3ps. Appeal No. 2 of 2015. During the hearing of this Application, Mr. Wilson Mukebezi learned Counsel appeared for the Applicant, while nobody appeared for the Respondent despite being duly summoned, hence the hearing proceeded ex parte against the Respondent. 2ps. 1ps. Those documents were not availed to her in time, therefore she lodged Civil Appeal No.
+    questions_and_answers:
+      - question: |
+          What action did the Applicant take on 29th June 2021?
+        answer: |
+          On 29th June 2021, the Applicant wrote a letter requesting the Board to supply her with certified copies of tendered exhibits.
+      - question: |
+          Why did the Applicant lodge Civil Appeal No. 264 of 2021 without the required documents?
+        answer: |
+          The Applicant lodged Civil Appeal No. 264 of 2021 without the required documents because they were not supplied to her in time, and she hoped they would be provided within the 14 days prescribed by the Rules.
+      - question: |
+          What specific documents were missing from the Applicant's Civil Appeal No. 264 of 2021?
+        answer: |
+          The missing documents included certified copies of tendered exhibits in Tax Appeal No. 4 of 2015, the certified proceedings, Ruling and Drawn Order of the Tribunal in Tax Application No. 41 of 2020, the endorsed exhibits, and the notice of appeal to the Tax Board in Tax Appeal No. 2 of 2015.
+      - question: |
+          What was the primary ground for the Applicant’s filing of this application?
+        answer: |
+          The primary ground for filing this application, as stated in the Notice of Motion, was the absence of necessary documents for Civil Appeal No. 264 of 2021.
+      - question: |
+          Who appeared for the Applicant during the hearing, and what was the Respondent's status?
+        answer: |
+          Mr. Wilson Mukebezi, learned Counsel, appeared for the Applicant, while the Respondent did not appear despite being duly summoned, resulting in the hearing proceeding ex parte against the Respondent.
+document_outline: |
+  **Document Outline:**
+  This court ruling addresses a civil application filed by Shoprite Checkers Tanzania Limited requesting an extension of time to submit a supplementary record of appeal for a dispute involving Value Added Tax on imported services. The application outlines procedural delays in obtaining certified documents from lower tribunals, with the applicant seeking the Court's leave to rectify omissions in the original appeal filing.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Shoprite_Checkers_Tanzania_Limited_vs_Commissioner_General_of_Tanzania_Revenue_Authority_(Civil_Application_No358_of_2021)_2023_TZCA_17379_(3_July_2023).md

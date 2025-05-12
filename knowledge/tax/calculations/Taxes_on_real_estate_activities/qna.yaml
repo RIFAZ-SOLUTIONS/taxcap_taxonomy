@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## Taxes on real estate activities Here's a detailed list of 30 taxes, levies, duties, and customs that apply to real estate activities under Division 68 (Real estate activities) in Tanzania. Each entry includes a description, the relevant law, the rate at which it is charged, and an example calculation showing how it is applied. ## 1. Corporate Income Tax -  Description : Tax on the profits of companies engaged in real estate activities. -  Law : Income Tax Act, 2004 -  Rate : 30% -  Example Calculation : If a real estate company earns TZS 100,000,000 in profits, 2ps. the corporate income tax would be 30% of 100,000,000 = TZS 30,000,000. ## 2. Value Added Tax (VAT) -  Description : Tax on goods and services provided by real estate companies. -  Law : VAT Act, 2014 -  Rate : 18% -  Example Calculation : If a real estate company provides services worth TZS 50,000,000, the VAT would be 18% of 50,000,000 = TZS 9,000,000. 2ps. 1ps. -  Law : Income Tax Act, 2004 -  Rate : 30% -  Example Calculation : If a real estate company earns TZS 100,000,000 in profits, the corporate income tax would be 30% of 100,000,000 = TZS 30,000,000. ## 2. Value Added Tax (VAT) -  Description : Tax on goods and services provided by real estate companies. ## 3. Capital
+    questions_and_answers:
+      - question: |
+          What is the corporate income tax rate for real estate companies in Tanzania, and under which law is it governed?
+        answer: |
+          The corporate income tax rate for real estate companies is 30%, and it is governed by the Income Tax Act, 2004.
+      - question: |
+          How is the corporate income tax calculated for a real estate company earning TZS 100,000,000 in profits?
+        answer: |
+          The corporate income tax would be 30% of TZS 100,000,000, resulting in TZS 30,000,000.
+      - question: |
+          What is the rate of Value Added Tax (VAT) on services provided by real estate companies in Tanzania?
+        answer: |
+          The Value Added Tax (VAT) rate on services provided by real estate companies is 18%.
+      - question: |
+          Under which law is the Value Added Tax (VAT) applied to real estate activities, and what is an example of its application?
+        answer: |
+          VAT is applied under the VAT Act, 2014. For example, if a company provides services worth TZS 50,000,000, the VAT would be 18% of 50,000,000, totaling TZS 9,000,000.
+      - question: |
+          What two major taxes are mentioned in the context as applicable to real estate activities in Tanzania?
+        answer: |
+          The two major taxes mentioned are Corporate Income Tax (30%) and Value Added Tax (18%).
+  - context: |
+      : Levy for environmental protection related to real estate activities. -  Law : Environmental Management Act, 2004 -  Rate : Varies by project size and impact -  Example Calculation : For a construction project, the levy might be TZS 1,000,000. ## 12. Workers' Compensation 2ps. Fund Contribution -  Description : Contribution towards compensating workers for work-related injuries. -  Law : Workers' Compensation Act, 2008 -  Rate : 1% of total wages -  Example Calculation : If total wages paid are TZS 20,000,000, the contribution would be 1% of 20,000,000 = TZS 200,000. ## 13. Payroll Tax -  Description : Tax on the payroll of employees engaged in real estate activities. 3ps. 1ps. ## 12. Workers' Compensation Fund Contribution -  Description : Contribution towards compensating workers for work-related injuries. -  Law : Workers' Compensation Act, 2008 -  Rate : 1% of total wages -  Example Calculation : If total wages paid are TZS 20,000,000, the contribution would be 1% of 20,000,000 = TZS 200,000. ## 13. Payroll Tax -  Description : Tax on the payroll of employees engaged in real estate activities. -  Law : Income Tax Act, 2004 -  Rate : 30% -  Example Calculation : If monthly payroll is TZS 50,000,000, payroll tax would be 30% of 50,000,000 = 2ps. TZS 15,000,000. ## 14. Import Duty on Construction Materials -  Description :
+    questions_and_answers:
+      - question: |
+          What law governs the levy for environmental protection related to real estate activities?
+        answer: |
+          The levy for environmental protection is governed by the Environmental Management Act, 2004.
+      - question: |
+          How is the workers' compensation fund contribution rate determined and what is an example calculation?
+        answer: |
+          The contribution rate is set at 1% of total wages under the Workers' Compensation Act, 2008. For example, if total wages paid are TZS 20,000,000, the contribution would be 1% of 20,000,000, which equals TZS 200,000.
+      - question: |
+          What is the payroll tax rate for employees in real estate activities, and which law regulates it?
+        answer: |
+          The payroll tax rate is 30%, and it is regulated by the Income Tax Act, 2004.
+      - question: |
+          Can you provide an example of how the levy for environmental protection might be calculated?
+        answer: |
+          For a construction project, the levy could be set at TZS 1,000,000, though it varies based on project size and impact.
+      - question: |
+          What would the payroll tax amount be if a company's monthly payroll is TZS 50,000,000?
+        answer: |
+          If the monthly payroll is TZS 50,000,000, the payroll tax would be 30% of 50,000,000, which equals TZS 15,000,000.
+  - context: |
+      Example Calculation : For acquiring land for a commercial development, the levy might be TZS 10,000,000. ## 25. Development Charges -  Description : Charges imposed by local authorities for infrastructure development related to real estate projects. 4ps. 1ps. ## 24. Land Acquisition Levy -  Description : Levy on the acquisition of land for development purposes. -  Law : Land Act, 1999 -  Rate : Varies by location and land use -  Example Calculation : For acquiring land for a commercial development, the levy might be TZS 10,000,000. ## 25. Development Charges -  Description : Charges imposed by local authorities for infrastructure development related to real estate projects. -  Law : Local Government Finance Act, 1982 -  Rate : Varies by project size and location -  Example Calculation : For a large residential development, development charges might 2ps. be TZS 20,000,000. ## 26. Health Inspection Fee -  Description : Fee for health inspections related to real estate developments. -  Law : Public Health Act, 2009 -  Rate : Fixed fee -  Example Calculation : The fee might be TZS 100,000 per inspection. ## 27. Fire Safety Inspection Fee -  Description : Fee for fire safety inspections of real estate properties. 5ps. 1ps. ## 26. Health Inspection Fee -  Description : Fee for health inspections related to real estate developments. -  Law : Public Health Act,
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Land Acquisition Levy?
+        answer: |
+          The Land Acquisition Levy is imposed on the acquisition of land for development purposes.
+      - question: |
+          Under which law is the Land Acquisition Levy governed?
+        answer: |
+          The Land Acquisition Levy is governed by the Land Act, 1999.
+      - question: |
+          What factors determine the rate of Development Charges?
+        answer: |
+          The rate of Development Charges varies by project size and location.
+      - question: |
+          How much might a health inspection fee cost for a real estate development project?
+        answer: |
+          The health inspection fee might cost TZS 100,000 per inspection.
+      - question: |
+          What law governs Development Charges imposed by local authorities?
+        answer: |
+          Development Charges are governed by the Local Government Finance Act, 1982.
+  - context: |
+      1ps. 1ps. ## 18. Planning Permission Fee -  Description : Fee for obtaining planning permission for real estate developments. -  Law : Urban Planning Act, 2007 -  Rate : Varies by project size and complexity -  Example Calculation : For a large commercial project, planning permission fee might be TZS 2,000,000. ## 19. Building Permit Fee -  Description : Fee for obtaining a building permit for construction projects. -  Law : Building Act, 2008 -  Rate : Varies by project value and location -  Example Calculation : For a project valued at TZS 500,000,000, building permit fee might be TZS 2ps. 5,000,000. ## 20. Occupation Permit Fee -  Description : Fee for obtaining an occupation permit for completed buildings. -  Law : Building Act, 2008 -  Rate : Fixed fee -  Example Calculation : The fee might be TZS 500,000. ## 21. Advertising Permit Fee -  Description : Fee for displaying advertisements related to real estate. 2ps. 1ps. ## 20. Occupation Permit Fee -  Description : Fee for obtaining an occupation permit for completed buildings. -  Law : Building Act, 2008 -  Rate : Fixed fee -  Example Calculation : The fee might be TZS 500,000. ## 21. Advertising Permit Fee -  Description : Fee for displaying advertisements related to real estate. -  Law : Local Government Finance Act, 1982 -
+    questions_and_answers:
+      - question: |
+          What is the purpose of the planning permission fee?
+        answer: |
+          The planning permission fee is for obtaining planning permission for real estate developments.
+      - question: |
+          Which law governs the building permit fee, and on what criteria is it based?
+        answer: |
+          The building permit fee is governed by the Building Act, 2008, and its rate varies based on project value and location.
+      - question: |
+          What is an example of the occupation permit fee for completed buildings?
+        answer: |
+          For completed buildings, the occupation permit fee might be TZS 500,000 according to the example provided.
+      - question: |
+          What legislation regulates advertising permit fees for real estate-related advertisements?
+        answer: |
+          The advertising permit fee is regulated by the Local Government Finance Act, 1982.
+      - question: |
+          How is the planning permission fee rate determined for projects?
+        answer: |
+          The rate for the planning permission fee varies based on the size and complexity of the project.
+  - context: |
+      1ps. 1ps. ## 8. Development Levy -  Description : Levy imposed on developers for infrastructure development. -  Law : Local Government Finance Act, 1982 -  Rate : Varies by project and municipality -  Example Calculation : For a large residential development, the levy might be TZS 5,000,000. ## 9. Skills and Development Levy -  Description : Levy on employers for vocational training of employees. -  Law : Vocational Education and Training Act, 1994 -  Rate : 5% of payroll -  Example Calculation : If a company's monthly payroll is TZS 10,000,000, the levy would be 5% of 10,000,000 = TZS 2ps. 500,000. ## 10. Business License Fee -  Description : Fee for operating a real estate business. -  Law : Business Licensing Act, 1972 -  Rate : Varies by business size and location -  Example Calculation : For a real estate agency, the annual license fee might be TZS 500,000. ## 11. Environmental Levy -  Description : Levy for environmental protection related to real estate activities. 2ps. 1ps. ## 10. Business License Fee -  Description : Fee for operating a real estate business. -  Law : Business Licensing Act, 1972 -  Rate : Varies by business size and location -  Example Calculation : For a real estate agency, the annual license fee might be TZS 500,000. ## 11. Environmental Levy -  Description
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Development Levy?
+        answer: |
+          The Development Levy is imposed on developers to fund infrastructure development.
+      - question: |
+          Under which law is the Skills and Development Levy governed?
+        answer: |
+          The Skills and Development Levy is governed by the Vocational Education and Training Act, 1994.
+      - question: |
+          How is the Skills and Development Levy calculated for a company's payroll?
+        answer: |
+          The Skills and Development Levy is calculated as 5% of the company's payroll. For example, if the payroll is TZS 10,000,000, the levy would be TZS 500,000.
+      - question: |
+          What factors influence the rate of the Business License Fee?
+        answer: |
+          The rate of the Business License Fee varies based on the size and location of the business.
+      - question: |
+          What is the Business Licensing Act, 1972, used for in relation to real estate businesses?
+        answer: |
+          The Business Licensing Act, 1972, provides the legal framework for the Business License Fee, which is required to operate a real estate business.
+document_outline: |
+  **Document Outline:**
+  The document provides a comprehensive overview of the taxes, levies, duties, and customs applicable to real estate activities under Tanzania's Division 68. It details 30 specific tax categories, including their descriptions, associated legal frameworks, applicable rates, and example calculations illustrating their application in the real estate sector.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_real_estate_activities.md

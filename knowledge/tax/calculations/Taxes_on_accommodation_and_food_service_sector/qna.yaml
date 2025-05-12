@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. -  Formula : Tourism Development Levy = Room Charge * Levy Rate ## 8. Stamp Duty Description : Duty on certain documents and transactions. Law : Stamp Duty Act, 1972 Rate : Various rates depending on the document Example : -  Calculation : If the stamp duty on a lease agreement is TZS 10,000. -  Formula : Fixed amount as per the document type ## 9. Excise Duty Description : Duty on specific goods such as alcohol and tobacco. Law : Excise (Management and Tariff) Act, 1952 Rate : Varies; for example, beer might be TZS 525 per liter. 2ps. Example : -  Calculation : If a restaurant sells 100 liters of beer, Excise Duty = 100 * 525 = TZS 52,500. -  Formula : Excise Duty = Quantity * Duty Rate ## 10. Withholding Tax on Rent Description : Tax withheld on rental payments. Law : Income Tax Act, 2004 Rate : 10% Example : -  Calculation : If monthly rent is TZS 1,000,000, Withholding Tax = 1,000,000 * 10% = TZS 100,000. 2ps. 1ps. Example : -  Calculation : If a restaurant sells 100 liters of beer, Excise Duty = 100 * 525 = TZS 52,500. -  Formula : Excise Duty = Quantity * Duty Rate ## 10. Withholding Tax on Rent Description : Tax withheld on rental payments. Law : Income Tax Act, 2004 Rate : 10%
+    questions_and_answers:
+      - question: |
+          What is the formula for calculating the Tourism Development Levy?
+        answer: |
+          The formula for Tourism Development Levy is: Room Charge * Levy Rate.
+      - question: |
+          What determines the rate for Stamp Duty?
+        answer: |
+          The rate for Stamp Duty varies depending on the type of document, as outlined in the Stamp Duty Act, 1972.
+      - question: |
+          What is the calculation formula for Excise Duty?
+        answer: |
+          The formula for Excise Duty is: Quantity * Duty Rate.
+      - question: |
+          How is Withholding Tax on Rent calculated?
+        answer: |
+          Withholding Tax on Rent is calculated by multiplying the monthly rent by 10% as per the Income Tax Act, 2004.
+      - question: |
+          What is an example of calculating Excise Duty for beer?
+        answer: |
+          If a restaurant sells 100 liters of beer, the Excise Duty is calculated as 100 * 525 = TZS 52,500.
+  - context: |
+      1ps. 1ps. ## Taxes on accommodation and food service sector Creating a detailed list of 30 taxes, levies, duties, and customs under the Tanzanian Tax Law Regime applicable to the accommodation and food service sector activities involves referring to several specific tax laws, regulations, and guidelines provided by the Tanzania Revenue Authority (TRA). Below is an exhaustive list of taxes, along with their descriptions, applicable laws, rates, and examples with calculations. ## 1. Value Added Tax (VAT) Description : Tax on the value added at each stage of production or distribution. Law : Value Added Tax Act, 2014 Rate : 18% Example 2ps. : -  Calculation : If a hotel room costs TZS 100,000, VAT = 100,000 * 18% = TZS 18,000. -  Formula : VAT = Price * VAT Rate ## 2. Corporate Income Tax Description : Tax on the profits of the company. Law : Income Tax Act, 2004 Rate : 30% Example : -  Calculation : If annual profit is TZS 50,000,000, Corporate Tax = 50,000,000 * 30% = TZS 15,000,000. 2ps. 1ps. Law : Value Added Tax Act, 2014 Rate : 18% Example : -  Calculation : If a hotel room costs TZS 100,000, VAT = 100,000 * 18% = TZS 18,000. -  Formula : VAT = Price * VAT Rate ## 2. Corporate Income Tax Description : Tax on the profits of the company. Law : Income Tax Act, 2004
+    questions_and_answers:
+      - question: |
+          What is the purpose of Value Added Tax (VAT) in Tanzania?
+        answer: |
+          VAT is a tax on the value added at each stage of production or distribution, applicable under the Value Added Tax Act, 2014.
+      - question: |
+          What is the VAT rate for accommodation and food service sector activities in Tanzania?
+        answer: |
+          The VAT rate is 18% as specified under the Value Added Tax Act, 2014.
+      - question: |
+          How is Corporate Income Tax calculated for companies in Tanzania?
+        answer: |
+          Corporate Income Tax is calculated at a rate of 30% on the company's profits, as stipulated in the Income Tax Act, 2004.
+      - question: |
+          Can you provide an example of VAT calculation for a hotel room in Tanzania?
+        answer: |
+          If a hotel room costs TZS 100,000, the VAT is calculated as 100,000 * 18% = TZS 18,000.
+      - question: |
+          Which legal acts govern the taxes in the accommodation and food service sector in Tanzania discussed in the context?
+        answer: |
+          The Value Added Tax Act, 2014 governs VAT, and the Income Tax Act, 2004 governs Corporate Income Tax.
+  - context: |
+      1ps. 1ps. Law : Business Licensing Act, 1972 Rate : Varies by business type and size Example : -  Calculation : If the fee for a restaurant license is TZS 500,000 annually. -  Formula : Fixed amount as per business category ## 16. Liquor License Fee Description : Fee for license to sell alcoholic beverages. Law : Intoxicating Liquors Act, 1968 Rate : Varies by type of liquor and premises Example : -  Calculation : If the annual fee for a bar is TZS 1,000,000. -  Formula : Fixed amount as per license type ## 17. Fire Safety Compliance Fee Description : 2ps. Fee for fire safety inspection and compliance. Law : Fire and Rescue Force Act, 2007 Rate : Varies by business size and risk level Example : -  Calculation : If the fee for a medium-sized restaurant is TZS 150,000 annually. -  Formula : Fixed amount based on inspection results ## 18. Health and Sanitation Inspection Fee Description : Fee for health and sanitation inspection. 2ps. 1ps. -  Formula : Fixed amount as per license type ## 17. Fire Safety Compliance Fee Description : Fee for fire safety inspection and compliance. Law : Fire and Rescue Force Act, 2007 Rate : Varies by business size and risk level Example : -  Calculation : If the fee for a medium-sized restaurant is TZS 150,000 annually. -  Formula : Fixed amount
+    questions_and_answers:
+      - question: |
+          What law governs the Business Licensing Act, and how are fees calculated for businesses?
+        answer: |
+          The Business Licensing Act is governed by the Business Licensing Act of 1972, and the fees vary by business type and size, calculated as a fixed amount determined by the business category.
+      - question: |
+          Under which law is the Liquor License Fee regulated, and how are rates determined?
+        answer: |
+          The Liquor License Fee is regulated under the Intoxicating Liquors Act of 1968, and the rates vary by the type of liquor and premises, calculated as a fixed amount based on the license type.
+      - question: |
+          What is the Fire Safety Compliance Fee, and how is its rate determined?
+        answer: |
+          The Fire Safety Compliance Fee is a fee for fire safety inspection and compliance, regulated under the Fire and Rescue Force Act of 2007. The rate varies by the business size and risk level, calculated as a fixed amount based on inspection results.
+      - question: |
+          How much is the annual fire safety compliance fee for a medium-sized restaurant?
+        answer: |
+          The annual fire safety compliance fee for a medium-sized restaurant is TZS 150,000.
+      - question: |
+          What governs health and sanitation inspection fees, and is the fee structure specified?
+        answer: |
+          Health and Sanitation Inspection Fees are for inspections, but the specific fee structure or governing law is not explicitly detailed in the context provided. It is generally a fixed amount based on the license type.
+  - context: |
+      : Varies; for example, 10% on certain agricultural products. Example : -  Calculation : If exporting goods worth TZS 1,000,000, Export Duty = 1,000,000 * 10% = TZS 100,000. 4ps. 1ps. -  Formula : Fixed amount as per registration category ## 28. Export Duty Description : Duty on exported goods. Law : East African Community Customs Management Act, 2004 Rate : Varies; for example, 10% on certain agricultural products. Example : -  Calculation : If exporting goods worth TZS 1,000,000, Export Duty = 1,000,000 * 10% = TZS 100,000. -  Formula : Export Duty = Value of Goods * Export Duty Rate ## 29. Training Levy Description : Levy for training and development of employees. Law : Vocational Education and Training Act, 1994 Rate : 2% of gross payroll Example 2ps. : -  Calculation : If total monthly payroll is TZS 5,000,000, Training Levy = 5,000,000 * 2% = TZS 100,000. -  Formula : Training Levy = Payroll * Levy Rate ## 30. Local Government Service Levy Description : Levy for local government services. 5ps. 1ps. -  Formula : Export Duty = Value of Goods * Export Duty Rate ## 29. Training Levy Description : Levy for training and development of employees. Law : Vocational Education and Training Act, 1994 Rate : 2% of gross payroll Example : -  Calculation : If total monthly payroll is TZS 5,000,000, Training Levy = 5,000,000
+    questions_and_answers:
+      - question: |
+          What is the Export Duty and under which law is it governed?
+        answer: |
+          Export Duty is a duty on exported goods governed by the East African Community Customs Management Act, 2004.
+      - question: |
+          How is Export Duty calculated, and what is an example of its application?
+        answer: |
+          Export Duty is calculated using the formula: Export Duty = Value of Goods * Export Duty Rate. For example, if goods worth TZS 1,000,000 are exported at a 10% rate, the duty is TZS 100,000.
+      - question: |
+          What is the purpose of the Training Levy, and what rate is applied to its calculation?
+        answer: |
+          The Training Levy is imposed for the training and development of employees, calculated at a rate of 2% of the gross payroll under the Vocational Education and Training Act, 1994.
+      - question: |
+          Provide an example of how the Training Levy is calculated.
+        answer: |
+          If the total monthly payroll is TZS 5,000,000, the Training Levy is calculated as 5,000,000 * 2%, resulting in TZS 100,000.
+      - question: |
+          What is the formula for calculating Export Duty?
+        answer: |
+          The formula for calculating Export Duty is: Export Duty = Value of Goods * Export Duty Rate.
+  - context: |
+      injuries. Law : Workers Compensation Act, 2008 Rate : 0.6% Example : -  Calculation : If total monthly payroll is TZS 5,000,000, WCF = 5,000,000 * 0.6% = TZS 30,000. -  Formula : WCF = Payroll * WCF Rate ## 6. Hotel Levy Description : Levy on hotel room charges. 4ps. 1ps. -  Formula : SDL = Payroll * SDL Rate ## 5. Workers Compensation Fund (WCF) Description : Fund for compensating employees for work-related injuries. Law : Workers Compensation Act, 2008 Rate : 0.6% Example : -  Calculation : If total monthly payroll is TZS 5,000,000, WCF = 5,000,000 * 0.6% = TZS 30,000. -  Formula : WCF = Payroll * WCF Rate ## 6. Hotel Levy Description : Levy on hotel room charges. Law : Local Government Finance Act Rate : 10% Example : -  Calculation : If a hotel room costs TZS 100,000, Hotel Levy = 100,000 * 10% 2ps. = TZS 10,000. -  Formula : Hotel Levy = Room Charge * Hotel Levy Rate ## 7. Tourism Development Levy Description : Levy for promoting tourism development. Law : Tourism Act, 2008 Rate : 2% on accommodation charges Example : -  Calculation : If a hotel room costs TZS 100,000, Tourism Development Levy = 100,000 * 2% = TZS 2,000. 5ps. 1ps. Law : Local Government Finance Act Rate : 10% Example : -  Calculation : If a
+    questions_and_answers:
+      - question: |
+          What is the purpose of the Workers Compensation Fund (WCF) described in the context?
+        answer: |
+          The Workers Compensation Fund (WCF) is established to compensate employees for work-related injuries, as per the Workers Compensation Act, 2008.
+      - question: |
+          How is the amount for the Workers Compensation Fund (WCF) calculated, and what is the rate applied?
+        answer: |
+          The amount is calculated using the formula WCF = Payroll * WCF Rate, with a rate of 0.6%. For example, if the total monthly payroll is TZS 5,000,000, the WCF is TZS 30,000.
+      - question: |
+          What law governs the application of the Hotel Levy, and what is its rate?
+        answer: |
+          The Hotel Levy is governed by the Local Government Finance Act, and its rate is 10% of hotel room charges.
+      - question: |
+          What is the rate of the Tourism Development Levy, and what law regulates it?
+        answer: |
+          The Tourism Development Levy is charged at a rate of 2% on accommodation charges, and it is regulated by the Tourism Act, 2008.
+      - question: |
+          Can you provide an example of how the Hotel Levy is calculated for a room charge of TZS 100,000?
+        answer: |
+          If a hotel room costs TZS 100,000, the Hotel Levy is calculated as 100,000 * 10%, resulting in a levy of TZS 10,000.
+document_outline: |
+  **Document Outline: Taxes on Accommodation and Food Service Sector under Tanzanian Tax Law**
+  The document provides a comprehensive list and detailed explanations of 30 taxes, levies, duties, and customs applicable to the accommodation and food service sector in Tanzania, as governed by specific laws and regulations outlined by the Tanzania Revenue Authority (TRA). Each tax is described with its legal basis, applicable rates, and calculation examples, including Value Added Tax (VAT), Corporate Income Tax, Pay As You Earn (PAYE), and sector-specific levies like the Hotel Levy and Tourism Development Levy.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxes_on_accommodation_and_food_service_sector.md

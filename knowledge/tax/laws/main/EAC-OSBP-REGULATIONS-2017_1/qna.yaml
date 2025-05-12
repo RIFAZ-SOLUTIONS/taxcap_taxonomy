@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      and commencement. Interpretation. - 1. (1) These Regulations may 2ps. be cited as the East African Community One Stop Border Posts Regulations, 2017. - (2) These Regulations shall commence on a date to be appointed by the Council and different dates may be appointed for different parts of the Regulations. 3ps. 1ps. ## THE EAST AFRICAN COMMUNITY ## ONE STOP BORDER POSTS REGULATIONS, 2017 IN EXERCISE of the powers conferred upon the Council by Section 55 of the East African Community One Stop Border Posts Act, 2013, the Council of Ministers makes the following Regulations- ## PART I PRELIMINARY PROVISIONS Citation and commencement. Interpretation. - 2. In these Regulations, unless the context otherwise requires- - 'Act' means the East African Community One Stop Border Posts Act, 2013; 'adjoining Partner State' means a Partner State whose officers perform border controls within the control zone 2ps. in the host Partner State; 'border controls' means any border related control measures, checks and authorizations, without limitation, provided for in the national laws and regulations of the Partner States; 'Community' means the East African Community established under Article 2 of the Treaty; 'competent authorities' means any ministries or other government entities of the Partner States assigned responsibilities for border controls by their national laws; 'control zone' means the territory of the host Partner State within which officers of the adjoining Partner States effect border controls, including the exclusive use 3ps. area; 'Council' means the Council
+    questions_and_answers:
+      - question: |
+          What is the official title of the regulations discussed in the text?
+        answer: |
+          The regulations are officially titled the East African Community One Stop Border Posts Regulations, 2017.
+      - question: |
+          Who has the authority to appoint the commencement date for these regulations?
+        answer: |
+          The Council has the authority to appoint the commencement date for these regulations, and different dates may be set for different parts of the regulations.
+      - question: |
+          What is the definition of 'adjoining Partner State' in these regulations?
+        answer: |
+          'Adjoining Partner State' refers to a Partner State whose officers perform border controls within the control zone in the host Partner State.
+      - question: |
+          What does the term 'control zone' mean according to the regulations?
+        answer: |
+          'Control zone' means the territory of the host Partner State within which officers of the adjoining Partner States perform border controls, including the exclusive use area.
+      - question: |
+          What is the role of 'competent authorities' as defined by the regulations?
+        answer: |
+          'Competent authorities' are ministries or other government entities of the Partner States assigned responsibilities for border controls by their national laws.
+  - context: |
+      with a situation where such assistance is considered necessary. - (6) The adjoining Partner State shall upon request and in the security interest accede and render assistance to the extent authorised in the applicable laws. Identification. ## PART VI CONDUCT OF OFFICERS - 8. (1) A competent authority shall issue identity badges to the officers working in the control zone. 3ps. 1ps. - (6) The adjoining Partner State shall upon request and in the security interest accede and render assistance to the extent authorised in the applicable laws. Identification. ## PART VI CONDUCT OF OFFICERS - 8. (1) A competent authority shall issue identity badges to the officers working in the control zone. - (2) An officer who wishes to access a control zone shall visibly display an identity badge issued by the competent authority. - (3) The particulars of the identity badge issued under sub-regulation (1) shall 2ps. include- - (a) the emblem of the Partner State and logo of the competent authority; - (b) the identity badge number; - (c) the photograph of the officer; - (d) the officer's full names; - (e) the name of the competent authority to which the officer belongs; - (f) an electronically readable access code; and - (g) security features for badge verification purposes. 4ps. 1ps. ## PART VI CONDUCT OF OFFICERS - 8. (1) A competent authority shall issue identity badges to the officers working in the control zone. - (2)
+    questions_and_answers:
+      - question: |
+          What is required for officers to access a control zone?
+        answer: |
+          Officers wishing to access a control zone must visibly display an identity badge issued by the competent authority.
+      - question: |
+          What information must an identity badge contain according to the regulations?
+        answer: |
+          An identity badge must include the emblem of the Partner State, the logo of the competent authority, the identity badge number, the officer's photograph, full name, the competent authority’s name, an electronically readable access code, and security features for badge verification.
+      - question: |
+          Under what condition will an adjoining Partner State provide assistance?
+        answer: |
+          An adjoining Partner State will provide assistance upon request and in the interest of security, as long as it is authorized by applicable laws.
+      - question: |
+          Who is responsible for issuing identity badges to officers working in the control zone?
+        answer: |
+          A competent authority is responsible for issuing identity badges to officers working in the control zone.
+      - question: |
+          What security measures are incorporated into identity badges issued to officers?
+        answer: |
+          The identity badges include an electronically readable access code and security features to enable badge verification.
+  - context: |
+      1ps. 1ps. | ## PART V MAINTENANCE OF PEACE, SECURITY, LAW AND ORDER IN THE CONTROL ZONE Maintenance of Peace, Security and Law and Order in the control zone - 7. (1) The host Partner State shall be responsible for the maintenance of peace, security and law and 2ps. order in the control zone. - (2) The host Partner State shall ensure and guarantee the safety of the officials of both adjoining Partner States and the users of the border control zones that access the one stop border post for services. - (4) The security measures may include installation of appropriate nonintrusive human security screening devices for the border control zones at entry points into the control zones without creating unnecessary bottlenecks at such screening points that would militate against the objectives of the one stop border post. 2ps. 1ps. - (2) The host Partner State shall ensure and guarantee the safety of the officials of both adjoining Partner States and the users of the border control zones that access the one stop border post for services. - (3) The adjoining Partner States shall agree and strategically install high tech surveillance devices to enhance the security of the one stop border post. - (5) The host Partner State may, in the discharge of its responsibilities for the maintenance of peace, security, law and 2ps. order, request the assistance of the law enforcement agencies of the adjoining Partner State in dealing
+    questions_and_answers:
+      - question: |
+          What is the responsibility of the host Partner State in the control zone?
+        answer: |
+          The host Partner State is responsible for maintaining peace, security, and law and order in the control zone.
+      - question: |
+          What safety guarantees does the host Partner State provide for the control zones?
+        answer: |
+          The host Partner State ensures the safety of officials from both adjoining Partner States and the users of the border control zones accessing the one stop border post for services.
+      - question: |
+          What types of security measures can be implemented in the control zones?
+        answer: |
+          Security measures may include installing appropriate nonintrusive human security screening devices at entry points to the control zones without causing unnecessary bottlenecks.
+      - question: |
+          What role do adjoining Partner States play in enhancing security at the one stop border post?
+        answer: |
+          The adjoining Partner States agree to strategically install high-tech surveillance devices to enhance security at the one stop border post.
+      - question: |
+          Can the host Partner State request help with security issues from adjoining Partner States?
+        answer: |
+          Yes, the host Partner State may request assistance from the law enforcement agencies of adjoining Partner States in maintaining peace, security, law, and order.
+  - context: |
+      An officer who wishes to access a control zone shall visibly display an identity badge issued by the competent authority. - (4) In the absence of such identity badge, an officer may be given access to the control zone for official purposes upon being identified by another officer at the 2ps. control zone and shall be issued with a temporary identification document. - (5) Where officers at the control zone are required to conduct undercover border control operations, the officers shall be exempt from visibly displaying their identity badges but shall at all times carry their badges for purposes of identification. - (6) The loss, theft or destruction of an identity badge shall as soon as practicable, be reported to the issuing authorities 3ps. of both Partner States who shall disable the identity badge. Identification of facilitation agent. 5ps. 1ps. - (5) Where officers at the control zone are required to conduct undercover border control operations, the officers shall be exempt from visibly displaying their identity badges but shall at all times carry their badges for purposes of identification. - (6) The loss, theft or destruction of an identity badge shall as soon as practicable, be reported to the issuing authorities of both Partner States who shall disable the identity badge. Identification of facilitation agent. ## 2ps. PART VII ## CONDUCT OF FACILITATION AGENTS - 9. (1) A facilitation agent who wishes to access a control zone shall visibly display
+    questions_and_answers:
+      - question: |
+          What is required for an officer to access a control zone?
+        answer: |
+          An officer must visibly display an identity badge issued by the competent authority to access a control zone.
+      - question: |
+          What happens if an officer does not have their identity badge when accessing a control zone?
+        answer: |
+          The officer may be granted access for official purposes if identified by another officer and will be issued a temporary identification document.
+      - question: |
+          Are officers conducting undercover border control operations required to display their identity badges?
+        answer: |
+          No, they are exempt from visibly displaying their identity badges but must carry them at all times for identification purposes.
+      - question: |
+          What should be done if an identity badge is lost, stolen, or destroyed?
+        answer: |
+          The incident must be reported as soon as practicable to the issuing authorities of both Partner States, who will then disable the badge.
+      - question: |
+          What is required for a facilitation agent who wishes to access a control zone?
+        answer: |
+          A facilitation agent must visibly display an identity badge to access a control zone.
+  - context: |
+      1ps. 1ps. Configuration of the control zone. Specification of the control zone. ## PART III CONTROL ZONES - 4. The configuration of the control zone of each one stop border post established under section 5 of the Act shall be specifically agreed between the two Partner States that have a common one stop border post. - 5. (1) Subject to sections 7 and 55 of the Act, the demarcations and physical areas of the control zone shall specify the following- - (a) 2ps. geographical lay out of the control zone; - (b) structures and buildings; - (c) security fence and barriers; - (d) access routes; - (e) signage; - (f) restricted areas; and - (g) any other demarcation or physical barriers as shall be mutually agreed upon between the adjoining Partner States. - (2) The demarcation and physical areas referred to in subregulation 5(1) shall have distinct signage in appropriate languages as adjoining Partner States shall agree. ## PART IV ## OPERATIONAL PROCEDURES FOR BORDER CONTROL | Sequence of controls. 2ps. 1ps. - 5. (1) Subject to sections 7 and 55 of the Act, the demarcations and physical areas of the control zone shall specify the following- - (a) geographical lay out of the control zone; - (b) structures and buildings; - (c) security fence and barriers; - (d) access routes; - (e) signage; - (f) restricted areas; and - (g) any other demarcation or physical barriers as shall be
+    questions_and_answers:
+      - question: |
+          What is required for the configuration of the control zone at a one stop border post?
+        answer: |
+          The configuration of the control zone must be specifically agreed upon by the two Partner States that share the one stop border post.
+      - question: |
+          What elements must be specified in the demarcations and physical areas of the control zone under subregulation 5(1)?
+        answer: |
+          The elements include the geographical layout, structures and buildings, security fences and barriers, access routes, signage, restricted areas, and any mutually agreed-upon demarcations or barriers.
+      - question: |
+          What is the purpose of distinct signage in the control zone?
+        answer: |
+          Distinct signage in the control zone is required in appropriate languages as agreed upon by the adjoining Partner States.
+      - question: |
+          Under which sections of the Act are the control zone demarcations and physical areas regulated?
+        answer: |
+          The demarcations and physical areas of the control zone are regulated under sections 7 and 55 of the Act.
+      - question: |
+          Who determines the additional demarcations or physical barriers in the control zone?
+        answer: |
+          Additional demarcations or physical barriers in the control zone are determined by mutual agreement between the adjoining Partner States.
+document_outline: |
+  **Document Outline:**
+  The document outlines the "East African Community One Stop Border Post Regulations, 2017," issued by the EAC Secretariat. It provides a structured framework for managing border operations across Partner States, covering preliminary provisions, the designation of lead agencies, configuration and operation of control zones, maintenance of security, and the roles and conduct of officers and facilitation agents at one-stop border posts.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - EAC-OSBP-REGULATIONS-2017_1.md

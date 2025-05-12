@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## LABOUR DIVISION AT DAR ES SALAAM REVISION NO. 422 OF 2016 MBONIPA KASASE.......................... APPLICANT VERSUS TANZANIA REVENUE AUTHORITY........... .......... ...RESPONDENT ## RULING Date of Last Order: 22/03/2018 Date of Ruling: 06/04/2018 ## L.L.Mashaka, 3 This is a ruling in respect of preliminary objection filed by the respondent Tanzania Revenue Authority on the 21s t November 2017 that the application for revision filed by the applicant Mbonipa Kasase contravenes Rule 24 (3) (c) and (d) of the Labour Court Rules, GN No. 106 of 2007. The 2ps. hearing of the preliminary objection was by way of written submissions and it is noted that the respondent's submission was drawn and filed by Mr. Raphael Rwezaura, Advocate from Apex Attorneys Advocates who represented the respondent and those by the applicant drawn and filed in person. 2ps. 1ps. ## IN THE HIGH COURT OF TANZANIA ## LABOUR DIVISION AT DAR ES SALAAM REVISION NO. 422 OF 2016 MBONIPA KASASE.......................... The point of the preliminary objection is that the affidavit in support of the application deponed by the applicant himself does not disclose legal issues that arise from the material facts and reliefs sought as per Rule 24(3)(c) and (d) of the Labour Court Rules, GN 106 of 2007. That 2ps. the affidavit in support of the application does not meet the requirements of the law above whereas the requirements must be complied with by
+    questions_and_answers:
+      - question: |
+          What is the key legal issue raised in the preliminary objection by the respondent in this case?
+        answer: |
+          The preliminary objection argues that the applicant's affidavit violates Rule 24(3)(c) and (d) of the Labour Court Rules, GN No. 106 of 2007 because it does not disclose legal issues that arise from the material facts and reliefs sought.
+      - question: |
+          Who filed the preliminary objection in this case, and when was it filed?
+        answer: |
+          The preliminary objection was filed by the respondent, Tanzania Revenue Authority, on November 21, 2017.
+      - question: |
+          How was the hearing of the preliminary objection conducted?
+        answer: |
+          The hearing of the preliminary objection was conducted by way of written submissions.
+      - question: |
+          Who represented the respondent in filing submissions for the preliminary objection?
+        answer: |
+          The respondent's written submissions were drawn and filed by Mr. Raphael Rwezaura, Advocate from Apex Attorneys Advocates.
+      - question: |
+          What regulation governs the requirements the affidavit in this case allegedly failed to meet?
+        answer: |
+          The affidavit allegedly failed to meet the requirements of Rule 24(3)(c) and (d) of the Labour Court Rules, GN No. 106 of 2007.
+  - context: |
+      comply with the requirements of Rule 2ps. 24(3)(c) and (d) of the Labour Court Rules, Government Notice 106 of 2007. Rule 24(3) provides that:- 24(3). The application shaii be supported by an affidavit, which shall clearly and concisely set out- - (a) The names, description and the address of the parties; - (b) A statement of the material facts in a chronological order, on which the application is based. - (c) Statement of legal issues that arise from the materia! facts; and ## (d) The reliefs sought [ Emphasis is mine]. 3ps. 1ps. The application shaii be supported by an affidavit, which shall clearly and concisely set out- - (a) The names, description and the address of the parties; - (b) A statement of the material facts in a chronological order, on which the application is based. - (c) Statement of legal issues that arise from the materia! facts; and ## (d) The reliefs sought [ Emphasis is mine]. The contention by the applicant is that the raised preliminary objection does not confirm to what is a preliminary objection thus 2ps. lacking the key elements thereto, quoting the holding from Mukisa Biscuits Manufacturing Co. Ltd Vs. West End Distributors Ltd (1969) E.A.C.A 696 and that the prayers are contained in the chamber summons, without a flicker of doubt this Court holds the preliminary objection raised qualifies to be so as defined in the said case. The applicant's affidavit in support
+    questions_and_answers:
+      - question: |
+          What is required by Rule 24(3) of the Labour Court Rules, Government Notice 106 of 2007?
+        answer: |
+          Rule 24(3) requires that an application be supported by an affidavit that clearly and concisely sets out the names, description, and address of the parties, a chronological statement of material facts, a statement of legal issues arising from those facts, and the reliefs sought.
+      - question: |
+          What is the applicant's contention regarding the preliminary objection raised?
+        answer: |
+          The applicant contends that the raised preliminary objection does not conform to the definition of a preliminary objection and lacks the necessary key elements.
+      - question: |
+          What legal case is referred to in relation to defining a preliminary objection?
+        answer: |
+          The case referred to is Mukisa Biscuits Manufacturing Co. Ltd Vs. West End Distributors Ltd (1969) E.A.C.A 696.
+      - question: |
+          What conclusion does the Court reach regarding the preliminary objection in this context?
+        answer: |
+          The Court concludes that the preliminary objection qualifies to be considered a preliminary objection as defined in the Mukisa Biscuits case.
+      - question: |
+          What does the applicant assert about the prayers contained in the chamber summons?
+        answer: |
+          The applicant asserts that the prayers are contained in the chamber summons without ambiguity.
+  - context: |
+      of the application does not meet the requirements of Rule 24(3)(c) &amp;(d) of 3ps. the Labour Court Rules, Government Notice No. 106 of 2007 as rightly argued by Learned Counsel for the respondent. 4ps. 1ps. facts; and ## (d) The reliefs sought [ Emphasis is mine]. The contention by the applicant is that the raised preliminary objection does not confirm to what is a preliminary objection thus lacking the key elements thereto, quoting the holding from Mukisa Biscuits Manufacturing Co. Ltd Vs. West End Distributors Ltd (1969) E.A.C.A 696 and that the prayers are contained in the chamber summons, without a flicker of doubt this Court holds the preliminary objection raised qualifies to be 2ps. so as defined in the said case. The raised point of objection is on a pure point of law as per requirement of the law above as well as case laws, particularly Mukisa Biscuits Manufacturing Co. Ltd Vs. West End Distributors Ltd, (1969) E.A.C.A 696, and the case of Karata Ernest and Others Vs. The Attorney General, Civil 3ps. Revision No. 10 of 2010,Court of Appeal of Tanzania at Dar Es salaam, [unreported] at pages 7 and 8, His Lordship Rutakangwa,JA [as he then was], in that case the Court of Appeal expounded in depth what is a preliminary objection. 5ps. 1ps. The applicant's affidavit in support of the application does not meet the requirements of Rule 24(3)(c) &amp;(d) of the Labour Court Rules, Government
+    questions_and_answers:
+      - question: |
+          What are Rule 24(3)(c) & (d) of the Labour Court Rules designed to address?
+        answer: |
+          Rule 24(3)(c) & (d) of the Labour Court Rules, Government Notice No. 106 of 2007, pertains to specific procedural requirements that applications must meet in legal proceedings before the Labour Court.
+      - question: |
+          What is the applicant’s contention regarding the raised preliminary objection?
+        answer: |
+          The applicant contends that the raised preliminary objection does not meet the criteria of a preliminary objection, as it lacks key defining elements outlined in case law such as Mukisa Biscuits Manufacturing Co. Ltd vs. West End Distributors Ltd (1969).
+      - question: |
+          What case laws were cited to define a preliminary objection?
+        answer: |
+          The case laws cited to define a preliminary objection include Mukisa Biscuits Manufacturing Co. Ltd vs. West End Distributors Ltd (1969) E.A.C.A 696 and Karata Ernest and Others vs. The Attorney General, Civil Revision No. 10 of 2010.
+      - question: |
+          What was the Court’s decision on whether the raised preliminary objection qualifies as one?
+        answer: |
+          The Court held that the preliminary objection raised qualifies as a pure point of law as required by law and as defined in the cases Mukisa Biscuits Manufacturing Co. Ltd vs. West End Distributors Ltd and Karata Ernest vs. The Attorney General.
+      - question: |
+          Why does the applicant’s affidavit fail to meet the procedural rules of Rule 24(3)(c) & (d)?
+        answer: |
+          The applicant's affidavit in support of the application does not meet the requirements of Rule 24(3)(c) & (d) of the Labour Court Rules, although specific details about the deficiencies are not provided in the context.
+  - context: |
+      lacks merit. 4ps. 1ps. That the said provision of Rule 24 (3) amongst others requires the affidavit in support of the application to contain legal issues and reliefs pertaining to the application at hand and the affidavit in support of the application is defective and the application is incompetent before the Court fit for being struck out. He finally argued that the preliminary objection thereto has 2ps. failed to show the defectiveness of the affidavit hence the same lacks merit. He referred the Court to the case of Mukisa Biscuits Manufacturing Co. Ltd Vs West End Distributors Ltd (1969) E.A.C.A 696 on the preliminary objection that:- "so far as I am aware ; a preliminary objection is in the nature of what used to be a demurrer. It raises pure point of law 3ps. which when is argued on the assumption that aii facts pleaded by other aside are correct If cannot be raised if any fact has to be ascertained or if what is sought is exercise of judicial discretion ." 5ps. 1ps. He finally argued that the preliminary objection thereto has failed to show the defectiveness of the affidavit hence the same lacks merit. He referred the Court to the case of Mukisa Biscuits Manufacturing Co. Ltd Vs West End Distributors Ltd (1969) E.A.C.A 696 on the preliminary objection that:- "so far as I am aware ; a preliminary objection is in the nature of what used 2ps.
+    questions_and_answers:
+      - question: |
+          What does Rule 24 (3) require in relation to affidavits for applications?
+        answer: |
+          Rule 24 (3) requires the affidavit in support of an application to contain legal issues and reliefs specifically pertaining to the application at hand.
+      - question: |
+          What was argued about the competency of the application before the Court?
+        answer: |
+          It was argued that the affidavit in support of the application was defective, rendering the application incompetent and fit to be struck out.
+      - question: |
+          What precedent case was referred to regarding preliminary objections?
+        answer: |
+          The Court was referred to the case of Mukisa Biscuits Manufacturing Co. Ltd Vs West End Distributors Ltd (1969) E.A.C.A 696.
+      - question: |
+          How is a preliminary objection described according to the Mukisa Biscuits case?
+        answer: |
+          A preliminary objection is described as being akin to a demurrer, raising a pure point of law that assumes all facts pleaded by the other side are correct.
+      - question: |
+          Why was the preliminary objection argued to lack merit in this case?
+        answer: |
+          The preliminary objection was argued to lack merit because it failed to demonstrate the defectiveness of the affidavit in support of the application.
+  - context: |
+      the applicant but the same has not been adhered to hence the same is incurably defective. That the said provision of Rule 24 (3) amongst others requires the affidavit in support of the application 3ps. to contain legal issues and reliefs pertaining to the application at hand and the affidavit in support of the application is defective and the application is incompetent before the Court fit for being struck out. 3ps. 1ps. The point of the preliminary objection is that the affidavit in support of the application deponed by the applicant himself does not disclose legal issues that arise from the material facts and reliefs sought as per Rule 24(3)(c) and (d) of the Labour Court Rules, GN 106 of 2007. That the affidavit in support of the application does not meet 2ps. the requirements of the law above whereas the requirements must be complied with by the applicant but the same has not been adhered to hence the same is incurably defective. In response applicant submitted that the reliefs in the affidavit are sought in the chamber summons and therefore are the prayers made in the 3ps. application and went on to submit on the merits of the application on the finding of Hon.Arbitrator which is the gist of the application at hand and has not been heard yet. He finally argued that the preliminary objection thereto has failed to show the defectiveness of the affidavit hence the same
+    questions_and_answers:
+      - question: |
+          What does Rule 24(3) of the Labour Court Rules, GN 106 of 2007, require regarding affidavits?
+        answer: |
+          Rule 24(3) requires the affidavit in support of an application to include legal issues and reliefs pertaining to the application at hand.
+      - question: |
+          Why was the affidavit in support of the application considered defective?
+        answer: |
+          The affidavit was considered defective because it did not disclose legal issues arising from the material facts and the reliefs sought, as required by Rule 24(3)(c) and (d) of the Labour Court Rules, GN 106 of 2007.
+      - question: |
+          What was argued in response to the preliminary objection regarding the affidavit's defectiveness?
+        answer: |
+          The applicant argued that the reliefs in the affidavit are sought in the chamber summons and are therefore part of the prayers made in the application, which has not been heard yet.
+      - question: |
+          What was the preliminary objection regarding the affidavit's compliance with the rules focused on?
+        answer: |
+          The preliminary objection focused on the claim that the affidavit in support of the application failed to meet the requirements of Rule 24(3)(c) and (d), rendering it incurably defective and the application inadmissible.
+      - question: |
+          What did the applicant claim about the validity of the preliminary objection?
+        answer: |
+          The applicant claimed that the preliminary objection failed to demonstrate the defectiveness of the affidavit and argued that the objection was invalid.
+document_outline: |
+  ### Document Outline
+  This document details a ruling from the High Court of Tanzania, Labour Division, regarding a preliminary objection raised by the Tanzania Revenue Authority against an application for revision filed by Mbonipa Kasase. The objection asserts that the applicant's affidavit violates Rule 24(3)(c) and (d) of the Labour Court Rules, GN No. 106 of 2007, making the application legally defective, with both parties submitting arguments for and against the objection.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Mbonipa_Kasase_vs_Tanzania_Revenue_Authority_(Revision_No_422_of_2016)_2018_TZHCLD_35_(6_April_2018).md

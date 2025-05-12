@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. But, in the case of a transfer of funds from approved retirement funds to unapproved retirement funds; it is not considered retirement payment from the point of view of the approved retirement funds, but it is a part of taxable income of the unapproved retirement funds (Income Tax Act 2004, Regulation 11(2)). ## Diagram 1: Accounting of Pension Funds Transfer of Funds involving Approved retirement funds .the transfer is neither considered a retirement contribution nor a retirement payment Transfer of funds from approved .For approved fund: It is not considered retirement payment retirement 2ps. funds to unapproved .For unapproved fund: It is a part of taxable income retirement funds Transfer of funds from unapproved .For unapproved fund: It is not deductible i.e it is neither retirement funds to approved considered a retirement payment nor a contribution retirement funds .For the approved fund: it will be exempt in the recipients' 3ps. hands ## Example The following information relates to the financial data of Jack Pension fund, an approved pension fund for the year ending 2013. Determine the tax liabilities of the company for that year. 2ps. 1ps. However, in the case of a transfer of funds from unapproved retirement funds to approved retirement funds; the transfer is not deductible by the unapproved retirement fund and it is neither considered a retirement payment nor a contribution (Income Tax Act 2004, Regulation 11(3)). Yet, when the transfer of funds involves unapproved retirement funds, the transfer is not considered a retirement payment and the transfer will be exempt in the recipients' hands but not deductible by the payers (Income Tax Act 2004, Regulation 11(1)). | 2ps.
+    questions_and_answers:
+      - question: |
+          What is the tax treatment of a transfer of funds from approved retirement funds to unapproved retirement funds?
+        answer: |
+          Such a transfer is not considered a retirement payment by the approved funds but is classified as taxable income for the unapproved retirement funds, as per Income Tax Act 2004, Regulation 11(2).
+      - question: |
+          How is a transfer of funds from unapproved retirement funds to approved retirement funds treated for tax purposes?
+        answer: |
+          This transfer is not deductible by the unapproved retirement fund, is not considered a retirement payment nor a contribution, and is exempt in the hands of the recipient, according to Income Tax Act 2004, Regulation 11(3).
+      - question: |
+          When funds are transferred between approved retirement funds, is the transaction considered a retirement contribution or payment?
+        answer: |
+          No, such a transfer is neither considered a retirement contribution nor a retirement payment under the accounting rules for pension fund transfers.
+      - question: |
+          What is the tax treatment for unapproved retirement funds transferring to approved retirement funds in terms of exemptions?
+        answer: |
+          The transfer is exempt in the hands of the recipient (approved fund) but not deductible by the unapproved retirement fund, as specified in Income Tax Act 2004, Regulation 11(1).
+      - question: |
+          What financial information must be analyzed to determine the tax liabilities of a pension fund like Jack Pension Fund?
+        answer: |
+          The financial data for the specific year must be assessed, including whether the fund is approved or unapproved, and the nature of any fund transfers affecting taxable income or exemptions, as guided by relevant tax laws and regulations.
+  - context: |
+      1ps. 1ps. However, expenses incurred on the acquisition of the site of such deposits, or of the site of any such buildings, work, or of right in or over any such site, works constructed wholly or mainly for subjecting raw produce of such deposits to any process except a process designed for preparing the raw product for use as such are not deductible (Section 16 (1) ITA 1973). ## Example The following is the financial information of Walaa Mining Company for the year ending 2012. Calculate the taxable income and liability of the company for the year ending 2012. | Items 2ps. | Mining areas | Mining areas | | |-------------------------------------------------------|----------------|----------------|-------------| | 3ps. | ZZ-Mining Tshs | KK-Mining Tshs | Totals Tshs | | Sales | 60,000,000 | 26,000,000 | 86,000,000 | | Less: Expenses 4ps. | | | | | Depreciation, depletion and amortization (Note 1) | 27,000,000 5ps. | 10,000,000 | 37,000,000 | | General exploration and business development (Note 2) | 10,000,000 | 8,000,000 | 18,000,000 | | Finance costs | 2,000,000 | 1,000,000 | 3,000,000 | | Administrative expenses 6ps. | 10,000,000 | 8,000,000 | 18,000,000 | | Income before tax | 11,000,000 | (1,000,000) | 10,000,000 | | Income 7ps. tax expenses | 3,300,000 | - | 3,000,000 | | Net earnings 8ps. | 7,700,000 | (1,000,000) | 700,000 | ## Notes: - 1. The depreciation, depletion and amortization costs are based on the accounting policy of the company, while the depreciation allowances given by the ITA 2004 schedule were Tshs18,000,000 and Tshs11,000,000 for ZZ-mining and KK-Mining respectively. 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What types of expenses are not deductible according to Section 16(1) of the ITA 1973?
+        answer: |
+          Expenses incurred on the acquisition of sites for deposits, buildings, or rights over such sites, as well as works constructed to subject raw produce to processing (other than for preparing raw products for use as such) are not deductible.
+      - question: |
+          What was the total revenue reported by Walaa Mining Company for the year ending 2012, and how was it divided between ZZ-Mining and KK-Mining?
+        answer: |
+          The total revenue was Tshs 86,000,000, with Tshs 60,000,000 from ZZ-Mining and Tshs 26,000,000 from KK-Mining.
+      - question: |
+          How were the depreciation allowances under ITA 2004 different from the company's reported depreciation, depletion, and amortization costs?
+        answer: |
+          Under ITA 2004, the depreciation allowances were Tshs 18,000,000 for ZZ-Mining and Tshs 11,000,000 for KK-Mining, which are lower than the company's reported costs of Tshs 27,000,000 and Tshs 10,000,000, respectively.
+      - question: |
+          What were the general exploration and business development expenses for each mining area in 2012?
+        answer: |
+          The general exploration and business development expenses were Tshs 10,000,000 for ZZ-Mining and Tshs 8,000,000 for KK-Mining.
+      - question: |
+          What was Walaa Mining Company's income before tax and net earnings for the year 2012?
+        answer: |
+          The income before tax was Tshs 11,000,000 for ZZ-Mining and a loss of Tshs 1,000,000 for KK-Mining, resulting in a combined total of Tshs 10,000,000. Net earnings were Tshs 7,700,000 for ZZ-Mining and a loss of Tshs 1,000,000 for KK-Mining, resulting in a combined total of Tshs 700,000.
+  - context: |
+      1ps. 1ps. Though banks are categorized as special entities, taxpayers who conduct banking businesses are taxed as other businesses. However, debt claim of a financial institution may become a bad debt, and is therefore deductible only after the debt claim has become a bad debt as determined in accordance with the relevant standards established by the Bank of Tanzania (Section 25(5)). As in other businesses, exempt income is not included, final withholding payments are excluded and only deductible expenses are deducted as discussed previously. In short, there is no difference between other businesses and banks, other than the sources of 2ps. income and types of expenses. For example, banks have interest as the main source of income while other businesses usually have sales the as main source of revenue. ' Banking businesses' means business of a financial institution approved under the Banking and Financial Institutions Act. ( Section 3) 'Financial institution' means a bank or financial institution approved under the Bank of Tanzania Act or the Banking and Financial Institutions Act. 2ps. 1ps. For example, banks have interest as the main source of income while other businesses usually have sales the as main source of revenue. ' Banking businesses' means business of a financial institution approved under the Banking and Financial Institutions Act. ( Section 3) 'Financial institution' means a bank or financial institution approved under the Bank of Tanzania Act or the Banking and Financial Institutions Act. (Section 3) Robots Bank Ltd is a resident company doing banking business in Tanzania. 3ps. 1ps. ' Banking businesses' means business of a financial institution approved under the Banking and Financial Institutions Act. ( Section 3) 'Financial institution' means a bank or financial institution approved under the Bank of Tanzania Act or the Banking and Financial Institutions Act.
+    questions_and_answers:
+      - question: |
+          How are taxpayers conducting banking businesses taxed under Tanzanian law?
+        answer: |
+          Taxpayers conducting banking businesses are taxed in the same way as other businesses, with no difference apart from their sources of income and types of expenses.
+      - question: |
+          Under what conditions can a financial institution's debt claim be considered a deductible bad debt?
+        answer: |
+          A debt claim of a financial institution may be considered deductible only after it has become a bad debt as determined in accordance with the standards established by the Bank of Tanzania (Section 25(5)).
+      - question: |
+          What is defined as a 'banking business' under the Banking and Financial Institutions Act?
+        answer: |
+          'Banking businesses' are defined as the business of a financial institution approved under the Banking and Financial Institutions Act (Section 3).
+      - question: |
+          What distinguishes banks from other businesses in terms of income sources?
+        answer: |
+          Banks primarily generate income from interest, while other businesses typically have sales as their main source of revenue.
+      - question: |
+          What does the term 'financial institution' encompass under Tanzanian banking law?
+        answer: |
+          'Financial institution' refers to a bank or financial institution approved under either the Bank of Tanzania Act or the Banking and Financial Institutions Act (Section 3).
+  - context: |
+      1ps. 1ps. ## Definition ' Retirement payment' means a payment, by way of a lump sum, pension or commuted pension, made by a person to an individual in the event of the individual's retirement or a relative of an individual in the event of the individual's death. (Section 3) There are some differences between approved pension funds and other businesses on how they compute their taxable revenues and deductible expenses. In the case of taxable revenue, retirement contributions received by a retirement fund are not taxable (Section 62(2)). On the other hand, retirement payments made by the fund are not deductible, and 2ps. are not included in the cost of any asset or liability of the fund (Section 62(2)). ## Example The following information relates to the financial data of Joseph Pension fund for the year ending 2012. Your duty is to determine the tax liabilities of the company for that year. 2ps. 1ps. In the case of taxable revenue, retirement contributions received by a retirement fund are not taxable (Section 62(2)). On the other hand, retirement payments made by the fund are not deductible, and are not included in the cost of any asset or liability of the fund (Section 62(2)). ## Example The following information relates to the financial data of Joseph Pension fund for the year ending 2012. Your duty is to determine the tax liabilities of the company for that year. | 2ps. | Tshs | |----------------------------------------|-----------| | Retirement contribution | 6,000,000 | | Investment income | 2,000,000 | | 3ps. | 8,000,000 | | Less: | | | Retirement payments | 1,000,000 | | Management expenses 4ps.
+    questions_and_answers:
+      - question: |
+          What is the definition of 'retirement payment' as per Section 3?
+        answer: |
+          'Retirement payment' refers to a lump sum, pension, or commuted pension made to an individual upon retirement or to a relative of the individual in the event of their death.
+      - question: |
+          Are retirement contributions received by a retirement fund taxable according to Section 62(2)?
+        answer: |
+          No, retirement contributions received by a retirement fund are not taxable according to Section 62(2).
+      - question: |
+          Can retirement payments made by the fund be deducted or included in the cost of the fund’s assets or liabilities under Section 62(2)?
+        answer: |
+          No, retirement payments made by the fund cannot be deducted and are not included in the cost of any asset or liability of the fund under Section 62(2).
+      - question: |
+          What is the taxable revenue of Joseph Pension Fund for the year 2012 based on the provided financial data?
+        answer: |
+          The taxable revenue of Joseph Pension Fund is Tshs 2,000,000, derived from investment income, as retirement contributions of Tshs 6,000,000 are not taxable.
+      - question: |
+          What is the amount of retirement payments made by Joseph Pension Fund for the year 2012?
+        answer: |
+          The amount of retirement payments made by Joseph Pension Fund for the year 2012 is Tshs 1,000,000.
+  - context: |
+      1ps. 1ps. ## TAXATION OF SPECIALISED INDUSTRIES Some businesses are taxed slightly differently from others. The industries of these businesses are generally called specialised industries. They include businesses in mining, insurance, banking and pension funds. This Study Guide discusses the computation of tax liability for these specialised industries. Excluding the provisions of The Income tax Act 2004 discussed in this Study Guide, the treatment of business income for all other entities remains the same. Knowledge obtained from this Study Guide will be useful to you when you are employed / act as a consultant for companies dealing in specialised business. 2ps. - a) Calculate tax liability for insurance businesses. - b) Calculate tax liability for banks. - c) Calculate tax liability for pension funds. - d) Calculate tax liability for mining companies. - 1. Calculate tax liability for insurance businesses. 2ps. 1ps. - c) Calculate tax liability for pension funds. - d) Calculate tax liability for mining companies. - 1. Calculate tax liability for insurance businesses. ## 1.1 Meanings 'Insurance business' means the business of an insurer in effecting, issuing and carrying out insurance (Section 3) 'Life insurance' means insurance of any of the following classes: - (a) Insurance where the specified event is the death of an individual who is the insured or an associate of the insured; - (b) Insurance where: - (i) the specified event is an individual who is the insured or an associate of the insured sustaining personal injury or becoming incapacitated; 2ps.
+    questions_and_answers:
+      - question: |
+          What industries are considered specialised industries for taxation purposes?
+        answer: |
+          Specialised industries include businesses involved in mining, insurance, banking, and pension funds.
+      - question: |
+          What is the primary focus of the Study Guide mentioned in the context?
+        answer: |
+          The Study Guide focuses on the computation of tax liability for specialised industries like insurance, banking, pension funds, and mining companies.
+      - question: |
+          How is life insurance defined under Section 3?
+        answer: |
+          Life insurance is defined as insurance where the specified event is the death, personal injury, or incapacitation of the insured or an associate of the insured.
+      - question: |
+          Does the income tax treatment for specialised industries differ from other entities?
+        answer: |
+          Yes, the treatment of income for specialised industries differs from other entities as specified by The Income Tax Act 2004 and this Study Guide.
+      - question: |
+          In what professional contexts might the knowledge from this Study Guide be useful?
+        answer: |
+          The knowledge from this Study Guide is useful for individuals employed by or acting as consultants for companies dealing with specialised businesses.
+document_outline: |
+  **Document Outline: Taxation of Specialised Industries**
+  This document provides a comprehensive guide to the taxation of specialised industries, including mining, insurance, banking, and pension funds. It outlines the computation of tax liabilities for these industries, with a focus on distinctions such as the separation of general and life insurance businesses, and provides detailed formulas and provisions from relevant legislation to support accurate tax calculations.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Taxation_of_Specialized_industries.md

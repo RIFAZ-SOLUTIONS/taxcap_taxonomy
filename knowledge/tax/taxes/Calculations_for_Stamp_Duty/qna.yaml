@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Transaction Details: Prime Properties Ltd. has purchased a commercial property in Dar es Salaam for TZS 600,000,000. The purchase involves the conveyance of property rights. Additionally, the company is transferring shares worth TZS 40,000,000 to a new investor to raise capital for future projects. ## Stamp Duty Calculation: ## 1. Property Conveyance (Commercial Property): - o Consideration/Value: TZS 600,000,000 ## o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS600,000,000×1%=TZS6,000,000\text{Stamp Duty} = TZS 600,000,000 \times 1\% = TZS 6,000,000Stamp Duty=TZS600,000,000×1%=TZS6,000,000 ## Stamp Duty for Commercial Property: TZS 6,000,000 ## 2. Share 2ps. Transfer: o Consideration/Value: TZS 40,000,000 o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS40,000,000×1%=TZS400,000\text{Stamp Duty} = TZS 40,000,000 \times 1\% = TZS 400,000Stamp Duty=TZS40,000,000×1%=TZS400,000 ## Stamp Duty for Share Transfer: TZS 400,000 ## Total Stamp Duty Payable: Total Stamp Duty=Stamp Duty for Commercial Property+Stamp Duty for Share Transfer\text {Total Stamp Duty} = \text{Stamp Duty for Commercial Property} + \text{Stamp Duty for Share Transfer}Total Stamp Duty=Stamp Duty for Commercial Property+Stamp Duty for Share Tr ansfer Total Stamp Duty=TZS6,000,000+TZS400,000=TZS6,400,000\text{Total Stamp Duty} = TZS 6,000,000 + TZS 400,000 = TZS 6,400,000Total Stamp Duty=TZS6,000,000+TZS400,000=TZS6,400,000 Summary: Prime Properties Ltd. will 3ps. need to pay a total of TZS 6,400,000 in stamp duty for the acquisition of the commercial property and the transfer of shares. 2ps. 1ps. The purchase involves the conveyance of property rights. Additionally, the company is transferring shares worth TZS 40,000,000 to a new investor to raise capital for future projects. This amount is calculated as 1% of the consideration for both the property and share transactions, in accordance with Tanzanian tax laws.
+    questions_and_answers:
+      - question: |
+          What is the total value of the commercial property purchased by Prime Properties Ltd. in Dar es Salaam?
+        answer: |
+          The total value of the commercial property purchased is TZS 600,000,000.
+      - question: |
+          What is the applicable stamp duty rate for both the property conveyance and share transfers?
+        answer: |
+          The applicable stamp duty rate for both the property conveyance and share transfers is 1%.
+      - question: |
+          How is the stamp duty for the commercial property conveyance calculated?
+        answer: |
+          The stamp duty for the commercial property conveyance is calculated as 1% of the property value: TZS 600,000,000 × 1% = TZS 6,000,000.
+      - question: |
+          How much is the stamp duty for the share transfer worth TZS 40,000,000?
+        answer: |
+          The stamp duty for the share transfer is TZS 40,000,000 × 1% = TZS 400,000.
+      - question: |
+          What is the total stamp duty payable by Prime Properties Ltd. for both transactions?
+        answer: |
+          The total stamp duty payable is TZS 6,000,000 (for property) + TZS 400,000 (for shares) = TZS 6,400,000.
+  - context: |
+      1ps. 1ps. Transaction Details: Entertainment Tanzania Ltd. has acquired a new theater building in Mwanza for TZS 350,000,000. The acquisition involves the conveyance of property rights. Additionally, the company is transferring shares worth TZS 20,000,000 to a new partner to support its expansion into new entertainment ventures. ## Stamp Duty Calculation: ## 1. Property Conveyance (Theater Building): - o Consideration/Value: TZS 350,000,000 - o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS350,000,000×1%=TZS3,500,000\text{Stamp Duty} = TZS 350,000,000 \times 1\% = TZS 3,500,000Stamp Duty=TZS350,000,000×1%=TZS3,500,000 Stamp Duty for Theater Building: ## TZS 3,500,000 ## 2. Share 2ps. Transfer: o Consideration/Value: TZS 20,000,000 o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS20,000,000×1%=TZS200,000\text{Stamp Duty} = TZS 20,000,000 \times 1\% = TZS 200,000Stamp Duty=TZS20,000,000×1%=TZS200,000 Stamp Duty for Share Transfer: TZS 200,000 ## Total Stamp Duty Payable: Total Stamp Duty=Stamp Duty for Theater Building+Stamp Duty for Share Transfer\text{Tot al Stamp Duty} = \text{Stamp Duty for Theater Building} + \text{Stamp Duty for Share Transfer}Total Stamp Duty=Stamp Duty for Theater Building+Stamp Duty for Share Transfe r Total Stamp Duty=TZS3,500,000+TZS200,000=TZS3,700,000\text{Total Stamp Duty} = TZS 3,500,000 + TZS 200,000 = TZS 3,700,000Total Stamp Duty=TZS3,500,000+TZS200,000=TZS3,700,000 Summary: Entertainment Tanzania Ltd. will need to 3ps. pay a total of TZS 3,700,000 in stamp duty for the acquisition of the theater building and the transfer of shares. 2ps. 1ps. The acquisition involves the conveyance of property rights. Additionally, the company is transferring shares worth TZS 20,000,000 to a new partner to support its expansion into new entertainment ventures. This amount is calculated as 1% of the consideration for both the property and share transactions, in accordance with Tanzanian tax laws.
+    questions_and_answers:
+      - question: |
+          What is the total purchase value Entertainment Tanzania Ltd. paid for the theater building in Mwanza?
+        answer: |
+          Entertainment Tanzania Ltd. paid TZS 350,000,000 for the theater building in Mwanza.
+      - question: |
+          At what rate is the stamp duty calculated for the property conveyance and share transfer?
+        answer: |
+          The stamp duty is calculated at a rate of 1% for both the property conveyance and share transfer.
+      - question: |
+          How much stamp duty is payable for the theater building conveyance?
+        answer: |
+          The stamp duty for the theater building conveyance is TZS 3,500,000.
+      - question: |
+          What is the value of shares transferred to the new partner, and why was this transfer done?
+        answer: |
+          Shares worth TZS 20,000,000 were transferred to a new partner to support Entertainment Tanzania Ltd.'s expansion into new entertainment ventures.
+      - question: |
+          What is the total stamp duty payable for both the theater building conveyance and share transfer?
+        answer: |
+          The total stamp duty payable is TZS 3,700,000.
+  - context: |
+      1ps. 1ps. The company is involved in producing consumer goods and recently expanded its operations. Transaction Details: Coastal Manufacturing Ltd. has acquired a new manufacturing plant located in Mtwara for TZS 300,000,000. Additionally, the company is transferring shares worth TZS 15,000,000 to a new investor to raise capital. ## Stamp Duty Calculation: ## 1. Property Conveyance (Manufacturing Plant): - o Consideration/Value: TZS 300,000,000 - o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS300,000,000×1%=TZS3,000,000\text{Stamp Duty} = TZS 300,000,000 \times 1\% = TZS 3,000,000Stamp Duty=TZS300,000,000×1%=TZS3,000,000 ## Stamp Duty for Manufacturing Plant: TZS 3,000,000 ## 2. 2ps. Share Transfer: o Consideration/Value: TZS 15,000,000 o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS15,000,000×1%=TZS150,000\text{Stamp Duty} = TZS 15,000,000 \times 1\% = TZS 150,000Stamp Duty=TZS15,000,000×1%=TZS150,000 ## Stamp Duty for Share Transfer: TZS 150,000 ## Total Stamp Duty Payable: Total Stamp Duty=Stamp Duty for Manufacturing Plant+Stamp Duty for Share Transfer\text {Total Stamp Duty} = \text{Stamp Duty for Manufacturing Plant} + \text{Stamp Duty for Share Transfer}Total Stamp Duty=Stamp Duty for Manufacturing Plant+Stamp Duty for Share Tra nsfer Total Stamp Duty=TZS3,000,000+TZS150,000=TZS3,150,000\text{Total Stamp Duty} - = TZS 3,000,000 + TZS 150,000 = TZS 3,150,000Total Stamp Duty=TZS3,000,000+TZS150,000=TZS3,150,000 Summary: Coastal Manufacturing Ltd. will 3ps. need to pay a total of TZS 3,150,000 in stamp duty for the acquisition of the manufacturing plant and the transfer of shares. 2ps. 1ps. Transaction Details: Coastal Manufacturing Ltd. has acquired a new manufacturing plant located in Mtwara for TZS 300,000,000. Additionally, the company is transferring shares worth TZS 15,000,000 to a new investor to raise capital.
+    questions_and_answers:
+      - question: |
+          What is the value of the manufacturing plant acquired by Coastal Manufacturing Ltd.?
+        answer: |
+          The manufacturing plant was acquired for TZS 300,000,000.
+      - question: |
+          What is the applicable stamp duty rate for both the manufacturing plant acquisition and the share transfer?
+        answer: |
+          The applicable stamp duty rate for both transactions is 1%.
+      - question: |
+          How much stamp duty is calculated for the manufacturing plant acquisition?
+        answer: |
+          The stamp duty for the manufacturing plant acquisition is TZS 3,000,000, calculated as TZS 300,000,000 × 1%.
+      - question: |
+          What is the total value of shares being transferred to the new investor, and how much stamp duty is associated with this transaction?
+        answer: |
+          Shares worth TZS 15,000,000 are being transferred, and the stamp duty for this transaction is TZS 150,000.
+      - question: |
+          What is the total stamp duty payable for both the acquisition of the manufacturing plant and the share transfer?
+        answer: |
+          The total stamp duty payable is TZS 3,150,000, which is the sum of TZS 3,000,000 for the manufacturing plant and TZS 150,000 for the share transfer.
+  - context: |
+      1ps. 1ps. The company provides cargo transportation and warehousing services across Tanzania. Transaction Details: AirLink Logistics Ltd. has leased a new warehousing facility in Kigoma for TZS 120,000,000 over a 10-year period. Additionally, the company has issued debentures worth TZS 40,000,000 to fund fleet expansion. ## Stamp Duty Calculation: 1. Lease Agreement (Warehousing Facility): o Total Rent Over Lease Term: TZS 120,000,000 o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Total Rent×Stamp Duty Rate\text{Stamp Duty} = \text{Total Rent} \times \text{Stamp Duty Rate}Stamp Duty=Total Rent×Stamp Duty Rate Stamp Duty=TZS120,000,000×1%=TZS1,200,000\text{Stamp Duty} = TZS 120,000,000 \times 1\% = TZS 1,200,000Stamp Duty=TZS120,000,000×1%=TZS1,200,000 Stamp Duty for Lease Agreement: TZS 1,200,000 ## 2. Debenture Issue: - 2ps. o - Consideration/Value: TZS 40,000,000 - o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS40,000,000×1%=TZS400,000\text{Stamp Duty} = TZS 40,000,000 \times 1\% = TZS 400,000Stamp Duty=TZS40,000,000×1%=TZS400,000 ## Stamp Duty for Debenture Issue: TZS 400,000 ## Total Stamp Duty Payable: Total Stamp Duty=Stamp Duty for Lease Agreement+Stamp Duty for Debenture Issue\text{T otal Stamp Duty} = \text{Stamp Duty for Lease Agreement} + \text{Stamp Duty for Debenture Issue}Total Stamp Duty=Stamp Duty for Lease Agreement+Stamp Duty for Debenture Issue Total Stamp Duty=TZS1,200,000+TZS400,000=TZS1,600,000\text{Total Stamp Duty} = TZS 1,200,000 + TZS 400,000 = TZS 1,600,000Total Stamp Duty=TZS1,200,000+TZS400,000=TZS1,600,000 Summary: AirLink Logistics Ltd. will need 3ps. to pay a total of TZS 1,600,000 in stamp duty for the lease of the warehousing facility and the issuance of debentures. 2ps. 1ps. Transaction Details: AirLink Logistics Ltd. has leased a new warehousing facility in Kigoma for TZS 120,000,000 over a 10-year period. Additionally, the company has issued debentures worth TZS 40,000,000 to fund fleet expansion.
+    questions_and_answers:
+      - question: |
+          What type of services does AirLink Logistics Ltd. provide?
+        answer: |
+          AirLink Logistics Ltd. provides cargo transportation and warehousing services across Tanzania.
+      - question: |
+          What is the total lease cost for the warehousing facility in Kigoma, and over what period?
+        answer: |
+          The total lease cost for the warehousing facility in Kigoma is TZS 120,000,000, and the lease period is 10 years.
+      - question: |
+          How much was the stamp duty calculated for the lease agreement, and what rate was applied?
+        answer: |
+          The stamp duty for the lease agreement was TZS 1,200,000, calculated using a 1% stamp duty rate on the total rent of TZS 120,000,000.
+      - question: |
+          What was the total consideration for the debenture issuance, and how much stamp duty was paid for it?
+        answer: |
+          The total consideration for the debenture issuance was TZS 40,000,000, and the stamp duty paid for it was TZS 400,000, calculated at a 1% stamp duty rate.
+      - question: |
+          What is the total stamp duty payable by AirLink Logistics Ltd. for both transactions?
+        answer: |
+          The total stamp duty payable by AirLink Logistics Ltd. for the lease agreement and the debenture issuance is TZS 1,600,000.
+  - context: |
+      1ps. 1ps. The acquisition includes the conveyance of property rights. Additionally, the company is transferring shares worth TZS 8,000,000 to a strategic partner. This amount is calculated as 1% of the consideration for both the property and share transactions, in line with Tanzanian tax laws. 4o mini next ChatGPT ## Scenario: Urban Builders Ltd. Company Overview: Urban Builders Ltd. operates in the Construction sector (F 41-43). The company specializes in residential and commercial building projects in major Tanzanian cities. Transaction Details: Urban Builders Ltd. has acquired a new construction site in Dodoma for TZS 250,000,000. This involves the conveyance 2ps. of property rights. Additionally, the company is entering into a lease agreement for office space for a period of 5 years, with a total lease amount of TZS 50,000,000. The company is also transferring debentures worth TZS 30,000,000 to secure financing for its new projects. 2ps. 1ps. This involves the conveyance of property rights. Additionally, the company is entering into a lease agreement for office space for a period of 5 years, with a total lease amount of TZS 50,000,000. The company is also transferring debentures worth TZS 30,000,000 to secure financing for its new projects. ## Stamp Duty Calculation: - 1. Property Conveyance (Construction Site): - o Consideration/Value: TZS 250,000,000 - o Applicable Stamp Duty Rate: 1% ## Calculation: Stamp Duty=Consideration×Stamp Duty Rate\text{Stamp Duty} = \text{Consideration} \times \text{Stamp Duty Rate}Stamp Duty=Consideration×Stamp Duty Rate Stamp Duty=TZS250,000,000×1%=TZS2,500,000\text{Stamp Duty} = TZS 250,000,000 \times 1\% = TZS 2,500,000Stamp Duty=TZS250,000,000×1%=TZS2,500,000 ## Stamp Duty for 2ps. Construction Site: TZS 2,500,000 - 2.
+    questions_and_answers:
+      - question: |
+          What is the total consideration for the construction site acquired by Urban Builders Ltd. in Dodoma?
+        answer: |
+          The total consideration for the construction site is TZS 250,000,000.
+      - question: |
+          What is the total lease amount for the office space agreement entered into by Urban Builders Ltd.?
+        answer: |
+          The total lease amount for the office space agreement is TZS 50,000,000.
+      - question: |
+          How much is the stamp duty for the conveyance of the property rights for the construction site, and how is it calculated?
+        answer: |
+          The stamp duty for the construction site conveyance is TZS 2,500,000, calculated as 1% of the consideration (TZS 250,000,000 × 1%).
+      - question: |
+          What is the value of the shares transferred by the company to a strategic partner, and what percentage does this represent?
+        answer: |
+          The company transferred shares worth TZS 8,000,000, which represents 1% of the consideration for the property and share transactions.
+      - question: |
+          What is the purpose of the TZS 30,000,000 debentures transferred by Urban Builders Ltd.?
+        answer: |
+          The debentures worth TZS 30,000,000 were transferred to secure financing for the company's new projects.
+document_outline: |
+  **Document Outline:**
+  The document provides an overview of stamp duty calculations for two business scenarios under Tanzanian tax laws. The first scenario outlines stamp duty for Agritech Solutions Ltd., involving land purchase and share transfer, with a total payable amount of TZS 1,600,000. The second scenario details stamp duty for Tanzanian Mining Co. Ltd., involving a mining concession purchase and debenture transfer, with calculations for each transaction provided comprehensively.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Calculations_for_Stamp_Duty.md

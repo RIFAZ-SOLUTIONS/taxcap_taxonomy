@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. Two, the appellant's obligation to withhold tax arises only when the insurance premium has a source in Tanzania. On the other hand, the respondent challenged the appeal. In that regard, Ms. Andrew submitted that, in terms of clause 4.5 of the MDA Agreement, the appellant was obliged to withhold tax from the payments made to third parties at the rate prevailing at 2ps. any point in time under the existing law. She so argued contending that the MDA was not intended to protect third parties because they are not privy to the MDA Agreement. As such, the appellant was obliged to withhold tax at the rate of 15 % from the payments in question and thus, the respondent was justified to demand from the appellant the withholding tax at the prescribed rate. As to whether or not services rendered to 3ps. the appellant were technical or managerial, Ms. Andrew argued this to be a factual issue which ought to have been raised and resolved conclusively before the Tribunal. 2ps. 1ps. She so argued contending that the MDA was not intended to protect third parties because they are not privy to the MDA Agreement. As such, the appellant was obliged to withhold tax at the rate of 15 % from the payments in question and thus, the respondent was justified to demand from the appellant the withholding tax at the prescribed rate. However, the appellant did not discharge that burden as required under section 18 2ps. (2) (b) of the Tax Revenue Appeals Act CAP 408 RE: 2002 (the TRAA).
+    questions_and_answers:
+      - question: |
+          Under what condition does the appellant's obligation to withhold tax arise in this case?
+        answer: |
+          The appellant is obligated to withhold tax only when the insurance premium has a source in Tanzania.
+      - question: |
+          What does clause 4.5 of the MDA Agreement state about withholding tax?
+        answer: |
+          Clause 4.5 of the MDA Agreement states that the appellant is obliged to withhold tax from payments made to third parties at the prevailing legal rate.
+      - question: |
+          Why did Ms. Andrew argue that the MDA Agreement does not protect third parties?
+        answer: |
+          Ms. Andrew argued that the MDA Agreement does not protect third parties because they are not privy to the agreement.
+      - question: |
+          What rate of withholding tax was the appellant obligated to apply, according to the respondent?
+        answer: |
+          The appellant was obligated to withhold tax at the rate of 15% from the payments in question.
+      - question: |
+          What burden did the appellant fail to discharge under section 18(2)(b) of the Tax Revenue Appeals Act CAP 408?
+        answer: |
+          The appellant failed to resolve conclusively whether the services rendered were technical or managerial, as required by section 18(2)(b) of the Tax Revenue Appeals Act CAP 408.
+  - context: |
+      1ps. 1ps. - 2. The Tax Revenue Appeals Tribunal erred in law in holding that the documents presented by the appellant do not clearly categorize the services rendered as technical or managerial. - 3. The Tax Revenue Appeals Tribunal erred in law in holding that the services for which withholding tax was remitted by the appellant cannot be termed as technical or managerial and that the applicable withholding tax rate for such services is 15%. At the hearing, the 2ps. appellant was represented by Messrs. Allan Nlawi Kileo, Wilson Kamugisha and Nobert Mwaifwani, learned counsel whereas the respondent had the services of Mr. Evarist Mashiba, learned Principal State Attorney, Ms. Consolatha Andrew, Ms. Juliana Ezekiel and Mr. Leyan Sabore, from the respondent's office. It is Ms. Andrew from TRA who addressed the Court. In addressing the 1s t ground of appeal, Mr. Kileo faulted the 3ps. Tribunal to have wrongly concluded that the appellant was not exempted from adverse changes in the law on the rate applicable on the tax to be withheld by the appellant when making payments to third parties. 2ps. 1ps. At the hearing, the appellant was represented by Messrs. Allan Nlawi Kileo, Wilson Kamugisha and Nobert Mwaifwani, learned counsel whereas the respondent had the services of Mr. Evarist Mashiba, learned Principal State Attorney, Ms. Consolatha Andrew, Ms. Juliana Ezekiel and Mr. Leyan Sabore, from the respondent's office. It is Ms. Andrew from TRA who addressed the Court. On this he contended that, 2ps. the appellant's obligation to withhold tax is regulated by section 34 (2) (e) of the Income Tax Act 1973 (the ITA 1973) and clauses 4 and 10 of the MDA Agreement. He argued this stance to be geared at stabilizing the tax regime for the entire lifespan of the mine until its closure.
+    questions_and_answers:
+      - question: |
+          What specific error in law did the Tax Revenue Appeals Tribunal make regarding the categorization of services rendered by the appellant?
+        answer: |
+          The Tribunal erred in holding that the documents presented by the appellant did not clearly categorize the services as technical or managerial.
+      - question: |
+          What withholding tax rate did the Tribunal determine was applicable to the services rendered by the appellant?
+        answer: |
+          The Tribunal determined that the withholding tax rate applicable to the services rendered by the appellant was 15%.
+      - question: |
+          Who represented the appellant and the respondent during the hearing?
+        answer: |
+          The appellant was represented by Messrs. Allan Nlawi Kileo, Wilson Kamugisha, and Nobert Mwaifwani, while the respondent was represented by Mr. Evarist Mashiba, Ms. Consolatha Andrew, Ms. Juliana Ezekiel, and Mr. Leyan Sabore.
+      - question: |
+          What legal provision did the appellant argue regulated its obligation to withhold tax?
+        answer: |
+          The appellant argued that its obligation to withhold tax was regulated by section 34 (2) (e) of the Income Tax Act 1973 and clauses 4 and 10 of the MDA Agreement.
+      - question: |
+          What did the appellant claim was the purpose of stabilizing the tax regime under the MDA Agreement?
+        answer: |
+          The appellant claimed that stabilizing the tax regime under the MDA Agreement was intended to apply for the entire lifespan of the mine until its closure.
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT DODOMA ## (CORAM: MUGASHA. J.A., NDIKA, J.A.. And LEVIRA, J.A.l CIVIL APPEAL NO. 9 OF 2019 GEITA GOLD MINING LIMITED....................................................APPELLANT ## VERSUS COMMISSIONER GENERAL TANZANIA, REVENUE AUTHORITY............................................................. RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Tribunal at Dar es Salaam (Twaib. Chairman.1 ) dated the 10th day of November, 2017 in Tax Appeal No. 10 of 2016 ## JUDGMENT OF THE COURT 3r d &amp; 10t h June, 2020 ## MUGASHA. J.A.: The appellant, Geita Gold Mining Limited (GGML) has lodged this appeal challenging the decision of 2ps. the Tax Revenue Appeals Tribunal (the Tribunal) which dismissed its appeal against the decision of the Tax Revenue Appeals Board (the Board), in favour of the respondent, the Commissioner General, Tanzania Revenue Authority the (CGTRA). The background underlying the present appeal is briefly as follows: The appellant is a Gold Mining Company dealing in mining industry in Geita region. 2ps. 1ps. J.A.: The appellant, Geita Gold Mining Limited (GGML) has lodged this appeal challenging the decision of the Tax Revenue Appeals Tribunal (the Tribunal) which dismissed its appeal against the decision of the Tax Revenue Appeals Board (the Board), in favour of the respondent, the Commissioner General, Tanzania Revenue Authority the (CGTRA). The background underlying the present appeal is briefly as follows: 2ps. The appellant is a Gold Mining Company dealing in mining industry in Geita region. On June 24th , 1999 the appellant through its shareholders entered into a Gold Mine Development Agreement (the MDA) with the Government of the United Republic of Tanzania pursuant to which the appellant was entitled to enjoy tax incentives stipulated therein. Between 2009 and 2011, the appellant claimed to have engaged various non-resident persons to perform technical services 3ps.
+    questions_and_answers:
+      - question: |
+          Who is the appellant in the Civil Appeal No. 9 of 2019?
+        answer: |
+          The appellant is Geita Gold Mining Limited (GGML).
+      - question: |
+          What is the primary subject of the dispute in the appeal?
+        answer: |
+          The dispute revolves around the decision of the Tax Revenue Appeals Tribunal, which dismissed Geita Gold Mining Limited's appeal against the decision of the Tax Revenue Appeals Board in favor of the Commissioner General, Tanzania Revenue Authority (CGTRA).
+      - question: |
+          What agreement did Geita Gold Mining Limited enter into on June 24, 1999, and with whom?
+        answer: |
+          On June 24, 1999, Geita Gold Mining Limited entered into a Gold Mine Development Agreement (the MDA) with the Government of the United Republic of Tanzania.
+      - question: |
+          What benefits was Geita Gold Mining Limited entitled to under the Gold Mine Development Agreement?
+        answer: |
+          Geita Gold Mining Limited was entitled to enjoy tax incentives stipulated in the Gold Mine Development Agreement.
+      - question: |
+          What specific activity did Geita Gold Mining Limited claim to have undertaken between 2009 and 2011?
+        answer: |
+          Between 2009 and 2011, Geita Gold Mining Limited claimed to have engaged various non-resident persons to perform technical services.
+  - context: |
+      1ps. 1ps. In our considered view, we are satisfied that the appellant cannot be affected in any way being an agent who withholds the requisite tax on behalf of the respondent. At this juncture, apart from agreeing with Ms. Andrew that the MDA Agreement was not intended to protect third parties, we also agree with the Tribunal which emphasized that withholding tax is never a burden to 2ps. the payee because the payer's obligation is to withhold tax and remit it to the tax authority. In this regard, since what was paid by the appellant to third parties for services supplied has a source in the United Republic, the appellant was obliged to withhold tax at the rate of 15% as prescribed by sections 83 (1) (b) and 69 (i) (i) of the ITA, 2004. 3ps. Sections 83 (1) (b) stipulates as follows: " Subject to subsection (2), a resident person who pays a service fee with a source in the United Republic of Tanzania to a non-resident shall withhold tax from the payment at the rate provided in paragraph 4 (e) of the First Schedule." 2ps. 1ps. At this juncture, apart from agreeing with Ms. Andrew that the MDA Agreement was not intended to protect third parties, we also agree with the Tribunal which emphasized that withholding tax is never a burden to the payee because the payer's obligation is to withhold tax and remit it to the tax authority. What constitutes payments that have a source in the United Republic of Tanzania in terms 2ps. of section 69 (i) (i) of the ITA are payments including service fees attributable to service rendered in the United Republic of Tanzania. See bp Tanzania vs the commissioner general of Tanzania revenue authority, Civil Appeal No.
+    questions_and_answers:
+      - question: |
+          What is the role of the appellant as an agent in terms of withholding tax?
+        answer: |
+          The appellant, as an agent, is responsible for withholding the requisite tax on behalf of the respondent and remitting it to the tax authority, as withholding tax is not considered a burden on the payee.
+      - question: |
+          What does the MDA Agreement clarify about third-party protection?
+        answer: |
+          The MDA Agreement explicitly states that it was not intended to protect third parties, as mentioned and agreed upon in the context.
+      - question: |
+          What is the withholding tax rate prescribed for payments to non-residents under the ITA, 2004?
+        answer: |
+          The withholding tax rate prescribed for payments to non-residents is 15%, as outlined in sections 83 (1) (b) and 69 (i) (i) of the ITA, 2004.
+      - question: |
+          According to section 83 (1) (b) of the ITA, when must a resident withhold tax?
+        answer: |
+          A resident must withhold tax when paying a service fee with a source in the United Republic of Tanzania to a non-resident, as stipulated in section 83 (1) (b).
+      - question: |
+          What constitutes a payment with a source in the United Republic of Tanzania, according to section 69 (i) (i) of the ITA?
+        answer: |
+          Payments with a source in the United Republic of Tanzania include service fees attributable to services rendered within the United Republic of Tanzania, as per section 69 (i) (i) of the ITA.
+  - context: |
+      1ps. 1ps. Besides, the existence of life insurance for the years of income falling under the scope of the audit in question rendered the claim unproven. On that account, such a claim being purely a factual issue cannot be raised at this stage because as earlier intimated, the Court on appeal in tax matters, it entertains only questions of law as stipulated by section 25 (2) of the 2ps. TRAA. Before giving our reasons, we borrow a leaf from a Book on the Law and Practice of Income Tax by Kanga, Palkhivala and Vyas Volume 1 ninth Edition which contains a collection of principles on tax cases based on Indian Tax Law discussing rules of construction of taxing statutes. 2ps. 1ps. On that account, such a claim being purely a factual issue cannot be raised at this stage because as earlier intimated, the Court on appeal in tax matters, it entertains only questions of law as stipulated by section 25 (2) of the TRAA. From page 26 to 27 of that Book the author among other things, states as follows: "A plethora of judgments of Supreme Court and various High Courts 2ps. have firmly laid down the rule that a provision for deduction, exemption or relief should be interpreted liberallyreasonably and in favour of the asessee, and it should be so construed as to effectuate the object of the legislature and not to defeat it... the interpretation should lead only to the logical end; it cannot go to the extent of reading something that is not stated in the provision. Full effect should be given to the language used in the provision... 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          Why was the claim related to life insurance considered unproven?
+        answer: |
+          The claim was considered unproven because life insurance existed for the years of income under audit, making it a purely factual issue that cannot be raised at the appeal stage where only questions of law are entertained under section 25 (2) of the TRAA.
+      - question: |
+          What type of issues does the Court entertain during appeals in tax matters?
+        answer: |
+          During tax appeals, the Court only entertains questions of law as stipulated by section 25 (2) of the TRAA, not factual issues.
+      - question: |
+          What principle about tax provisions is discussed in the referenced book by Kanga, Palkhivala, and Vyas?
+        answer: |
+          The book emphasizes that deductions, exemptions, or reliefs in taxing statutes should be interpreted liberally and reasonably in favor of the assessee, aiming to effectuate the legislature's intent rather than defeat it.
+      - question: |
+          What is the rule regarding the interpretation of taxing statutes highlighted by the judgments in the book?
+        answer: |
+          The rule is that taxing provisions should be interpreted to reflect their logical end as per their stated language without reading anything additional into the provision.
+      - question: |
+          What is the main source used in the text to explain principles of tax interpretation?
+        answer: |
+          The text references 'The Law and Practice of Income Tax' by Kanga, Palkhivala, and Vyas, Volume 1, ninth edition, particularly pages 26 to 27.
+document_outline: |
+  **Document Outline**:
+  This document presents the judgment of the Court of Appeal of Tanzania in Civil Appeal No. 9 of 2019 between Geita Gold Mining Limited (appellant) and the Commissioner General of the Tanzania Revenue Authority (respondent). The case arises from a dispute over the rate of withholding tax on payments for services provided between 2009 and 2011, with the appellant arguing a contractual tax rate of 3% as stipulated in its Mining Development Agreement, while the respondent insists on a statutory rate of 15%.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Geita_Gold_Mine_Ltd_vs_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_90_of_2019)_2020_TZCA_285_(10_June_2020).md

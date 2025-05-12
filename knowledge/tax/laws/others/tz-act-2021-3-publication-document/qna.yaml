@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. (d) When given for consideration and authorising the attorney to sell any immovable property. (e) In any other case. (f) Revocation of. Exemptions: Authorisation on a bank permitting one or more persons to conduct ordinary banking business on account of another or others or a resolution whereby an incorporated company or other body corporate authorises its director or directors, servant or servants similarly to conduct such business. | TShs. 2000/= TShs. 2000/= TShs. 2000/= TShs. 2000/= TShs. 2000/= TShs. 2000/= | 2021 | | Explanation. - For 2ps. the purposes of this Article two or more persons who are members of the same firm shall be deemed to be one person. 3ps. 4ps. 5ps. 6ps. | 7ps. | |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------| | 8ps. 47 | PROMISSORY NOTE. 9ps. 10ps. 11ps. 12ps. 13ps. | Nil 14ps. | | 48 | PROTEST OF 15ps. BILL OR NOTE, that is to say, any declaration in writing made by a Notary Public or other person lawfully acting as such, attestg the dishonour of a bill of exchange or promissory note. 2ps. 1ps. - For the purposes of this Article two or more persons who are members of the same firm shall be deemed to be one person. 2ps. 3ps. 4ps. 5ps. 6ps. | 7ps. | |----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------| | 47 | PROMISSORY NOTE. 8ps. 9ps. 10ps. 11ps. 12ps. 13ps. | Nil | | 48 14ps. | PROTEST OF BILL OR NOTE, that is to say, any declaration in writing made by a Notary Public or other person lawfully acting as such, attestg the dishonour of a bill of exchange or promissory note. 15ps. 16ps. 17ps. 18ps. | Nil 19ps.
+    questions_and_answers:
+      - question: |
+          What is the fee for authorising an attorney to sell any immovable property?
+        answer: |
+          The fee for authorising an attorney to sell any immovable property is TShs. 2000.
+      - question: |
+          What is exempted from the fee related to authorisations mentioned in the context?
+        answer: |
+          Exemptions include authorisation on a bank permitting one or more persons to conduct ordinary banking business on behalf of others or a resolution from an incorporated company authorising its directors or servants to conduct similar business.
+      - question: |
+          How are two or more persons in the same firm treated for the purposes of certain Articles?
+        answer: |
+          For the purposes of certain Articles, two or more persons who are members of the same firm are deemed to be one person.
+      - question: |
+          What is a protest of a bill or note as described in the context?
+        answer: |
+          A protest of a bill or note is a declaration in writing made by a Notary Public or another lawful person, attesting to the dishonour of a bill of exchange or promissory note.
+      - question: |
+          What is the fee specified for a promissory note in the context provided?
+        answer: |
+          The fee specified for a promissory note is Nil (no charge).
+  - context: |
+      1ps. 1ps. The principal Act is amended in section 22 by adding immediately after subsection (6) the following: '(7) A party to an appeal may, at any stage of the proceedings before the judgement is delivered by the Board or Tribunal as the case may be, apply for the appeal to be settled amicably through mediation. ## PART XXII ## AMENDMENT OF THE VALUE ADDED TAX ACT, (CAP. 148) 72. This part shall 2ps. be read as one with the Value Added Tax Act, hereinafter referred to as the 'principal Act'. 2ps. 1ps. - (8) For purposes of subsection (7), the Board or Tribunal shall- - (a) require the parties to report the outcome of the mediation within a specified time and the Board or Tribunal shall issue a final order with respect to such mediation; - (b) issue the final order upon submission of a written settlement agreement duly signed by both parties; and - (c) not entertain an issue which has been settled amicably by parties under this section.'. ## PART XXII ## AMENDMENT OF THE VALUE ADDED TAX ACT, (CAP. - 2ps. 73. The principal Act is amended in section 3, by- - (a) designating the content of section 3 as subsection (1); and - (b) adding immediately after subsection (1) as designated the following: '(2) Where in respect of any taxable supply of goods, the tax has been paid in Tanzania Zanzibar pursuant to the law for the time being in force in Tanzania Zanzibar, at the same rate as the rate applicable in Mainland Tanzania, the tax shall be deemed to 3ps. have been paid on the taxable supply in accordance with the provisions of this Act and no tax shall be payable on its transfer to Mainland Tanzania. 3ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What provision has been added to section 22 of the principal Act regarding appeals?
+        answer: |
+          Section 22 now includes a subsection (7), which allows parties to an appeal to apply for the appeal to be settled amicably through mediation at any stage before a judgment is delivered by the Board or Tribunal.
+      - question: |
+          What responsibilities does the Board or Tribunal have under subsection (8) regarding mediation outcomes?
+        answer: |
+          Under subsection (8), the Board or Tribunal must require the parties to report the mediation outcome within a specified time, issue a final order based on a written settlement agreement signed by both parties, and refrain from entertaining issues already settled amicably.
+      - question: |
+          How has section 3 of the Value Added Tax Act been amended?
+        answer: |
+          Section 3 has been amended by designating its previous content as subsection (1) and by adding a new subsection (2) addressing tax treatment for taxable supplies between Tanzania Zanzibar and Mainland Tanzania.
+      - question: |
+          What does subsection (2) of section 3 state about tax on supplies transferred between Tanzania Zanzibar and Mainland Tanzania?
+        answer: |
+          Subsection (2) states that if tax has been paid in Tanzania Zanzibar at the same rate as in Mainland Tanzania, it will be deemed as paid under the Act, and no additional tax will be payable upon transfer to Mainland Tanzania.
+      - question: |
+          What is the primary focus of the amendment described under PART XXII for the Value Added Tax Act?
+        answer: |
+          The primary focus is to harmonize tax treatment for taxable supplies between Tanzania Zanzibar and Mainland Tanzania, ensuring no double taxation occurs if tax has already been paid in Zanzibar at the same rate.
+  - context: |
+      1ps. 1ps. 3,655.05 per litre | Tshs. 4,386.0 6 per litre | ' ' | Heading | H.S. Code No. | Description | Unit | Old 2ps. Rate | New Rate | |-----------|-----------------|------------------------------------------------------------------------------------|--------|------------|------------| | 55.11 | | Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale. | | | | |------------|---------------------------------------------------------------------------------------|----|-----|-----| | | - Of sisal or other textile fibres of the genus 3ps. Agave: | | | | | 5607.21.00 | -- Binder or baler twine 4ps. | kg | | | | | Locally manufactured 5ps. | | N/A | 10% | | | Imported 6ps. | | N/A | 10% | | 5607.29.00 | -- Other | kg | 7ps. | | | | Locally manufactured | | N/A | 10% | | 8ps. | Imported | | N/A | 10% | | 9ps. | - Of polyethylene or polypropylene: | | | | | 5607.41.00 | -- Binder or baler twine 10ps. | kg | | | | | Locally manufactured 11ps. | | N/A | 10% | | | Imported 12ps. | | N/A | 10% | | 5607.49.00 | -- Other 13ps. | kg | | | | | Locally manufactured 14ps. | | N/A | 10% | | | Imported 15ps. | | N/A | 10% | | 5607.50.00 | - Of other synthetic fibres (except fishing twine or for manufacture of fishing nets) | kg | | | | | Locally manufactured 16ps. | | N/A | 10% | | | Imported 17ps. | | N/A | 10% | | 5607.90.00 | - Other 18ps. | kg | | | | | Locally manufactured 19ps. | | N/A | 10% | | | Imported 20ps.
+    questions_and_answers:
+      - question: |
+          What is the specified heading and description under H.S. Code 55.11?
+        answer: |
+          The heading under H.S. Code 55.11 refers to 'Yarn (other than sewing thread) of man-made staple fibres, put up for retail sale.'
+      - question: |
+          What is the tax rate for locally manufactured binder or baler twine under H.S. Code 5607.21.00?
+        answer: |
+          The tax rate for locally manufactured binder or baler twine under H.S. Code 5607.21.00 is 10%.
+      - question: |
+          Are the tax rates for imported and locally manufactured binder or baler twine under H.S. Code 5607.41.00 the same?
+        answer: |
+          Yes, the tax rate for both imported and locally manufactured binder or baler twine under H.S. Code 5607.41.00 is 10%.
+      - question: |
+          Which H.S. Code refers to 'Other synthetic fibres (except fishing twine or for manufacture of fishing nets)'?
+        answer: |
+          H.S. Code 5607.50.00 refers to 'Other synthetic fibres (except fishing twine or for manufacture of fishing nets).'
+      - question: |
+          What is the tax rate for imported products classified under H.S. Code 5607.90.00?
+        answer: |
+          The tax rate for imported products classified under H.S. Code 5607.90.00 is 10%.
+  - context: |
+      1ps. 1ps. The principal Act is amended in section 7 by adding immediately after subsection (1) the followimg: - '(2) Notwithstanding the provisions of this section, the Board shall not impose retention fee or any other fee, charges, penalty or payments on repayment of Construction Cap. 332 Amendment of section 3 Amendment of section 10 2021 loan owed by former student loan beneficiary without approval of the Minister in consultation with Minister responsible for finance.' ## AMENDMENT OF THE INCOME TAX ACT, ## PART VIII (CAP. 2ps. - 20. The principal Act is amended in section 3 in the definition of the term 'permanent establishment' by adding a proviso immediately after paragraph (a) as follows: - 'Provided that, where an agent other than an independent agent is acting on behalf of another person, that other person shall be deemed to have a permanent establishment if- - (i) the agent other than independent 3ps. agent has and habitually exercises authority to - (ii) conclude contracts or issues invoice on behalf of that other person, unless his activities are limited to the purchase of goods or merchandise for that other person; - (iii) the agent other than independent agent has no authority to conclude contracts, but habitually maintains stock of goods or merchandise from which he regularly delivers goods or merchandise on behalf of that other person; or - (iv) the agent other than independent agent habitually secures orders, wholly or 4ps. almost wholly for that other person or for the enterprise and other enterprises controlling, controlled by, or subject to the same common control, as that of that other person.' 21 . 2ps. 1ps.
+    questions_and_answers:
+      - question: |
+          What restriction does the amendment in section 7 place on the Board regarding former student loan beneficiaries?
+        answer: |
+          The Board cannot impose a retention fee, penalty, or other charges on the repayment of loans owed by former student loan beneficiaries without the approval of the Minister in consultation with the Minister responsible for finance.
+      - question: |
+          What is the definition of 'permanent establishment' affected by the amendment in Part VIII, section 3?
+        answer: |
+          The amendment specifies that a person is deemed to have a 'permanent establishment' if a non-independent agent habitually exercises certain authorities, such as concluding contracts or issuing invoices, on behalf of another person.
+      - question: |
+          Under what conditions does the amendment consider an agent to establish a permanent establishment if they do not have authority to conclude contracts?
+        answer: |
+          An agent who does not have authority to conclude contracts is deemed to establish a permanent establishment if they habitually maintain stock of goods and deliver them on behalf of another person.
+      - question: |
+          How does the amendment address agents who habitually secure orders for another person or enterprise?
+        answer: |
+          Such agents are deemed to establish a permanent establishment if they habitually secure orders wholly or almost wholly for another person or enterprises under the same common control as that person.
+      - question: |
+          What activities of agents are excluded from establishing a permanent establishment under the specified amendment?
+        answer: |
+          Agents whose activities are limited to the purchase of goods or merchandise for another person are excluded from establishing a permanent establishment.
+  - context: |
+      1ps. 1ps. 100,000, then 1 percent for value in excess of TShs. 100,000/= | 2021 | | 500/=, under the provisions of section 6 of this Act: And provided also that the duty on a conveyance by the liquidator of a company in liquidation of property forming part of the assets of the company to a shareholder in the course of the dissolution of the company shall be TShs. This exemption shall be limited to construction of transport infrastructures and utilities | TShs.500/= 2ps. | |----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------| | 23 | COPY OF EXTRACT certified to be a true copy or extract by or by order of any public officer: (a) If the original was not chargeable with duty or if the duty with which it was chargeable does not exceed TShs. 1,000/=. (b) In any other case. Exemptions: (a) Copy of any paper which a public officer is expressly required by law to make or furnish for record purposes. 3ps. 4ps. 5ps. 6ps. 7ps. | TShs.2000/= TShs.2000/= | | 24 | court. 2ps. 1ps. (b) In any other case. Exemptions: (a) Copy of any paper which a public officer is expressly required by law to make or furnish for record purposes. 2ps. 3ps. 4ps. 5ps. | TShs.2000/= TShs.2000/= | | 24 | court. 6ps. COUNTERPART OR DUPLICATE of any instrument chargeable with duty and in respect of which the proper duty has been paid- (a) If the duty with which the original instrument is chargeable does not exceed TShs. 1,000/=. (b) In any other case. Exemptions: 7ps. 8ps. 9ps. 10ps. 11ps. 12ps. | TShs. 2000/= TShs. 2000/= | 2021 | | Land Registry, the Registry of Documents or the Mining Registry.
+    questions_and_answers:
+      - question: |
+          What is the duty charged on property conveyance by a liquidator in the dissolution of a company to a shareholder?
+        answer: |
+          The duty is TShs. 500/=. This amount is specified under section 6 of the Act.
+      - question: |
+          What is the exemption for transport infrastructure and utilities in terms of charges?
+        answer: |
+          The exemption is limited to the construction of transport infrastructures and utilities.
+      - question: |
+          What is the fee for a certified copy or extract if the original was not chargeable with duty or had a duty not exceeding TShs. 1,000/=?
+        answer: |
+          The fee is TShs. 2,000/=.
+      - question: |
+          What is the fee charged for a counterpart or duplicate of an instrument when the original duty is less than or equal to TShs. 1,000/=?
+        answer: |
+          The fee is TShs. 2,000/=.
+      - question: |
+          Which registries are mentioned in the context for recording relevant documents or instruments?
+        answer: |
+          The Land Registry, the Registry of Documents, and the Mining Registry are mentioned as relevant registries.
+document_outline: |
+  **Document Outline:**
+  The document is the "Finance Act, 2021" from the United Republic of Tanzania, signed into law on June 30, 2021, by President Samia Suluhu Hassan. It details amendments to various legislative acts to modify taxes, levies, fees, and revenue collection practices, organized into 23 parts addressing specific laws, including modifications to tax regulations, corporate policies, and administrative frameworks, with implementation effective July 1, 2021.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - tz-act-2021-3-publication-document.md

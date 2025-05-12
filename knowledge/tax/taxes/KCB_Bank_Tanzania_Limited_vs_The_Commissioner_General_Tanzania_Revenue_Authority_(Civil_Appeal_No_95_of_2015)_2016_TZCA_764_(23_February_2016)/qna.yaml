@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      1ps. 1ps. ## IN THE COURT OF APPEAL OF TANZANIA AT PAR ES SALAAM ## (CORAM: OTHMAN.CJ..MASSATIJ.A.. And MUGASHA. J.A..^ CIVIL APPEAL NO. 93 OF 2015 K.C.B. BANK TANZANIA LIMITED..................................... APPELLANT ## VERSUS THE COMMISSIONER GENERAL TANZANIA REVENUE AUTHORITY...................................................RESPONDENT (Appeal from the Judgment and Decree of the Tax Revenue Appeals Tribunal at Dar es Salaam) fHon. H. Mataka, Vice Chairman. Prof. J. Dorive. Member and Mr. W. Ndyetabula Member) Dated 16th day of April, 2015 in Respect of Tax Appeal No. 12 of 2014 ## ORDER OF THE COURT 16th &amp; 23r d February,2016 ## MASSATI, 3.A.: When the appeal came 2ps. up for hearing we had first to contend with a preliminary objection raised by the respondent, notice of which had been filed earlier on 11/2/2016. 2ps. 1ps. Prof. J. Dorive. Member and Mr. W. Ndyetabula Member) Dated 16th day of April, 2015 in Respect of Tax Appeal No. 12 of 2014 ## ORDER OF THE COURT 16th &amp; 23r d February,2016 ## MASSATI, 3.A.: When the appeal came up for hearing we had first to contend with a preliminary objection raised by the respondent, notice of which had been filed
+    questions_and_answers:
+      - question: |
+          What is the name of the appellant in Civil Appeal No. 93 of 2015?
+        answer: |
+          The appellant is K.C.B. Bank Tanzania Limited.
+      - question: |
+          Who is the respondent in the case?
+        answer: |
+          The respondent is the Commissioner General of the Tanzania Revenue Authority.
+      - question: |
+          What tribunal delivered the judgment being appealed?
+        answer: |
+          The judgment being appealed was delivered by the Tax Revenue Appeals Tribunal at Dar es Salaam.
+      - question: |
+          On what dates was the Order of the Court issued?
+        answer: |
+          The Order of the Court was issued on the 16th and 23rd of February, 2016.
+      - question: |
+          What was the preliminary action taken during the appeal hearing?
+        answer: |
+          A preliminary objection raised by the respondent, notice of which had been filed on 11th February, 2016, was addressed first.
+  - context: |
+      1ps. 1ps. This lofty legislative intention could hardly be achieved if the signal "Sgd" could be accepted to stand for the members' full signature. This is because such entries are vulnerable to abuse. That said, we agree with the learned counsel that the copy of the decision that appears in the record of appeal is not signed. In AMI PORT OPERATIONS (T) LIMITED vs THE COMMISSIONER FOR INCOME TAX Civil 2ps. Appeal No. 28 of 2009 (Dsm) (unreported) we held, that failure by the members to sign the copy of the decision renders it defective and this infects the record of appeal in terms of rule 24(3) of the Rules and rule 96 (2) (e) of the Court of Appeal Rules, 2009. A defective record of appeal cannot sustain an appeal in this Court. For the above reasons we agree that the appeal is incompetent. It is therefore struck out. We make no order as to costs. Order accordingly. 2ps. 1ps. It is therefore struck out. We make no order as to costs. Order accordingly. DATED at DAR ES SALAAM this 23r d day of February, 2016. ## M.C. OTHMAN CHIEF JUSTICE
+    questions_and_answers:
+      - question: |
+          Why can't the signal 'Sgd' be considered equivalent to the members' full signature?
+        answer: |
+          The signal 'Sgd' cannot be equated to the members' full signature because such entries are vulnerable to abuse and do not reflect the level of authenticity required for legislative purposes.
+      - question: |
+          What issue was identified with the copy of the decision in the record of appeal?
+        answer: |
+          The issue identified was that the copy of the decision in the record of appeal was not signed, which rendered it defective.
+      - question: |
+          What was the precedent cited regarding unsigned decisions in appeal records?
+        answer: |
+          The precedent cited was AMI PORT OPERATIONS (T) LIMITED vs THE COMMISSIONER FOR INCOME TAX, where the court held that failure by members to sign a copy of the decision renders it defective, thus affecting the record of appeal under rule 24(3) and rule 96(2)(e) of the Court of Appeal Rules, 2009.
+      - question: |
+          What consequence does a defective record of appeal have in court proceedings?
+        answer: |
+          A defective record of appeal cannot sustain an appeal in the court, rendering the appeal incompetent.
+      - question: |
+          What final decision was made regarding the appeal and the costs associated with it?
+        answer: |
+          The appeal was struck out due to incompetence, and no order was made as to costs.
+  - context: |
+      earlier on 11/2/2016. The preliminary objection was to the effect that: - " The appeal 2ps. is bad in law for failure to comply with the requirements under Rule 21 of the Tax Revenue Appeals Tribunals Rules, 2001 (GN 56 of 2001) which required signing and certification of the decision of the Tribunal to the made by all members who heard the appeal". At the hearing, Mr. Juma Beleko, learned counsel for the respondent, appeared to argue the objection. Mr. Audax Vedasto learned counsel holding 3ps. brief for Mr. Gaudias Ishengoma, learned counsel appeared for the appellant. Fortunately, Mr. Mr. Vedasto did not contest the preliminary objection. 3ps. 1ps. At the hearing, Mr. Juma Beleko, learned counsel for the respondent, appeared to argue the objection. Mr. Audax Vedasto learned counsel holding brief for Mr. Gaudias Ishengoma, learned counsel appeared for the appellant. Fortunately, Mr. Mr. Vedasto did not contest the preliminary objection. He readily conceded to it and prayed that the appeal being incompetent be struck out, with no order as to costs. On his part put Mr. 2ps. Beleko, agreed that the incompetent appeal be struck out with no order as
+    questions_and_answers:
+      - question: |
+          What was the basis of the preliminary objection raised in the appeal?
+        answer: |
+          The preliminary objection was that the appeal was bad in law for failing to comply with Rule 21 of the Tax Revenue Appeals Tribunals Rules, 2001, which requires the decision of the Tribunal to be signed and certified by all members who heard the appeal.
+      - question: |
+          Who appeared for the respondent to argue the preliminary objection?
+        answer: |
+          Mr. Juma Beleko, learned counsel for the respondent, appeared to argue the preliminary objection.
+      - question: |
+          Who represented the appellant during the hearing of the preliminary objection?
+        answer: |
+          Mr. Audax Vedasto, learned counsel holding brief for Mr. Gaudias Ishengoma, represented the appellant during the hearing.
+      - question: |
+          What was the stance of the appellant’s counsel on the preliminary objection?
+        answer: |
+          The appellant’s counsel, Mr. Audax Vedasto, did not contest the preliminary objection and conceded to it, praying for the appeal to be struck out without an order as to costs.
+      - question: |
+          What was the outcome of the preliminary objection in the hearing?
+        answer: |
+          The preliminary objection resulted in the appeal being declared incompetent and struck out with no order as to costs, as agreed by both parties.
+  - context: |
+      to costs. 4ps. 1ps. Fortunately, Mr. Mr. Vedasto did not contest the preliminary objection. He readily conceded to it and prayed that the appeal being incompetent be struck out, with no order as to costs. On his part put Mr. Beleko, agreed that the incompetent appeal be struck out with no order as to costs. Rule 21 of the Tax Revenue Appeals Tribunal, Rules, 2001 (the Rules) is worded as follows: " After conclusion of 2ps. the hearing of the evidence and submission of the parties the Tribunal shall, as soon as is practicable make a decision in the presence of the parties or their advocates or representatives and shall cause a copy duly signed and certified by the members of the Tribunal which heard the appeal to be served on each party to the proceedings" In this case, the decision of the tribunal 3ps. titled "Judgment" appears on pages 157 to 161 of the record. This is no doubt a copy of the decision. At page 161 beside each member's name the signal "Sgd" is indicated. 5ps. 1ps. This is no doubt a copy of the decision. At page 161 beside
+    questions_and_answers:
+      - question: |
+          What was Mr. Vedasto's stance on the preliminary objection?
+        answer: |
+          Mr. Vedasto did not contest the preliminary objection and conceded to it, praying that the incompetent appeal be struck out with no order as to costs.
+      - question: |
+          What does Rule 21 of the Tax Revenue Appeals Tribunal, Rules, 2001 require for tribunal decisions?
+        answer: |
+          Rule 21 requires the tribunal to make a decision as soon as practicable in the presence of the parties or their representatives and provide a signed and certified copy of the decision to each party.
+      - question: |
+          How did Mr. Beleko respond to the preliminary objection?
+        answer: |
+          Mr. Beleko agreed that the incompetent appeal be struck out with no order as to costs.
+      - question: |
+          Where can the tribunal's decision titled 'Judgment' be found in the record?
+        answer: |
+          The tribunal's decision titled 'Judgment' can be found on pages 157 to 161 of the record.
+      - question: |
+          How is the tribunal members' certification indicated in the decision?
+        answer: |
+          The certification by the tribunal members is indicated on page 161 of the decision, where the signal 'Sgd' appears beside each member's name.
+  - context: |
+      each member's name the signal "Sgd" is indicated. We do not think that the signal "Sgd" beside each member's name is sufficient evidence that the said members did sign at the end of the decision. We believe that the purpose of requiring the members in the tribunal to sign the decision is 2ps. not only to authenticate, but also for the said members to own the said decision. This lofty legislative intention could hardly be achieved if the signal "Sgd" could be accepted to stand for the members' full signature. This is because such entries are vulnerable to abuse. That said, we agree with the learned counsel that the copy of the decision that appears in the record of appeal is not 3ps. signed.
+    questions_and_answers:
+      - question: |
+          What does the signal 'Sgd' indicate in the context of the tribunal members' names?
+        answer: |
+          The signal 'Sgd' is meant to indicate that a member has signed the decision.
+      - question: |
+          Why is the signal 'Sgd' considered insufficient evidence of a signature?
+        answer: |
+          It is considered insufficient because it does not authenticate the decision or ensure that the members take ownership of it, as required by legislative intent.
+      - question: |
+          What are the two purposes of requiring tribunal members to sign a decision?
+        answer: |
+          The purposes are to authenticate the decision and to ensure that members take ownership of the decision.
+      - question: |
+          Why is the use of the signal 'Sgd' seen as problematic?
+        answer: |
+          It is seen as problematic because such entries are vulnerable to abuse.
+      - question: |
+          What conclusion was reached about the decision in the record of appeal?
+        answer: |
+          It was concluded that the copy of the decision in the record of appeal is not signed.
+document_outline: |
+  **Document Outline:**
+  This document is a legal ruling from the Court of Appeal of Tanzania in Civil Appeal No. 93 of 2015, where K.C.B. Bank Tanzania Limited (Appellant) appealed against the Commissioner General of the Tanzania Revenue Authority (Respondent). The Court upheld a preliminary objection raised by the respondent, ruling the appeal incompetent due to non-compliance with Rule 21 of the Tax Revenue Appeals Tribunal Rules, 2001, as the Tribunal's decision was not properly signed and certified. The appeal was struck out with no order as to costs.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - KCB_Bank_Tanzania_Limited_vs_The_Commissioner_General_Tanzania_Revenue_Authority_(Civil_Appeal_No_95_of_2015)_2016_TZCA_764_(23_February_2016).md

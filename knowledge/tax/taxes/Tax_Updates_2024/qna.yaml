@@ -1,0 +1,127 @@
+version: 3
+domain: tax
+created_by: RIFAZ-SOLUTIONS
+seed_examples:
+  - context: |
+      does not include this amendment. ## Reduced resident royalty withholding tax rate (5%) on payment to resident sport entity or Tanzania Football Federation (TFF) 'Royalty' 2ps. (as defined) broadly refers to payments related to intangible rights (for example, linked to intellectual property). Generally, a withholding tax of 15% applies on royalty payments (whether paid to residents or non-residents), but with a lower rate of 10% (since July 2022) on the use of a cinematography film, videotape, sound recording or any other medium. A further lower rate of 5% is introduced for any royalty payment to a resident sports entity or the TFF. 3ps. 1ps. ## Reduced resident royalty withholding tax rate (5%) on payment to resident sport entity or Tanzania Football Federation (TFF) 'Royalty' (as defined) broadly refers to payments related to intangible rights (for example, linked to intellectual property). Generally, a withholding tax of 15% applies on royalty payments (whether paid to residents or non-residents), but with a lower rate of 10% (since July 2022) on the use of a cinematography film, videotape, sound recording or any other medium. Contributions to the Consolidated Fund by public institutions - reversal of proposed deduction The Bill had proposed to treat as deductible expenditure the contributions made 2ps. by executive agencies, public authority or public institutions to the Consolidated Fund. The Act does not include this amendment. 'Digital content' is now defined as any electronic content that may be downloaded, streamed or
+    questions_and_answers:
+      - question: |
+          What is the general withholding tax rate on royalty payments?
+        answer: |
+          The general withholding tax rate on royalty payments is 15%, whether paid to residents or non-residents.
+      - question: |
+          What is the reduced withholding tax rate for royalties paid for the use of cinematography films, videotapes, or sound recordings?
+        answer: |
+          The reduced withholding tax rate for royalties paid for the use of cinematography films, videotapes, or sound recordings is 10%, applicable since July 2022.
+      - question: |
+          What is the new withholding tax rate for royalty payments to resident sports entities or the Tanzania Football Federation (TFF)?
+        answer: |
+          The new withholding tax rate for royalty payments to resident sports entities or the Tanzania Football Federation (TFF) is 5%.
+      - question: |
+          Was the proposed amendment to treat contributions to the Consolidated Fund by public institutions as deductible included in the Act?
+        answer: |
+          No, the Act does not include the proposed amendment to treat contributions to the Consolidated Fund by public institutions as deductible.
+      - question: |
+          How is 'digital content' defined in the context provided?
+        answer: |
+          Digital content is defined as any electronic content that may be downloaded or streamed.
+  - context: |
+      accessed in any other manner... which is not simultaneously broadcasted over any conventional radio or television network in the United Republic'. 4ps. 1ps. Contributions to the Consolidated Fund by public institutions - reversal of proposed deduction The Bill had proposed to treat as deductible expenditure the contributions made by executive agencies, public authority or public institutions to the Consolidated Fund. The Act does not include this amendment. 'Digital content' is now defined as any electronic content that may be downloaded, streamed or accessed in any other manner... which is not simultaneously broadcasted over any conventional radio or television network in the United Republic'. ' ## Excise duty New filing deadline - 25th day of following month The due date to file excise duty returns is 2ps. changed to the 25th day of the month following the month to which the return relates (from the last working day of the following month). 5ps. 1ps. The Act does not include this amendment. 'Digital content' is now defined as any electronic content that may be downloaded, streamed or accessed in any other manner... which is not simultaneously broadcasted over any conventional radio or television network in the United Republic'. ' ## Excise duty New filing deadline - 25th day of following month The due date to file excise duty returns is changed to the 25th day of the month following the month to which the return relates (from the last working day of
+    questions_and_answers:
+      - question: |
+          What is the definition of 'digital content' as provided in the text?
+        answer: |
+          'Digital content' is defined as any electronic content that may be downloaded, streamed, or accessed in any other manner, which is not simultaneously broadcasted over any conventional radio or television network in the United Republic.
+      - question: |
+          What was the proposed amendment regarding contributions to the Consolidated Fund?
+        answer: |
+          The proposed amendment suggested treating contributions made by executive agencies, public authorities, or public institutions to the Consolidated Fund as deductible expenditure.
+      - question: |
+          What is the status of the proposed amendment on treating contributions to the Consolidated Fund as deductible expenditure?
+        answer: |
+          The Act does not include the proposed amendment to treat contributions to the Consolidated Fund as deductible expenditure.
+      - question: |
+          What change has been made to the excise duty filing deadline?
+        answer: |
+          The filing deadline for excise duty returns has been changed to the 25th day of the month following the month to which the return relates, replacing the previous deadline of the last working day of the following month.
+      - question: |
+          Is the definition of 'digital content' tied to simultaneous broadcasting on radio or television networks?
+        answer: |
+          No, 'digital content' specifically excludes content that is simultaneously broadcasted over conventional radio or television networks in the United Republic.
+  - context: |
+      contributions to the Consolidated Fund by public institutions - · Withholding Tax - 5% final withholding tax on tour guiding services and 2% withholding tax on agricultural produces - · VAT - 30 days time limit for VAT refund payment - · Road 3ps. and Fuels Toll - TZS 382 per kg fuel levy on Compressed Natural Gas (CNG) used in motor vehicles Further revision - items in Finance Bill and amended in ## Finance Act - · EFD offence - reduction of maximum fine - · Out of Court Settlement timeline revised to 60 days - · Excise Duty Returns - revised due date of 25th day of following month. 3ps. 1ps. It summarises additional points arising from our review of the Finance Act 2024 ('the Act'), as released on 30 June 2024 (and made public on 1 July 2024). The amendments set out in the Act are effective from 1 July 2024 (unless specifically stated otherwise). - · Mining - requirement to set aside minerals, limited to gold. ## Income Tax Digital content - expanded definition The Act has expanded the definition of 'digital content' which was provided in the Bill to include examples of electronic content qualifying as digital content. 'Digital content' is now defined as (we have 2ps. highlighted the additions as compared to definition in the Bill) 'any electronic content that may be downloaded, streamed or accessed in any other manner, including e-books, magazines, news,
+    questions_and_answers:
+      - question: |
+          What are the withholding tax rates specified for tour guiding services and agricultural produces?
+        answer: |
+          The withholding tax is 5% for tour guiding services and 2% for agricultural produces.
+      - question: |
+          What is the time limit for VAT refund payments according to the context?
+        answer: |
+          The time limit for VAT refund payments is 30 days.
+      - question: |
+          What is the fuel levy imposed on Compressed Natural Gas (CNG) used in motor vehicles?
+        answer: |
+          The fuel levy imposed on Compressed Natural Gas (CNG) used in motor vehicles is TZS 382 per kilogram.
+      - question: |
+          What changes have been made to the timeline for Out of Court Settlements in the Finance Act 2024?
+        answer: |
+          The timeline for Out of Court Settlements has been revised to 60 days.
+      - question: |
+          How has the definition of 'digital content' been expanded in the Finance Act 2024?
+        answer: |
+          The definition of 'digital content' has been expanded to include any electronic content that may be downloaded, streamed, or accessed in any other manner, including e-books, magazines, and news.
+  - context: |
+      journals, periodical, database, music, movie, software, mobile phone applications, images, text, sound effects, website, webinar, webcast, which is not simultaneously broadcasted over any conventional radio or television network in the United Republic'. these digital contents will be subject Therefore, payments to creators of to 5% withholding tax. 4ps. 1ps. ## Income Tax Digital content - expanded definition The Act has expanded the definition of 'digital content' which was provided in the Bill to include examples of electronic content qualifying as digital content. these digital contents will be subject Therefore, payments to creators of to 5% withholding tax. ## Digital asset - withholding obligation on resident and nonresident withholder The Budget Speech announced the introduction of a 3% withholding tax obligation on digital asset platform owners in relation to payments to resident persons in respect of transfer of digital assets. Whilst the Budget Speech had stated that this withholding tax obligation 2ps. would apply to both resident and nonresident digital platforms owners, the Bill limited this obligation to non-residents only. The Act has extended the obligation to residents and therefore the provision applies to both residents and non-residents as proposed in the Budget Speech. 5ps. 1ps. ## Digital asset - withholding obligation on resident and nonresident withholder The Budget Speech announced the introduction of a 3% withholding tax obligation on digital asset platform owners in relation to payments to resident persons in respect of transfer of digital assets. Whilst the Budget
+    questions_and_answers:
+      - question: |
+          What types of digital content are mentioned in the expanded definition of 'digital content'?
+        answer: |
+          The expanded definition of 'digital content' includes journals, periodicals, databases, music, movies, software, mobile phone applications, images, text, sound effects, websites, webinars, and webcasts not simultaneously broadcasted over conventional radio or television networks in the United Republic.
+      - question: |
+          What is the withholding tax rate on payments to creators of digital content?
+        answer: |
+          Payments to creators of digital content are subject to a 5% withholding tax.
+      - question: |
+          What is the withholding tax obligation on digital asset platform owners as mentioned in the Act?
+        answer: |
+          The Act introduces a 3% withholding tax obligation on digital asset platform owners for payments to resident persons in respect of the transfer of digital assets.
+      - question: |
+          How does the Act differ from the Bill regarding withholding tax obligations for digital asset platform owners?
+        answer: |
+          While the Bill limited the 3% withholding tax obligation to non-resident digital platform owners, the Act extends this obligation to both resident and non-resident platform owners, aligning with the Budget Speech proposal.
+      - question: |
+          What clarification does the Act provide about webcasts in its definition of digital content?
+        answer: |
+          The Act clarifies that webcasts qualify as digital content only if they are not simultaneously broadcasted over conventional radio or television networks in the United Republic.
+  - context: |
+      1ps. 1ps. The Act has extended the obligation to residents and therefore the provision applies to both residents and non-residents as proposed in the Budget Speech. ## Agricultural produce - withholding obligation reversal Although the Bill had proposed a 2% final withholding tax on payments for purchase of agricultural, livestock, forestry or fishery products on supplies made by a resident intermediary person, this is not reflected in the Act and so no withholding tax will be applicable on such payments. This development mirrors past history. A similar change introduced in the Finance Act 2021 was subsequently repealed in October 2021 through 2ps. the Written Laws Miscellaneous Amendments (No.6) of 2021. ## Tour guiding services - reversal of proposed final withholding payment treatment The Bill had proposed to include tour guiding service and related services like porterage, chef services, or luggage carrying services under final withholding payments (subject to 5% resident withholding tax on professional services). The Act does not include this amendment. 2ps. 1ps. This development mirrors past history. A similar change introduced in the Finance Act 2021 was subsequently repealed in October 2021 through the Written Laws Miscellaneous Amendments (No.6) of 2021. ## Tour guiding services - reversal of proposed final withholding payment treatment The Bill had proposed to include tour guiding service and related services like porterage, chef services, or luggage carrying services under final withholding payments (subject to 5% resident withholding tax on professional services). The Act
+    questions_and_answers:
+      - question: |
+          What new tax obligation was extended to both residents and non-residents under the Act?
+        answer: |
+          The Act extended the tax obligation mentioned in the Budget Speech to apply to both residents and non-residents.
+      - question: |
+          What withholding tax proposal on agricultural products was excluded from the Act?
+        answer: |
+          The Act excluded the proposed 2% final withholding tax on payments for the purchase of agricultural, livestock, forestry, or fishery products handled by a resident intermediary.
+      - question: |
+          How does the exclusion of withholding tax on agricultural payments reflect past history?
+        answer: |
+          The exclusion mirrors the Finance Act 2021, where a similar withholding tax was introduced but later repealed in October 2021 through the Written Laws Miscellaneous Amendments (No.6) of 2021.
+      - question: |
+          What services were originally proposed to be included under final withholding payments in the Bill?
+        answer: |
+          The Bill proposed to include tour guiding, porterage, chef services, and luggage carrying services under final withholding payments, subject to a 5% resident withholding tax on professional services.
+      - question: |
+          What change regarding final withholding payment treatment for tour guiding services was made in the Act compared to the Bill?
+        answer: |
+          The Act does not include the amendment from the Bill that proposed a 5% withholding tax on tour guiding and related services.
+document_outline: |
+  **Document Outline:**
+  This newsletter provides an update on the 2024 Finance Act, summarizing key changes effective from July 1, 2024, unless otherwise noted. It highlights amendments not included in the original Finance Bill, reversals of proposals from the Bill, further revisions introduced in the Act, and expanded provisions for the taxation of digital content and digital assets. Other topics include updates on agricultural produce, tour guiding services, and industry-specific taxes.
+document:
+  repo: https://github.com/RIFAZ-SOLUTIONS/dataprepai.git
+  commit: 3e10cd8
+  patterns:
+    - Tax_Updates_2024.md
