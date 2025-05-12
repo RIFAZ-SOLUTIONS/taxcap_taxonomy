@@ -1,4 +1,0 @@
-Title of work: ITX245.02.E_-_Application_for_Registration.md
-Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
-License of the work: MIT
-Creator names: RIFAZ-SOLUTIONS

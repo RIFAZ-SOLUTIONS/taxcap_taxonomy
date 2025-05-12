@@ -1,4 +1,0 @@
-Title of work: Stamp_Duty_Act_amended_to_2019-01.md
-Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
-License of the work: MIT
-Creator names: RIFAZ-SOLUTIONS

@@ -1,4 +1,0 @@
-Title of work: EAC_Customs_2011_edited.md
-Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
-License of the work: MIT
-Creator names: RIFAZ-SOLUTIONS

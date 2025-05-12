@@ -1,4 +1,0 @@
-Title of work: Calculations_for_Corporate_Income_Tax.md
-Link to work: https://github.com/RIFAZ-SOLUTIONS/dataprepai
-License of the work: MIT
-Creator names: RIFAZ-SOLUTIONS
